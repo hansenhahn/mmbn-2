@@ -16,14 +16,14 @@ You won't make fun<LF>
 of me will you?<Button><EB>
 !*********************!
 <@PointerIdx3>
-<0xF3: 4 61 61 48 255><0xF3: 4 56 60 35 255><0xF3: 0 59 2 4 255><Char: 0 47><0xF1: 0><Char: 3 2><0x5f><0x60><0x61><0x5e><0x5d><0x5c><0x5b>?<Char: 3 0><Button><EB>
+<0xF3: 4 61 61 48 255><0xF3: 4 56 60 35 255><0xF3: 0 59 2 4 255><Char: 0 47><0xF1: 0><Char: 3 2>@<0x60><0x61><0x5e><0x5d><0x5c><0x5b>?<Char: 3 0><Button><EB>
 !*********************!
 <@PointerIdx4>
 <Char: 0 47><0xF1: 0>Having problems?<LF>
 I can help.<Button><EB>
 !*********************!
 <@PointerIdx5>
-<0xF3: 0 59 2 6 255><Char: 0 51><0xF1: 0><Char: 3 2><0x5f><0x60><0x61><0x5e><0x5d><0x5c><0x5b>!!<Char: 3 0><Button><EB>
+<0xF3: 0 59 2 6 255><Char: 0 51><0xF1: 0><Char: 3 2>@<0x60><0x61><0x5e><0x5d><0x5c><0x5b>!!<Char: 3 0><Button><EB>
 !*********************!
 <@PointerIdx6>
 <Char: 0 51><0xF1: 0>Ah I'm dead tired!!<LF>

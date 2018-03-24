@@ -57,7 +57,7 @@ sometimes visit too.<Button><EB>
 !*********************!
 <@PointerIdx21>
 <Char: 0 18><0xF1: 0>It is quite secluded<0xEA: 1 30 0><LF>
-about a 2 1<0x56>2 hour<LF>
+about a 2 1/2 hour<LF>
 commute.<Button><EB>
 !*********************!
 <@PointerIdx22>

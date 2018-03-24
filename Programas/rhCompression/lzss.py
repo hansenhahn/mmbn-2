@@ -1,5 +1,5 @@
-Ôªø#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python
+# -*- coding: windows-1252 -*-
 
 # compression/lzss.py
 
@@ -18,7 +18,7 @@
 # along with lazynds. If not, see <http://www.gnu.org/licenses/>.
 
 '''
-	Compress√£o LZSS
+	Compress„o LZSS
 
   r0   Source address, pointing to data as such:
 		Data header (32bit)
@@ -127,25 +127,25 @@ def compress(infile):
 			return buffer
 		for x in pattern:
 			uncoded_lookahead.insert(0, x)
-		#Adiciona o primeiro byte do padr√£o na janela deslizante
+		#Adiciona o primeiro byte do padr„o na janela deslizante
 		sliding_window.insert(0, pattern[0])
 		s_result = search(uncoded_lookahead, sliding_window)
-		if s_result == -1: #N√£o foi achado o padr√£o na janela
+		if s_result == -1: #N„o foi achado o padr„o na janela
 			infile.seek(-2, 1)
 			to_code_buffer.append(pattern[0])
 			uncoded_lookahead = array.array('c')
-		else: # Foi achado. Ser√° buscado na janela um padr√£o maior (de at√© 18 bytes de tamanho)
+		else: # Foi achado. Ser· buscado na janela um padr„o maior (de atÈ 18 bytes de tamanho)
 			settings = None
 			while True:
 				c = infile.read(1)
-				if not c: # Se n√£o houver mais bytes, adiciona os par√¢metros da busca anterior
+				if not c: # Se n„o houver mais bytes, adiciona os par‚metros da busca anterior
 					to_code_buffer.append(s_result)
 					buffer.extend(encode_buffer(to_code_buffer))
 					buffer.extend('\x00'*(len(buffer) % 4))
 					return buffer
 				uncoded_lookahead.insert(0, c)
 				sliding_window.insert(0, uncoded_lookahead[2])
-				settings = s_result # Guarda o resultado anterior em uma vari√°vel
+				settings = s_result # Guarda o resultado anterior em uma vari·vel
 				s_result = search(uncoded_lookahead, sliding_window)
 				if s_result == -1:
 					infile.seek(-1, 1)

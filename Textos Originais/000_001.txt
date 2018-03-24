@@ -143,7 +143,7 @@ not close!<Button><CR>
 !---------------------!
 It's the Toughest<LF>
 Railroad on<LF>
-Earth<0x57>tm<0x58>!<Button><EB>
+Earth(tm)!<Button><EB>
 !*********************!
 <@PointerIdx46>
 <Char: 0 20><0xF1: 0>It won't derail,<LF>
@@ -171,7 +171,7 @@ Metroline!<Button><CR>
 !---------------------!
 The Metroline--<LF>
 We're Always<LF>
-Going Places<0x57>tm<0x58>!<Button><EB>
+Going Places(tm)!<Button><EB>
 !*********************!
 <@PointerIdx52>
 <@PointerIdx53>
@@ -196,7 +196,7 @@ never happens again!<Button><CR>
 !---------------------!
 That's today's<LF>
 "Encouraging Phrase<LF>
-of the Day<0x57>tm<0x58>"...<Button><EB>
+of the Day(tm)"...<Button><EB>
 !*********************!
 <@PointerIdx57>
 <Char: 0 34><0xF1: 0>I'm not going<LF>

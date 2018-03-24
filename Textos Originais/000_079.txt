@@ -29,7 +29,7 @@ What am I?<Button><EB>
 !*********************!
 <@PointerIdx3>
 <Char: 0 70><0xF1: 0>According to my info<LF>
-red,yellow,<0x4d> blue<LF>
+red,yellow,& blue<LF>
 are somehow related.<Button><EB>
 !*********************!
 <@PointerIdx4>

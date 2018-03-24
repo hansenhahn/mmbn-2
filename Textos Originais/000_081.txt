@@ -33,14 +33,14 @@ FOX... something.<Button><EB>
 infiltrated spread<LF>
 grass all over.<Button><CR>
 !---------------------!
-When <0x64>Wood<0x65> element<LF>
+When [Wood] element<LF>
 viruses and Navis <LF>
 stand on grass,<Button><CR>
 !---------------------!
 they recover HPs.<Button><CR>
 !---------------------!
 Be careful if you<LF>
-fight <0x64>Wood<0x65> element<LF>
+fight [Wood] element<LF>
 enemies.<Button><EB>
 !*********************!
 <@PointerIdx7>

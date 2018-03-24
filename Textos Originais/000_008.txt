@@ -64,7 +64,7 @@ eh?<Button><CR>
 !---------------------!
 If it happens again,<LF>
 this time I'll<LF>
-be...?<Char: 3 0> <0x57>shiver!<0x58><Button><EB>
+be...?<Char: 3 0> (shiver!)<Button><EB>
 !*********************!
 <@PointerIdx46>
 <@PointerIdx47>

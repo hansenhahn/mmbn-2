@@ -416,7 +416,7 @@ sman means death.<Button><CR>
 !---------------------!
 I'm hurt,but since<LF>
 our Avatar's here,<LF>
-I'll help w<0x56>Thunder!<Button><CR>
+I'll help w/Thunder!<Button><CR>
 !---------------------!
 <Jmp: 0 17><@PointerIdx83>
 <@PointerIdx84>

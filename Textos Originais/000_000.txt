@@ -1323,9 +1323,9 @@ Thanks,Lan!<Button><EB>
 request...they sent<LF>
 you to help,eh?<Button><CR>
 !---------------------!
-<Char: 3 0><0x57>Wait a second...<LF>
+<Char: 3 0>(Wait a second...<LF>
 he might not notice<LF>
-a kid...<0x58><Button><CR>
+a kid...)<Button><CR>
 !---------------------!
 <Char: 3 1>OK,first,I want you<LF>
 to check out this<LF>

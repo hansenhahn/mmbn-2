@@ -973,7 +973,7 @@ use the folder!<Button><CR>
 Try this!<Button><CR>
 !---------------------!
 <Jmp: 0 170><@PointerIdx170>
-<0xF2: 0 184 0><0xF2: 4 180 0><Char: 1 241> <0xF8: 0><0xF8: 4 24><0xfb>P <0xfa> <0x85> Lan got:<LF>
+<0xF2: 0 184 0><0xF2: 4 180 0><Char: 1 241> <0xF8: 0><0xF8: 4 24><0xfb>P <0xfa> é Lan got:<LF>
 "Famous's Folder!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
 !---------------------!
 <Jmp: 0 179><EB>

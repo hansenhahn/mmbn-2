@@ -861,7 +861,7 @@ has ended.<Button><EB>
 !*********************!
 <@PointerIdx187>
 <Char: 0 71><0xF1: 0>My synchro rate with<LF>
-my Operator is 20<0x4c>.<Button><CR>
+my Operator is 20%.<Button><CR>
 !---------------------!
 How could he abandon<LF>
 his own Navi in the<LF>

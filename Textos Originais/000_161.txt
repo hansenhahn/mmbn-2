@@ -269,7 +269,7 @@ hard enough,doors<LF>
 will open for you!<Button><EB>
 !*********************!
 <@PointerIdx32>
-<Char: 1 241> <0xF8: 0><0xfa> <0x85> <0xF8: 4 24>MegaMan got his<LF>
+<Char: 1 241> <0xF8: 0><0xfa> é <0xF8: 4 24>MegaMan got his<LF>
 PowerUps and battle-<LF>
 chips back!!!<Button><CR>
 !---------------------!

@@ -73,8 +73,8 @@ then you can do<LF>
 twice as much damage<LF>
 as normal!!<Button><CR>
 !---------------------!
-Fire,Wood<0x52> Wood,<LF>
-Elec<0x52> Elec,Aqua<0x52><LF>
+Fire,Wood; Wood,<LF>
+Elec; Elec,Aqua;<LF>
 Aqua,Fire.<Button><CR>
 !---------------------!
 Some chips have no<LF>

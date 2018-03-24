@@ -6,10 +6,12 @@ Created on 20/03/2018
 @author: diego.hahn
 '''
 
+import re
 import sys
 import os
 import array
 import struct
+import glob
 import mmap
 
 from pytable import normal_table
@@ -19,6 +21,15 @@ import argparse
 
 __title__ = "MMBN2 Text Processor"
 __version__ = "1.0"
+
+def scandirs(path):
+    files = []
+    for currentFile in glob.glob( os.path.join(path, '*') ):
+        if os.path.isdir(currentFile):
+            files += scandirs(currentFile)
+        else:
+            files.append(currentFile)
+    return files          
 
 def fnTagE7(fd , buffer, tagname):
     # End of Block
@@ -128,9 +139,100 @@ tagsdict = { 0xE7 : ("EB", fnTagE7), 0xE8 : ("LF", fnTagE8), 0xE9 : ("CR", fnTag
             0xEB : ("Button", fnTagEB) , 0xED : ("Char", fnTagED) , 0xEE : ("Pos", fnTagEE) , 0xEF : ("Arrow", fnTagEF),
             0xF0 : ("CondJmp", fnTagF0) , 0xF1 : ("0xF1", fnTagF1) , 0xF2 : ("0xF2", fnTagF2) , 0xF3 : ("0xF3", fnTagF3) ,
             0xF5 : ("Jmp", fnTagF5) , 0xF6 : ("0xF6", fnTagF6) , 0xF8 : ("0xF8", fnTagF8) , 0xF9 : ("ItemTbl", fnTagF9) }
+            
+TAG_IN_LINE = r'(<.+?>)'
+GET_TAG = r'^<(.+?)>$'
 
-def Inserter():
-    pass
+def Inserter(src, dst):
+    table = normal_table('mmbn2.tbl')    
+    table.set_mode('inverted')
+    
+    files = filter(lambda x: x.__contains__('.txt'), scandirs(src))       
+    # Cria o dicionário invertido de tags
+    itagsdict = dict([[v[0],k] for k,v in tagsdict.items()])
+   
+    base_ptr = 0x800000   
+    dest = open(dst, 'r+b')
+    dest.seek( base_ptr )
+    
+    pointer_files = []
+    
+    for i, txtname in enumerate(files):
+        print ">> Convertendo e comprimindo " + txtname 
+
+        buffer = array.array("c")
+        with open(txtname, 'rb') as fd:
+            
+            pointer_idx = []
+        
+            for j, line in enumerate(fd):
+                try:
+                    line = line.strip('\r\n')
+                    if not line:
+                        continue
+                    elif line in ( "!---------------------!", "!*********************!" ):
+                        continue
+                    else:
+                        splitted = re.split( TAG_IN_LINE, line )
+                        for string in splitted:
+                            tag = re.match( GET_TAG, string )
+                            # Se não for uma tag, é texto plano
+                            if not tag:                            
+                                for char in string:
+                                    try:
+                                        buffer.extend( table[char] )
+                                    except:
+                                        print "Line {0} Char {1}".format(j, ord(char))
+                                        raise Exception()
+                            # Se for uma tag
+                            else:
+                                tag = tag.groups()[0]
+                                argv = []
+                                # Tag com argumentos
+                                if ": " in tag:
+                                    tag,argv = tag.split(": ")
+                                    argv = argv.split(" ")
+                                    
+                                if tag.startswith("@"): # São labels
+                                    if "PointerIdx" in tag:
+                                        pointer_idx.append( len(buffer) )
+                                    else:
+                                        print "Line {0} Label {1}".format(j, tag)
+                                        raise Exception()
+                                else:                                                                    
+                                    if tag in itagsdict:
+                                        buffer.extend( struct.pack("B", itagsdict[tag]) )
+                                        for arg in argv:
+                                            buffer.extend( struct.pack("B", int(arg)) )                            
+                                    else:
+                                        buffer.extend( struct.pack("B", int(tag)) )                                        
+                except:
+                    print "<< Error"
+                    sys.exit()
+                    
+            size = len(pointer_idx) * 2 + len(buffer)
+            temp = mmap.mmap(-1, size)
+            offset = len(pointer_idx) * 2
+            for ptr in pointer_idx:
+                temp.write( struct.pack("<H", offset+ptr) )
+            temp.write(buffer.tostring())
+            
+            ret = lzss.compress(temp) 
+            temp.close()
+            
+            b,name = os.path.split( txtname )
+            i, j = name.replace(".txt", "").split("_")
+
+            pointer_files.append( [int(i), int(j), dest.tell()] )            
+            ret.tofile(dest)
+            
+
+    print ">> Updating pointer table..."    
+    for desc in pointer_files:
+        dest.seek( 0x228a8 + 4*desc[1] )
+        dest.write( struct.pack("<L", desc[2] | 0x08000000) )
+
+    dest.close()
             
 #def Extract(src,dst):
 def Extract(src, dst):
@@ -201,13 +303,7 @@ def Extract(src, dst):
             output = open(os.path.join(dst, "%03d_%03d.txt" %(i,j)), "w")
             buffer.tofile(output)
             output.close()
-        
-        
-        
-        
-        
-    
-
+            
 if __name__ == "__main__":
     import argparse
     
@@ -216,7 +312,7 @@ if __name__ == "__main__":
 
     print "{0:{fill}{align}70}".format( " {0} {1} ".format( __title__, __version__ ) , align = "^" , fill = "=" )
     
-    Extract("../ROM Original/0468 - MegaMan Battle Network 2 (U)(Mode7).gba" , "../Textos Originais")
+
 
     # parser = argparse.ArgumentParser()
     # parser.add_argument( '-m', dest = "mode", type = str, required = True )
@@ -229,10 +325,12 @@ if __name__ == "__main__":
     # if args.mode == "e":
         # print "Desempacotando arquivo"
         # Extract( args.src , args.dst )
+    # Extract("../ROM Original/0468 - MegaMan Battle Network 2 (U)(Mode7).gba" , "../Textos Originais")
     # # insert text
     # elif args.mode == "i": 
-        # print "Criando arquivo"
+        # print "Criando arquivo"        
         # Insert( args.src , args.dst )
+    Inserter("../Textos Traduzidos", "../ROM Modificada/0468 - MegaMan Battle Network 2 (U)(Mode7).gba") 
     # else:
         # sys.exit(1)
     

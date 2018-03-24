@@ -42,7 +42,7 @@ Yes!!<Button><EB>
 !*********************!
 <@PointerIdx11>
 <0xF2: 0 74 0><0xF1: 1><0xEA: 255 0 0><@PointerIdx12>
-<0xF2: 0 79 0><0xF2: 4 94 8><0xF2: 4 75 0><Char: 1 241> <0xF8: 0><0xF8: 4 24><0xfa> <0x85> Lan took back the<LF>
+<0xF2: 0 79 0><0xF2: 4 94 8><0xF2: 4 75 0><Char: 1 241> <0xF8: 0><0xF8: 4 24><0xfa> é Lan took back the<LF>
 chips and put them<LF>
 in his pack.<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
 !---------------------!

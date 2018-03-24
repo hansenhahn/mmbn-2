@@ -3,7 +3,7 @@
 fall in the<LF>
 battlefield here.<Button><CR>
 !---------------------!
-If a <0x64>Fire<0x65> attack<LF>
+If a [Fire] attack<LF>
 hits one,the entire<LF>
 area blows up!!<Button><CR>
 !---------------------!

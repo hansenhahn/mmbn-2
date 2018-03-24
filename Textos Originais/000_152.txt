@@ -98,7 +98,7 @@ was going back to<LF>
 NetSquare,I think.<Button><EB>
 !*********************!
 <@PointerIdx24>
-<0xfb>b<0xff>  000J<0x75>q<@PointerIdx25>
+<0xfb>b<0xff>  000JÉq<@PointerIdx25>
 <@PointerIdx26>
 <@PointerIdx27>
 <@PointerIdx28>

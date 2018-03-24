@@ -515,7 +515,7 @@ chip for<LF>
 "<ItemTbl: 0 0 17> <ItemTbl: 0 0 35>!!"<0xF8: 12><0xF8: 8><Button><EB>
 !*********************!
 <@PointerIdx235>
-<0xF1: 0><0xfb> 2H0  <0x58>1  <LF>
+<0xF1: 0><0xfb> 2H0  )1  <LF>
 2  <0xd0>6  <0xF8: 0><0xF8: 4 24>MegaMan got:<LF>
 "<ItemTbl: 12 0 1> zennys!!"<0xF8: 12><0xF8: 8><Button><EB>
 !*********************!

@@ -478,7 +478,7 @@ in disguise!!<Button><CR>
 <0xfb>7<EB>
 !*********************!
 <@PointerIdx235>
-<0xF1: 0><0xfb>3egfgfgfgf6c6c6c6c-e-e-e-e<0x7b>4<0x7b>4<0x7b>4<0x7b>4<0xF8: 0><0xF8: 4 24>MegaMan got a<LF>
+<0xF1: 0><0xfb>3egfgfgfgf6c6c6c6c-e-e-e-e󢧒󢧒<0xF8: 0><0xF8: 4 24>MegaMan got a<LF>
 chip for<LF>
 "<ItemTbl: 0 0 17> <ItemTbl: 0 0 35>!!"<0xF8: 12><0xF8: 8><Button><EB>
 !*********************!

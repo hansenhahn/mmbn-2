@@ -464,12 +464,12 @@ in disguise!!<Button><CR>
 <0xfb>7<EB>
 !*********************!
 <@PointerIdx235>
-<0xF1: 0><0xfb>3ehihihihiD7D7D7D713132313<0x7c>7<0x7c>7<0x7c>7<0x7c>7<0xF8: 0><0xF8: 4 24>MegaMan got a<LF>
+<0xF1: 0><0xfb>3ehihihihiD7D7D7D713132313󩬝󩬝<0xF8: 0><0xF8: 4 24>MegaMan got a<LF>
 chip for<LF>
 "<ItemTbl: 0 0 17> <ItemTbl: 0 0 35>!!"<0xF8: 12><0xF8: 8><Button><EB>
 !*********************!
 <@PointerIdx236>
-<0xF1: 0><0xfb> e<0x58>1  <0x58>1  <0x58>1  <0x58>1  <0x58>1  v2  v2  v2  v2  <LF>
+<0xF1: 0><0xfb> e)1  )1  )1  )1  )1  v2  v2  v2  v2  <LF>
 2  <LF>
 2  <LF>
 2  <LF>
@@ -494,12 +494,12 @@ in disguise!!<Button><CR>
 <0xfb>7<EB>
 !*********************!
 <@PointerIdx240>
-<0xF1: 0><0xfb>3ehihihihiD7D7D7D713132313<0x7c>7<0x7c>7<0x7c>7<0x7c>7<0xF8: 0><0xF8: 4 24>MegaMan got a<LF>
+<0xF1: 0><0xfb>3ehihihihiD7D7D7D713132313󩬝󩬝<0xF8: 0><0xF8: 4 24>MegaMan got a<LF>
 chip for<LF>
 "<ItemTbl: 0 0 17> <ItemTbl: 0 0 35>!!"<0xF8: 12><0xF8: 8><Button><EB>
 !*********************!
 <@PointerIdx241>
-<0xF1: 0><0xfb> e<0x58>1  <0x58>1  <0x58>1  <0x58>1  <0x58>1  v2  v2  v2  v2  <LF>
+<0xF1: 0><0xfb> e)1  )1  )1  )1  )1  v2  v2  v2  v2  <LF>
 2  <LF>
 2  <LF>
 2  <LF>

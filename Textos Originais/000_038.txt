@@ -198,7 +198,7 @@ King! King! King!<Button><CR>
 !---------------------!
 Say it! Try it!<LF>
 Well well<LF>
-<0x57>buzz<0x58>Quiz hour!<Button><CR>
+(buzz)Quiz hour!<Button><CR>
 !---------------------!
 .<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0>Cough!<Button><CR>
 !---------------------!
@@ -240,7 +240,7 @@ King! King! King!<Button><CR>
 !---------------------!
 Say it! Try it!<LF>
 Well well<LF>
-<0x57>buzz<0x58>Quiz hour!<Button><CR>
+(buzz)Quiz hour!<Button><CR>
 !---------------------!
 Will you answer<LF>
 the questions<LF>
@@ -318,7 +318,7 @@ Next question.<Button><CR>
 !---------------------!
 What's the combined<LF>
 attack of <ItemTbl: 0 232 1>,<LF>
-<ItemTbl: 0 49 1> <0x4d> <ItemTbl: 0 193 1>?<Button><CR>
+<ItemTbl: 0 49 1> & <ItemTbl: 0 193 1>?<Button><CR>
 !---------------------!
 <Arrow: 0 33><Pos: 0 2>190<LF>
 <Arrow: 17 2><Pos: 0 2>220<LF>

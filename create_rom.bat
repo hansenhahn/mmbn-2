@@ -6,3 +6,7 @@ cd Asm
 armips.exe  mmbn_nointro.asm
 armips.exe  mmbn_vwf.asm
 cd ..
+
+cd Programas
+pypy tl_dumper.py
+cd ..

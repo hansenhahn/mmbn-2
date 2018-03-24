@@ -384,7 +384,7 @@ B-U-S-Y,BUSY!<Button><EB>
 <Char: 0 49><0xF1: 0>I so sorry. I very<LF>
 very busy!<Button><CR>
 !---------------------!
-<0x57>Sigh<0x58><Button><EB>
+(Sigh)<Button><EB>
 !*********************!
 <@PointerIdx60>
 <Char: 0 48><0xF1: 0>Rumor has it sumpin'<LF>
@@ -737,7 +737,7 @@ this old man's<LF>
 request.<Button><EB>
 !*********************!
 <@PointerIdx197>
-<0x77> k0<0xff><0xff><0xc9><0xF2: 0 14 1><0x77> k0<Char: 0 48><0xF1: 0>You will? Thanks! I<LF>
+Í k0<0xff><0xff><0xc9><0xF2: 0 14 1>Í k0<Char: 0 48><0xF1: 0>You will? Thanks! I<LF>
 wasn't kiddin' when<LF>
 I said...<Button><CR>
 !---------------------!

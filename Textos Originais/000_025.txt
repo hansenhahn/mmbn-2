@@ -669,7 +669,7 @@ chip,no?<Button><CR>
 Come on,boy.<Button><EB>
 !*********************!
 <@PointerIdx191>
-<0x88> c0<0xff><0xff><0xc3><0x88> c0<Char: 0 49><0xF1: 0>You'll giving it to<LF>
+ò c0<0xff><0xff><0xc3>ò c0<Char: 0 49><0xF1: 0>You'll giving it to<LF>
 me? You can't get<LF>
 it back!<Button><CR>
 !---------------------!
