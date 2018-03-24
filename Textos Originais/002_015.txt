@@ -1,0 +1,711 @@
+<@PointerIdx0>
+<@PointerIdx1>
+<@PointerIdx2>
+<Char: 0 64><0xF1: 0>Lan,challenge Mrs.<LF>
+Millions to Battle?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 129 3 4 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx3>
+<0xF3: 0 74 0 5 255><Char: 0 56><0xF1: 0>Oh,it's so<LF>
+thrilling!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx4>
+<0xF2: 4 75 0><0xF2: 4 76 0><0xF2: 4 77 0><Char: 0 56><0xF1: 0>Yeah,I feel it too.<LF>
+You don't have what<LF>
+it takes.<Button><EB>
+!*********************!
+<@PointerIdx5>
+<0xF2: 4 75 0><0xF2: 4 76 0><0xF2: 4 77 0><Char: 0 56><0xF1: 0>I'm still recovering<LF>
+from the last one.<Button><EB>
+!*********************!
+<@PointerIdx6>
+<0xF3: 0 75 0 16 255><0xF3: 0 76 0 17 255><0xF3: 0 77 0 18 18><@PointerIdx7>
+<Char: 0 64><0xF1: 0>We finally got back<LF>
+what was stolen! 1<LF>
+more caper resolved!<Button><EB>
+!*********************!
+<@PointerIdx8>
+<Char: 0 56><0xF1: 0>You got me all<LF>
+roused up...<Button><CR>
+!---------------------!
+<0xF3: 4 40 40 7 255><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 56><0xF1: 0>Tragic,yet<0xEA: 1 15 0><LF>
+sti<0xEA: 1 15 0>mu<0xEA: 1 15 0>lat<0xEA: 1 15 0>ing.<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 56><0xF1: 0>It <0xEA: 1 15 0>feels <0xEA: 1 15 0>so <0xEA: 1 15 0>good!<0xEA: 1 15 0><LF>
+Yes!!<Button><EB>
+!*********************!
+<@PointerIdx11>
+<0xF2: 0 74 0><0xF1: 1><0xEA: 255 0 0><@PointerIdx12>
+<0xF2: 0 79 0><0xF2: 4 94 8><0xF2: 4 75 0><Char: 1 241> <0xf8> <0xf8>3n<0xfa> <0x85> Lan took back the<LF>
+chips and put them<LF>
+in his pack.<0xf8>b<0xf8>f<0xf8>7<Button><CR>
+!---------------------!
+<0xf8> <0xf8>3n<0xf6> <0x55>0Lan got<0x44><LF>
+"<0xf9> <0x55> !!"<0xf8>b<0xf8>f<0xf8>7<Button><CR>
+!---------------------!
+<0xf8> <0xf8>3n<0xf6>LfC  <0xff><0xff><0xff>Lan got<0x44><LF>
+10000 zennys!!<0xf8>b<0xf8>f<0xf8>7<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx13>
+<0xF2: 0 80 0><0xF2: 4 76 0><EB>
+!*********************!
+<@PointerIdx14>
+<0xF2: 0 81 0><0xF2: 4 77 0><EB>
+!*********************!
+<@PointerIdx15>
+<@PointerIdx16>
+<0xF3: 0 79 0 9 255><Char: 0 56><0xF1: 0>Ha ha haaa...<0xEA: 1 30 0><LF>
+I lost,but it felt<LF>
+so pleasurable...<Button><CR>
+!---------------------!
+As promised,here're<LF>
+the chips. After<LF>
+all,I'm satisfied.<Button><CR>
+!---------------------!
+Here's something<LF>
+else,for services<LF>
+rendered...<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx17>
+<0xF3: 0 80 0 9 255><Char: 0 56><0xF1: 0>Can you feel the<LF>
+fire burning inside<LF>
+me?<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx18>
+<0xF3: 0 81 0 9 255><Char: 0 56><0xF1: 0>I lost,but it was<LF>
+pure ecstasy...<0xEA: 1 20 0><LF>
+You <0xEA: 1 15 0>dirty <0xEA: 1 15 0>boy<0xEA: 1 15 0>!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<0xF3: 4 64 72 93 255><0xF3: 4 48 61 56 255><0xF3: 4 41 41 41 255><0xF3: 0 78 0 38 255><0xF3: 0 30 2 35 255><Char: 0 56><0xF1: 0>Ha ha haaa...<Button><CR>
+!---------------------!
+<Jmp: 0 26><@PointerIdx26>
+<0xF3: 4 41 72 42 255><Char: 0 49><0xF1: 0>Mrs.Millions is high<LF>
+class,so she won't<LF>
+relate to commoners.<Button><EB>
+!*********************!
+<@PointerIdx27>
+<0xF3: 4 64 72 90 255><0xF3: 4 61 61 80 255><0xF3: 4 58 60 73 255><0xF3: 4 57 57 66 255><0xF3: 4 56 56 60 255><0xF3: 4 48 48 50 255><0xF3: 4 42 42 45 255><Char: 0 51><0xF1: 0>Come on in!<Button><CR>
+!---------------------!
+This is a world-<LF>
+famous brand jewelry<LF>
+shop.<Button><CR>
+!---------------------!
+...But that probably<LF>
+wouldn't interest<LF>
+<0x49>you<0x49>,right?<Button><EB>
+!*********************!
+<@PointerIdx28>
+<0xF3: 4 64 72 91 255><0xF3: 4 61 61 81 255><0xF3: 4 58 60 74 255><0xF3: 4 57 57 67 255><0xF3: 4 56 56 61 255><0xF3: 4 48 48 51 255><0xF3: 4 42 42 46 255><Char: 0 45><0xF1: 0>Welcome!<Button><CR>
+!---------------------!
+You know the millio-<LF>
+naire Mrs.Millions?<Button><CR>
+!---------------------!
+She has lots of jew-<LF>
+els. She's our best<LF>
+customer.<Button><CR>
+!---------------------!
+Right now,she's in<LF>
+our VIP room in the<LF>
+back.<Button><EB>
+!*********************!
+<@PointerIdx29>
+<0xF3: 4 61 61 82 255><0xF3: 4 48 48 52 255><0xF3: 4 42 42 47 255><Char: 0 48><0xF1: 0>I'm amazed at the<LF>
+Electopians' ability<LF>
+to shop.<Button><EB>
+!*********************!
+<@PointerIdx30>
+<0xF3: 4 61 61 83 255><0xF3: 4 48 48 53 255><Char: 0 14><0xF1: 0>Jewels are enchant-<LF>
+ing just gazing at<LF>
+them...<Button><EB>
+!*********************!
+<@PointerIdx31>
+<0xF3: 4 61 61 84 255><0xF3: 4 48 48 54 255><Char: 0 16><0xF1: 0>Oh,the brilliance!<LF>
+Once my bonus comes,<LF>
+you'll be mine!<Button><EB>
+!*********************!
+<@PointerIdx32>
+<0xF3: 4 61 61 85 255><0xF3: 4 48 48 55 255><Char: 0 9><0xF1: 0>Twinkle <0xEA: 1 30 0>twinkle...<Button><EB>
+!*********************!
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<Char: 0 49><0xF1: 0>Mrs.Millions is high<LF>
+class,so...<Button><CR>
+!---------------------!
+<Jmp: 0 36><@PointerIdx36>
+<Char: 0 56><0xF1: 0>Ha ha haaa...<Button><CR>
+!---------------------!
+Very nice...This boy<LF>
+just might relieve<LF>
+my boredom...<Button><CR>
+!---------------------!
+Yes...?<LF>
+What do you want?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Give me my chips!<LF>
+<Arrow: 17 2><Pos: 0 2>You're pretty.<LF>
+<Arrow: 34 16><Pos: 0 2>Spare some change?<CondJmp: 7 192 37 39 40>
+!---------------------!
+<0xff><EB>
+!*********************!
+<@PointerIdx37>
+<0xF2: 0 78 0><Char: 0 56><0xF1: 0>Hm? You claim these<LF>
+chips are yours?<Button><CR>
+!---------------------!
+I paid 500000<LF>
+zennys for these...<Button><CR>
+!---------------------!
+...They're just<LF>
+darling! Well,how<LF>
+about this?<Button><CR>
+!---------------------!
+<Jmp: 0 38><@PointerIdx38>
+<Char: 0 56><0xF1: 0>If you can beat my<LF>
+SnakeMan,I'll return<LF>
+them to you.<Button><CR>
+!---------------------!
+That kind of excite-<LF>
+ment is worth<LF>
+500000 zennys.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx39>
+<Char: 0 56><0xF1: 0>I grow tired of<LF>
+false flattery...<Button><EB>
+!*********************!
+<@PointerIdx40>
+<Char: 0 56><0xF1: 0>Can you give me<LF>
+proper motivation?<Button><CR>
+!---------------------!
+Oh.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0>bor<0xEA: 1 20 0>ing!<Button><EB>
+!*********************!
+<@PointerIdx41>
+<Char: 0 56><0xF1: 0>I haven't been so<LF>
+stimulated since...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx42>
+<Char: 0 49><0xF1: 0>Mrs.Millions won't<LF>
+relate to commoners.<0xEA: 1 20 0><LF>
+See for yourself.<Button><EB>
+!*********************!
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<Char: 0 51><0xF1: 0>Come on in!<Button><CR>
+!---------------------!
+Huh? What are you<LF>
+doing here so early?<Button><CR>
+!---------------------!
+Perhaps you've taken<LF>
+a liking to jewelry?<Button><EB>
+!*********************!
+<@PointerIdx46>
+<Char: 0 45><0xF1: 0>Mrs.Millions hasn't<LF>
+come in yet today.<Button><EB>
+!*********************!
+<@PointerIdx47>
+<Char: 0 48><0xF1: 0>So early...<Button><CR>
+!---------------------!
+Electopians really<LF>
+are into shopping.<Button><EB>
+!*********************!
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<Char: 0 51><0xF1: 0>Come on in! Today<LF>
+we recommend this<LF>
+amethyst.<Button><CR>
+!---------------------!
+It's only 10 million<LF>
+zennys!<Button><EB>
+!*********************!
+<@PointerIdx51>
+<Char: 0 45><0xF1: 0>Oh,sonny! Going<LF>
+home already?<Button><CR>
+!---------------------!
+Next time,buy a ton<LF>
+of jewelry to take<LF>
+with you,OK?<Button><EB>
+!*********************!
+<@PointerIdx52>
+<Char: 0 48><0xF1: 0>There's no way I can<LF>
+afford the jewelry<LF>
+in this shop.<Button><CR>
+!---------------------!
+So why am I here?<Button><CR>
+!---------------------!
+The girls,of course!<LF>
+The girls!<Button><EB>
+!*********************!
+<@PointerIdx53>
+<Char: 0 14><0xF1: 0>That girl's buying<LF>
+that expensive<LF>
+jewel!<Button><CR>
+!---------------------!
+The girls nowadays<LF>
+don't hold back. So<LF>
+nice to see...<Button><CR>
+!---------------------!
+Just looking is<LF>
+enough for me.<Button><EB>
+!*********************!
+<@PointerIdx54>
+<Char: 0 16><0xF1: 0>Pretty jewel.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0><LF>
+.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0><LF>
+I bought it...<Button><EB>
+!*********************!
+<@PointerIdx55>
+<Char: 0 9><0xF1: 0>When I get older...<Button><CR>
+!---------------------!
+Twinkle <0xEA: 1 30 0>twinkle...<Button><EB>
+!*********************!
+<@PointerIdx56>
+<Char: 0 56><0xF1: 0>Uha ha haaa...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<Char: 0 51><0xF1: 0>Despite these events<LF>
+we can always depend<LF>
+on Mrs.Millions!<Button><EB>
+!*********************!
+<@PointerIdx61>
+<Char: 0 45><0xF1: 0>Oh no...These horri-<LF>
+ble sunrays are dri-<LF>
+ving away all the<Button><CR>
+!---------------------!
+customers! That's<LF>
+not good for<LF>
+business!<Button><EB>
+!*********************!
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<Char: 0 51><0xF1: 0>How about this<LF>
+diamond?<Button><CR>
+!---------------------!
+I'll give it to<LF>
+you for 50 million<LF>
+zennys.<Button><EB>
+!*********************!
+<@PointerIdx67>
+<Char: 0 45><0xF1: 0>It's so boring<LF>
+without any<LF>
+customers...<Button><EB>
+!*********************!
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<Char: 0 51><0xF1: 0>If this store's<LF>
+dead,every store in<LF>
+Netopia must be too.<Button><EB>
+!*********************!
+<@PointerIdx74>
+<Char: 0 45><0xF1: 0>I just looked<LF>
+outside,and the<LF>
+streets are empty.<Button><CR>
+!---------------------!
+Seems something<LF>
+really terrible's<LF>
+happened.<Button><EB>
+!*********************!
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<Char: 0 51><0xF1: 0>Mrs.Millions...desp-<LF>
+ite these terrible<LF>
+events,she doesn't<Button><CR>
+!---------------------!
+even bat an eyelash!<LF>
+The highclass are on<LF>
+a different level.<Button><EB>
+!*********************!
+<@PointerIdx81>
+<Char: 0 45><0xF1: 0>At last the custom-<LF>
+ers are back! We're<LF>
+back in business!<Button><EB>
+!*********************!
+<@PointerIdx82>
+<Char: 0 48><0xF1: 0>Never knew sunlight<LF>
+could be so scary.<Button><CR>
+!---------------------!
+Now I realize how<LF>
+menacing nature<LF>
+can be.<Button><EB>
+!*********************!
+<@PointerIdx83>
+<Char: 0 14><0xF1: 0>No matter what happ-<LF>
+ens,looking at jewe-<LF>
+ls eases the heart.<Button><EB>
+!*********************!
+<@PointerIdx84>
+<Char: 0 16><0xF1: 0>I-I want to buy more<LF>
+jewels again...<Button><CR>
+!---------------------!
+There's no end to<LF>
+human desire...<Button><EB>
+!*********************!
+<@PointerIdx85>
+<Char: 0 9><0xF1: 0>That girl over there<LF>
+just bought an expe-<LF>
+nsive jewel.<Button><CR>
+!---------------------!
+Looks like she's<LF>
+after another!<Button><EB>
+!*********************!
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<Char: 0 51><0xF1: 0>Come on in!<Button><CR>
+!---------------------!
+Carrying on every<LF>
+day without closing<LF>
+is a nonstop effort.<Button><EB>
+!*********************!
+<@PointerIdx91>
+<Char: 0 45><0xF1: 0>Mrs.Millions...<LF>
+Buying jewelry at a<LF>
+time like this...<Button><CR>
+!---------------------!
+She's long-since<LF>
+transcended common<LF>
+sense.<Button><EB>
+!*********************!
+<@PointerIdx92>
+<Char: 0 53><0xF1: 0>Tomorrow I'm off to<LF>
+where the Net Terr-<LF>
+orism's happening.<Button><CR>
+!---------------------!
+Before then,I want<LF>
+to give my girl...<0xEA: 1 15 0><LF>
+a ring...<Button><EB>
+!*********************!
+<@PointerIdx93>
+<Char: 0 56><0xF1: 0>Ha ho ho ho hooo...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 145 12 196 255><0xF3: 0 170 0 192 255><0xF3: 0 169 0 191 255><0xF2: 0 169 0><Char: 0 45><0xF1: 0>Welcome...<Button><CR>
+!---------------------!
+Oh,you're a Net-<LF>
+Battler? I posted<LF>
+the request.<Button><CR>
+!---------------------!
+Actually,the 3 most<LF>
+expensive items in<LF>
+my shop were stolen!<Button><CR>
+!---------------------!
+The perpetrators<LF>
+were none other than<LF>
+the "3 Bandit<Button><CR>
+!---------------------!
+Sisters!" They're<LF>
+out to steal jewels<LF>
+around the world!<Button><CR>
+!---------------------!
+If my boss found out<LF>
+about this...I...<Button><CR>
+!---------------------!
+Please! Get the jew-<LF>
+els  back from the<LF>
+"3 Bandit Sisters!"<Button><CR>
+!---------------------!
+It's reported that<LF>
+when approached,the<LF>
+Sisters release<Button><CR>
+!---------------------!
+viruses,so be care-<LF>
+ful your PET doesn't<LF>
+get infected!<Button><CR>
+!---------------------!
+There's been a repo-<LF>
+rted sighting of<LF>
+them by the castle.<Button><CR>
+!---------------------!
+Oh yeah,they appare-<LF>
+ntly have a peculiar<LF>
+dialect.<Button><CR>
+!---------------------!
+Is that enough info<LF>
+for you to find<LF>
+them?<Button><EB>
+!*********************!
+<@PointerIdx191>
+<Char: 0 45><0xF1: 0>Want me to repeat<LF>
+my request?<Button><CR>
+!---------------------!
+I want you to return<LF>
+the 3 jewels stolen<LF>
+from this store.<Button><CR>
+!---------------------!
+The thieves were the<LF>
+"3 Bandit Sisters".<Button><CR>
+!---------------------!
+They apparently have<LF>
+a peculiar dialect.<Button><CR>
+!---------------------!
+There's been a repo-<LF>
+rted sighting of<LF>
+them by the castle.<Button><CR>
+!---------------------!
+That's all I know at<LF>
+this point. Please<LF>
+help me!<Button><EB>
+!*********************!
+<@PointerIdx192>
+<0xf6>2R0<0xff><0xff><0xbf><0xf6>2S0<0xff><0xff><0xbf><0xf6>2T0<0xff><0xff><0xbf><0xF2: 0 145 12><0xF2: 4 82 0><Char: 0 45><0xF1: 0>Y-you came back with<LF>
+the jewels?<Button><CR>
+!---------------------!
+<Jmp: 0 193><@PointerIdx193>
+<Char: 1 241> <0xf6>0R0<0xf6>0S0<0xf6>0T0Lan delivered<0x44><Button><CR>
+!---------------------!
+"<0xf9> R ",<LF>
+"<0xf9> S " and<LF>
+"<0xf9> T !!"<Button><CR>
+!---------------------!
+<Jmp: 0 194><@PointerIdx194>
+<Char: 0 45><0xF1: 0>Ohhh! THANK YOU!!<Button><CR>
+!---------------------!
+Electopian Net-<LF>
+Battlers are top-<LF>
+notch!<Button><CR>
+!---------------------!
+Here's a token of<LF>
+my appreciation!<Button><CR>
+!---------------------!
+<Jmp: 0 195><@PointerIdx195>
+<Char: 1 241> <0xf8> <0xf8>3n<0xf6>f<0x78> o0Lan got a chip for<LF>
+"<0xf9> <0x78>0 <0xf9> o2!!"<0xf8>b<0xf8>7<Button><CR>
+!---------------------!
+<Jmp: 0 196><@PointerIdx196>
+<Char: 0 45><0xF1: 0>Now I won't be<LF>
+fired!<Button><CR>
+!---------------------!
+I am eternally<LF>
+grateful!<Button><EB>
+!*********************!
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>A picture of a<LF>
+ruby.<Button><CR>
+!---------------------!
+Actually,rubies and<LF>
+sapphires are from<LF>
+the same mineral.<Button><CR>
+!---------------------!
+Red sapphires are<LF>
+just called rubies.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>All the jewels are<LF>
+top-class. The pric-<LF>
+es are exorbitant.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>Spectacular jewels<LF>
+fascinate women.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>Jewels here have pr-<LF>
+ices possibly attai-<LF>
+nable by commoners.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<0xF1: 0>A diamond picture.<LF>
+Beautiful,but real<LF>
+ones cost too much.<Button><EB>
+!*********************!
+<@PointerIdx225>
+<0xF1: 0>Gorgeously decorated<LF>
+accessories line the<LF>
+showcase.<Button><EB>
+!*********************!
+<@PointerIdx226>
+<0xF1: 0>A picture of an acc-<LF>
+essory made from a<LF>
+sapphire...<Button><CR>
+!---------------------!
+Taken very well,but<LF>
+it seems to be<LF>
+missing something.<Button><EB>
+!*********************!
+<@PointerIdx227>
+<0xF1: 0>A gorgeous vase.<LF>
+One this elaborate<LF>
+is very rare indeed.<Button><EB>
+!*********************!
+<@PointerIdx228>
+<0xF1: 0>It's said this crown<LF>
+was worn by Netop-<LF>
+ia's first king.<Button><EB>
+!*********************!
+<@PointerIdx229>
+<0xF1: 0>Mrs.Millions's purse<LF>
+Electronically lock-<LF>
+ed. You can jack in!<Button><EB>
+!*********************!
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

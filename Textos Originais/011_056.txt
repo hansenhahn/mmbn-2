@@ -1,0 +1,386 @@
+<@PointerIdx0>
+<@PointerIdx1>
+<@PointerIdx2>
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<Char: 0 66><0xF1: 0>I took the Undernet<LF>
+as a shortcut,but I<LF>
+got lost.<Button><EB>
+!*********************!
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<0xF3: 8 5 255 182><Char: 0 70><0xF1: 0>I'm a Netdealer...<LF>
+Wanna see my stuff?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 0 255 181 255>
+!---------------------!
+<0xfb>j4<@PointerIdx181>
+<CR>
+!---------------------!
+Please come again!<Button><EB>
+!*********************!
+<@PointerIdx182>
+<Char: 0 70><0xF1: 0>I'm a Netdealer,but<LF>
+I'm all sold out.<Button><EB>
+!*********************!
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<Char: 0 75><0xF1: 0>Hello,I heard<LF>
+the story from No.2.<Button><CR>
+!---------------------!
+I'm No.1,the leader<LF>
+of the Black Navis.<Button><CR>
+!---------------------!
+I can't believe that<LF>
+all of my followers<LF>
+got deleted...<Button><CR>
+!---------------------!
+But I'm not too<LF>
+upset about it...<Button><CR>
+!---------------------!
+In fact,I'm pleased<LF>
+to see how talented<LF>
+you are.<Button><CR>
+!---------------------!
+Let's conquer the<LF>
+Net together!<Button><CR>
+!---------------------!
+The Black Navis<LF>
+would be unbeatable<LF>
+if you joined us.<Button><CR>
+!---------------------!
+Of course,I'll give<LF>
+you a high rank.<Button><CR>
+!---------------------!
+<Jmp: 0 191><@PointerIdx191>
+<Char: 0 64><0xF1: 0>I'll never take the<LF>
+side of evil!!<Button><CR>
+!---------------------!
+<Jmp: 0 192><@PointerIdx192>
+<Char: 0 75><0xF1: 0>That's a pity...<Button><CR>
+!---------------------!
+Because it means<LF>
+you're standing in<LF>
+my way.<Button><CR>
+!---------------------!
+I can't just leave<LF>
+dangerous things<LF>
+lying around...<Button><CR>
+!---------------------!
+No matter how small<LF>
+they might be!!<Button><CR>
+!---------------------!
+<0xF2: 0 234 0><0xfb>b<0xff>  000X-q<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<Char: 1 241> MegaMan cannot break<LF>
+the ice without a<LF>
+cure!<Button><EB>
+!*********************!
+<@PointerIdx221>
+<@PointerIdx222>
+<@PointerIdx223>
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<0xF1: 0>MegaMan accessed the<LF>
+mystery data.<0xEA: 0 10 0>.<0xEA: 0 10 0>.<0xEA: 0 10 0><Button><CR>
+!---------------------!
+<0xF2: 0 24 5><0xf8> <0xf8>3n<0xf6> ?0MegaMan got<0x44><LF>
+"<0xf9> ? !!"<0xf8>b<0xf8>7<Button><EB>
+!*********************!
+<@PointerIdx231>
+<0xF1: 0>MegaMan accessed the<LF>
+mystery data.<0xEA: 0 10 0>.<0xEA: 0 10 0>.<0xEA: 0 10 0><Button><CR>
+!---------------------!
+<0xF3: 0 96 8 255 232>The subchip<LF>
+"<0xf9> <0x73> "<LF>
+was activated!!<Button><CR>
+!---------------------!
+The virus hidden<LF>
+in the mystery data<LF>
+was deleted!<Button><CR>
+!---------------------!
+<Jmp: 0 232><@PointerIdx232>
+<0xF2: 0 25 5><Jmp: 131 64>v v<CR>
+!---------------------!
+<0xEA: 0 235 242>3<0x60>7<@PointerIdx233>
+<0xF1: 0>It was a virus<LF>
+in disguise!!<Button><CR>
+!---------------------!
+<0xfb>7<EB>
+!*********************!
+<@PointerIdx234>
+<0xF1: 0><0xfb>3ercrcrcrcucucucucGlGlGlGlE5E5E5E5<0xf8> <0xf8>3nMegaMan got a<LF>
+chip for<LF>
+"<0xf9>  g <0xf9>  y!!"<0xf8>b<0xf8>7<Button><EB>
+!*********************!
+<@PointerIdx235>
+<0xF1: 0><0xfb> e<0xd0>6  <0xd0>6  <0xd0>6  <0xd0>6  <0xb8>a  <0xb8>a  <0xb8>a  <0xb8>a  <0x88>i  <0x88>i  <0x88>i  <0x88>i  fC  fC  fC  fC  <0xf8> <0xf8>3nMegaMan got<0x44><LF>
+"<0xf9>b 0 zennys!!"<0xf8>b<0xf8>7<Button><EB>
+!*********************!
+<@PointerIdx236>
+<0xF1: 0>MegaMan accessed the<LF>
+mystery data.<0xEA: 0 10 0>.<0xEA: 0 10 0>.<0xEA: 0 10 0><Button><CR>
+!---------------------!
+<0xF3: 0 96 8 255 237>The subchip<LF>
+"<0xf9> <0x73> "<LF>
+was activated!!<Button><CR>
+!---------------------!
+The virus hidden<LF>
+in the mystery data<LF>
+was deleted!!<Button><CR>
+!---------------------!
+<Jmp: 0 237><@PointerIdx237>
+<0xF2: 0 26 5><Jmp: 131 64>v v<Pos: 239 0 240><0xF2: 4 96 8><@PointerIdx238>
+<0xF1: 0>It was a virus<LF>
+in disguise!!<Button><CR>
+!---------------------!
+<0xfb>7<EB>
+!*********************!
+<@PointerIdx239>
+<0xF1: 0><0xfb>3ercrcrcrcucucucucGlGlGlGlE5E5E5E5<0xf8> <0xf8>3nMegaMan got a<LF>
+chip for<LF>
+"<0xf9>  g <0xf9>  y!!"<0xf8>b<0xf8>7<Button><EB>
+!*********************!
+<@PointerIdx240>
+<0xF1: 0><0xfb> e<0xd0>6  <0xd0>6  <0xd0>6  <0xd0>6  <0xb8>a  <0xb8>a  <0xb8>a  <0xb8>a  <0x88>i  <0x88>i  <0x88>i  <0x88>i  fC  fC  fC  fC  <0xf8> <0xf8>3nMegaMan got<0x44><LF>
+"<0xf9>b 0 zennys!!"<0xf8>b<0xf8>7<Button><EB>
+!*********************!
+<@PointerIdx241>
+<0xF3: 0 95 8 255 242><0xF1: 0>MegaMan accessed the<LF>
+mystery data.<0xEA: 0 10 0>.<0xEA: 0 10 0>.<0xEA: 0 10 0><Button><CR>
+!---------------------!
+<0xf8>3n<0xf6>f<0xbb> b0MegaMan got a<LF>
+chip for<LF>
+"<0xf9> <0xbb>0 <0xf9> b2!!"<0xf8>b<Button><0xF1: 1><0xF2: 0 27 5><EB>
+!*********************!
+<@PointerIdx242>
+<0xF1: 0>This mystery data<LF>
+is locked and can't<LF>
+be analyzed.<Button><CR>
+!---------------------!
+To analyze it,you<LF>
+need the subchip<0x44><LF>
+"<0xf9> <0x75> ".<Button><EB>
+!*********************!
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

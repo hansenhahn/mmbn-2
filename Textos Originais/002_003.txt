@@ -1,0 +1,492 @@
+<@PointerIdx0>
+<0xF3: 4 13 13 5 255><Char: 0 30><0xF1: 0>It can be fun to get<LF>
+off the beaten path<LF>
+when you go camping.<Button><CR>
+!---------------------!
+Doing so can lead<LF>
+to finding strange<LF>
+things,sometimes.<Button><CR>
+!---------------------!
+<0xF3: 0 114 2 2 255><EB>
+!*********************!
+<@PointerIdx1>
+<0xF3: 4 56 57 62 255><0xF3: 4 55 55 60 255><0xF3: 4 13 13 6 255><0xF3: 0 114 2 3 255><Char: 0 26><0xF1: 0>That's my dad over<LF>
+there,being a<LF>
+bigshot.<Button><CR>
+!---------------------!
+He dropped his<LF>
+binocs somewhere<LF>
+around here,though.<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 30><0xF1: 0>What's that? A bear?<LF>
+Oh no! Oh no!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 26><0xF1: 0>It's a bear! A bear!<LF>
+WAUGH!!!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<@PointerIdx5>
+<Char: 0 30><0xF1: 0>You saved us. Even<LF>
+fakes can hurt,if<LF>
+only by accident.<Button><CR>
+!---------------------!
+I'll give you the<LF>
+binocs I dropped,<LF>
+by way of thanks.<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 26><0xF1: 0>Fake bears don't<LF>
+scare me! I think<LF>
+I'll jack in too.<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 9><0xF1: 0>Too late...<Button><EB>
+!*********************!
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<Char: 0 34><0xF1: 0>Someone was moving<LF>
+around up there.<LF>
+What for,I wonder?<Button><CR>
+!---------------------!
+Hey,wait! I've got<LF>
+to find my sister!<Button><EB>
+!*********************!
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<0xF3: 4 20 21 25 255><Char: 0 10><0xF1: 0>Wow! Pristine water!<Button><EB>
+!*********************!
+<@PointerIdx21>
+<0xF3: 4 20 21 26 255><Char: 0 16><0xF1: 0>I can forget bad<LF>
+things by looking at<LF>
+the Guardian Statue.<Button><EB>
+!*********************!
+<@PointerIdx22>
+<0xF3: 4 20 21 27 255><Char: 0 22><0xF1: 0>I'm researching<LF>
+atmospheric<LF>
+pollution.<Button><CR>
+!---------------------!
+When comparing the<LF>
+air here with that<LF>
+in town,<Button><CR>
+!---------------------!
+I find the air in<LF>
+town is terribly<LF>
+polluted.<Button><EB>
+!*********************!
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<Char: 0 10><0xF1: 0>Hey,there's a fish!<Button><EB>
+!*********************!
+<@PointerIdx26>
+<Char: 0 16><0xF1: 0>I feel much better.<LF>
+I can face the world<LF>
+again tomorrow.<Button><EB>
+!*********************!
+<@PointerIdx27>
+<Char: 0 22><0xF1: 0>If the pollution<LF>
+goes on,what will<LF>
+become of Electopia?<Button><EB>
+!*********************!
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<0xF3: 4 29 31 40 255><0xF3: 4 27 28 35 255><Char: 0 70><0xF1: 0>Good day. I am<LF>
+your Navi!<Button><CR>
+!---------------------!
+Just a minute!!<LF>
+You.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0>You saw my<LF>
+secret training!<Button><CR>
+!---------------------!
+We'll put on a show<LF>
+at the next event.<LF>
+I'll play the Navi.<Button><CR>
+!---------------------!
+It's a good idea,<LF>
+don't you think?<Button><EB>
+!*********************!
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<Char: 0 70><0xF1: 0>I'm getting a bit<LF>
+tired. Maybe I'll<LF>
+take a break soon.<Button><CR>
+!---------------------!
+You saw me again!<Button><EB>
+!*********************!
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<Char: 0 70><0xF1: 0>To tell the truth,<LF>
+I've come from the<LF>
+Cyberworld.<Button><CR>
+!---------------------!
+Ha! Fooled you! Now<LF>
+my performance is<LF>
+sure to succeed!<Button><EB>
+!*********************!
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<Char: 0 26><0xF1: 0>The joys of Nature!<Button><EB>
+!*********************!
+<@PointerIdx61>
+<@PointerIdx62>
+<Char: 0 26><0xF1: 0>Earthquakes scare<LF>
+me. I've got to<LF>
+get back home.<Button><EB>
+!*********************!
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<Char: 0 16><0xF1: 0>I didn't come here<LF>
+to go camping.<Button><CR>
+!---------------------!
+I came to see the<LF>
+beauty of nature<LF>
+with my own eyes.<Button><CR>
+!---------------------!
+And now it's time to<LF>
+go home...<Button><CR>
+!---------------------!
+and save all the<LF>
+people who suffer<LF>
+from viruses!<Button><EB>
+!*********************!
+<@PointerIdx81>
+<0xF3: 0 70 1 82 255><0xF2: 0 70 1><Char: 0 19><0xF1: 0>This is for you.<Button><CR>
+!---------------------!
+<Char: 1 248> <0xf8>3n<0xf6> <0x63>0Lan got a PowerUp<0x44><LF>
+"<0xf9> <0x63> !!"<0xf8>b<0xf8>7<Button><CR>
+!---------------------!
+Regular memory<LF>
+increased by 2 MB!!<Button><EB>
+!*********************!
+<@PointerIdx82>
+<Char: 0 19><0xF1: 0>Sorry,all gone.<Button><EB>
+!*********************!
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>There's no foothold,<LF>
+so this may be as<LF>
+far as you can go.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>There's no foothold,<LF>
+so this may be as<LF>
+far as you can go.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>There are lots of<LF>
+rocks of various<LF>
+sizes around here.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>There are lots of<LF>
+rocks of various<LF>
+sizes around here.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<0xF1: 0>A Guardian Statue<LF>
+with a calm face.<Button><CR>
+!---------------------!
+...!?<Button><CR>
+!---------------------!
+You can see a hole<LF>
+where you might be<LF>
+able to jack in.<Button><EB>
+!*********************!
+<@PointerIdx225>
+<0xF1: 0>These are the famous<LF>
+Okuden Falls.<Button><CR>
+!---------------------!
+This water is<LF>
+essential for life<LF>
+in DenCity.<Button><EB>
+!*********************!
+<@PointerIdx226>
+<0xF3: 4 16 72 239 255><0xF3: 4 15 15 236 255><0xF3: 0 114 2 255 227><0xf6>290<Arrow: 239 228><EB>
+!*********************!
+<@PointerIdx227>
+<0xF1: 0>It's dark and damp<LF>
+behind the falls.<0xEA: 1 30 0><LF>
+Ah! <0xEA: 1 30 0>It's freezing!<Button><CR>
+!---------------------!
+You think there's<LF>
+something shiny,but<LF>
+you're not sure.<Button><EB>
+!*********************!
+<@PointerIdx228>
+<0xF1: 0>It's dark and damp<LF>
+behind the falls.<0xEA: 1 30 0><LF>
+Ah! <0xEA: 1 30 0>It's freezing!<Button><CR>
+!---------------------!
+You think there's<LF>
+something shiny,but<LF>
+you're not sure.<Button><CR>
+!---------------------!
+Try to pick it up?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 128 229 255 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx229>
+<0xF1: 0><0xf8>3n<0xf6> 90Lan got<0x44><LF>
+"<0xf9> 9 !!"<Button><0xf8>b<0xf8>f<0xf8>7<EB>
+!*********************!
+<@PointerIdx230>
+<0xF3: 4 13 255 232 255><0xF1: 0><0xfa>b<0xfa> 70Growl!!!<0xEA: 0 60 0><LF>
+<0xfa> 70GROWL!!!!<0xEA: 0 60 0><Button><CR>
+!---------------------!
+<0xfa>7<Jmp: 0 231><@PointerIdx231>
+<Char: 0 64><0xF1: 0>Lan! This thing<LF>
+might move! Let's<LF>
+jack in and try it!<Button><EB>
+!*********************!
+<@PointerIdx232>
+<0xF1: 0>It's a fake bear.<LF>
+Right now,it is<LF>
+completely inactive.<Button><EB>
+!*********************!
+<@PointerIdx233>
+<0xF1: 0><0xfa>b<0xfa> 70Growl!!!!<0xEA: 0 60 0><LF>
+<0xfa> 70Growl!!!!<0xEA: 0 60 0><Button><CR>
+!---------------------!
+<0xfa>7<Jmp: 0 234><@PointerIdx234>
+<Char: 0 2><0xF1: 0>Lan! This is<LF>
+dangerous!<Button><CR>
+!---------------------!
+<Jmp: 0 235><@PointerIdx235>
+<Char: 0 7><0xF1: 0>Wait a second. The<LF>
+bear is roaring just<LF>
+like it did before.<Button><CR>
+!---------------------!
+Something's going on<LF>
+but I can't tell<LF>
+what,from here.<Button><EB>
+!*********************!
+<@PointerIdx236>
+<0xF3: 0 145 2 238 255><0xF2: 0 148 2><0xF1: 0>It's dark and damp<LF>
+behind the falls.<0xEA: 1 30 0><LF>
+Ah! <0xEA: 1 30 0>It's freezing!<Button><CR>
+!---------------------!
+<Jmp: 0 237><@PointerIdx237>
+<Char: 0 64><0xF1: 0>See? There's a PET<LF>
+down there. And it<LF>
+wasn't there before.<Button><CR>
+!---------------------!
+Let's jack in and<LF>
+check it out.<Button><EB>
+!*********************!
+<@PointerIdx238>
+<0xF1: 0>It's dark and damp<LF>
+behind the falls.<0xEA: 1 30 0><LF>
+Ah! <0xEA: 1 30 0>It's freezing!<Button><CR>
+!---------------------!
+The PET used in the<LF>
+crime fell here. It<LF>
+is a common type.<Button><EB>
+!*********************!
+<@PointerIdx239>
+<0xF1: 0>It's dark and damp<LF>
+behind the falls.<0xEA: 1 30 0><LF>
+Ah! <0xEA: 1 30 0>It's freezing!<Button><EB>
+!*********************!
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

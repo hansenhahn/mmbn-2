@@ -5,7 +5,7 @@
 ;
 .gba
 
-.open "..\ROM Original\0468 - MegaMan Battle Network 2 (U)(Mode7).gba", "..\ROM Modificada\0468 - MegaMan Battle Network 2 (U)(Mode7).gba", 0x08000000
+.open "..\ROM Modificada\0468 - MegaMan Battle Network 2 (U)(Mode7).gba", 0x08000000
 .thumb
 
 FontTileAddress         equ 0x086965F0
@@ -496,3 +496,5 @@ FontWidthAddress:
 
 .org 0x086965f0
 .import "mmbn_vwf_font.gba"
+
+.close
