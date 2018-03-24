@@ -71,7 +71,7 @@ up your allowance!<Button><EB>
 <@PointerIdx28>
 <@PointerIdx29>
 <@PointerIdx30>
-<0xF3: 0 63 2 33 255><0xf6>2q0uu<0xff><0xF2: 0 63 2><Char: 0 1><0xF1: 0>My,you're back<LF>
+<0xF3: 0 63 2 33 255><0xF6: 3 27 1 31 31 255><0xF2: 0 63 2><Char: 0 1><0xF1: 0>My,you're back<LF>
 already?<Button><CR>
 !---------------------!
 How was your first<LF>
@@ -86,7 +86,7 @@ Yumland for your<LF>
 next trip.<Button><EB>
 !*********************!
 <@PointerIdx31>
-<0xF2: 0 63 2><0xf6>0q0<Char: 0 1><0xF1: 0>My,you're back<LF>
+<0xF2: 0 63 2><0xF6: 1 27 1><Char: 0 1><0xF1: 0>My,you're back<LF>
 already?<Button><CR>
 !---------------------!
 How was your first<LF>
@@ -104,8 +104,8 @@ little in exchange.<LF>
 It's not much.<Button><CR>
 !---------------------!
 <Jmp: 0 32><@PointerIdx32>
-<Char: 1 241> <0xf8> <0xf8>3n<0xf6>LfC  <0xff><0xff><0xff>Lan got<0x44><LF>
-"10000 zennys!!"<Button><0xf8>b<0xf8>f<0xf8>7<EB>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 48 16 39 0 0 255 255 255>Lan got:<LF>
+"10000 zennys!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
 !*********************!
 <@PointerIdx33>
 <Char: 0 1><0xF1: 0>Going overseas<LF>
@@ -353,7 +353,7 @@ I wonder how much<LF>
 all this is worth?<Button><EB>
 !*********************!
 <@PointerIdx222>
-<0xf6>220<0xff><0xff><0xe6><0xF1: 0>Yai's fan collection<LF>
+<0xF6: 3 3 1 255 255 230><0xF1: 0>Yai's fan collection<LF>
 is arranged here.<Button><EB>
 !*********************!
 <@PointerIdx223>
@@ -366,7 +366,7 @@ It has a jack-in<LF>
 port.<Button><EB>
 !*********************!
 <@PointerIdx225>
-<0xF3: 4 7 7 234 255><0xF3: 4 6 6 233 255><0xf6>2<0x52>0<0xff><0xff><0xec><0xF1: 0>How many birds had<LF>
+<0xF3: 4 7 7 234 255><0xF3: 4 6 6 233 255><0xF6: 3 82 1 255 255 236><0xF1: 0>How many birds had<LF>
 to go naked to make<LF>
 this feather bed?<Button><EB>
 !*********************!
@@ -402,8 +402,8 @@ of a strange animal.<Button><EB>
 <Char: 0 0><0xF1: 0>Here! I found it!<Button><CR>
 !---------------------!
 <Jmp: 0 232><@PointerIdx232>
-<0xF2: 0 142 2><Char: 1 241> <0xf8>3n<0xf6> 20Lan got<0x44><LF>
-"<0xf9> 2 !!"<0xf8>b<0xf8>f<Button><EB>
+<0xF2: 0 142 2><Char: 1 241> <0xF8: 4 24><0xF6: 0 3 1>Lan got:<LF>
+"<ItemTbl: 0 3 0>!!"<0xF8: 12><0xF8: 16><Button><EB>
 !*********************!
 <@PointerIdx233>
 <0xF1: 0>How many birds had<LF>
@@ -411,7 +411,7 @@ to go naked to make<LF>
 this feather bed?<Button><EB>
 !*********************!
 <@PointerIdx234>
-<0xf6>2<0x52>0<Button><Button><0xff><0xF1: 0>Yai is still<LF>
+<0xF6: 3 82 1 235 235 255><0xF1: 0>Yai is still<LF>
 sound asleep...<Button><CR>
 !---------------------!
 There's a memo<LF>
@@ -425,8 +425,8 @@ kind of passcode!<Button><CR>
 Maybe I'll tell it<LF>
 to Lan"...<Button><CR>
 !---------------------!
-<0xf8>3n<0xf6> <0x52>0Lan got<0x44><LF>
-"<0xf9> <0x52> !!"<0xf8>b<0xf8>f<Button><EB>
+<0xF8: 4 24><0xF6: 0 82 1>Lan got:<LF>
+"<ItemTbl: 0 82 0>!!"<0xF8: 12><0xF8: 16><Button><EB>
 !*********************!
 <@PointerIdx235>
 <0xF1: 0>Yai is still<LF>
@@ -460,8 +460,8 @@ kind of passcode!<Button><CR>
 Maybe I'll tell it<LF>
 to Lan"...<Button><CR>
 !---------------------!
-<0xf8>3n<0xf6> <0x52>0Lan got<0x44><LF>
-"<0xf9> <0x52> !!"<0xf8>b<0xf8>f<Button><EB>
+<0xF8: 4 24><0xF6: 0 82 1>Lan got:<LF>
+"<ItemTbl: 0 82 0>!!"<0xF8: 12><0xF8: 16><Button><EB>
 !*********************!
 <@PointerIdx237>
 <0xF1: 0>Yai's PC. You can<LF>

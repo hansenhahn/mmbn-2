@@ -1,0 +1,695 @@
+<@PointerIdx0>
+<0xF3: 4 64 72 62 255><0xF3: 4 48 48 30 255><0xF3: 4 41 42 23 255><0xF3: 0 24 2 1 255><0xF3: 4 39 39 2 255><Jmp: 0 1><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 13><0xF1: 0>Humph humph...<Button><CR>
+!---------------------!
+There's nothing in<LF>
+this town that I<LF>
+don't know about.<Button><CR>
+!---------------------!
+Believe me or not?<LF>
+It's up to you.<Button><CR>
+!---------------------!
+Humph humph...<Button><EB>
+!*********************!
+<@PointerIdx2>
+<0xF2: 0 23 2><Char: 0 13><0xF1: 0>Humph humph...<Button><CR>
+!---------------------!
+I'll look for the<LF>
+stolen passport and<LF>
+battlechip...<Button><CR>
+!---------------------!
+Humph humph...<Button><CR>
+!---------------------!
+Jim who lives on a<LF>
+back street knows<LF>
+about that stuff.<Button><EB>
+!*********************!
+<@PointerIdx3>
+<0xF3: 4 42 42 25 255><Char: 0 14><0xF1: 0>Look here! This is<LF>
+famous Net Castle!<LF>
+Snap off a photo!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<0xF3: 4 42 42 26 255><0xF3: 0 92 2 20 255><Char: 0 9><0xF1: 0>Don't tell my mom...<0xEA: 1 30 0><LF>
+I left my digital<LF>
+camera in Electopia.<Button><EB>
+!*********************!
+<@PointerIdx5>
+<0xF3: 4 48 48 32 255><0xF3: 4 41 41 24 255><Char: 0 29><0xF1: 0>I was fooled too...<Button><CR>
+!---------------------!
+That guy always ste-<LF>
+als chips from Elec-<LF>
+topians that way.<Button><CR>
+!---------------------!
+The chip is on the<LF>
+black market. Hard<LF>
+to find. <0xEA: 1 30 0>Forget it.<Button><EB>
+!*********************!
+<@PointerIdx6>
+<0xF3: 4 48 48 33 255><0xF3: 4 42 42 28 255><Char: 0 48><0xF1: 0>Boy,where'd you<LF>
+come from?<LF>
+<Arrow: 17 0><Pos: 0 2>Electopia <Arrow: 0 17><Pos: 0 2>Yumland<CondJmp: 6 192 7 255 255>
+!---------------------!
+Thought so...<LF>
+You have the face of<LF>
+a Yumlander.<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 48><0xF1: 0>Whew...<LF>
+You've come a long<LF>
+way there sonny.<Button><CR>
+!---------------------!
+I know lots about<LF>
+Electopia. It's part<LF>
+of Yumland right?<Button><EB>
+!*********************!
+<@PointerIdx8>
+<0xF3: 4 48 48 34 255><0xF3: 4 42 42 29 255><0xF3: 0 19 2 9 255><Char: 0 52><0xF1: 0>Up the hill is<LF>
+Net Castle,to the<LF>
+left is downtown.<Button><CR>
+!---------------------!
+You keep hanging<LF>
+around and bad guys<LF>
+will target you.<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 52><0xF1: 0>That queer Eletopian<LF>
+ran off with<LF>
+lightening speed.<Button><CR>
+!---------------------!
+Some kind of ninja!?<LF>
+Am I right?<Button><EB>
+!*********************!
+<@PointerIdx10>
+<0xF2: 0 18 2><0xEA: 0 1 0><EB>
+!*********************!
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<0xF3: 0 91 2 22 255><0xF2: 0 91 2><Char: 0 9><0xF1: 0>"<ItemTbl: 0 111 1> <ItemTbl: 0 26 3>?"<LF>
+Yeah I've got loads<LF>
+of them.<Button><CR>
+!---------------------!
+I only get virus<LF>
+busting ones<Button><CR>
+!---------------------!
+so stick out your<LF>
+hand...<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 1 241> Ta dum!!<Button><CR>
+!---------------------!
+<0xF8: 0><0xF8: 4 24><0xF6: 16 111 0 26 30>Lan got 30 chips for<LF>
+"<ItemTbl: 0 111 1> <ItemTbl: 0 26 3>!!"<0xF8: 12><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 22><@PointerIdx22>
+<Char: 0 9><0xF1: 0>No need to thank me.<LF>
+Still got over 1000<LF>
+"<ItemTbl: 0 111 1> <ItemTbl: 0 26 3>" chips.<Button><EB>
+!*********************!
+<@PointerIdx23>
+<Char: 0 13><0xF1: 0>Humph humph...<Button><EB>
+!*********************!
+<@PointerIdx24>
+<Char: 0 29><0xF1: 0>So you got the chip<LF>
+back I see!<Button><CR>
+!---------------------!
+Thought Electopians<LF>
+were lil' crybabies.<LF>
+You proved me wrong!<Button><EB>
+!*********************!
+<@PointerIdx25>
+<Char: 0 14><0xF1: 0>The sunlight on Net<LF>
+Castle is perfect.<LF>
+Quick take a photo!<Button><EB>
+!*********************!
+<@PointerIdx26>
+<Char: 0 9><0xF1: 0>Better hurry to the<LF>
+airport or we'll<LF>
+miss our flight.<Button><EB>
+!*********************!
+<@PointerIdx27>
+<Char: 0 18><0xF1: 0>Nothing but trouble<LF>
+with my chip stolen<LF>
+and all.<Button><CR>
+!---------------------!
+Guess I'll head<LF>
+home to<LF>
+Electopia...<Button><EB>
+!*********************!
+<@PointerIdx28>
+<Char: 0 48><0xF1: 0>Morning sonny!<LF>
+Great weather and<LF>
+the sun feels nice.<Button><CR>
+!---------------------!
+Are mornings in<LF>
+Yumland as<LF>
+refreshing as this?<Button><EB>
+!*********************!
+<@PointerIdx29>
+<Char: 0 52><0xF1: 0>Lots of foreigners<LF>
+went inside the<LF>
+Castle.<Button><CR>
+!---------------------!
+Is something going<LF>
+on?<Button><EB>
+!*********************!
+<@PointerIdx30>
+<Char: 0 13><0xF1: 0>Humph humph...<Button><CR>
+!---------------------!
+Seeing people like<LF>
+you in your youth,<Button><CR>
+!---------------------!
+it's unbecoming and<LF>
+makes my blood<LF>
+boil...<Button><CR>
+!---------------------!
+Humph humph...<Button><EB>
+!*********************!
+<@PointerIdx31>
+<Char: 0 16><0xF1: 0>Wow,what a castle!!<LF>
+Most wicked!!<Button><CR>
+!---------------------!
+What a way to end<LF>
+a trip to Netopia.<LF>
+Simply perfect!<Button><EB>
+!*********************!
+<@PointerIdx32>
+<Char: 0 29><0xF1: 0>You might have<LF>
+had some bad times<LF>
+but...<Button><CR>
+!---------------------!
+don't hate Netopia.<LF>
+There are many good<LF>
+sides to it.<Button><EB>
+!*********************!
+<@PointerIdx33>
+<Char: 0 48><0xF1: 0>Going home,huh<LF>
+young Yumlander?<Button><CR>
+!---------------------!
+I heard Yumland is<LF>
+a pristine country<LF>
+with trees and seas.<Button><CR>
+!---------------------!
+If I were a bit<LF>
+younger I'd like to<LF>
+visit there...<Button><EB>
+!*********************!
+<@PointerIdx34>
+<Char: 0 52><0xF1: 0>Going home today?<Button><CR>
+!---------------------!
+Go downtown if you<LF>
+want some great<LF>
+souvenirs.<Button><EB>
+!*********************!
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<0xF3: 4 61 61 52 255><0xF3: 4 57 57 46 255><Char: 0 13><0xF1: 0>What's with this<LF>
+heat! We'll all<LF>
+get sunstroke.<Button><CR>
+!---------------------!
+But,I'm wearing a<LF>
+hat so I should be<LF>
+fine.<Button><EB>
+!*********************!
+<@PointerIdx41>
+<0xF3: 4 61 61 53 255><0xF3: 4 57 57 47 255><Char: 0 29><0xF1: 0>This heat is too<LF>
+much...Gotta get in<LF>
+the shade or...<Button><CR>
+!---------------------!
+my head will start<LF>
+to spin...<Button><EB>
+!*********************!
+<@PointerIdx42>
+<0xF3: 4 61 61 54 255><0xF3: 4 57 57 48 255><Char: 0 48><0xF1: 0>Oh,young Yumlander.<Button><CR>
+!---------------------!
+Disasters are<LF>
+breaking out all<LF>
+over the world.<Button><CR>
+!---------------------!
+What about in<LF>
+Yumland?<Button><EB>
+!*********************!
+<@PointerIdx43>
+<0xF3: 4 61 61 55 255><0xF3: 4 57 57 49 255><Char: 0 52><0xF1: 0>This sunlight is<LF>
+something.<LF>
+I'll get burned too.<Button><EB>
+!*********************!
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<Char: 0 13><0xF1: 0>This hat is no use<LF>
+in this heat!<LF>
+I can't take it!<Button><EB>
+!*********************!
+<@PointerIdx47>
+<Char: 0 29><0xF1: 0>Ha,I'm at my wits...<LF>
+end. Need to take<LF>
+refuge and fast!<Button><EB>
+!*********************!
+<@PointerIdx48>
+<Char: 0 48><0xF1: 0>Humans have ruined<LF>
+nature for their<LF>
+own convenience!<Button><CR>
+!---------------------!
+This unusual weather<LF>
+is Mother Nature's<LF>
+anger!<Button><EB>
+!*********************!
+<@PointerIdx49>
+<Char: 0 52><0xF1: 0>This heat is absurd!<LF>
+We're all about to<LF>
+faint!<Button><EB>
+!*********************!
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<Char: 0 13><0xF1: 0>The sunlight is<LF>
+back to normal at<LF>
+long last.<Button><CR>
+!---------------------!
+Regardless natural<LF>
+disasters are<LF>
+frightful.<Button><EB>
+!*********************!
+<@PointerIdx53>
+<Char: 0 29><0xF1: 0>The fierce sun was<LF>
+from a freeze in our<LF>
+ozone control system<Button><CR>
+!---------------------!
+The cause was a big<LF>
+hole that erupted<LF>
+in the ozone layer.<Button><CR>
+!---------------------!
+Resulting in a<LF>
+massive amount of<LF>
+ultra-violet rays.<Button><CR>
+!---------------------!
+Simply dreadful!<Button><EB>
+!*********************!
+<@PointerIdx54>
+<Char: 0 48><0xF1: 0>Mother Nature's<LF>
+anger has<LF>
+subsided...<Button><CR>
+!---------------------!
+However,man<LF>
+continues to<LF>
+destroy nature.<Button><CR>
+!---------------------!
+No telling when<LF>
+disasters like this<LF>
+will occur again.<Button><CR>
+!---------------------!
+We can't forget that<LF>
+man has hurt nature<LF>
+for convenience!<Button><EB>
+!*********************!
+<@PointerIdx55>
+<Char: 0 52><0xF1: 0>People dropped like<LF>
+flies from the disa-<LF>
+sters in Netopia.<Button><CR>
+!---------------------!
+But luckily,no one<LF>
+lost their lives.<Button><EB>
+!*********************!
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<Char: 0 6><0xF1: 0>Since yesterday<LF>
+virus activity...<LF>
+is off the charts.<Button><CR>
+!---------------------!
+Lan,<0xEA: 1 15 0><LF>
+get ready to fight<LF>
+any kind of enemy.<Button><CR>
+!---------------------!
+<Jmp: 0 161><@PointerIdx61>
+<Char: 0 49><0xF1: 0>Hey...<0xEA: 1 30 0>dude...<Button><CR>
+!---------------------!
+Sorry I so down.<LF>
+I up all nite<LF>
+virus busting...<Button><EB>
+!*********************!
+<@PointerIdx62>
+<Char: 0 13><0xF1: 0>Humph humph...<Button><CR>
+!---------------------!
+Netopia is a<LF>
+world power so<Button><CR>
+!---------------------!
+Gospel's attack<LF>
+was most fierce.<Button><CR>
+!---------------------!
+But I believe...<LF>
+in men like Jim<LF>
+fighting bravely...<Button><CR>
+!---------------------!
+Humph humph...<Button><EB>
+!*********************!
+<@PointerIdx63>
+<Char: 0 18><0xF1: 0>Everyone held fast<LF>
+fighting viruses<LF>
+gallantly...<Button><CR>
+!---------------------!
+This power is our<LF>
+strength as<LF>
+Netopians.<Button><EB>
+!*********************!
+<@PointerIdx64>
+<Char: 0 29><0xF1: 0>Chip stealing<LF>
+incidents are<LF>
+no more.<Button><CR>
+!---------------------!
+Guess the bad guys<LF>
+have other things<LF>
+to do.<Button><EB>
+!*********************!
+<@PointerIdx65>
+<0xF3: 0 69 1 66 255><0xF2: 0 69 1><Char: 0 52><0xF1: 0>I give this to you.<Button><CR>
+!---------------------!
+<Char: 1 248> <0xF8: 4 24><0xF6: 0 101 1>Lan got a PowerUp:<LF>
+"<ItemTbl: 0 101 0>!!"<Button><CR>
+!---------------------!
+<0xF8: 12><0xF8: 16><0xF8: 8>Number of subchips<LF>
+you can hold<LF>
+increased by 1!<Button><EB>
+!*********************!
+<@PointerIdx66>
+<Char: 0 52><0xF1: 0>That's all I got.<Button><EB>
+!*********************!
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<0xF3: 4 64 72 60 255><EB>
+!*********************!
+<@PointerIdx161>
+<Char: 0 64><0xF1: 0>Lan,will you<LF>
+challenge Chaud to a<LF>
+NetBattle?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<LF>
+<CondJmp: 6 129 162 164 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx162>
+<0xF3: 0 186 0 165 255><Char: 0 6><0xF1: 0>Sure... I was<LF>
+getting tired of<LF>
+fighting amateurs...<Button><CR>
+!---------------------!
+<Jmp: 0 163><@PointerIdx163>
+<0xF2: 0 186 0><0xF1: 1><0xEA: 255 0 0><@PointerIdx164>
+<0xF2: 4 187 0><0xF2: 4 188 0><0xF2: 4 189 0><Char: 0 6><0xF1: 0>If you're in such<LF>
+a hurry<LF>
+I won't stop you...<Button><EB>
+!*********************!
+<@PointerIdx165>
+<0xF2: 4 187 0><0xF2: 4 188 0><0xF2: 4 189 0><EB>
+!*********************!
+<@PointerIdx166>
+<0xF3: 0 187 0 167 255><0xF3: 0 188 0 169 255><0xF3: 0 189 0 171 171><@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<0xF3: 0 192 0 174 255><Char: 0 6><0xF1: 0>With those skills<LF>
+you could buy me<LF>
+time til I get back.<Button><CR>
+!---------------------!
+<Jmp: 0 170><@PointerIdx170>
+<0xF2: 0 192 0><0xF2: 4 188 0><EB>
+!*********************!
+<@PointerIdx171>
+<0xF3: 0 193 0 174 255><Char: 0 6><0xF1: 0>Thought I was the<LF>
+only NetBattler able<LF>
+to fight Gospel...<Button><CR>
+!---------------------!
+<Jmp: 0 172><@PointerIdx172>
+<0xF2: 0 193 0><0xF2: 4 189 0><EB>
+!*********************!
+<@PointerIdx173>
+<@PointerIdx174>
+<Char: 0 6><0xF1: 0>Hmm...could it be<LF>
+he's stronger than I<LF>
+suspected?<Button><EB>
+!*********************!
+<@PointerIdx175>
+<Char: 0 6><0xF1: 0>The world can only<LF>
+depend on me...<LF>
+Back to Netopia...<Button><EB>
+!*********************!
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<0xF6: 3 54 1 203 203 255><0xF3: 0 145 12 203 255><0xF3: 0 26 1 201 255><0xF2: 0 26 1><Char: 0 29><0xF1: 0>What is dit?<LF>
+Stop staring at<LF>
+me face!<Button><CR>
+!---------------------!
+Yer sa rude!<Button><CR>
+!---------------------!
+<Jmp: 0 198><@PointerIdx198>
+<Char: 0 0><0xF1: 0>That dialect is not<LF>
+one you hear around<LF>
+these parts...<Button><CR>
+!---------------------!
+You're one of the<LF>
+"3 Bandit Sisters!!"<Button><CR>
+!---------------------!
+Give me back the<LF>
+jewelry you stole!<Button><CR>
+!---------------------!
+<Jmp: 0 199><@PointerIdx199>
+<Char: 0 29><0xF1: 0>Darn dit!<LF>
+How'd ye figure<LF>
+me out?<Button><CR>
+!---------------------!
+Ah! Me and me<LF>
+big mouth!<Button><CR>
+!---------------------!
+Ah wellz. Dit can'<LF>
+be helped!<Button><CR>
+!---------------------!
+If ye beat me<LF>
+I'll give ye<LF>
+the jewelry back!<Button><CR>
+!---------------------!
+<0xfb>b<0xff>  000R-q<@PointerIdx200>
+<Char: 1 241> <@PointerIdx201>
+<0xF2: 0 26 1><Char: 0 29><0xF1: 0>Dangle me shimmies!<LF>
+Ye're one tough<LF>
+boyo!<Button><CR>
+!---------------------!
+Ye may have found<LF>
+me but ye won'<LF>
+find me sissies!<Button><CR>
+!---------------------!
+Sure they's in<LF>
+Netopia somewhere<LF>
+though.<Button><CR>
+!---------------------!
+Okay I'll give it<LF>
+back. We migh' steal<LF>
+but we don' lie!<Button><CR>
+!---------------------!
+<Jmp: 0 202><@PointerIdx202>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 0 54 1>Lan got:<LF>
+"<ItemTbl: 0 54 0>!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
+!*********************!
+<@PointerIdx203>
+<Char: 0 29><0xF1: 0>Tha's dit fer me.<LF>
+No more stealin'!<LF>
+I's goin' straight!<Button><EB>
+!*********************!
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>The bus stop to the<LF>
+airport. Want to<LF>
+wait for the bus?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 128 221 255 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>Where will you go<LF>
+in the airport?<Button><CR>
+!---------------------!
+<Arrow: 0 17><Pos: 0 2>Departure lobby<LF>
+<Arrow: 17 0><Pos: 0 2>Arrival lobby<CondJmp: 6 192 222 255 255>
+!---------------------!
+...Waited and the<LF>
+bus came!<0xEA: 0 30 0><0xfb>r2<EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>...Waited and the<LF>
+bus came!<0xEA: 0 30 0><0xfb>r1<EB>
+!*********************!
+<@PointerIdx223>
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

@@ -249,7 +249,7 @@ the mother computer.<Button><EB>
 <@PointerIdx78>
 <@PointerIdx79>
 <@PointerIdx80>
-<0xf6>2x0<0xff><0xff><0x51><0xF2: 0 107 2><0xEA: 0 1 0><EB>
+<0xF6: 3 34 1 255 255 81><0xF2: 0 107 2><0xEA: 0 1 0><EB>
 !*********************!
 <@PointerIdx81>
 <Char: 0 23><0xF1: 0>I'm busy right now.<Button><CR>
@@ -740,14 +740,14 @@ chamber.<Button><EB>
 <@PointerIdx238>
 <@PointerIdx239>
 <@PointerIdx240>
-<0xF1: 0>A note from Dad<0x44><Button><CR>
+<0xF1: 0>A note from Dad:<Button><CR>
 !---------------------!
 "Sorry I'm not here.<LF>
 Use this battlechip.<LF>
 It'll do you good".<Button><CR>
 !---------------------!
-<0xF3: 0 85 2 241 255><0xF2: 0 85 2><0xf8>3n<0xf6>f<0x77> 70Lan got a chip for<LF>
-"<0xf9> <0x77>0 <0xf9> 72!!"<0xf8>b<0xf8>f<Button><EB>
+<0xF3: 0 85 2 241 255><0xF2: 0 85 2><0xF8: 4 24><0xF6: 16 119 0 8 1>Lan got a chip for<LF>
+"<ItemTbl: 0 119 1> <ItemTbl: 0 8 3>!!"<0xF8: 12><0xF8: 16><Button><EB>
 !*********************!
 <@PointerIdx241>
 <EB>
@@ -758,8 +758,8 @@ It'll do you good".<Button><CR>
 Lan searches<LF>
 through his pockets.<Button><CR>
 !---------------------!
-<0xf8>3n<0xf6> <0x61>0Lan got a PowerUp<0x44><LF>
-"<0xf9> <0x61> !!"<0xf8>b<0xf8>f<Button><EB>
+<0xF8: 4 24><0xF6: 0 97 1>Lan got a PowerUp:<LF>
+"<ItemTbl: 0 97 0>!!"<0xF8: 12><0xF8: 16><Button><EB>
 !*********************!
 <@PointerIdx243>
 <@PointerIdx244>

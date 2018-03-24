@@ -610,8 +610,8 @@ her,Lan. Here's your<LF>
 reward!<Button><CR>
 !---------------------!
 <Jmp: 0 193><@PointerIdx193>
-<Char: 1 241> <0xf8> <0xf8>3n<0xf6> <0x62>0Lan got a PowerUp<0x44><LF>
-"<0xf9> <0x62> !!"<0xf8>b<0xf8>7<Button><CR>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 0 98 1>Lan got a PowerUp:<LF>
+"<ItemTbl: 0 98 0>!!"<0xF8: 12><0xF8: 8><Button><CR>
 !---------------------!
 Regular memory<LF>
 increased by 1 MB!!<Button><CR>
@@ -744,8 +744,8 @@ school starts again.<Button><0xF3: 0 59 1 240 255><CR>
 There's something<LF>
 inside this desk!<Button><CR>
 !---------------------!
-<0xF2: 0 59 1><0xf8>3n<0xf6>f<0x82> e0Lan got a chip for<LF>
-"<0xf9> <0x82>0 <0xf9> e2!!"<0xf8>b<0xf8>f<Button><EB>
+<0xF2: 0 59 1><0xF8: 4 24><0xF6: 16 130 0 15 1>Lan got a chip for<LF>
+"<ItemTbl: 0 130 1> <ItemTbl: 0 15 3>!!"<0xF8: 12><0xF8: 16><Button><EB>
 !*********************!
 <@PointerIdx232>
 <0xF1: 0>The teacher's desk.<Button><CR>

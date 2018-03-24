@@ -86,7 +86,7 @@ the ALicense exam!<Button><EB>
 <@PointerIdx29>
 <@PointerIdx30>
 <Char: 0 37><0xF1: 0>Will you try for the<LF>
-<0xf9> X  this time?<Button><CR>
+<ItemTbl: 0 60 0> this time?<Button><CR>
 !---------------------!
 Good luck!<Button><EB>
 !*********************!
@@ -116,7 +116,7 @@ give up.<Button><EB>
 <Char: 0 37><0xF1: 0>You passed?<LF>
 Congratulations!<Button><CR>
 !---------------------!
-Getting the <0xf9> X <LF>
+Getting the <ItemTbl: 0 60 0><LF>
 at your age is<LF>
 pretty amazing.<Button><EB>
 !*********************!

@@ -34,7 +34,7 @@ I'm already done!<Button><EB>
 <@PointerIdx22>
 <Char: 0 7><0xF1: 0>You're going to the<LF>
 Yumland zone? So you<LF>
-got an <0xf9> X ?<Button><CR>
+got an <ItemTbl: 0 60 0>?<Button><CR>
 !---------------------!
 Wow! I'm impressed,<LF>
 Lan!<Button><EB>
@@ -42,7 +42,7 @@ Lan!<Button><EB>
 <@PointerIdx23>
 <@PointerIdx24>
 <Char: 0 7><0xF1: 0>Maybe I should try<LF>
-out for my <0xf9> X ,<LF>
+out for my <ItemTbl: 0 60 0>,<LF>
 too?<Button><EB>
 !*********************!
 <@PointerIdx25>

@@ -277,7 +277,7 @@ Try again?<LF>
 early to go to bed?<Button><EB>
 !*********************!
 <@PointerIdx230>
-<0xf6>2W0<0xe0><0xe0><0xe5><EB>
+<0xF6: 3 59 1 224 224 229><EB>
 !*********************!
 <@PointerIdx231>
 <0xF3: 4 0 7 255 225><0xF2: 0 58 2><Jmp: 0 225><@PointerIdx232>

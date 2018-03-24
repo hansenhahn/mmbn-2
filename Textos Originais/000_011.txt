@@ -54,8 +54,8 @@ world!<Button><EB>
 !*********************!
 <@PointerIdx11>
 <0xF2: 0 48 0><0xF1: 1><0xEA: 255 0 0><@PointerIdx12>
-<0xF2: 0 53 0><0xF2: 4 49 0><Char: 1 241> <0xf8> <0xf8>3n<0xf6> '0Lan got<0x44><LF>
-"<0xf9> ' !!"<0xf8>b<0xf8>f<0xf8>7<Button><CR>
+<0xF2: 0 53 0><0xF2: 4 49 0><Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 0 83 1>Lan got:<LF>
+"<ItemTbl: 0 83 0>!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx13>
 <0xF2: 0 54 0><0xF2: 4 50 0><EB>
@@ -178,7 +178,7 @@ Now that's hi-tech!<Button><EB>
 !*********************!
 <@PointerIdx42>
 <0xF3: 4 16 21 52 255><Char: 0 8><0xF1: 0>I wrote a song for<LF>
-Ribitta. Listen<0x44><Button><CR>
+Ribitta. Listen:<Button><CR>
 !---------------------!
 Cute <0xEA: 1 10 0>Cute <0xEA: 1 20 0>Ribi<0xEA: 1 20 0>tta!<0xEA: 1 20 0><LF>
 R!<0xEA: 1 10 0>I!<0xEA: 1 10 0>B!<0xEA: 1 10 0>I!<0xEA: 1 10 0>T!<0xEA: 1 20 0>TA!<0xEA: 1 30 0><LF>
@@ -386,8 +386,8 @@ continue my work.<Button><EB>
 You can have it.<Button><CR>
 !---------------------!
 <Jmp: 0 73><@PointerIdx73>
-<Char: 1 241> <0xf8> <0xf8>3n<0xf6>f<0x87> n0Lan got a chip for<LF>
-"<0xf9> <0x87>0 <0xf9> n2!!"<0xf8>b<0xf8>7<Button><EB>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 16 135 0 24 1>Lan got a chip for<LF>
+"<ItemTbl: 0 135 1> <ItemTbl: 0 24 3>!!"<0xF8: 12><0xF8: 8><Button><EB>
 !*********************!
 <@PointerIdx74>
 <Char: 0 17><0xF1: 0>It's gone...<Button><EB>
@@ -772,8 +772,8 @@ Here's your reward.<LF>
 Take it.<Button><CR>
 !---------------------!
 <Jmp: 0 195><@PointerIdx195>
-<Char: 1 241> <0xf8> <0xf8>3n<0xf6> <0x60>0Lan got a PowerUp<0x44><LF>
-"<0xf9> <0x60> !!"<0xf8>b<0xf8>7<Button><CR>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 0 96 1>Lan got a PowerUp:<LF>
+"<ItemTbl: 0 96 0>!!"<0xF8: 12><0xF8: 8><Button><CR>
 !---------------------!
 <Jmp: 0 196><@PointerIdx196>
 <Char: 0 39><0xF1: 0>You look sharp.<LF>
@@ -793,7 +793,7 @@ Huh? A letter?<Button><CR>
 !---------------------!
 <Jmp: 0 199><@PointerIdx199>
 <Char: 1 241> Lan delivered<LF>
-"<0xf9> P !!"<0xf6>0P0<Button><CR>
+"<ItemTbl: 0 52 0>!!"<0xF6: 1 52 1><Button><CR>
 !---------------------!
 <Jmp: 0 200><@PointerIdx200>
 <Char: 0 19><0xF1: 0>Let's have a look.<Button><CR>

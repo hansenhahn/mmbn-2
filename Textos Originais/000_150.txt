@@ -1,0 +1,368 @@
+<@PointerIdx0>
+<@PointerIdx1>
+<@PointerIdx2>
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<0xF3: 8 12 255 182><Char: 0 75><0xF1: 0>I'm a Netdealer...<LF>
+Wanna see my stuff?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 0 255 181 255>
+!---------------------!
+<0xfb>jb<@PointerIdx181>
+<CR>
+!---------------------!
+Come again!<Button><EB>
+!*********************!
+<@PointerIdx182>
+<Char: 0 75><0xF1: 0>I'm a Netdealer,<LF>
+but I don't have<LF>
+anything right now.<Button><EB>
+!*********************!
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<0xF6: 3 37 1 255 255 211><Char: 1 241> MegaMan used:<LF>
+"<ItemTbl: 0 37 0>!"<Button><CR>
+!---------------------!
+The ice shattered<LF>
+with a loud crack!<Button><CR>
+!---------------------!
+<0xF2: 0 100 2><0xEA: 0 18 0>A virus appeared<LF>
+from the broken ice!<Button><CR>
+!---------------------!
+<0xF2: 0 123 2><0xfb>b<0xff>  000E-q<@PointerIdx211>
+<Char: 1 241> MegaMan isn't strong<LF>
+enough to break this<LF>
+ice!<Button><EB>
+!*********************!
+<@PointerIdx212>
+<0xF6: 3 37 1 255 255 213><Char: 1 241> MegaMan used:<LF>
+"<ItemTbl: 0 37 0>!"<Button><CR>
+!---------------------!
+The ice shattered<LF>
+with a loud crack!<Button><CR>
+!---------------------!
+<0xF2: 0 101 2><0xEA: 0 18 0>A virus appeared<LF>
+from the broken ice!<Button><CR>
+!---------------------!
+<0xF2: 0 123 2><0xfb>b<0xff>  000F-q<@PointerIdx213>
+<Char: 1 241> MegaMan isn't strong<LF>
+enough to break this<LF>
+ice!<Button><EB>
+!*********************!
+<@PointerIdx214>
+<Char: 1 241> MegaMan isn't strong<LF>
+enough to break this<LF>
+ice!<Button><EB>
+!*********************!
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>We'd best pull back,<LF>
+for our own sakes.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>If those guys up<LF>
+there get any<LF>
+closer,we've had it.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<@PointerIdx223>
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<0xF1: 0>MegaMan accessed the<LF>
+mystery data.<0xEA: 0 10 0>.<0xEA: 0 10 0>.<0xEA: 0 10 0><Button><CR>
+!---------------------!
+<0xF2: 0 248 5><0xF8: 0><0xF8: 4 24><0xF6: 0 69 1>MegaMan got:<LF>
+"<ItemTbl: 0 69 0>!!"<LF>
+<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx231>
+<0xF1: 0>MegaMan accessed the<LF>
+mystery data.<0xEA: 0 10 0>.<0xEA: 0 10 0>.<0xEA: 0 10 0><Button><CR>
+!---------------------!
+<0xF2: 0 249 5><0xF8: 0><0xF8: 4 24><0xF6: 0 99 1>MegaMan got a<LF>
+PowerUp:<LF>
+"<ItemTbl: 0 99 0>!!"<0xF8: 12><0xF8: 8><Button><CR>
+!---------------------!
+Regular memory<LF>
+increased by 2 MB!!<Button><EB>
+!*********************!
+<@PointerIdx232>
+<0xF1: 0>MegaMan accessed the<LF>
+mystery data.<0xEA: 0 10 0>.<0xEA: 0 10 0>.<0xEA: 0 10 0><Button><CR>
+!---------------------!
+<0xF3: 0 96 8 255 233>The subchip<LF>
+"<ItemTbl: 0 115 0>"<LF>
+was activated!!<Button><CR>
+!---------------------!
+The virus hidden<LF>
+in the mystery data<LF>
+was deleted!!<Button><CR>
+!---------------------!
+<Jmp: 0 233><@PointerIdx233>
+<0xF2: 0 250 5><Jmp: 131 32><0x40> v<0xEA: 235 0 236><0xF2: 4 96 8><@PointerIdx234>
+<0xF1: 0>It was a virus<LF>
+in disguise!!<Button><CR>
+!---------------------!
+<0xfb>7<EB>
+!*********************!
+<@PointerIdx235>
+<0xF1: 0><0xfb>3em m m m n n n n o o o o vfvfvfvf<0xF8: 0><0xF8: 4 24>MegaMan got a<LF>
+chip for<LF>
+"<ItemTbl: 0 0 17> <ItemTbl: 0 0 35>!!"<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx236>
+<0xF1: 0><0xfb> e<0x84>2  <0x84>2  <0x84>2  <0x84>2  <0xb0>3  <0xb0>3  <0xb0>3  <0xb0>3  <0xb0>3  <0xd0>6  <0xd0>6  <0xdc>4  <0xd0>6  <0xd0>6  <0xb8>a  <0xb8>a  <0xF8: 0><0xF8: 4 24>MegaMan got:<LF>
+"<ItemTbl: 12 0 1> zennys!!"<LF>
+<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx237>
+<0xF1: 0>MegaMan accessed the<LF>
+mystery data.<0xEA: 0 10 0>.<0xEA: 0 10 0>.<0xEA: 0 10 0><Button><CR>
+!---------------------!
+<0xF3: 0 96 8 255 238>The subchip<LF>
+"<ItemTbl: 0 115 0>"<LF>
+was activated!!<Button><CR>
+!---------------------!
+The virus hidden<LF>
+in the mystery data<LF>
+was deleted!<Button><CR>
+!---------------------!
+<Jmp: 0 238><@PointerIdx238>
+<0xF2: 0 251 5><Jmp: 131 32><0x40> v<Arrow: 240 0><0xF1: 242>3<0x60>7<@PointerIdx239>
+<0xF1: 0>It was a virus<LF>
+in disguise!!<Button><CR>
+!---------------------!
+<0xfb>7<EB>
+!*********************!
+<@PointerIdx240>
+<0xF1: 0><0xfb>3em m m m n n n n o o o o vfvfvfvf<0xF8: 0><0xF8: 4 24>MegaMan got a<LF>
+chip for<LF>
+"<ItemTbl: 0 0 17> <ItemTbl: 0 0 35>!!"<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx241>
+<0xF1: 0><0xfb> e<0x84>2  <0x84>2  <0x84>2  <0x84>2  <0xb0>3  <0xb0>3  <0xb0>3  <0xb0>3  <0xb0>3  <0xd0>6  <0xd0>6  <0xdc>4  <0xd0>6  <0xd0>6  <0xb8>a  <0xb8>a  <0xF8: 0><0xF8: 4 24>MegaMan got:<LF>
+"<ItemTbl: 12 0 1> zennys!!"<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

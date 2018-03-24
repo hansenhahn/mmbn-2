@@ -377,7 +377,7 @@ flower vases.<Button><EB>
 !*********************!
 <@PointerIdx221>
 <0xF1: 0>Mom's latest<LF>
-challenge<0x44> the<LF>
+challenge: the<LF>
 perfect cheesecake.<Button><CR>
 !---------------------!
 She's going to keep<LF>

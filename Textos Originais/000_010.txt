@@ -11,7 +11,7 @@ it could be?<Button><EB>
 <@PointerIdx3>
 <@PointerIdx4>
 <@PointerIdx5>
-<0xF3: 0 142 2 6 255><0xF3: 0 45 2 255 7><Char: 0 2><0xF1: 0>A <0xf9> 2 ,huh?<0xEA: 1 30 0><LF>
+<0xF3: 0 142 2 6 255><0xF3: 0 45 2 255 7><Char: 0 2><0xF1: 0>A <ItemTbl: 0 3 0>,huh?<0xEA: 1 30 0><LF>
 She'd probably hide<LF>
 it out of sight.<Button><EB>
 !*********************!
@@ -253,7 +253,7 @@ F-Fine then...<LF>
 I figured as much.<Button><EB>
 !*********************!
 <@PointerIdx191>
-<0xf6>O.<0xc3>  <0xff><0xff><0xc4><0xf6>M.<0xc3>  <0xff><0xff><0xff><0xF2: 0 143 12><0xF2: 4 82 0><Char: 0 46><0xF1: 0>You'll loan me the<LF>
+.<0xc3>  <0xff><0xff><0xc4>.<0xc3>  <0xff><0xff><0xff><0xF2: 0 143 12><0xF2: 4 82 0><Char: 0 46><0xF1: 0>You'll loan me the<LF>
 money? Thanks!!<Button><CR>
 !---------------------!
 Just make a bank<LF>
@@ -313,8 +313,8 @@ Here,this is for<LF>
 you,kid!<Button><CR>
 !---------------------!
 <Jmp: 0 194><@PointerIdx194>
-<Char: 1 241> <0xf8> <0xf8>3n<0xf6>L<0xa0><0x86>0 <0xff><0xff><0xff>Lan got<0x44><LF>
-"100000 zennys!!"<Button><0xf8>b<0xf8>f<0xf8>7<EB>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 48 160 134 1 0 255 255 255>Lan got:<LF>
+"100000 zennys!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
 !*********************!
 <@PointerIdx195>
 <Char: 0 46><0xF1: 0>Celebratings's hard<LF>

@@ -171,7 +171,7 @@ get licenses from<LF>
 the Official Center!<Button><CR>
 !---------------------!
 What? You got your<LF>
-<0xf9> V  already?<LF>
+<ItemTbl: 0 58 0> already?<LF>
 Wow! Cool!<Button><EB>
 !*********************!
 <@PointerIdx26>
@@ -762,8 +762,8 @@ I can tell you're on<LF>
 your way to the top.<Button><CR>
 !---------------------!
 <Jmp: 0 102><@PointerIdx102>
-<Char: 1 241> <0xf8> <0xf8>3n<0xf6> <0x62>0Lan got a PowerUp<0x44><LF>
-"<0xf9> <0x62> !!"<0xf8>b<0xf8>f<0xf8>7<Button><CR>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 0 98 1>Lan got a PowerUp:<LF>
+"<ItemTbl: 0 98 0>!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
 !---------------------!
 Regular memory<LF>
 increased by 1 MB!!<Button><EB>
@@ -779,7 +779,7 @@ Got it?<Button><EB>
 <@PointerIdx104>
 <@PointerIdx105>
 <Char: 0 26><0xF1: 0>Wow! You got a<LF>
-<0xf9> X ?<LF>
+<ItemTbl: 0 60 0>?<LF>
 That's cool!<Button><CR>
 !---------------------!
 Show it to me!<Button><EB>
@@ -897,7 +897,7 @@ Seems I just wasn't<LF>
 cut out for the job.<Button><CR>
 !---------------------!
 Where was that<LF>
-<0xf9> 0 ,anyway?<Button><EB>
+<ItemTbl: 0 1 0>,anyway?<Button><EB>
 !*********************!
 <@PointerIdx118>
 <Char: 0 16><0xF1: 0>What? Do I know<LF>
@@ -1032,7 +1032,7 @@ expect someone to<LF>
 be there for you...<Button><EB>
 !*********************!
 <@PointerIdx139>
-<0xF3: 0 93 2 142 255><0xf6>2h0<0x8d><0x8d><0xff><Char: 0 15><0xF1: 0>Huh? You mean the<LF>
+<0xF3: 0 93 2 142 255><0xF6: 3 18 1 141 141 255><Char: 0 15><0xF1: 0>Huh? You mean the<LF>
 girl that hangs<LF>
 out with me?<Button><CR>
 !---------------------!
@@ -1061,8 +1061,8 @@ the mountains!<Button><CR>
 Thanks a lot,kiddo.<Button><CR>
 !---------------------!
 <Jmp: 0 140><@PointerIdx140>
-<Char: 1 241> <0xf8> <0xf8>3n<0xf6> h0Lan got<0x44><LF>
-"<0xf9> h !!"<Button><0xf8>b<0xf8>f<0xf8>7<EB>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 0 18 1>Lan got:<LF>
+"<ItemTbl: 0 18 0>!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
 !*********************!
 <@PointerIdx141>
 <Char: 0 15><0xF1: 0>Like I said,my wife<LF>
@@ -1245,11 +1245,11 @@ Don't mean to be<LF>
 pushy or anything...<Button><CR>
 !---------------------!
 But you don't have a<LF>
-"<0xf9> N0 <0xf9> 82"<LF>
+"<ItemTbl: 0 50 1> <ItemTbl: 0 9 3>"<LF>
 do ya?<Button><CR>
 !---------------------!
 If ya do,I'll trade<LF>
-my "<0xf9> 60 <0xf9> p2"<LF>
+my "<ItemTbl: 0 7 1> <ItemTbl: 0 26 3>"<LF>
 for it!<Button><CR>
 !---------------------!
 It'd make a great<LF>
@@ -1264,13 +1264,13 @@ tried. I'll ask<LF>
 around. Thanks!<Button><EB>
 !*********************!
 <@PointerIdx191>
-<0xf6>jN 80<0xff><0xff><0xc3><0xF2: 0 0 1><0xf6>gN 80<Char: 0 10><0xF1: 0>Now that's what<LF>
+N 80<0xff><0xff><0xc3><0xF2: 0 0 1>N 80<Char: 0 10><0xF1: 0>Now that's what<LF>
 friends are for!<LF>
 Here's yours...<Button><CR>
 !---------------------!
 <Jmp: 0 192><@PointerIdx192>
-<Char: 1 241> <0xf8> <0xf8>3n<0xf6>f6 p0Lan got a chip for<LF>
-"<0xf9> 60 <0xf9> p2!!"<0xf8>b<0xf8>7<Button><CR>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 16 7 0 26 1>Lan got a chip for<LF>
+"<ItemTbl: 0 7 1> <ItemTbl: 0 26 3>!!"<0xF8: 12><0xF8: 8><Button><CR>
 !---------------------!
 <Jmp: 0 193><@PointerIdx193>
 <Char: 0 10><0xF1: 0>Thanks! My bro's<LF>
@@ -1279,14 +1279,14 @@ gonna love this!<Button><EB>
 <@PointerIdx194>
 <Char: 0 10><0xF1: 0>Yo,Lan! I can't seem<LF>
 to find a single<LF>
-"<0xf9> N0 <0xf9> 82".<Button><CR>
+"<ItemTbl: 0 50 1> <ItemTbl: 0 9 3>".<Button><CR>
 !---------------------!
 Wanna trade me?<LF>
 I'll give you a<LF>
-"<0xf9> 60 <0xf9> p2!"<Button><CR>
+"<ItemTbl: 0 7 1> <ItemTbl: 0 26 3>!"<Button><CR>
 !---------------------!
 C'mon,trade me your<LF>
-"<0xf9> N0 <0xf9> 82!"<LF>
+"<ItemTbl: 0 50 1> <ItemTbl: 0 9 3>!"<LF>
 Please?<Button><CR>
 !---------------------!
 <Arrow: 17 0><Pos: 0 2>OK <Arrow: 0 17><Pos: 0 2>NO!<CondJmp: 6 128 191 255 255>
@@ -1298,7 +1298,7 @@ keep looking...<Button><EB>
 <@PointerIdx195>
 <Char: 0 10><0xF1: 0>Say,Lan...you sure<LF>
 you don't have a<LF>
-"<0xf9> N0 <0xf9> 82"<Button><CR>
+"<ItemTbl: 0 50 1> <ItemTbl: 0 9 3>"<Button><CR>
 !---------------------!
 anywhere?<LF>
 Like in your chip<LF>
@@ -1373,8 +1373,8 @@ Here's your reward<LF>
 now.<Button><CR>
 !---------------------!
 <Jmp: 0 204><@PointerIdx204>
-<Char: 1 241> <0xf8> <0xf8>3n<0xf6>fZ n0Lan got a chip for<LF>
-"<0xf9> Z0 <0xf9> n2!!"<0xf8>b<0xf8>f<0xf8>7<Button><CR>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 16 62 0 24 1>Lan got a chip for<LF>
+"<ItemTbl: 0 62 1> <ItemTbl: 0 24 3>!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
 !---------------------!
 <Jmp: 0 205><@PointerIdx205>
 <Char: 0 18><0xF1: 0>Actually,I'm a<LF>

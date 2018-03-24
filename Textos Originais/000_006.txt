@@ -56,8 +56,8 @@ for ya!<Button><EB>
 !*********************!
 <@PointerIdx11>
 <0xF2: 0 9 0><0xF1: 1><0xEA: 255 0 0><@PointerIdx12>
-<0xF2: 0 6 0><0xF2: 4 44 0><Char: 1 241> <0xf8> <0xf8>3n<0xf6> <0x51>0Lan got<0x44><LF>
-"<0xf9> <0x51> !!"<0xf8>b<0xf8>f<0xf8>7<Button><CR>
+<0xF2: 0 6 0><0xF2: 4 44 0><Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 0 81 1>Lan got:<LF>
+"<ItemTbl: 0 81 0>!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx13>
 <0xF2: 0 7 0><0xF2: 4 45 0><EB>
@@ -139,14 +139,14 @@ it's battle time!<Button><CR>
 <@PointerIdx43>
 <@PointerIdx44>
 <@PointerIdx45>
-<0xF3: 0 62 2 48 255><0xf6>2r0JJ<0xff><0xF2: 0 62 2><Jmp: 0 48><@PointerIdx46>
-<0xF2: 0 62 2><0xf6>0r0<Char: 0 2><0xF1: 0>Yo,Lan! How was it<LF>
+<0xF3: 0 62 2 48 255><0xF6: 3 28 1 46 46 255><0xF2: 0 62 2><Jmp: 0 48><@PointerIdx46>
+<0xF2: 0 62 2><0xF6: 1 28 1><Char: 0 2><0xF1: 0>Yo,Lan! How was it<LF>
 in Netopia?<Button><CR>
 !---------------------!
 A present? For me?<Button><CR>
 !---------------------!
 Whoa! It's that<LF>
-<0xf9> r <LF>
+<ItemTbl: 0 28 0><LF>
 I've been wanting!<Button><CR>
 !---------------------!
 Leave it to Lan to<LF>
@@ -158,8 +158,8 @@ I couldn't give you<LF>
 something,too. Here!<Button><CR>
 !---------------------!
 <Jmp: 0 47><@PointerIdx47>
-<Char: 1 241> <0xf8> <0xf8>3n<0xf6>fI 20Lan got a chip for<LF>
-"<0xf9> I0 <0xf9> 22!!"<0xf8>b<0xf8>7<Button><EB>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 16 45 0 3 1>Lan got a chip for<LF>
+"<ItemTbl: 0 45 1> <ItemTbl: 0 3 3>!!"<0xF8: 12><0xF8: 8><Button><EB>
 !*********************!
 <@PointerIdx48>
 <Char: 0 2><0xF1: 0>Lan! So,to honor<LF>

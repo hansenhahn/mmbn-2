@@ -1,5 +1,5 @@
 <@PointerIdx0>
-<0xF3: 4 64 72 140 255><0xF3: 4 61 61 130 255><0xF3: 4 58 60 120 255><0xF3: 4 56 57 110 255><0xF3: 4 55 55 100 255><0xF3: 4 32 47 80 255><0xF3: 4 17 17 40 255><0xF3: 4 16 31 30 255><0xf6>2W0ee<0xff><0xf6>23066<0xff><0xF3: 0 78 2 255 15><Char: 0 37><0xF1: 0>Welcome to the<LF>
+<0xF3: 4 64 72 140 255><0xF3: 4 61 61 130 255><0xF3: 4 58 60 120 255><0xF3: 4 56 57 110 255><0xF3: 4 55 55 100 255><0xF3: 4 32 47 80 255><0xF3: 4 17 17 40 255><0xF3: 4 16 31 30 255><0xF6: 3 59 1 15 15 255><0xF6: 3 4 1 7 7 255><0xF3: 0 78 2 255 15><Char: 0 37><0xF1: 0>Welcome to the<LF>
 Center.<Button><CR>
 !---------------------!
 What do you want? <0xEA: 1 30 0>Oh<LF>
@@ -25,33 +25,33 @@ you the test form.<Button><EB>
 !*********************!
 <@PointerIdx2>
 <Char: 0 37><0xF1: 0>Oh,you've got a<LF>
-<0xf9> V  <0xEA: 1 30 0>I'm<LF>
+<ItemTbl: 0 58 0> <0xEA: 1 30 0>I'm<LF>
 sorry I doubted you.<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<Char: 1 241> <0xf8> <0xf8>3n<0xf6> 30Lan got<0x44><LF>
-"<0xf9> 3 !!"<0xf8>b<0xf8>f<0xf8>7<Button><CR>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 0 4 1>Lan got:<LF>
+"<ItemTbl: 0 4 0>!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx4>
 <0xF3: 0 78 2 255 16><Char: 0 36><0xF1: 0>Only NetBattlers<LF>
 with B or better<LF>
 licenses in here.<Button><CR>
 !---------------------!
-A <0xf9> V  won't cut<LF>
+A <ItemTbl: 0 58 0> won't cut<LF>
 it. You need a test<LF>
 form to get in.<Button><EB>
 !*********************!
 <@PointerIdx5>
-<0xF3: 4 61 61 131 255><0xF3: 4 56 57 111 255><0xF3: 4 55 55 101 255><0xF3: 4 21 21 50 255><0xF3: 4 20 20 44 255><0xF3: 4 16 19 32 255><0xf6>2W0jj<0xff><0xf6>23055<0xff><0xF3: 0 78 2 255 16><Char: 0 36><0xF1: 0>Where are you going?<LF>
+<0xF3: 4 61 61 131 255><0xF3: 4 56 57 111 255><0xF3: 4 55 55 101 255><0xF3: 4 21 21 50 255><0xF3: 4 20 20 44 255><0xF3: 4 16 19 32 255><0xF6: 3 59 1 20 20 255><0xF6: 3 4 1 6 6 255><0xF3: 0 78 2 255 16><Char: 0 36><0xF1: 0>Where are you going?<LF>
 Only B or better<LF>
 licenses in here.<Button><CR>
 !---------------------!
-A <0xf9> V  won't cut<LF>
+A <ItemTbl: 0 58 0> won't cut<LF>
 it. You need a test<LF>
 form to get in.<Button><EB>
 !*********************!
 <@PointerIdx6>
-<Char: 0 36><0xF1: 0>You got a <0xf9> 3 ?<LF>
+<Char: 0 36><0xF1: 0>You got a <ItemTbl: 0 4 0>?<LF>
 Then through here.<Button><EB>
 !*********************!
 <@PointerIdx7>
@@ -113,11 +113,11 @@ to our land!<Button><EB>
 Center.<Button><EB>
 !*********************!
 <@PointerIdx16>
-<0xf6>23055<0xff><Char: 0 36><0xF1: 0>Where are you going?<LF>
+<0xF6: 3 4 1 6 6 255><Char: 0 36><0xF1: 0>Where are you going?<LF>
 Only B or better<LF>
 licenses in here.<Button><CR>
 !---------------------!
-If you've a <0xf9> V <LF>
+If you've a <ItemTbl: 0 58 0><LF>
 you'll get a BLicense<LF>
 test notice soon.<Button><EB>
 !*********************!
@@ -247,14 +247,14 @@ My you're ambitious!<Button><EB>
 <@PointerIdx43>
 <@PointerIdx44>
 <Char: 0 36><0xF1: 0>So you got an<LF>
-<0xf9> X ?<Button><CR>
+<ItemTbl: 0 60 0>?<Button><CR>
 !---------------------!
 That's amazing. Keep<LF>
 working on improving<LF>
 your skills,now.<Button><EB>
 !*********************!
 <@PointerIdx45>
-<Char: 0 39><0xF1: 0>You got an <0xf9> X ?<LF>
+<Char: 0 39><0xF1: 0>You got an <ItemTbl: 0 60 0>?<LF>
 A student like you?<Button><CR>
 !---------------------!
 Almost like Chaud.<LF>
@@ -274,7 +274,7 @@ Ha ha ha!<Button><EB>
 <@PointerIdx47>
 <Char: 0 15><0xF1: 0>Have you heard? Some<LF>
 kid got the<LF>
-<0xf9> X .<Button><EB>
+<ItemTbl: 0 60 0>.<Button><EB>
 !*********************!
 <@PointerIdx48>
 <Char: 0 13><0xF1: 0>Now that's amazing!<Button><CR>
@@ -525,7 +525,7 @@ as bad as that?!<Button><CR>
 This is awful!<Button><EB>
 !*********************!
 <@PointerIdx80>
-<0xf6>2m0<0x58><0x58><0xff><0xF3: 0 3 2 81 255><Char: 0 37><0xF1: 0>Welcome to the<LF>
+<0xF6: 3 23 1 88 88 255><0xF3: 0 3 2 81 255><Char: 0 37><0xF1: 0>Welcome to the<LF>
 Center. Can we help<LF>
 you?<Button><CR>
 !---------------------!
@@ -545,7 +545,7 @@ right.<Button><EB>
 bit short to date.<Button><EB>
 !*********************!
 <@PointerIdx83>
-<0xf6>2m0<0x57><0x57><0xff><0xF3: 0 3 2 84 255><Char: 0 37><0xF1: 0>Please start at<LF>
+<0xF6: 3 23 1 87 87 255><0xF3: 0 3 2 84 255><Char: 0 37><0xF1: 0>Please start at<LF>
 reception.<Button><EB>
 !*********************!
 <@PointerIdx84>
@@ -560,8 +560,8 @@ that computer.<Button><CR>
 <0xfa>7<Char: 0 37><0xF1: 0>There,it's done!<Button><CR>
 !---------------------!
 <Jmp: 0 85><@PointerIdx85>
-<Char: 1 241> <0xf8> <0xf8>3n<0xf6> m0Lan got<0x44><LF>
-"<0xf9> m !!"<0xf8>b<0xf8>f<0xf8>7<Button><CR>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 0 23 1>Lan got:<LF>
+"<ItemTbl: 0 23 0>!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
 !---------------------!
 <Jmp: 0 86><@PointerIdx86>
 <Char: 0 37><0xF1: 0>The passport is<LF>
@@ -627,7 +627,7 @@ beat Gospel.<Button><EB>
 <@PointerIdx94>
 <0xF3: 4 64 72 143 255><Char: 0 13><0xF1: 0>We're all grateful.<Button><CR>
 !---------------------!
-But don't forget<0x44><Button><CR>
+But don't forget:<Button><CR>
 !---------------------!
 You beat Dark by<LF>
 working with Chaud<LF>
@@ -646,8 +646,8 @@ Take this. It won't<LF>
 do any good in my<LF>
 hands now...<Button><CR>
 !---------------------!
-<Char: 1 248> <0xf8>3n<0xf6>fs g0Lan got a chip for<LF>
-"<0xf9> s0 <0xf9> g2!!"<Button><0xf8>b<0xf8>f<0xf8>7<EB>
+<Char: 1 248> <0xF8: 4 24><0xF6: 16 29 0 17 1>Lan got a chip for<LF>
+"<ItemTbl: 0 29 1> <ItemTbl: 0 17 3>!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
 !*********************!
 <@PointerIdx100>
 <Char: 0 37><0xF1: 0>Welcome to<LF>
@@ -960,8 +960,8 @@ you're good! Here's<LF>
 a present!<Button><CR>
 !---------------------!
 <Jmp: 0 168><@PointerIdx168>
-<0xF2: 0 183 0><0xF2: 4 179 0><Char: 1 241> <0xf8> <0xf8>3n<0xf6> <0x60>0Lan got a PowerUp<0x44><LF>
-"<0xf9> <0x60> !!"<0xf8>b<0xf8>f<0xf8>7<Button><CR>
+<0xF2: 0 183 0><0xF2: 4 179 0><Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 0 96 1>Lan got a PowerUp:<LF>
+"<ItemTbl: 0 96 0>!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
 !---------------------!
 <Jmp: 0 173><@PointerIdx169>
 <0xF3: 0 184 0 174 255><Char: 0 21><0xF1: 0>Not bad! That was<LF>
@@ -973,8 +973,8 @@ use the folder!<Button><CR>
 Try this!<Button><CR>
 !---------------------!
 <Jmp: 0 170><@PointerIdx170>
-<0xF2: 0 184 0><0xF2: 4 180 0><Char: 1 241> <0xf8> <0xf8>3n<0xfb>P <0xfa> <0x85> Lan got<0x44><LF>
-"Famous's Folder!!"<0xf8>b<0xf8>f<0xf8>7<Button><CR>
+<0xF2: 0 184 0><0xF2: 4 180 0><Char: 1 241> <0xF8: 0><0xF8: 4 24><0xfb>P <0xfa> <0x85> Lan got:<LF>
+"Famous's Folder!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
 !---------------------!
 <Jmp: 0 179><EB>
 !*********************!
@@ -1055,14 +1055,14 @@ My bath program is<LF>
 busted.<Button><CR>
 !---------------------!
 So I want<LF>
-"<0xf9> p0 <0xf9> 42".<Button><CR>
+"<ItemTbl: 0 26 1> <ItemTbl: 0 5 3>".<Button><CR>
 !---------------------!
 No matter how hot it<LF>
 is,bathing outside's<LF>
 for the birds!<Button><CR>
 !---------------------!
 Swap for my<LF>
-"<0xf9> B0 <0xf9> a2?"<LF>
+"<ItemTbl: 0 38 1> <ItemTbl: 0 11 3>?"<LF>
 <Arrow: 17 0><Pos: 0 2>All right <Arrow: 0 17><Pos: 0 2>No!<CondJmp: 6 128 191 255 255>
 !---------------------!
 Hey,you! This is a<LF>
@@ -1075,15 +1075,15 @@ through with it and<LF>
 swap chips!<Button><EB>
 !*********************!
 <@PointerIdx191>
-<0xf6>jp 40<0xff><0xff><0xc3><0xF2: 4 82 0><0xf6>gp 40<Char: 0 14><0xF1: 0>You'll do it? Oh,<LF>
+p 40<0xff><0xff><0xc3><0xF2: 4 82 0>p 40<Char: 0 14><0xF1: 0>You'll do it? Oh,<LF>
 yer a darlin'!<Button><CR>
 !---------------------!
 Here you go,as<LF>
 promised. Take it.<Button><CR>
 !---------------------!
 <Jmp: 0 192><@PointerIdx192>
-<Char: 1 241> <0xf8> <0xf8>3n<0xf6>fB a0Lan got a chip for<LF>
-"<0xf9> B0 <0xf9> a2!!"<0xf8>b<0xf8>7<Button><CR>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 16 38 0 11 1>Lan got a chip for<LF>
+"<ItemTbl: 0 38 1> <ItemTbl: 0 11 3>!!"<0xF8: 12><0xF8: 8><Button><CR>
 !---------------------!
 <Jmp: 0 193><@PointerIdx193>
 <0xF2: 0 133 12><Char: 0 14><0xF1: 0>Now I can have a hot<LF>
@@ -1091,10 +1091,10 @@ bath again.<Button><EB>
 !*********************!
 <@PointerIdx194>
 <Char: 0 14><0xF1: 0>Did you bring<LF>
-"<0xf9> p0 <0xf9> 42?"<Button><CR>
+"<ItemTbl: 0 26 1> <ItemTbl: 0 5 3>?"<Button><CR>
 !---------------------!
 Swap for my<LF>
-"<0xf9> B0 <0xf9> a2?"<LF>
+"<ItemTbl: 0 38 1> <ItemTbl: 0 11 3>?"<LF>
 <Arrow: 17 0><Pos: 0 2>All right <Arrow: 0 17><Pos: 0 2>No!<CondJmp: 6 128 191 255 255>
 !---------------------!
 Hey,you! This is a<LF>
@@ -1108,7 +1108,7 @@ swap chips!<Button><EB>
 !*********************!
 <@PointerIdx195>
 <Char: 0 14><0xF1: 0>Sonny,have you got<LF>
-"<0xf9> p0 <0xf9> 42"<LF>
+"<ItemTbl: 0 26 1> <ItemTbl: 0 5 3>"<LF>
 in your pack?<Button><CR>
 !---------------------!
 It's not in your<LF>

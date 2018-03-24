@@ -40,14 +40,14 @@ all right!<Button><EB>
 <@PointerIdx33>
 <@PointerIdx34>
 <@PointerIdx35>
-<0xF3: 0 64 2 39 255><0xf6>2s0zz<0xff><0xF2: 0 64 2><Char: 0 7><0xF1: 0>Welcome back,Lan!<LF>
+<0xF3: 0 64 2 39 255><0xF6: 3 29 1 36 36 255><0xF2: 0 64 2><Char: 0 7><0xF1: 0>Welcome back,Lan!<LF>
 I heard you were<LF>
 busy in Netopia!<Button><CR>
 !---------------------!
 Nice going!<Button><EB>
 !*********************!
 <@PointerIdx36>
-<0xF2: 0 64 2><0xf6>0s0<Char: 0 7><0xF1: 0>Welcome back,Lan!<LF>
+<0xF2: 0 64 2><0xF6: 1 29 1><Char: 0 7><0xF1: 0>Welcome back,Lan!<LF>
 I heard you were<LF>
 busy in Netopia!<Button><CR>
 !---------------------!
@@ -66,8 +66,8 @@ Thank you,Lan!<Button><CR>
 from me in return...<Button><CR>
 !---------------------!
 <Jmp: 0 38><@PointerIdx38>
-<Char: 1 241> <0xf8> <0xf8>3n<0xf6>f<0x7f> e0Lan got a chip for<LF>
-"<0xf9> <0x7f>0 <0xf9> e2!!"<0xf8>b<0xf8>7<Button><EB>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 16 127 0 15 1>Lan got a chip for<LF>
+"<ItemTbl: 0 127 1> <ItemTbl: 0 15 3>!!"<0xF8: 12><0xF8: 8><Button><EB>
 !*********************!
 <@PointerIdx39>
 <Char: 0 7><0xF1: 0>It's good to have<LF>

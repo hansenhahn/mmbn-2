@@ -1,0 +1,709 @@
+<@PointerIdx0>
+<Char: 0 6><0xF1: 0>Try to restrain<LF>
+yourself from<LF>
+goofing off here.<Button><CR>
+!---------------------!
+People might think<LF>
+I'm a little brat<LF>
+too...<Button><0xF2: 0 38 2><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 54><0xF1: 0>My name is Princess<LF>
+Pride,the princess<LF>
+of Creamland.<Button><CR>
+!---------------------!
+My country,far to<LF>
+the north,owes its<LF>
+development to the<Button><CR>
+!---------------------!
+Net. I'm fighting to<LF>
+protect my people<LF>
+from Gospel.<Button><0xF2: 0 34 2><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 55><0xF1: 0>Hey,you...from<LF>
+yesterday...It's me,<LF>
+Raoul.<Button><CR>
+!---------------------!
+I'm representing my<LF>
+minority clan.<Button><CR>
+!---------------------!
+We must keep<LF>
+equality in both the<LF>
+real world and<Button><CR>
+!---------------------!
+cyberworld.<Button><0xF2: 0 35 2><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 49><0xF1: 0>I'm Johnson! The<LF>
+NetBattler-lover of<LF>
+freedom and peace!<Button><CR>
+!---------------------!
+Nice to meet you!<Button><0xF2: 0 36 2><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 51><0xF1: 0>Looks like I found<LF>
+the hidden passage.<Button><CR>
+!---------------------!
+The name's Jennifer,<LF>
+from South Netopia.<LF>
+Let's be friends!<Button><0xF2: 0 37 2><EB>
+!*********************!
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<Char: 0 64><0xF1: 0>It's gloomy there.<LF>
+The room's not rela-<LF>
+ted to the meeting.<Button><EB>
+!*********************!
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<Char: 0 22><0xF1: 0>You're Lan! Thanks<LF>
+to you,Netopia's<LF>
+safe!<Button><CR>
+!---------------------!
+You're a hero!<LF>
+Thank you!!<Button><EB>
+!*********************!
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<0xF3: 4 64 72 56 255><0xF3: 4 61 61 46 255><0xF3: 4 58 60 40 255><Char: 0 22><0xF1: 0>Each country around<LF>
+the world has its<LF>
+own calamity.<Button><CR>
+!---------------------!
+Electopia is facing<LF>
+earthquakes.<LF>
+Yumland,floods.<Button><CR>
+!---------------------!
+Netopia,powerful<LF>
+ultraviolet rays...<LF>
+Until recently,each<Button><CR>
+!---------------------!
+disaster has been<LF>
+suppressed by the<LF>
+Environment System.<Button><CR>
+!---------------------!
+But now,said system<LF>
+is mysteriously<LF>
+frozen. So all the<Button><CR>
+!---------------------!
+pent-up rage of Mot-<LF>
+her Nature is being<LF>
+released.<Button><CR>
+!---------------------!
+If we don't repair<LF>
+the system,and<LF>
+soon...<Button><CR>
+!---------------------!
+The world will face<LF>
+unprecedented<LF>
+calamity!<Button><EB>
+!*********************!
+<@PointerIdx36>
+<0xF3: 4 61 61 47 255><0xF3: 4 58 60 41 255><Char: 0 53><0xF1: 0>The UV rays searing<LF>
+all Netopia are many<LF>
+times normal levels.<Button><CR>
+!---------------------!
+When exposed for lo-<LF>
+ng periods of time,<LF>
+skin diseases occur.<Button><CR>
+!---------------------!
+Normally,even the<LF>
+most severe sunburn<LF>
+is only a light burn<Button><CR>
+!---------------------!
+However,sunburns of<LF>
+this magnitude are<LF>
+not so benign...<Button><CR>
+!---------------------!
+Intense UV rays are<LF>
+extremely harmful.<Button><CR>
+!---------------------!
+You should avoid<LF>
+going outside as<LF>
+much as possible.<Button><EB>
+!*********************!
+<@PointerIdx37>
+<0xF3: 4 64 72 55 255><0xF3: 4 61 61 48 255><0xF3: 4 58 60 42 255><Char: 0 45><0xF1: 0>This is terrible!<LF>
+We need to do<LF>
+something,quick...<Button><EB>
+!*********************!
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<Char: 0 22><0xF1: 0>It appears the ice<LF>
+on the Net was the<LF>
+source of these<Button><CR>
+!---------------------!
+troubles...We have<LF>
+to remove the ice,<LF>
+quick!<Button><CR>
+!---------------------!
+But how...<Button><EB>
+!*********************!
+<@PointerIdx41>
+<Char: 0 53><0xF1: 0>We haven't heard of<LF>
+any serious damage<LF>
+yet,but be alert!<Button><EB>
+!*********************!
+<@PointerIdx42>
+<Char: 0 45><0xF1: 0>The disasters in<LF>
+other countries are<LF>
+worsening as well...<Button><CR>
+!---------------------!
+What will the world<LF>
+come to!?<Button><EB>
+!*********************!
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<Char: 0 22><0xF1: 0>Hm...Somehow the<LF>
+Environment System's<LF>
+been repaired...<Button><CR>
+!---------------------!
+But who succeeded w-<LF>
+here the world's top<LF>
+scientists failed?<Button><EB>
+!*********************!
+<@PointerIdx47>
+<Char: 0 53><0xF1: 0>Th-thank heavens!!<Button><EB>
+!*********************!
+<@PointerIdx48>
+<Char: 0 45><0xF1: 0>Suddenly the ice's<LF>
+been broken,but I<LF>
+wonder how?<Button><CR>
+!---------------------!
+Oh well,what's impo-<LF>
+rtant is the disast-<LF>
+ers have stopped...<Button><EB>
+!*********************!
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<Char: 0 45><0xF1: 0>The official damage<LF>
+in Netopia is treme-<LF>
+ndously tremendous!<Button><CR>
+!---------------------!
+Anyway,it's big.<Button><CR>
+!---------------------!
+The reason of course<LF>
+is the virus damage,<LF>
+and the disasters.<Button><EB>
+!*********************!
+<@PointerIdx56>
+<Char: 0 22><0xF1: 0>Our Officials' pride<LF>
+is only ineffective<LF>
+against Gospel...<Button><CR>
+!---------------------!
+Netopia's relying on<LF>
+Mr.Raoul's assist-<LF>
+ance,but in reality<Button><CR>
+!---------------------!
+our biggest help is<LF>
+coming from the Ele-<LF>
+ctopian boy,Chaud.<Button><EB>
+!*********************!
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 18 1 193 255><0xF3: 0 17 1 191 255><0xF2: 0 17 1><Char: 0 22><0xF1: 0>Who called the Quiz<LF>
+Master? Who called<LF>
+the QuizMaster?<Button><CR>
+!---------------------!
+It's Quiz Time!<LF>
+Come on and do it!<LF>
+Cha-cha-cha!<Button><CR>
+!---------------------!
+They call me Quiz<LF>
+Master. Show me<LF>
+your knowledge!!<Button><CR>
+!---------------------!
+Answer my 10<LF>
+questions correctly,<Button><CR>
+!---------------------!
+and you win a<LF>
+luxurious prize!!<Button><CR>
+!---------------------!
+Now then,you ready!?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Bring it on! <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 128 194 255 255>
+!---------------------!
+Come anytime!<LF>
+I'll be waiting!<Button><EB>
+!*********************!
+<@PointerIdx191>
+<0xfa>v<Char: 0 22><0xF1: 0>Who called the Quiz<LF>
+Master? Who called<LF>
+the QuizMaster?<Button><CR>
+!---------------------!
+It's Quiz Time!<LF>
+Come on and do it!<LF>
+Cha-cha-cha!<Button><CR>
+!---------------------!
+What is it? You<LF>
+decided to challenge<LF>
+my quiz?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Bring it on! <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 128 194 255 255>
+!---------------------!
+Come anytime!<LF>
+I'll be waiting!<Button><EB>
+!*********************!
+<@PointerIdx192>
+<Char: 0 22><0xF1: 0><0xfa> n0<0xEA: 1 40 0>Too baaad!<Button><CR>
+!---------------------!
+But humans learn by<LF>
+making mistakes!<LF>
+Come back anytime!<Button><EB>
+!*********************!
+<@PointerIdx193>
+<Char: 0 22><0xF1: 0>Ho-Hoo! You're<LF>
+a sharp one baby!<Button><CR>
+!---------------------!
+But there's always<LF>
+someone better<LF>
+you know.<Button><CR>
+!---------------------!
+Think you can beat<LF>
+my master,the Quiz<LF>
+King?<Button><EB>
+!*********************!
+<@PointerIdx194>
+<0xfa>z<Char: 0 22><0xF1: 0>OK,here goes!<Button><CR>
+!---------------------!
+Question 1:<Button><CR>
+!---------------------!
+What's the popular<LF>
+announcer Ribitta's<LF>
+TV show name?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>DNN News<LF>
+<Arrow: 17 2><Pos: 0 2>CattleOx TV<LF>
+<Arrow: 34 16><Pos: 0 2>RaiShip TV<CondJmp: 7 192 255 192 192>
+!---------------------!
+<0xff><0xfa> <EB>
+!*********************!
+ <0xEA: 1 20 0>Correct! Here's<LF>
+the next question!<Button><CR>
+!---------------------!
+<Jmp: 0 195><@PointerIdx195>
+<0xfa>z<Char: 0 22><0xF1: 0>Question 2:<Button><CR>
+!---------------------!
+What's the name of<LF>
+the quick,rat-shaped<LF>
+virus?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Ratton<LF>
+<Arrow: 17 2><Pos: 0 2>Ratter<LF>
+<Arrow: 34 16><Pos: 0 2>Ratty<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xfa> <EB>
+!*********************!
+ <0xEA: 1 20 0>Correct! Here's<LF>
+the next question!<Button><CR>
+!---------------------!
+<Jmp: 0 196><@PointerIdx196>
+<0xfa>z<Char: 0 22><0xF1: 0>Question 3:<Button><CR>
+!---------------------!
+What advance occurs<LF>
+when Spreaders are<LF>
+in alphabet-order?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>PwdCanon<LF>
+<Arrow: 17 2><Pos: 0 2>H-Burst<LF>
+<Arrow: 34 16><Pos: 0 2>O-Canon1<CondJmp: 7 192 192 255 192>
+!---------------------!
+<0xff><0xfa> <EB>
+!*********************!
+ <0xEA: 1 20 0>Correct! Here's<LF>
+the next question!<Button><CR>
+!---------------------!
+<Jmp: 0 197><@PointerIdx197>
+<0xfa>z<Char: 0 22><0xF1: 0>Question 4:<Button><CR>
+!---------------------!
+What shape is Okud-<LF>
+en Valley's air-<LF>
+monitoring system?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Guardian<LF>
+<Arrow: 17 2><Pos: 0 2>Tent<LF>
+<Arrow: 34 16><Pos: 0 2>Bear<CondJmp: 7 192 255 192 192>
+!---------------------!
+<0xff><0xfa> <EB>
+!*********************!
+ <0xEA: 1 20 0>Correct! Here's<LF>
+the next question!<Button><CR>
+!---------------------!
+<Jmp: 0 198><@PointerIdx198>
+<0xfa>z<Char: 0 22><0xF1: 0>Question 5:<Button><CR>
+!---------------------!
+Where is the statue<LF>
+of the ancient<LF>
+Melpos god of war?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Net Castle<LF>
+<Arrow: 17 2><Pos: 0 2>Jewelry store<LF>
+<Arrow: 34 16><Pos: 0 2>Yai's house<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xfa> <EB>
+!*********************!
+ <0xEA: 1 20 0>Correct! Here's<LF>
+the next question!<Button><CR>
+!---------------------!
+<Jmp: 0 199><@PointerIdx199>
+<0xfa>z<Char: 0 22><0xF1: 0>Question 6:<Button><CR>
+!---------------------!
+A rooster stood on<LF>
+the peak of a<LF>
+barn.<Button><CR>
+!---------------------!
+It laid an egg.<Button><CR>
+!---------------------!
+Which side did the<LF>
+egg roll down?<Button><CR>
+!---------------------!
+The left side...<Button><CR>
+!---------------------!
+or the right?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>The left<LF>
+<Arrow: 17 2><Pos: 0 2>The right<LF>
+<Arrow: 34 16><Pos: 0 2>Can't lay eggs!<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xfa> <EB>
+!*********************!
+ <0xEA: 1 20 0>Correct! Here's<LF>
+the next question!<Button><CR>
+!---------------------!
+<Jmp: 0 200><@PointerIdx200>
+<0xfa>z<Char: 0 22><0xF1: 0>Question 7:<Button><CR>
+!---------------------!
+Which has a more<LF>
+powerful attack?<LF>
+<ItemTbl: 0 17 1> or <ItemTbl: 0 15 1><Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2><ItemTbl: 0 17 1><LF>
+<Arrow: 17 2><Pos: 0 2><ItemTbl: 0 15 1><LF>
+<Arrow: 34 16><Pos: 0 2>The same power.<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xfa> <EB>
+!*********************!
+ <0xEA: 1 20 0>Correct! Here's<LF>
+the next question!<Button><CR>
+!---------------------!
+<Jmp: 0 201><@PointerIdx201>
+<0xfa>z<Char: 0 22><0xF1: 0>Question 8:<Button><CR>
+!---------------------!
+What's the name of<LF>
+SnakeMan's operator?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Mrs.Salmonella<LF>
+<Arrow: 17 2><Pos: 0 2>Mrs.Millions<LF>
+<Arrow: 34 16><Pos: 0 2>Mrs.Millionaire<CondJmp: 7 192 192 255 192>
+!---------------------!
+<0xff><0xfa> <EB>
+!*********************!
+ <0xEA: 1 20 0>Correct! Here's<LF>
+the next question!<Button><CR>
+!---------------------!
+<Jmp: 0 202><@PointerIdx202>
+<0xfa>z<Char: 0 22><0xF1: 0>Question 9:<Button><CR>
+!---------------------!
+What wood does the<LF>
+bath in ACDC Town's<LF>
+largest house use?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Hackberry<LF>
+<Arrow: 17 2><Pos: 0 2>Cedar<LF>
+<Arrow: 34 16><Pos: 0 2>Cypress<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xfa> <EB>
+!*********************!
+ <0xEA: 1 20 0>Correct! And now,<LF>
+the last question!<Button><CR>
+!---------------------!
+<Jmp: 0 203><@PointerIdx203>
+<0xfa>z<Char: 0 22><0xF1: 0>Question 10:<Button><CR>
+!---------------------!
+What's in the trash<LF>
+can in underground<LF>
+Netopia?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Teddy bear<LF>
+<Arrow: 17 2><Pos: 0 2>Radio<LF>
+<Arrow: 34 16><Pos: 0 2>Basketball<CondJmp: 7 192 255 192 192>
+!---------------------!
+<0xff><0xfa> I0<0xEA: 1 20 0>Absolutely correct!<Button><CR>
+!---------------------!
+You did it!<Button><CR>
+!---------------------!
+And here's your<LF>
+prize for getting<LF>
+all the answers!<Button><CR>
+!---------------------!
+Yeah!!! Bravooo!!!<Button><CR>
+!---------------------!
+<Jmp: 0 204><@PointerIdx204>
+<0xF2: 0 18 1><Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 0 67 1>Lan got:<LF>
+"<ItemTbl: 0 67 0>!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><CR>
+!---------------------!
+<0xF8: 0><0xF8: 4 24><0xF6: 0 96 1>Lan got a PowerUp:<LF>
+"<ItemTbl: 0 96 0>!!"<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx205>
+<0xF3: 0 38 1 208 255><0xF2: 0 38 1><Char: 0 53><0xF1: 0>Hi,Lan! Thanks<LF>
+for helping us<LF>
+the other day!<Button><CR>
+!---------------------!
+This is a gift for<LF>
+you from all of us<LF>
+NetBattlers.<Button><CR>
+!---------------------!
+We hope you like it!<Button><CR>
+!---------------------!
+<Jmp: 0 206><@PointerIdx206>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 0 86 1>Lan got:<LF>
+"<ItemTbl: 0 86 0>!!"<0xF8: 12><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 207><@PointerIdx207>
+<Char: 0 53><0xF1: 0>You can open the Ne-<LF>
+topian Officials'<LF>
+security cube with<Button><CR>
+!---------------------!
+that code! Please<LF>
+use it!<Button><EB>
+!*********************!
+<@PointerIdx208>
+<Char: 0 53><0xF1: 0>We'll brush up our<LF>
+skills so we can be<LF>
+as good as you,Lan!<Button><EB>
+!*********************!
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>A world map. The<LF>
+latest global condi-<LF>
+tions are displayed.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>The Officials' mark.<LF>
+One of many display-<LF>
+ed everywhere.<Button><CR>
+!---------------------!
+All the Officials <LF>
+pledge to preserve<LF>
+freedom to<Button><CR>
+!---------------------!
+this mark.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>Official staff are<LF>
+hard at work in here.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>A huge monitor. One<LF>
+this size must be<LF>
+required to display<Button><CR>
+!---------------------!
+global conditions.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

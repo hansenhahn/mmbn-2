@@ -426,8 +426,8 @@ Here. This is your<LF>
 reward. Thanks!<Button><CR>
 !---------------------!
 <Jmp: 0 193><@PointerIdx193>
-<Char: 1 241> <0xf8> <0xf8>3n<0xf6> <0x60>0Lan got a PowerUp<0x44><LF>
-"<0xf9> <0x60> !!"<Button><0xf8>b<0xf8>f<0xf8>7<EB>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 0 96 1>Lan got a PowerUp:<LF>
+"<ItemTbl: 0 96 0>!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
 !*********************!
 <@PointerIdx194>
 <Char: 0 8><0xF1: 0>I wonder when he'll<LF>
@@ -476,9 +476,7 @@ walls here.<Button><EB>
 <@PointerIdx228>
 <@PointerIdx229>
 <@PointerIdx230>
-<0xF3: 0 23 0 236 255><0xf6>2m0<LF>
-<LF>
-<0xff><0xF3: 4 16 32 231 255><0xF1: 0>Destination?<LF>
+<0xF3: 0 23 0 236 255><0xF6: 3 23 1 232 232 255><0xF3: 4 16 32 231 255><0xF1: 0>Destination?<LF>
 <Arrow: 0 17><Pos: 0 2>MarinHbr<LF>
 <Arrow: 17 0><Pos: 0 2>Nowhere<CondJmp: 6 128 233 255 255>
 !---------------------!
@@ -499,16 +497,16 @@ walls here.<Button><EB>
 <0xff><0xff><EB>
 !*********************!
 <@PointerIdx233>
-<0xF2: 0 23 0><0xf6> <0x59>0<0xF1: 0><0xf8>3nLan got<0x44><LF>
-"<0xf9> <0x59> !!"<0xf8>b<0xf8>33<0xf8>7<Button><EB>
+<0xF2: 0 23 0><0xF6: 0 89 1><0xF1: 0><0xF8: 4 24>Lan got:<LF>
+"<ItemTbl: 0 89 0>!!"<0xF8: 12><0xF8: 4 4><0xF8: 8><Button><EB>
 !*********************!
 <@PointerIdx234>
-<0xF2: 0 23 0><0xf6> <0x5a>0<0xF1: 0><0xf8>3nLan got<0x44><LF>
-"<0xf9> <0x5a> !!"<0xf8>b<0xf8>33<0xf8>7<Button><EB>
+<0xF2: 0 23 0><0xF6: 0 90 1><0xF1: 0><0xF8: 4 24>Lan got:<LF>
+"<ItemTbl: 0 90 0>!!"<0xF8: 12><0xF8: 4 4><0xF8: 8><Button><EB>
 !*********************!
 <@PointerIdx235>
-<0xF2: 0 23 0><0xf6> <0x5b>0<0xF1: 0><0xf8>3nLan got<0x44><LF>
-"<0xf9> <0x5b> !!"<0xf8>b<0xf8>33<0xf8>7<Button><EB>
+<0xF2: 0 23 0><0xF6: 0 91 1><0xF1: 0><0xF8: 4 24>Lan got:<LF>
+"<ItemTbl: 0 91 0>!!"<0xF8: 12><0xF8: 4 4><0xF8: 8><Button><EB>
 !*********************!
 <@PointerIdx236>
 <0xF1: 0>Buy new ticket?<LF>
@@ -517,21 +515,21 @@ walls here.<Button><EB>
 <EB>
 !*********************!
 <@PointerIdx237>
-<0xf6>0<0x59>0<0xf6>0<0x5a>0<0xf6>0<0x5b>0<0xF2: 4 23 0><0xF1: 0>Lan returned his<LF>
+<0xF6: 1 89 1><0xF6: 1 90 1><0xF6: 1 91 1><0xF2: 4 23 0><0xF1: 0>Lan returned his<LF>
 ticket!<Button><CR>
 !---------------------!
 <Jmp: 0 230><@PointerIdx238>
 <@PointerIdx239>
-<0xf6>0<0x59>0<0xF1: 0>Lan used<0x44><LF>
-"<0xf9> <0x59> !"<Button><EB>
+<0xF6: 1 89 1><0xF1: 0>Lan used:<LF>
+"<ItemTbl: 0 89 0>!"<Button><EB>
 !*********************!
 <@PointerIdx240>
-<0xf6>0<0x5a>0<0xF1: 0>Lan used<0x44><LF>
-"<0xf9> <0x5a> !"<Button><EB>
+<0xF6: 1 90 1><0xF1: 0>Lan used:<LF>
+"<ItemTbl: 0 90 0>!"<Button><EB>
 !*********************!
 <@PointerIdx241>
-<0xf6>0<0x5b>0<0xF1: 0>Lan used<0x44><LF>
-"<0xf9> <0x5b> !"<Button><EB>
+<0xF6: 1 91 1><0xF1: 0>Lan used:<LF>
+"<ItemTbl: 0 91 0>!"<Button><EB>
 !*********************!
 <@PointerIdx242>
 <@PointerIdx243>

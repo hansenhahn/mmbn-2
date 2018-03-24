@@ -1,10 +1,10 @@
 <@PointerIdx0>
-<0xf6>2X0DD<0xff><0xF3: 4 16 18 20 255><0xf6>2W099<0xff><Char: 0 36><0xF1: 0>The license exam<LF>
+<0xF6: 3 60 1 40 40 255><0xF3: 4 16 18 20 255><0xF6: 3 59 1 10 10 255><Char: 0 36><0xF1: 0>The license exam<LF>
 room. No entry<LF>
 without permission.<Button><EB>
 !*********************!
 <@PointerIdx1>
-<0xF3: 4 64 72 100 255><0xF3: 4 61 61 83 255><0xF3: 4 56 60 80 255><0xF3: 4 55 55 75 255><0xF3: 4 32 45 70 255><0xF3: 4 16 31 21 255><0xf6>2W0aa<0xff><0xF3: 0 84 2 2 255><0xF2: 0 84 2><Char: 0 36><0xF1: 0>That's a testcard.<LF>
+<0xF3: 4 64 72 100 255><0xF3: 4 61 61 83 255><0xF3: 4 56 60 80 255><0xF3: 4 55 55 75 255><0xF3: 4 32 45 70 255><0xF3: 4 16 31 21 255><0xF6: 3 59 1 11 11 255><0xF3: 0 84 2 2 255><0xF2: 0 84 2><Char: 0 36><0xF1: 0>That's a testcard.<LF>
 You're testing too?<Button><CR>
 !---------------------!
 I'll open the door.<LF>
@@ -16,12 +16,12 @@ yourself in.<Button><EB>
 and take the test.<Button><EB>
 !*********************!
 <@PointerIdx3>
-<0xF3: 4 32 33 71 255><0xf6>2W0bb<0xff><Char: 0 39><0xF1: 0>I'm waiting for a<LF>
+<0xF3: 4 32 33 71 255><0xF6: 3 59 1 12 12 255><Char: 0 39><0xF1: 0>I'm waiting for a<LF>
 case bad enough for<LF>
 me to take.<Button><EB>
 !*********************!
 <@PointerIdx4>
-<0xf6>2W0cc<0xff><Char: 0 16><0xF1: 0>It's rare that there<LF>
+<0xF6: 3 59 1 13 13 255><Char: 0 16><0xF1: 0>It's rare that there<LF>
 aren't any cases<LF>
 posted at all.<Button><EB>
 !*********************!
@@ -138,8 +138,8 @@ passed the test.<LF>
 Here's a gift.<Button><CR>
 !---------------------!
 <Jmp: 0 42><@PointerIdx42>
-<Char: 1 241> <0xf8> <0xf8>3n<0xf6>f<0x7c> p0Lan got a chip for<LF>
-"<0xf9> <0x7c>0 <0xf9> p2!!"<Button><0xf8>b<0xf8>f<0xf8>7<EB>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 16 124 0 26 1>Lan got a chip for<LF>
+"<ItemTbl: 0 124 1> <ItemTbl: 0 26 3>!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
 !*********************!
 <@PointerIdx43>
 <0xF3: 0 139 2 255 41><Char: 0 36><0xF1: 0>The license exam<LF>
@@ -381,11 +381,11 @@ requests up here.<Button><EB>
 <0xF3: 0 6 1 193 255><0xF3: 0 5 1 194 255><0xF2: 0 5 1><Char: 0 34><0xF1: 0>Hey there,son!<Button><CR>
 !---------------------!
 Have you got the<LF>
-"<0xf9> <0x8a>0 <0xf9> c2"<LF>
+"<ItemTbl: 0 138 1> <ItemTbl: 0 13 3>"<LF>
 battlechip?<Button><CR>
 !---------------------!
 Would you trade for<LF>
-"<0xf9> "0 <0xf9> o2?"<Button><CR>
+"<ItemTbl: 0 84 1> <ItemTbl: 0 25 3>?"<Button><CR>
 !---------------------!
 Will you?<LF>
 <Arrow: 17 0><Pos: 0 2>Sure <Arrow: 0 17><Pos: 0 2>No way!<CondJmp: 6 128 191 255 255>
@@ -394,15 +394,15 @@ Oh,I see.<LF>
 That's too bad.<Button><EB>
 !*********************!
 <@PointerIdx191>
-<0xf6>j<0x8a> c0<0xff><0xff><0xc3><0xF2: 0 6 1><0xf6>g<0x8a> c0<Char: 0 34><0xF1: 0>Oh,you will?<LF>
+<0x8a> c0<0xff><0xff><0xc3><0xF2: 0 6 1><0x8a> c0<Char: 0 34><0xF1: 0>Oh,you will?<LF>
 I'm so glad!<Button><CR>
 !---------------------!
 This is my chip.<LF>
 Here you go!<Button><CR>
 !---------------------!
 <Jmp: 0 192><@PointerIdx192>
-<Char: 1 241> <0xf8> <0xf8>3n<0xf6>f" o0Lan got a chip for<LF>
-"<0xf9> "0 <0xf9> o2!!"<0xf8>b<0xf8>7<Button><EB>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 16 84 0 25 1>Lan got a chip for<LF>
+"<ItemTbl: 0 84 1> <ItemTbl: 0 25 3>!!"<0xF8: 12><0xF8: 8><Button><EB>
 !*********************!
 <@PointerIdx193>
 <Char: 0 34><0xF1: 0>I felt someone<LF>
@@ -419,8 +419,8 @@ to me again,will you<LF>
 swap chips with me?<Button><CR>
 !---------------------!
 Will you swap your<LF>
-"<0xf9> <0x8a>0 <0xf9> c2"<LF>
-for my"<0xf9> "0 <0xf9> o2?"<Button><CR>
+"<ItemTbl: 0 138 1> <ItemTbl: 0 13 3>"<LF>
+for my"<ItemTbl: 0 84 1> <ItemTbl: 0 25 3>?"<Button><CR>
 !---------------------!
 Is that OK?<LF>
 <Arrow: 17 0><Pos: 0 2>Sure <Arrow: 0 17><Pos: 0 2>No!<CondJmp: 6 128 191 255 255>
@@ -430,7 +430,7 @@ way it goes.<Button><EB>
 !*********************!
 <@PointerIdx195>
 <Char: 0 34><0xF1: 0>Hey,son.<LF>
-Where is"<0xf9> <0x8a>0 <0xf9> c2?"<Button><CR>
+Where is"<ItemTbl: 0 138 1> <ItemTbl: 0 13 3>?"<Button><CR>
 !---------------------!
 It's not in your<LF>
 pack,is it in your<LF>
