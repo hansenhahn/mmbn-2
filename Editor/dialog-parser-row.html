@@ -1,0 +1,50 @@
+<tr>
+	<td class="hidden-xs block-number">{{:blockNumber}}</td>
+	<td class="form-fields">
+		<div class="row visible-xs">
+			<div class="col-xs-4">
+				<b>Número:</b> <span class="block-number">{{:blockNumber}}</span>
+			</div>
+			<div class="col-xs-8">
+				<div class="btn-group btn-group-sm" role="group" aria-label="Ações Mobile">
+					<button class="btn btn-info show-textfield-mobile" title="Mostrar campo de texto"
+						onclick="mmbn2de.showPreviewOnMobile(this)">
+						<span class="glyphicon glyphicon-search"></span>
+					</button>
+				</div>
+			</div>
+		</div>
+		<textarea class="form-control text-field" data-block="{{:blockNumber}}"
+			onkeyup="mmbn2de.updatePreview(this, '{{:dialogId}}', event)"
+			onchange="mmbn2de.updateRow(this)">{{:text}}</textarea>
+		<div class="text-without-tags hidden">{{:textWithoutTags}}</div>
+	</td>
+	<td class="preview-conteiners hidden-xs">
+		<div class="row visible-xs" style="padding-bottom: 5px">
+			<div class="col-xs-4">
+				<b>Número:</b> <span class="block-number">{{:blockNumber}}</span>
+			</div>
+			<div class="col-xs-8">
+				<div class="btn-group btn-group-sm" role="group" aria-label="Ações Mobile">
+					<button class="btn btn-info show-preview-mobile" title="Mostrar prévia" onclick="mmbn2de.showPreviewOnMobile(this)">
+						<span class="glyphicon glyphicon-search"></span>
+					</button>
+					<button class="btn btn-success add-new-block" tabindex="-1" title="Adicionar novo bloco de diálogo"
+						onclick="mmbn2de.addNewDialogBlock(this)">
+						<span class="glyphicon glyphicon-plus"></span>
+					</button>
+				</div>
+			</div>
+		</div>
+		<div id="{{:dialogId}}" class="dialog-preview">
+			<div class="character-avatar" data-character-code="{{:characterCode}}"></div>
+			<div class="btn-group btn-group-xs hidden-xs" role="group" aria-label="Ações">
+				<button class="btn btn-success add-new-block" tabindex="-1" title="Adicionar novo bloco de diálogo"
+					onclick="mmbn2de.addNewDialogBlock(this)">
+					<span class="glyphicon glyphicon-plus"></span>
+				</button>
+			</div>
+			<div class="text-window"></div>
+		</div>
+	</td>
+</tr>
