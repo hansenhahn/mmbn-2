@@ -1,0 +1,24 @@
+<@AbsoluteAddr 7947420>
+<@PointerIdx0>
+<0xF1: 0>Then...<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0><LF>
+One week later...<0xEA: 0 120 0><Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 74><0xF1: 0>...Hmph!!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 6><0xF1: 0>Again...<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 74><0xF1: 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 74><0xF1: 0>Argh!!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 6><0xF1: 0>This is endless!<Button><CR>
+!---------------------!
+Darn!<LF>
+What on Earth<LF>
+is going on here?<Button><EB>
+!*********************!

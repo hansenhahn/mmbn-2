@@ -1,0 +1,28 @@
+<@AbsoluteAddr 7957816>
+<@PointerIdx0>
+<0xF8: 4 24><Char: 0 64><0xF1: 0>We did it!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Oohh...<0xEA: 1 30 0>Uh...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<0xF8: 4 4><Char: 0 64><0xF1: 0>Lan!?<0xEA: 1 30 0> Oh,no!<LF>
+The radiation level<LF>
+is near 50k again!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Don't worry,I just<LF>
+stood up too fast!<0xEA: 1 30 0><LF>
+Go get that program!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>...Right!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 64><0xF1: 0>I did it! We should<LF>
+be able to get into<LF>
+the next room now!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>...Right! Let's go!<Button><EB>
+!*********************!

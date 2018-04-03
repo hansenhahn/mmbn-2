@@ -1,0 +1,11 @@
+<@AbsoluteAddr 7881868>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Let's fix some<LF>
+problems and get<LF>
+on with the exam!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>I wonder what kind<LF>
+of requests there <LF>
+are? Let's go,Lan!<Button><EB>
+!*********************!

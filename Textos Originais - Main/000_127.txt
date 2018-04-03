@@ -1,0 +1,23 @@
+<@AbsoluteAddr 7933208>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Well,that's<LF>
+a relief...<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 60><0xF1: 0>Captain! There's<LF>
+a problem with the<LF>
+piloting program!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 59><0xF1: 0>What? You can't<LF>
+control the rudder?<LF>
+We'll crash!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>MegaMan! Quick!<LF>
+Check out the<LF>
+piloting program!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Roger!<Button><EB>
+!*********************!

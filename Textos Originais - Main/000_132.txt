@@ -1,0 +1,71 @@
+<@AbsoluteAddr 7936836>
+<@PointerIdx0>
+<Char: 0 88><0xF1: 0>Mr.Gauss...<LF>
+I'm terribly sorry<LF>
+for...<Button><CR>
+!---------------------!
+God Bless Gospel!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 61><0xF1: 0>Oh,MagnetMan's<LF>
+been...!<Button><CR>
+!---------------------!
+You!<LF>
+You ruined my<LF>
+highjack plans!!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 62><0xF1: 0>"My highjack plans?"<LF>
+You mean you're<LF>
+behind this?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 61><0xF1: 0>Damn it to hell!!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 62><0xF1: 0>You can't get away<LF>
+with this!!<LF>
+I'll catch you!!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 61><0xF1: 0>Hey,stop it!<LF>
+Do you know who<LF>
+I am?<Button><CR>
+!---------------------!
+Rats!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 62><0xF1: 0>I've got him. I'll<LF>
+turn him over to the<LF>
+officials...<Button><CR>
+!---------------------!
+once we land.<LF>
+Get over here you!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 61><0xF1: 0>Ahh.<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Thanks sir!!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 60><0xF1: 0>The gear program's<LF>
+back to normal. The<LF>
+landing gear is out.<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 59><0xF1: 0>Great,time to land<LF>
+this baby!<LF>
+Thanks Lan!<Button><CR>
+!---------------------!
+Back to your seats!<LF>
+Make it snappy.<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 0><0xF1: 0>Sure thing!<Button><CR>
+!---------------------!
+MegaMan,jack out!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 64><0xF1: 0>Sure!<Button><EB>
+!*********************!

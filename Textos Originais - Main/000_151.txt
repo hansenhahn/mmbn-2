@@ -1,0 +1,22 @@
+<@AbsoluteAddr 7952748>
+<@PointerIdx0>
+<0xF1: 0><0xfa>b<0xfa> E0blip blip blip<0xfa> 80<LF>
+bweeeeen!!<Button><CR>
+!---------------------!
+<0xfa>7Detected data for<LF>
+Lan Hikari,en route<LF>
+to Kotobuki Town.<Button><EB>
+!*********************!
+<@PointerIdx1>
+<0xF1: 0>So they've come at<LF>
+last...but it's too<LF>
+late!<Button><CR>
+!---------------------!
+I can fuse my bug<LF>
+chips to complete<LF>
+the SuperNavi!<Button><CR>
+!---------------------!
+Lan and MegaMan are<LF>
+coming...to their<LF>
+deaths! Hahahahaha!<Button><EB>
+!*********************!

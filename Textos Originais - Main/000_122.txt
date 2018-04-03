@@ -1,0 +1,38 @@
+<@AbsoluteAddr 7931600>
+<@PointerIdx0>
+<Char: 1 241> A few hours after<LF>
+capturing the poison<LF>
+spider...<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 58><0xF1: 0>Attention please.<Button><CR>
+!---------------------!
+It's 5AM. The plane<LF>
+is on course and<LF>
+schedule...<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 58><0xF1: 0>On schedule...<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 58><0xF1: 0>Sch,sche...<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 58><0xF1: 0>Ahhh!!<Button><CR>
+!---------------------!
+Everyone!<LF>
+Fasten your seat<LF>
+belts!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<0xF2: 0 7 2><Char: 0 0><0xF1: 0>What,what?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>Lan!<LF>
+The plane is<LF>
+shaking!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>It's not stopping!<LF>
+What's going on!?<Button><EB>
+!*********************!

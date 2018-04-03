@@ -1,0 +1,18 @@
+<@AbsoluteAddr 7885492>
+<@PointerIdx0>
+<Char: 1 241> <0xf4> <0xfa>b<0xfa> 90clatter,clatter...<0xEA: 0 85 0><0xf4>0<0xfa>7<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 64><0xF1: 0>I can hear the<LF>
+sound from inside<LF>
+this room.<Button><CR>
+!---------------------!
+I'm going inside<LF>
+Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Watch your back!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>I will.<Button><EB>
+!*********************!

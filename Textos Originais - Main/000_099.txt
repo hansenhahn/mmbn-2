@@ -1,0 +1,40 @@
+<@AbsoluteAddr 7915644>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>What's with this<LF>
+place!<LF>
+Feels dangerous!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>The ceiling is<LF>
+closing in on us!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 54><0xF1: 0>Ahhhhh!!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Princess!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 54><0xF1: 0>A trap! It's the<LF>
+same one that just<LF>
+got Mr.Johnson!!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>That door! <0xEA: 1 30 0>Jack into<LF>
+the switch next to<LF>
+it. It might open!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 54><0xF1: 0>I'd like to but...<0xEA: 1 30 0><LF>
+My KnightMan got<LF>
+hurt opening a trap.<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Lan! I can do it!<LF>
+Hurry let me try!!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Hurry,or we'll<LF>
+all be squished<LF>
+like grapes!<Button><EB>
+!*********************!

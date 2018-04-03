@@ -1,0 +1,74 @@
+<@AbsoluteAddr 7945820>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Mom! Everything's<LF>
+okay!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 11><0xF1: 0><Char: 3 0>......<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Mom...What's...<LF>
+wrong?<LF>
+<Char: 3 0>(Is she mad?)<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 11><0xF1: 0>You're father called<LF>
+and I heard all<LF>
+about it.<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Well,I,we...<LF>
+Sorry for worrying<LF>
+you,Mom.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 11><0xF1: 0>You two sure know<LF>
+how to make us<LF>
+fret.<Button><CR>
+!---------------------!
+......<LF>
+Lan! MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Uh-huh!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Uh-huh!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 11><0xF1: 0>Welcome home.<LF>
+I'm proud of you.<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 0><0xF1: 0>Mom!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 11><0xF1: 0>Genes don't lie.<LF>
+Just like your dad<LF>
+and grandpa...<Button><CR>
+!---------------------!
+You have a strong<LF>
+sense of justice.<LF>
+And you act...<Button><CR>
+!---------------------!
+before you think.<LF>
+That's your<LF>
+lineage...<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 0><0xF1: 0>What's wrong?<LF>
+Have I got food<LF>
+in my teeth?<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 11><0xF1: 0>You look just like<LF>
+your father when<LF>
+he was young.<Button><CR>
+!---------------------!
+You must be tired.<LF>
+How about taking<LF>
+a rest?<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 0><0xF1: 0>Okay.<Button><EB>
+!*********************!

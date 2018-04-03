@@ -1,0 +1,13 @@
+<@AbsoluteAddr 7885356>
+<@PointerIdx0>
+<Char: 1 241> <0xf4> <0xfa>b<0xfa> a0clatter,clatter...<0xEA: 0 84 0><0xf4>0<0xfa>7<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 64><0xF1: 0>I can hear a<LF>
+sound...Louder than<LF>
+before...<Button><CR>
+!---------------------!
+So that means<LF>
+I've gotten much<LF>
+closer!<Button><EB>
+!*********************!

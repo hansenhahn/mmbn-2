@@ -1,0 +1,19 @@
+<@AbsoluteAddr 7868636>
+<@PointerIdx0>
+<Char: 0 1><0xF1: 0>Hey! The bus<LF>
+is here,guys!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 2><0xF1: 0>All right!<LF>
+It's camp time!!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Whoopee!!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 7><0xF1: 0>Yaaay!!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 1><0xF1: 0>Kids,kids...<0xEA: 1 30 0><LF>
+Heehee...<Button><EB>
+!*********************!

@@ -1,0 +1,58 @@
+<@AbsoluteAddr 7886896>
+<@PointerIdx0>
+<Char: 0 80><0xF1: 0>Yiyaaa!<Button><CR>
+!---------------------!
+I've been beaten...<Button><CR>
+!---------------------!
+B-but,don't feel at<LF>
+ease just because<LF>
+you defeated me...<Button><CR>
+!---------------------!
+M-My power can't<LF>
+match Commander<LF>
+ShadowMan's. He's on<Button><CR>
+!---------------------!
+his way to Electo-<LF>
+pia. You'll never<LF>
+defeat him...Ahhhh!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 64><0xF1: 0>You okay?<LF>
+Are you hurt?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<0xF2: 0 68 2><Char: 0 70><0xF1: 0>Fine,thanks.<LF>
+Really,I'm okay.<Button><CR>
+!---------------------!
+The balloon you<LF>
+found is mine<LF>
+but...<Button><CR>
+!---------------------!
+I just wanted a fri-<LF>
+end. I didn't mean<LF>
+to involve you.<Button><CR>
+!---------------------!
+.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0>Sorry.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Don't sweat it!<LF>
+I'll be back after<LF>
+beating ShadowMan.<Button><CR>
+!---------------------!
+We'll talk later!!<Button><CR>
+!---------------------!
+MegaMan,let's go<LF>
+home,organize the<LF>
+info and see Dad!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Yeah!!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 70><0xF1: 0>Be careful out<LF>
+there...<Button><CR>
+!---------------------!
+King,be kind enough<LF>
+to lend them your<LF>
+strength to go on...<Button><EB>
+!*********************!

@@ -1,0 +1,35 @@
+<@AbsoluteAddr 7873724>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>QuickMan! You're not<LF>
+sending that<LF>
+detonation program!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 79><0xF1: 0>Fine! Stop me...<0xEA: 1 30 0><LF>
+If you can keep up<LF>
+with me!<Button><CR>
+!---------------------!
+I'm outta here!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 43><0xF1: 0>Hold on a second,<LF>
+QuickMan. These are<LF>
+just kids...<Button><CR>
+!---------------------!
+We should teach them<LF>
+a lesson...for their<LF>
+benefit,of course!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 79><0xF1: 0>Yeah! A "quick"<LF>
+lesson! Let's fight!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>MegaMan! Be careful!<LF>
+This guy's speedy!<Button><CR>
+!---------------------!
+Battle routine,<0xEA: 1 30 0>set!!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Execute!<Button><EB>
+!*********************!

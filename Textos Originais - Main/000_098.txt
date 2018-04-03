@@ -1,0 +1,34 @@
+<@AbsoluteAddr 7915288>
+<@PointerIdx0>
+<0xF1: 0>beep-beep!<0xEA: 0 60 0><Button><EB>
+!*********************!
+<@PointerIdx1>
+<0xfa>3d <Char: 0 49><0xF1: 0>Johnson...<0xEA: 1 30 0><Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 51><0xF1: 0>What's happened!?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 49><0xF1: 0>Sorry...<0xEA: 1 30 0><LF>
+I got hung up by<LF>
+a...<0xEA: 1 30 0>trap!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Mr.Johnson!<LF>
+I'm coming to save<LF>
+you! Where are you?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 49><0xF1: 0>I'm done...<0xEA: 1 30 0>for!<LF>
+Forget about...<0xEA: 1 30 0>me.<LF>
+Press on...<0xEA: 1 30 0>ahead.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<0xfa>f<Char: 1 241> <0xfa>b<0xF2: 0 87 2>go-go-go-go-go!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<0xF2: 4 87 2><Char: 0 49><0xF1: 0><0xfa>7Ghaaarrrr!!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Blast it!<Button><EB>
+!*********************!

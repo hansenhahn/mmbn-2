@@ -1,0 +1,46 @@
+<@AbsoluteAddr 7927252>
+<@PointerIdx0>
+<Char: 0 58><0xF1: 0>I was helping this<LF>
+man with his luggage<LF>
+and a big spider...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 53><0xF1: 0>What kind of spider?<LF>
+Where did it go?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 58><0xF1: 0>It was all black<LF>
+and hairy with fat<LF>
+legs and red eyes!<Button><CR>
+!---------------------!
+It went running off,<LF>
+but it's probably<LF>
+no big deal...<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 53><0xF1: 0>I'm not so sure<LF>
+about that.<Button><0xF2: 4 7 2><0xF2: 0 8 2><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 64><0xF1: 0>Lan,did you hear<LF>
+them just now?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>A spider covered<LF>
+with black hair...<Button><CR>
+!---------------------!
+What if it's<LF>
+poisonous!?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>That would be<LF>
+bad. Real bad.<Button><CR>
+!---------------------!
+Maybe one of the<LF>
+passengers knows<LF>
+about bugs...?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Hmm. Someone who<LF>
+knows about bugs...<Button><EB>
+!*********************!

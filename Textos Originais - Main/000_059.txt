@@ -1,0 +1,104 @@
+<@AbsoluteAddr 7887548>
+<@PointerIdx0>
+<Char: 1 241> Several hours after<LF>
+Yumland's<LF>
+destruction...<0xEA: 0 90 0><Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 22><0xF1: 0>A telegram from<LF>
+Yumland!<Button><CR>
+!---------------------!
+Gospel claims the<LF>
+mysterious Navi<LF>
+attack was theirs.<Button><CR>
+!---------------------!
+They.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0><LF>
+destroyed YumSquare!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 36><0xF1: 0>What!?<Button><CR>
+!---------------------!
+Yumland's security<LF>
+was thought to be<LF>
+world class!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 6><0xF1: 0>Gospel Navis with<LF>
+enough power to des-<LF>
+troy YumSquare...<Button><CR>
+!---------------------!
+That's not good...<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 1 241> <0xf4> <0xfa>b<0xfa> 90click...<0xEA: 0 88 0><0xfa> p0beep<0xf4>0<0xfa>7<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 22><0xF1: 0>Continuing on...<LF>
+The telegram from<LF>
+Yumland!<Button><CR>
+!---------------------!
+The next target for<LF>
+the Navis that atta-<LF>
+cked Yumland is.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>!!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 36><0xF1: 0>What's wrong!<LF>
+Won't you read on!?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<0xF2: 0 67 2><Char: 0 22><0xF1: 0>The next target for<LF>
+the Navis that atta-<LF>
+cked Yumland is...!!<Button><CR>
+!---------------------!
+Electopia!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 36><0xF1: 0>Wh,what!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 6><0xF1: 0>...Excuse me.<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 36><0xF1: 0>Chaud,where do you<LF>
+think you are<LF>
+going!?<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 6><0xF1: 0>To investigate.<LF>
+No time to waste.<LF>
+...<0xEA: 1 30 0>Am I wrong?<Button><EB>
+!*********************!
+<@PointerIdx12>
+<0xF2: 0 79 2><Char: 0 23><0xF1: 0>Like Chaud said,<LF>
+Get to it on the<LF>
+double!<Button><CR>
+!---------------------!
+I'll make a powerful<LF>
+weapons program<LF>
+to oppose the Navi!<Button><CR>
+!---------------------!
+Contact all the<LF>
+Official NetBattlers<LF>
+in the country!<Button><CR>
+!---------------------!
+Take extreme<LF>
+measures to guard<LF>
+against hacking!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<0xF2: 4 68 2><0xF2: 4 79 2><Char: 0 36><0xF1: 0>Call all the Offical<LF>
+NetBattlers in the<LF>
+country! Now!<Button><CR>
+!---------------------!
+Launch our first<LF>
+series of protective<LF>
+measures!!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<0xF2: 4 67 2><Char: 0 22><0xF1: 0>The first series<LF>
+of protective<LF>
+measures!!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 1 241> <0xf4> <0xfa>b<0xfa> 90click-click...<0xEA: 0 84 0><0xf4>0<Button><EB>
+!*********************!

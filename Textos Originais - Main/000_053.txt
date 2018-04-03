@@ -1,0 +1,127 @@
+<@AbsoluteAddr 7883580>
+<@PointerIdx0>
+<Char: 0 83><0xF1: 0>No! How could just<LF>
+one Navi destroy my<LF>
+entire country!<Button><CR>
+!---------------------!
+I.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0> I cannot<LF>
+forgive this! You<LF>
+will be punished!<Button><CR>
+!---------------------!
+There is no escape!<LF>
+Prepare to meet<LF>
+your programmer!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 81><0xF1: 0>......<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 83><0xF1: 0>You!! Get him!!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 73><0xF1: 0>Sire!!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 83><0xF1: 0>Wh-<0xEA: 1 20 0>What have you<LF>
+done to my brave<LF>
+soldiers of Yumland?<Button><CR>
+!---------------------!
+No.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0><Button><CR>
+!---------------------!
+W-Why have you done<LF>
+this? What is it<LF>
+that you want?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 81><0xF1: 0>Hmph...Well,these<LF>
+gospel music fans<LF>
+or something...<Button><CR>
+!---------------------!
+Wait. Rather than<LF>
+explain all that,let<LF>
+me cut to the chase.<Button><CR>
+!---------------------!
+Why'd I destroy<LF>
+your country?<LF>
+Simple!<Button><CR>
+!---------------------!
+This Gospel group<LF>
+asked me to,that's<LF>
+why.<Button><CR>
+!---------------------!
+Hey,I was just<LF>
+doing my job...<Button><CR>
+!---------------------!
+I guess it just<LF>
+wasn't Yumland's<LF>
+lucky day!<Button><CR>
+!---------------------!
+Sorry!!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 83><0xF1: 0>Go...sp...ugh!<0xEA: 0 90 0><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 1 241> <0xF2: 4 66 2>gack!<Button><0xF2: 0 66 2><EB>
+!*********************!
+<@PointerIdx8>
+<Char: 0 81><0xF1: 0>Mission accomplished<LF>
+Mr.Dark.<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 57><0xF1: 0>Nice work. I got<LF>
+something else for<LF>
+you to do,now...<Button><CR>
+!---------------------!
+Your next target<LF>
+is...<Button><CR>
+!---------------------!
+...got that?<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 81><0xF1: 0>My pleasure,sir!<Button><0xfa> <0xde> <0xF2: 4 66 2><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 70><0xF1: 0>Sire! Sire!<0xfa>3e <Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 83><0xF1: 0>Oh...Y-You're alive!<LF>
+You made it!<LF>
+gack! cough!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 70><0xF1: 0>Sire! You mustn't<LF>
+talk! Save your<LF>
+strength!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 83><0xF1: 0>Please forgive me.<LF>
+I have failed as a<LF>
+king...<Button><CR>
+!---------------------!
+The Navi...it will<LF>
+strike...again...<Button><CR>
+!---------------------!
+It was work...ing<LF>
+for.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0>Gospel.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<Button><CR>
+!---------------------!
+Quick...you must<LF>
+warn...other<LF>
+countries...<Button><CR>
+!---------------------!
+This cannot be<LF>
+allowed to happen<LF>
+a.<0xEA: 1 20 0>.<0xEA: 1 20 0>gain<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 1 241> <0xF2: 4 67 2>gack!<0xEA: 0 90 0><CR>
+!---------------------!
+<0xF2: 0 67 2><0xF2: 0 136 2><Jmp: 0 16><@PointerIdx16>
+<Char: 0 70><0xF1: 0>Sire! Sire!!<Button><CR>
+!---------------------!
+.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<Button><CR>
+!---------------------!
+Gos...pel...<Button><CR>
+!---------------------!
+You must warn...<Button><EB>
+!*********************!

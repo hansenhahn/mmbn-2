@@ -1,0 +1,38 @@
+<@AbsoluteAddr 7957088>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Nobody's...<0xEA: 1 30 0>here?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Darn,must not be<LF>
+the spot!?<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 0><0xF1: 0>Ahhhhhhhhh!!!!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 64><0xF1: 0>Lan!!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Ar..<0xEA: 1 30 0>gh...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>The radiation on the<LF>
+door is 50000<LF>
+times overloaded!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Darn!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 0><0xF1: 0>MegaMan,you know<LF>
+what to do right...<0xEA: 1 30 0><LF>
+We can't give up.<Button><CR>
+!---------------------!
+Gotta be a server<LF>
+controlling the<LF>
+radiation. <0xEA: 1 30 0>Find it!<0xEA: 1 30 0><Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 64><0xF1: 0>...<0xEA: 1 30 0>I'm on it.<0xEA: 1 30 0><LF>
+Jack in now!<Button><EB>
+!*********************!

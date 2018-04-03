@@ -1,0 +1,26 @@
+<@AbsoluteAddr 7893224>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>You are the one who<LF>
+messed up YumSquare?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 75><0xF1: 0>Ha-ha...<LF>
+You all fool<LF>
+NetNavis.<Button><CR>
+!---------------------!
+Com.ShadowMan would<LF>
+be in the mother<LF>
+computer by now.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Darn! A deceptive<LF>
+tactic?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 75><0xF1: 0>Noticing now is<LF>
+too late!<Button><CR>
+!---------------------!
+I'll delete you<LF>
+like the other<LF>
+NetNavis!<Button><EB>
+!*********************!

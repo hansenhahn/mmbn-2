@@ -1,0 +1,104 @@
+<@AbsoluteAddr 7874132>
+<@PointerIdx0>
+<Char: 0 79><0xF1: 0>Gwah...<0xEA: 1 20 0>But,wait!<Button><CR>
+!---------------------!
+Deleting me was a<LF>
+a big mistake!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>!?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 43><0xF1: 0>Hahah! QuickMan IS<LF>
+the detonation<LF>
+program!<Button><CR>
+!---------------------!
+Delete him,and the<LF>
+bomb on the dam<LF>
+goes boomboom!<Button><CR>
+!---------------------!
+Hahah! We'll all<LF>
+drown together!<Button><CR>
+!---------------------!
+QuickMan! Do what<LF>
+you have to do!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 79><0xF1: 0>My life's been good<LF>
+and quick!<LF>
+<0xF2: 0 137 2>3!<0xEA: 0 60 0> 2!<0xEA: 0 60 0> 1!<0xEA: 0 60 0><EB>
+!*********************!
+<@PointerIdx4>
+<0xfa>f<Char: 0 0><0xF1: 0>MegaMaaan!<0xEA: 1 60 0><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 0><0xF1: 0><0xec> e...<0xec> 1Huh? <0xEA: 1 15 0>Wasn't the<LF>
+dam...<0xEA: 1 15 0>supposed to...<0xEA: 1 15 0><LF>
+blow up?<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 64><0xF1: 0>ProtoMan!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 74><0xF1: 0>Chaud and his<LF>
+humble servant,<LF>
+ProtoMan reporting!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 6><0xF1: 0>Lan,if you're alive<LF>
+say something!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 0><0xF1: 0>Chaud!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 6><0xF1: 0>Phew...Looks like we<LF>
+just made it in<LF>
+time!<Button><CR>
+!---------------------!
+ProtoMan and I took<LF>
+off that bomb back<LF>
+at the dam!<Button><CR>
+!---------------------!
+And that guy's Navi<LF>
+went out with a<LF>
+whimper,not a bang.<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 43><0xF1: 0>How could 2 kids<LF>
+beat me,future head<LF>
+of Gospel! (IQ 170!)<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 6><0xF1: 0>Your IQ of 170<LF>
+didn't help you<LF>
+this time...<Button><CR>
+!---------------------!
+"Speedy Dave," on<LF>
+suspicion of<LF>
+attempted bombing...<Button><CR>
+!---------------------!
+I arrest you on my<LF>
+authority as an<LF>
+Official NetBattler!<Button><CR>
+!---------------------!
+You can tell the<LF>
+police all about<LF>
+you and Gospel!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 43><0xF1: 0>I would have gotten<LF>
+away with it,too,<LF>
+you scheming kids!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 6><0xF1: 0>Well,there's no need<LF>
+to camp with you<LF>
+anymore...<0xEA: 1 15 0>See ya!<Button><CR>
+!---------------------!
+ProtoMan! I'm jacking<LF>
+you out!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 74><0xF1: 0>Yessir!!<Button><EB>
+!*********************!

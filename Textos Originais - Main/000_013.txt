@@ -1,0 +1,24 @@
+<@AbsoluteAddr 7860680>
+<@PointerIdx0>
+<Char: 0 66><0xF1: 0>Quick! Over there!<Button><CR>
+!---------------------!
+The ventilation fan<LF>
+program is somewhere<LF>
+down there...<Button><CR>
+!---------------------!
+I'll fix it!<0xEA: 1 30 0> But the<LF>
+gas scares me!<LF>
+.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>Here goes!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 66><0xF1: 0>Whaaa!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 66><0xF1: 0>Oh noooo!<LF>
+.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>Huh?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Uh-oh! That sounds<LF>
+bad! Let's go check<LF>
+it out!<Button><EB>
+!*********************!

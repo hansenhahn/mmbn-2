@@ -1,0 +1,37 @@
+<@AbsoluteAddr 7941908>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>I'll post some<LF>
+keywords.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Go to it.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>"WWW"<Button><CR>
+!---------------------!
+Lan,It's posted!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Wonder if he'll<LF>
+come? Or is it<LF>
+just a rumor?<Button><CR>
+!---------------------!
+According to the<LF>
+rumor,if you post<LF>
+this word...<Button><CR>
+!---------------------!
+he'll appear somewh-<LF>
+ere in the UnderSqu-<LF>
+are. Wanna go look?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Hope it's not just a<LF>
+simple rumor.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Let's take a<LF>
+look!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>Yeah.<Button><EB>
+!*********************!

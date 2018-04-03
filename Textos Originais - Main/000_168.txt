@@ -1,0 +1,141 @@
+<@AbsoluteAddr 7966796>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Lan? Are you OK?<LF>
+Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>I can still move my<LF>
+hands...so I can<LF>
+still use my PET...<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 40><0xF1: 0>Ha! Hahaha! I've<LF>
+done it! This is<LF>
+the real Bass!<Button><CR>
+!---------------------!
+Bass! <0xEA: 1 30 0>Delete him!<LF>
+And don't muck it<LF>
+up this time!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 90><0xF1: 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Nobody hurts my Lan<LF>
+like this and gets<LF>
+away with it!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 90><0xF1: 0>...Guh!<0xEA: 1 30 0><LF>
+Gagagoogoo...<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>!?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 40><0xF1: 0>Bass! What's wrong<LF>
+with you!?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 90><0xF1: 0>Geeeeg!<0xEA: 1 30 0><LF>
+Gak! Gek!...<0xEA: 1 30 0>Gloop!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 40><0xF1: 0>Bwah! Ha! Hahahaha!<0xEA: 1 30 0><LF>
+So that's what you<LF>
+really look like?<Button><CR>
+!---------------------!
+Hahhah! Not bad!<0xEA: 1 30 0><LF>
+Now! Delete them!!!<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 40><0xF1: 0>What now? That's an<LF>
+order!<0xEA: 1 30 0> Didn't you<LF>
+you hear me!?<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 23><0xF1: 0>Lan! <0xEA: 1 30 0>MegaMan!<0xEA: 1 30 0><LF>
+Do you read me?<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>Dad!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 23><0xF1: 0>I just found out<LF>
+there is a major<LF>
+flaw...<Button><CR>
+!---------------------!
+in Gospel's<LF>
+"SuperNavi<LF>
+Development Plan!"<Button><CR>
+!---------------------!
+You can't make a<LF>
+SuperNavi through<LF>
+bug fusion!<Button><CR>
+!---------------------!
+What you get is...<LF>
+a "super Multibug<LF>
+Organism!"<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 64><0xF1: 0>Dad! Lan is...<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 0><0xF1: 0>Be quiet,MegaMan!<Button><CR>
+!---------------------!
+Dad! So you mean<LF>
+that this isn't<LF>
+really Bass!?<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 23><0xF1: 0>What!? The Multibug<LF>
+Organism has already<LF>
+been created!?<Button><CR>
+!---------------------!
+If that thing gets<LF>
+loose it'll cover<LF>
+the Net with bugs!<Button><CR>
+!---------------------!
+Then it'll be the<LF>
+bugs ruling the<LF>
+world! Not Gospel!<Button><CR>
+!---------------------!
+Lan! You and MegaMan<LF>
+have to delete the<LF>
+Multibug Organism!<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 0 0><0xF1: 0>Dad...<0xEA: 1 30 0>Leave...<0xEA: 1 30 0>it<LF>
+to me.<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 23><0xF1: 0>Lan! What's wrong?<LF>
+Are you hurt?<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 0><0xF1: 0>It...<0xEA: 1 30 0>It's nothing,<LF>
+Dad...<0xEA: 1 30 0>Bye...<0xEA: 1 30 0>I'm<LF>
+hanging up...<Button><EB>
+!*********************!
+<@PointerIdx20>
+<Char: 0 64><0xF1: 0>Lan...<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 0 0><0xF1: 0>We have to do this,<LF>
+MegaMan,and there's<LF>
+no use worrying Dad.<Button><CR>
+!---------------------!
+<Jmp: 0 22><@PointerIdx22>
+<Char: 0 64><0xF1: 0>OK,Lan...<Button><EB>
+!*********************!
+<@PointerIdx23>
+<Char: 0 40><0xF1: 0>Gaaaa!<Button><CR>
+!---------------------!
+<Jmp: 0 24><@PointerIdx24>
+<Char: 0 0><0xF1: 0>What...<0xEA: 1 30 0>Whoa!!!<Button><CR>
+!---------------------!
+<Jmp: 0 25><@PointerIdx25>
+<Char: 0 40><0xF1: 0>Server power...<0xEA: 1 30 0><LF>
+increasing...<0xEA: 1 30 0>on<LF>
+its own!<Button><EB>
+!*********************!

@@ -1,0 +1,39 @@
+<@AbsoluteAddr 7890228>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Let's post a message<LF>
+to collect info! Wh-<LF>
+at should we write?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>How about...<Button><CR>
+!---------------------!
+I'm looking for a<LF>
+<ItemTbl: 0 21 0>.Info<LF>
+please! -MegaMan.EXE<Button><CR>
+!---------------------!
+That'll do!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>Okay,the message<LF>
+has been posted!<Button><CR>
+!---------------------!
+All we have to do<LF>
+now is wait for<LF>
+information.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>How long should<LF>
+we wait?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>A reply won't come<LF>
+so soon. Impatience<LF>
+leads to loss.<Button><CR>
+!---------------------!
+Let's pass time by<LF>
+collecting info in<LF>
+the Square.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>That's a good idea.<Button><EB>
+!*********************!

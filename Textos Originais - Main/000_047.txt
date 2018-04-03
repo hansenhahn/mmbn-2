@@ -1,0 +1,55 @@
+<@AbsoluteAddr 7881124>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Um,excuse me?<LF>
+I'd like to take the<LF>
+ALicense exam?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 36><0xF1: 0>Can I take a look<LF>
+at your PET there?<Button><CR>
+!---------------------!
+Let me check your<LF>
+data for a second.<Button><CR>
+!---------------------!
+<0xf4> <0xfa>b<0xfa> 90<Char: 3 0>click click bing!<0xEA: 0 86 0><0xf4>0<Button><CR>
+!---------------------!
+<0xfa>7<Char: 3 1>Hmm...Looks like<LF>
+you're not qualified<LF>
+for the exam yet.<Button><CR>
+!---------------------!
+As a city NetBattler,<LF>
+you have to fix a<LF>
+few problems first.<Button><CR>
+!---------------------!
+People send us<LF>
+requests,and we go<LF>
+fix their problems.<Button><CR>
+!---------------------!
+Once you fix the<LF>
+problem,the client<LF>
+let's us know here.<Button><CR>
+!---------------------!
+That way we can<LF>
+keep track of your<LF>
+experience level.<Button><CR>
+!---------------------!
+Let's see...I got<LF>
+about 3 requests up<LF>
+on the report board.<Button><CR>
+!---------------------!
+They're all pretty<LF>
+tough,so they should<LF>
+be good experience.<Button><CR>
+!---------------------!
+I'll mark you as<LF>
+"special ops" on<LF>
+the report board.<Button><CR>
+!---------------------!
+You go fix them and<LF>
+come back here when<LF>
+you're done.<Button><CR>
+!---------------------!
+You just watch<LF>
+yourself out there,<LF>
+OK,kiddo?<Button><EB>
+!*********************!

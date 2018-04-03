@@ -1,0 +1,43 @@
+<@AbsoluteAddr 7933440>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>One<0xec> j...<0xec> 1down!<Button><CR>
+!---------------------!
+Those Gospel jerks!<LF>
+Where are they gonna<LF>
+infect next?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 1 241> <0xfa>bbeep <0xfa> <0xd1> <0xEA: 0 54 0>beep <0xfa> <0xd1> <0xEA: 0 54 0>beep<0xfa> <0xd1> !!<0xEA: 0 54 0><Button><CR>
+!---------------------!
+<0xfa>7<Jmp: 0 2><@PointerIdx2>
+<Char: 0 59><0xF1: 0>What now!!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 60><0xF1: 0>The cabin pressure!<LF>
+It's going down<LF>
+and down!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 59><0xF1: 0>What now?<LF>
+The cabin<LF>
+pressure program?<Button><CR>
+!---------------------!
+At this altitude...<LF>
+If the pressure<LF>
+keeps dropping,<Button><CR>
+!---------------------!
+everyone will die<LF>
+of altitude<LF>
+sickness!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Well,it is getting<LF>
+hard to breathe...<Button><CR>
+!---------------------!
+MegaMan,the<LF>
+pressure program!<LF>
+And make it fast!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>Roger!<Button><EB>
+!*********************!

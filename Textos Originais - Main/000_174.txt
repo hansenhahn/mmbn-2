@@ -1,0 +1,29 @@
+<@AbsoluteAddr 7977792>
+<@PointerIdx0>
+<0xF1: 0>Insolents...<0xEA: 1 30 0><LF>
+Face my judgement...<Button><0xF2: 0 79 2><0xF2: 0 82 2><EB>
+!*********************!
+<@PointerIdx1>
+<@PointerIdx2>
+<Char: 1 241> Hm...still<LF>
+another buffoon over<LF>
+here...<Button><EB>
+!*********************!
+<@PointerIdx3>
+<0xF2: 0 80 2><Char: 0 90><0xF1: 0>That rotting<LF>
+weakling...<0xEA: 1 30 0>Human!<Button><CR>
+!---------------------!
+Manipulating brats<LF>
+as if I really<LF>
+cared.<Button><CR>
+!---------------------!
+But breeding copies<LF>
+of ME! <0xEA: 1 15 0><0x49>That<0x49><LF>
+I cannot permit.<Button><CR>
+!---------------------!
+Humans...<0xEA: 1 15 0><LF>
+Worthless creatures.<Button><CR>
+!---------------------!
+One day they shall<LF>
+face my judgement...<Button><0xF2: 0 81 2><EB>
+!*********************!

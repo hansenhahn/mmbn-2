@@ -1,0 +1,36 @@
+<@AbsoluteAddr 7860064>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>What's going on!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>This place is filled<LF>
+with gas!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>And Yai is in there,<LF>
+somewhere!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Oh,no! We've got<LF>
+to save her!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Ah! Lan,over there!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 0><0xF1: 0>It's Dex!<0xEA: 1 30 0><LF>
+.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>We...<0xEA: 1 30 0>We've got to<LF>
+get rid of this gas!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>Wait,didn't Glide<LF>
+say something about<LF>
+the water heater?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Right! The gas-<LF>
+powered water heater!<Button><CR>
+!---------------------!
+Let's check it out,<LF>
+MegaMan!<Button><EB>
+!*********************!

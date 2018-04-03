@@ -1,0 +1,20 @@
+<@AbsoluteAddr 7956580>
+<@PointerIdx0>
+<0xF1: 0>All server power<LF>
+focused into server<LF>
+number 00...<Button><CR>
+!---------------------!
+[Bug Fusion] <0xEA: 1 30 0><LF>
+Standby OK...<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 63><0xF1: 0>Heh heh heh...<Button><CR>
+!---------------------!
+Now! Our secret<LF>
+weapon,the SuperNavi<LF>
+will be complete!<Button><CR>
+!---------------------!
+At last,the world<LF>
+is mine! <0xEA: 1 30 0>Begin the<LF>
+"bug fusion!"<Button><EB>
+!*********************!

@@ -1,0 +1,70 @@
+<@AbsoluteAddr 7934356>
+<@PointerIdx0>
+<Char: 0 59><0xF1: 0>We've gained<LF>
+altitude!!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Are we out of<LF>
+the woods on the<LF>
+crashing crisis?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 60><0xF1: 0>Captain,5 minutes to<LF>
+Den Airport.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 59><0xF1: 0>Okay,get ready for<LF>
+landing protocols!!<Button><CR>
+!---------------------!
+We're not home yet!<LF>
+Don't let your<LF>
+guard down!!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 60><0xF1: 0>Roger!<LF>
+Captain...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 59><0xF1: 0>What's up?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<0xfa>3d <Char: 0 60><0xF1: 0>The landing gear<LF>
+control program!<LF>
+The gear won't...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 59><0xF1: 0>What!?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>What gear!?<LF>
+This isn't a car!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 59><0xF1: 0>The tires son!<LF>
+Without them,we'll<LF>
+have to bellyflop.<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>Bellyflop!?<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 60><0xF1: 0>Land without tires<LF>
+on the stomach of<LF>
+the plane...<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 59><0xF1: 0>If we fail...<LF>
+We'll go up in<LF>
+flames...<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 0><0xF1: 0>MegaMan! Get to the<LF>
+landing gear<LF>
+control program!<Button><CR>
+!---------------------!
+Or else we're in<LF>
+for the worst!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 64><0xF1: 0>Gotcha! I'm on it!<Button><EB>
+!*********************!

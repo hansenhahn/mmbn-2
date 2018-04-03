@@ -1,0 +1,104 @@
+<@AbsoluteAddr 7916088>
+<@PointerIdx0>
+<0xF1: 0><0xfa>bBeep beep beep!<0xfa>7<0xEA: 0 60 0><Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 0><0xF1: 0>Hello?<LF>
+Who's there!?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 54><0xF1: 0>Ahhhhh!!<Button><CR>
+!---------------------!
+<0xfa>3d <Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Princess!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 54><0xF1: 0>Ha ha...<LF>
+You're pretty good!<Button><CR>
+!---------------------!
+But even though Kni-<LF>
+ghtMan's hurt,he wo-<LF>
+n't fall so easily!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 55><0xF1: 0>Who's that! He's<LF>
+not near the<LF>
+Princess!?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Princess! Are you<LF>
+still in the same<LF>
+place as before?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 54><0xF1: 0>Royal Wrecking<LF>
+Ball!!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 64><0xF1: 0>She didn't notice...<LF>
+The phone must've<LF>
+turned on<Button><CR>
+!---------------------!
+by accident.<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 54><0xF1: 0>...!<Button><CR>
+!---------------------!
+My Royal Wrecking<LF>
+Ball didn't work!?<LF>
+Must be the power...<Button><CR>
+!---------------------!
+of that "Gospel"<LF>
+Navi. KnightMan is<LF>
+in trouble!<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 54><0xF1: 0>Noooooo!!!<0xfa> <Char: 0 234> Ò <Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 64><0xF1: 0>...Lan<Button><CR>
+!---------------------!
+KnightMan's response<LF>
+has disappeared from<LF>
+the Network...<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>Damn it!!<0xEA: 1 30 0><LF>
+The Princess is in<LF>
+trouble!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 1 241> <0xfa>b<0xF2: 0 87 2>go-go-gogogogo!!!!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 54><0xF1: 0><0xfa>7Ahhhhhhh!!<Button><EB>
+!*********************!
+<@PointerIdx15>
+<0xF1: 0><0xfa>b<0xfa> v0<0xF2: 4 87 2>gogooo!!<0xfa>7<Button><EB>
+!*********************!
+<@PointerIdx16>
+<0xF1: 0><0xfa>b...<Button><CR>
+!---------------------!
+<0xfa> 30beep <0xEA: 0 57 0><0xfa> 30beep <0xEA: 0 57 0><0xfa> 30beep<0xEA: 0 58 0><Button><CR>
+!---------------------!
+<0xfa>7<Jmp: 0 17><@PointerIdx17>
+<Char: 0 0><0xF1: 0>MegaMan! Move on<LF>
+back to the room<LF>
+we were just in!<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 6><0xF1: 0>Lan it's no use!<0xEA: 1 30 0><LF>
+It's...<0xEA: 1 30 0><LF>
+too late...<Button><CR>
+!---------------------!
+All remaining<LF>
+NetBattlers search<LF>
+for the Gospel...<Button><CR>
+!---------------------!
+NetBattlers at once.<LF>
+We can't allow any<LF>
+more victims.<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 0><0xF1: 0>But! .<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>Darn!!<Button><EB>
+!*********************!

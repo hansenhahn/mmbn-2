@@ -1,0 +1,50 @@
+<@AbsoluteAddr 7921640>
+<@PointerIdx0>
+<Char: 0 54><0xF1: 0>No way...<LF>
+KnightMan lost...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Lan,I'll turn off<LF>
+the trap switch!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Yeah! Go for it!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>OK!<Button><CR>
+!---------------------!
+.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>Yes!<LF>
+This should take<LF>
+care of it!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 54><0xF1: 0>Nice try!<Button><CR>
+!---------------------!
+But even without<LF>
+KnightMan,I can man-<LF>
+ipulate the traps!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 1 241> <0xfa>b<0xfa> <0xdb> peep <0xfa> <0xfe> papapa<0xfa>7<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 54><0xF1: 0>Ha-ha-ha!<LF>
+Everyone will<LF>
+perish!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Lan,be careful!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Let's get out<LF>
+of here!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 64><0xF1: 0>Yeah!<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 54><0xF1: 0>Ahhhhhh!<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 0><0xF1: 0>Princess...<Button><EB>
+!*********************!

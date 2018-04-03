@@ -1,0 +1,10 @@
+<@AbsoluteAddr 7926836>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Lan! It's almost<LF>
+12:00! Time for<LF>
+lunch!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Guess I'll get<LF>
+back to my seat...<Button><EB>
+!*********************!

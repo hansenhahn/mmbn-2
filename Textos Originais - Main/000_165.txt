@@ -1,0 +1,134 @@
+<@AbsoluteAddr 7962304>
+<@PointerIdx0>
+<Char: 0 63><0xF1: 0>You're...<0xEA: 1 30 0>Chaud?<LF>
+the Official's ace<LF>
+NetBattler!?<Button><CR>
+!---------------------!
+What's the foreign<LF>
+disruption force<LF>
+doing!?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 6><0xF1: 0>Hmph! They're in la-<LF>
+la land now. <0xEA: 1 30 0>Made me<LF>
+break a sweat,too.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 63><0xF1: 0>Baaahh!!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 0><0xF1: 0>Chaud! What a<LF>
+relief!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<0xF2: 0 83 2><Char: 0 6><0xF1: 0>I've no right for<LF>
+your thanks. I have<LF>
+a...<0xEA: 1 30 0>debt to repay.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Roger that! That's<LF>
+fine by me!<Button><CR>
+!---------------------!
+But thanks all the<LF>
+same!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 6><0xF1: 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>Hmph!<LF>
+Everyone,don't let<LF>
+your guards down!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 7><0xF1: 0>Aieeee!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>What's this!? It<LF>
+doesn't look good!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 63><0xF1: 0>Buwahahahaha!!!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>What's wrong!?<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<0xF2: 4 14 2><Char: 0 63><0xF1: 0>Never thought you'd<LF>
+get this far,but you<LF>
+are too late! <0xEA: 1 30 0>Bug<Button><CR>
+!---------------------!
+fusion is complete!!<LF>
+All that's left is<LF>
+to press this button<Button><CR>
+!---------------------!
+and the SuperNavi<LF>
+will activate!!<LF>
+It's name...<0xEA: 1 30 0>Bass!!!!<Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 6><0xF1: 0>No! not...<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 63><0xF1: 0>Ah,the officials...<0xEA: 1 30 0><LF>
+have heard of Bass I<LF>
+see.<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<0xF2: 0 14 2><Char: 0 0><0xF1: 0>Chaud? What's this<LF>
+"Bass?"<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 6><0xF1: 0>An invincible Navi<LF>
+that can record chip<LF>
+data to use anytime.<Button><CR>
+!---------------------!
+No one ever believed<LF>
+it could exist...<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<0xF2: 4 14 2><Char: 0 63><0xF1: 0>My Gospel's Bass<LF>
+Project<0xEA: 1 30 0>...didn't<LF>
+just create Bass.<Button><CR>
+!---------------------!
+I'm now able to<LF>
+breed unlimited<LF>
+numbers of them!!<Button><CR>
+!---------------------!
+I'll instantly rule<LF>
+the Net with an army<LF>
+of Bass!! Then all<Button><CR>
+!---------------------!
+the military might<LF>
+and money will be<LF>
+mine! <0xEA: 1 30 0>I will be<Button><CR>
+!---------------------!
+king of the world!<LF>
+Then my Bass Project<LF>
+will have succeeded!<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 0 0><0xF1: 0>We'll never let that<LF>
+happen!!<Button><EB>
+!*********************!
+<@PointerIdx18>
+<Char: 0 0><0xF1: 0>MegaMan!!<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 64><0xF1: 0>Right...<LF>
+An invincible<LF>
+Navi...<Button><CR>
+!---------------------!
+Even if I can't<LF>
+win...<0xEA: 1 30 0>I won't lose!<0xEA: 1 30 0><LF>
+I'm ready!!<Button><CR>
+!---------------------!
+<Jmp: 0 20><@PointerIdx20>
+<Char: 0 0><0xF1: 0>You think I'm about<LF>
+to let you be<LF>
+deleted!?<Button><CR>
+!---------------------!
+No way! We're gonna<LF>
+be the ones doing<LF>
+the deleting!<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 0 64><0xF1: 0>Yeah! That's right!<Button><EB>
+!*********************!

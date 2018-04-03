@@ -1,0 +1,24 @@
+<@AbsoluteAddr 7856256>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Done...finally!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<0xfa> ê <Char: 0 64><0xF1: 0>...Hey! <0xEA: 1 30 0>New mail!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Who's it from?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>It's from Dex! He<LF>
+wants me at the<LF>
+Square right away!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Whoops!<LF>
+I totally forgot!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Then I'm off!<LF>
+If any viruses pop<LF>
+up,bust 'em good!<Button><EB>
+!*********************!

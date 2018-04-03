@@ -1,0 +1,46 @@
+<@AbsoluteAddr 7870564>
+<@PointerIdx0>
+<Char: 0 7><0xF1: 0>Hey,Lan! look at the<LF>
+bear again with the<LF>
+Binocs<Button><CR>
+!---------------------!
+you picked up.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>OK!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 0><0xF1: 0>What the?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 1><0xF1: 0>What now?<LF>
+Let me have a<LF>
+peek!<Button><CR>
+!---------------------!
+Ah! It's a fake!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 1 241> <0xfa>b<0xfa> 70Raaar!!!!<0xEA: 0 60 0><Button><CR>
+!---------------------!
+<0xfa>7<Jmp: 0 5><@PointerIdx5>
+<Char: 0 1><0xF1: 0>B,<0xEA: 1 30 0>But it's as fierce<LF>
+as they come.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 2><0xF1: 0>Doesn't appear to<LF>
+move but could be<LF>
+programmed<Button><CR>
+!---------------------!
+to attack.<Button><CR>
+!---------------------!
+Somebody needs to<LF>
+jack in,and put a<LF>
+stop to the bear.<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 6><0xF1: 0><Char: 3 0>(Hm!)<Char: 3 1><Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Too scared,huh?<0xF1: 0><LF>
+Fine,I'll go!<Button><EB>
+!*********************!

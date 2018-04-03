@@ -1,0 +1,13 @@
+<@AbsoluteAddr 7888788>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Lan,a crisis is<LF>
+facing Electopia!<LF>
+Hurry...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>I'm on the job!<LF>
+Off to Dad's!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>You bet'cha!<Button><EB>
+!*********************!

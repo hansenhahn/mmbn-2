@@ -1,0 +1,83 @@
+<@AbsoluteAddr 7942828>
+<@PointerIdx0>
+<Char: 0 75><0xF1: 0>I made an oversight!<LF>
+The rumors said you<LF>
+were tough but...!<Button><CR>
+!---------------------!
+But I was only a<LF>
+mere time-stall<LF>
+anyway!<Button><CR>
+!---------------------!
+Right now,Gospel's<LF>
+Supreme Commander<LF>
+FreezeMan is...<Button><CR>
+!---------------------!
+steadily moving tow-<LF>
+ards the destruction<LF>
+of the world!!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Hey! Where's<LF>
+Gospel's HQ?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 75><0xF1: 0>Humph,wouldn't<LF>
+you like to<LF>
+know...<Button><CR>
+!---------------------!
+The HQ is...<Button><CR>
+!---------------------!
+in KotoSquare!!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>What?<LF>
+KotoSquare....?<LF>
+Of all places!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 75><0xF1: 0>Even if you reach it<LF>
+you're no match<LF>
+for FreezeMan...<Button><CR>
+!---------------------!
+FreezeMaaannn!<LF>
+Arghhhhhh!<Button><0xF2: 0 7 2><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 1 241> The Gospel Navi<LF>
+dropped something!<Button><CR>
+!---------------------!
+<0xfa> é <0xF8: 4 24>MegaMan got:<LF>
+"<ItemTbl: 0 39 0>!!"<0xF8: 12><0xF8: 4 1><Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>Now we have two<LF>
+"BluFrag"s...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>MegaMan,head for<LF>
+Gospel HQ!!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 64><0xF1: 0>Hold on,Lan.<LF>
+There's something<LF>
+else here.<Button><CR>
+!---------------------!
+What is it?<LF>
+Grab it.<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 1 241> <0xfa> é <0xF8: 4 24>MegaMan got:<LF>
+"<ItemTbl: 0 40 0>!!"<0xF8: 12><0xF8: 4 1><Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 64><0xF1: 0>This is like a<LF>
+Gospel member's<LF>
+card.<Button><CR>
+!---------------------!
+Come on,Lan!<LF>
+Off to Gospel's<LF>
+HQ!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 0><0xF1: 0>Sure!<Button><EB>
+!*********************!

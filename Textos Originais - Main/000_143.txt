@@ -1,0 +1,122 @@
+<@AbsoluteAddr 7944516>
+<@PointerIdx0>
+<Char: 0 89><0xF1: 0>Huh! Who would've<LF>
+dreamed I'd lose<LF>
+and to you...<Button><CR>
+!---------------------!
+But,it's too late!<LF>
+Only moments til<LF>
+the earthquake!!<Button><CR>
+!---------------------!
+You may have beat me<LF>
+but there's no time<LF>
+to make the Cure!<Button><CR>
+!---------------------!
+Bu-ha-ha! I'll see<LF>
+the end of the<LF>
+world in a moment.<Button><CR>
+!---------------------!
+Gospel for all<LF>
+eternity!!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 1 241> Something is glowing<LF>
+from FreezeMan's<LF>
+body!<Button><CR>
+!---------------------!
+<0xfa> é <0xF8: 4 24>MegaMan got:<LF>
+"BluFrag!!"<0xF8: 12><0xF8: 4 1><Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>We did it Lan.<LF>
+We got the<LF>
+"BluFrag"...<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 1 241> <0xfa> A0Craaackkkk!<0xEA: 0 60 0><Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Ah!!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>MegaMan,what's<LF>
+wrong!?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>Suddenly,the<LF>
+"BluFrag"<LF>
+broke...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>No way?<LF>
+You gotta be<LF>
+kidding me!<Button><CR>
+!---------------------!
+What're we gonna<LF>
+do?<Button><CR>
+!---------------------!
+The world will be<LF>
+destroyed right?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 73><0xF1: 0>No need to worry.<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 64><0xF1: 0>The Doc!<LF>
+What are you doing<LF>
+here?<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 73><0xF1: 0>I came to see how<LF>
+this all turned<LF>
+out.<Button><CR>
+!---------------------!
+Looks like it's<LF>
+a happy ending.<LF>
+Take a gander.<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 64><0xF1: 0>The ice is breaking<LF>
+up by itself.<Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 73><0xF1: 0>The Navi you beat<LF>
+seemed to be their<LF>
+power source.<Button><CR>
+!---------------------!
+This powerless ice<LF>
+is starting to<LF>
+break apart.<Button><CR>
+!---------------------!
+The same thing<LF>
+probably goes for<LF>
+other places.<Button><CR>
+!---------------------!
+Whew.<Button><CR>
+!---------------------!
+<0xF2: 4 8 2>I'm tired. Long time<LF>
+since I worked. Well<LF>
+then,to the UndrSq.!<Button><CR>
+!---------------------!
+Oh,I'll have to bill<LF>
+the officials for<LF>
+the cure and such.<Button><CR>
+!---------------------!
+How much can I take<LF>
+them for?<LF>
+Ha-ha-ha...<Button><CR>
+!---------------------!
+You boys should be<LF>
+going too. Surely<LF>
+everyone's waiting.<Button><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 0 64><0xF1: 0>Yes! Thank you!<Button><CR>
+!---------------------!
+Let's get on home<LF>
+Lan! Back beside<LF>
+everyone!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 0><0xF1: 0>Yeah!<Button><EB>
+!*********************!

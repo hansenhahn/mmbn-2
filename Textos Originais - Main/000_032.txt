@@ -1,0 +1,74 @@
+<@AbsoluteAddr 7868788>
+<@PointerIdx0>
+<Char: 0 2><0xF1: 0>This is it!<LF>
+Okuden Valley!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 7><0xF1: 0>Let's find that<LF>
+campground!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>OK!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 1><0xF1: 0>Chaud?<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 6><0xF1: 0>...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Chaud!?<0xEA: 1 30 0><LF>
+I thought you<LF>
+weren't coming?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 6><0xF1: 0>Well...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>If you wanted to<LF>
+come,why didn't<LF>
+you just say so?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 6><0xF1: 0>I'm not here because<LF>
+I wanted to be with<LF>
+YOU,OK?<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 0><0xF1: 0>There you go again!<LF>
+Do you not like<LF>
+having fun!?<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 7><0xF1: 0>Lan!<0xEA: 1 30 0> He's come<LF>
+all the way here<LF>
+now,so be nice!<Button><CR>
+!---------------------!
+And Chaud...<0xEA: 1 30 0><LF>
+Let's all try to get<LF>
+along,OK?<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 6><0xF1: 0>Hmm...<0xEA: 1 30 0>Yeah,<LF>
+If you say so,fine.<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 1><0xF1: 0>See? Chaud's nice<LF>
+when he's talking to<LF>
+Mayl. <0xEA: 1 30 0>OK,Lan?<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 0><0xF1: 0>Whatever!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 2><0xF1: 0>Yo,yo,guys! <0xEA: 1 30 0>You're<LF>
+forgetting--I'M camp<LF>
+leader around here!<Button><CR>
+!---------------------!
+OK?<LF>
+So no more fussing<LF>
+and let's get going!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 1 241> Oooooooooh!!!<Button><EB>
+!*********************!

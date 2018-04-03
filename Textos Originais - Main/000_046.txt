@@ -1,0 +1,184 @@
+<@AbsoluteAddr 7878852>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Yaaaaaawn!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>You sleepy,Lan?<LF>
+That was a mega-<LF>
+yawn there,buddy!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>I was thinking about<LF>
+what to do my free<LF>
+research project on.<Button><CR>
+!---------------------!
+Why do we always<LF>
+have projects to do?<LF>
+It's vacation!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Why don't you do<LF>
+it on something you<LF>
+are interested in?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Something I'm<LF>
+interested in?<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 0><0xF1: 0>Huh?<LF>
+What's that?<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 0><0xF1: 0>It's a balloon...<LF>
+Something's tied to<LF>
+the string!<Button><CR>
+!---------------------!
+Looks like chipdata!<LF>
+<0xF2: 0 2 2>MegaMan,can you<LF>
+check it for me?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>OK! Just a sec!<Button><CR>
+!---------------------!
+.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0>Well,<LF>
+looks like foreign<LF>
+data. There's text!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Wow! Data from a<LF>
+foreign country!?<LF>
+What's it say?<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 64><0xF1: 0>I'll try to<LF>
+translate it,OK?<Button><CR>
+!---------------------!
+Start translation<LF>
+program.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0><Char: 3 0><0xfa>b<0xfa> 80Bleep!!<0xEA: 0 30 0><Button><CR>
+!---------------------!
+<0xfa>7<Char: 3 1>Translation done!<LF>
+Hmm...It looks like<LF>
+some kind of letter.<Button><CR>
+!---------------------!
+"Will you be my<LF>
+penpal!"<Button><CR>
+!---------------------!
+That's what it<LF>
+says!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>A penpal...<0xEA: 1 30 0>That<LF>
+could be fun!<0xEA: 1 30 0> What<LF>
+country is it from?<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 64><0xF1: 0>From the format I'd<LF>
+say it's from...<LF>
+Yumland!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>Yumland? You mean<LF>
+the place famous<LF>
+for its good food?<Button><CR>
+!---------------------!
+.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0>That's it!!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 64><0xF1: 0>Don't shout like<LF>
+that! You scared<LF>
+me half to deletion!<Button><CR>
+!---------------------!
+...so,what's "it?"<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 0><0xF1: 0>I've decided on a<LF>
+subject for my<LF>
+research project!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 64><0xF1: 0>Hey! That's great!<LF>
+So,what's it going<LF>
+to be?<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 0><0xF1: 0>I'll study the<LF>
+great foods of<LF>
+the world!<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 0 64><0xF1: 0>Well,I can't imagine<LF>
+anything that would<LF>
+fit you more.<Button><CR>
+!---------------------!
+But that does sound<LF>
+like a lot of fun!<LF>
+You should do it!<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 0><0xF1: 0>MegaMan! We can<LF>
+check out Yumland<LF>
+on the Net!<Button><CR>
+!---------------------!
+The person who sent<LF>
+that letter can tell<LF>
+us about food there!<Button><CR>
+!---------------------!
+<Char: 3 0>(And if we make<LF>
+friends and get<LF>
+to go to Yumland...<Button><CR>
+!---------------------!
+Think of all the<LF>
+food we can eat!)<Button><CR>
+!---------------------!
+<Char: 3 1>Quick! Let's get<LF>
+home and jack in<LF>
+to the Net!<Button><CR>
+!---------------------!
+Yumland,here<LF>
+we come!<Button><EB>
+!*********************!
+<@PointerIdx19>
+<Char: 0 64><0xF1: 0>???<0xEA: 1 20 0><LF>
+You seem awfully<LF>
+excited...<Button><CR>
+!---------------------!
+But,OK!<LF>
+We're going to<LF>
+Yumland!<Button><EB>
+!*********************!
+<@PointerIdx20>
+<0xF1: 0><0xF2: 0 1 2><0xfa> é <0xF8: 4 24>Lan got:<LF>
+"<ItemTbl: 0 14 0>!!"<Button><CR>
+!---------------------!
+<0xF8: 12><0xF8: 4 4><Jmp: 0 6>   7 <0x69> r0<0x5c>0<Char: 1 241> This is the<LF>
+Electopia Security<LF>
+Center.<Button><CR>
+!---------------------!
+Only those with an<LF>
+ALicense may pass<LF>
+this point.<Button><CR>
+!---------------------!
+<Jmp: 0 1><Char: 0 64><0xF1: 0>Lan,it says we need<LF>
+an ALicense to get<LF>
+through here.<Button><CR>
+!---------------------!
+And to get that we<LF>
+have to take an exam<LF>
+at the Center.<Button><CR>
+!---------------------!
+Let's forget Yumland<LF>
+for now and go to a<LF>
+different country.<Button><CR>
+!---------------------!
+<Jmp: 0 2><Char: 0 0><0xF1: 0>No way! We're going<LF>
+to Yumland!<LF>
+<Char: 3 0>(food! mmmm! food!)<Button><CR>
+!---------------------!
+<Jmp: 0 3><Char: 0 64><0xF1: 0>Wow! You've never<LF>
+been this excited<LF>
+about research!<Button><CR>
+!---------------------!
+Let's go take that<LF>
+exam,then!<Button><EB>
+!*********************!

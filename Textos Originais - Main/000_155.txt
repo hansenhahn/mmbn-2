@@ -1,0 +1,51 @@
+<@AbsoluteAddr 7955640>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>If we can get<LF>
+through here,we can<LF>
+get to the top!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Right! Good luck!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>Aaa!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 64><0xF1: 0>What are you<LF>
+guys doing here!?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 78><0xF1: 0>Must delete<LF>
+MegaMan.EXE!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 79><0xF1: 0>Delete!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 80><0xF1: 0>Delete...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Hmm...I don't think<LF>
+talking to them<LF>
+will do any good...<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 64><0xF1: 0>Yeah,sounds like<LF>
+they're on some sort<LF>
+of autoprogram...<Button><CR>
+!---------------------!
+Lan,I think I can<LF>
+take them! I got all<LF>
+their data before!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 0><0xF1: 0>Let's take them<LF>
+all at once,then!<Button><CR>
+!---------------------!
+Let's rock,MegaMan!<LF>
+Triple battle<LF>
+routine,set!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 64><0xF1: 0>Execute!<Button><EB>
+!*********************!

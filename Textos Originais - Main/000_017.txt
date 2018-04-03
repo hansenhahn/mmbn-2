@@ -1,0 +1,44 @@
+<@AbsoluteAddr 7862772>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Well Let's go!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Hang tough!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 64><0xF1: 0>Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Darn!<0xEA: 1 30 0><LF>
+Blast it!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 64><0xF1: 0>Way to go!!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>That's it! Almost!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 0><0xF1: 0>Darn darn darn!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 0><0xF1: 0>All right!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 64><0xF1: 0>I found Yai!<LF>
+Lan,go get her!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 0><0xF1: 0>Oh! Ah!<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 0><0xF1: 0>Darn! Gotta do<LF>
+something with<LF>
+the Gas Comp!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 64><0xF1: 0>Yeah! Wait a sec!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>???<Button><EB>
+!*********************!

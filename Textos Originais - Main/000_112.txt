@@ -1,0 +1,25 @@
+<@AbsoluteAddr 7926548>
+<@PointerIdx0>
+<Char: 0 58><0xF1: 0>Your attention,<LF>
+please. We apologize<LF>
+for the bumpy ride.<Button><CR>
+!---------------------!
+But it looks like<LF>
+we're through the<LF>
+worst of it.<Button><CR>
+!---------------------!
+The captain has<LF>
+turned off the<LF>
+seatbelt sign.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>It looks like the<LF>
+turbulence is over.<Button><CR>
+!---------------------!
+It's almost time for<LF>
+lunch. Wanna walk<LF>
+around,first?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Yeah,sure.<Button><EB>
+!*********************!

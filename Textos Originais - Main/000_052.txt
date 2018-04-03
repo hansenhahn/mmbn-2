@@ -1,0 +1,16 @@
+<@AbsoluteAddr 7883400>
+<@PointerIdx0>
+<Char: 1 241> <0xfa>b<0xfa> ê beep beep beep...<0xEA: 0 30 0><LF>
+<0xfa> 80bong!<0xEA: 0 30 0><Button><0xfa>7<0xF2: 0 29 0><CR>
+!---------------------!
+ALicense confirmed.<LF>
+Now opening lock...<0xEA: 0 60 0><LF>
+Have a nice day!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>We did it!<LF>
+Let's go MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>Right on!<Button><EB>
+!*********************!
