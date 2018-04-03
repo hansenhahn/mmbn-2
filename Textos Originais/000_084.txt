@@ -270,7 +270,7 @@ Does that help?<Button><EB>
 controls traps!<Button><CR>
 !---------------------!
 MegaMan stopped the<LF>
-<0xfa> <0xa6> program!!<Button><CR>
+<0xFA: 0 166 0>program!!<Button><CR>
 !---------------------!
 <0xF2: 0 43 2><Jmp: 0 225><@PointerIdx221>
 <0xF6: 3 26 1 223 223 255><0xF1: 0>A door blocks the<LF>

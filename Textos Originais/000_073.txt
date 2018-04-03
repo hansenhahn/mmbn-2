@@ -302,8 +302,8 @@ MegaMan cleared the<LF>
 ventilation program<LF>
 error!<Button><CR>
 !---------------------!
-<0xfa> <0xa7> <0xfa>bThe ventilation<LF>
-program started!<Button><0xfa>7<0xF2: 0 40 2><EB>
+<0xFA: 0 167 0><0xFA: 12>The ventilation<LF>
+program started!<Button><0xFA: 8><0xF2: 0 40 2><EB>
 !*********************!
 <@PointerIdx221>
 <0xF1: 0>MegaMan turned the<LF>

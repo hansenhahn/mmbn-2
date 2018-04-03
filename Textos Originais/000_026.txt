@@ -473,7 +473,7 @@ whenever you're<LF>
 ready!<Button><EB>
 !*********************!
 <@PointerIdx197>
-<0xfa>v<Char: 0 10><0xF1: 0>Who called Quiz?<LF>
+<0xFA: 32><Char: 0 10><0xF1: 0>Who called Quiz?<LF>
 Who called Quiz?<Button><CR>
 !---------------------!
 It's Quiz Time!<LF>
@@ -491,7 +491,7 @@ whenever you're<LF>
 ready!<Button><EB>
 !*********************!
 <@PointerIdx198>
-<Char: 0 10><0xF1: 0><0xfa> n0<0xEA: 1 40 0>Too bad!<Button><CR>
+<Char: 0 10><0xF1: 0><0xFA: 0 24 1><0xEA: 1 40 0>Too bad!<Button><CR>
 !---------------------!
 Try again some other<LF>
 time! I'm always<LF>
@@ -506,7 +506,7 @@ beat the Quiz<LF>
 Master?<Button><EB>
 !*********************!
 <@PointerIdx200>
-<0xfa>z<Char: 0 10><0xF1: 0>OK,here we go!<Button><CR>
+<0xFA: 36><Char: 0 10><0xF1: 0>OK,here we go!<Button><CR>
 !---------------------!
 Question No. 1:<Button><CR>
 !---------------------!
@@ -518,13 +518,11 @@ look like?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>Elephant<LF>
 <Arrow: 34 16><Pos: 0 2>Giraffe<CondJmp: 7 192 198 255 198>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>Correct! Here's<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>Correct! Here's<LF>
 the next question!<Button><CR>
 !---------------------!
 <Jmp: 0 201><@PointerIdx201>
-<0xfa>z<Char: 0 10><0xF1: 0>Question No. 2:<Button><CR>
+<0xFA: 36><Char: 0 10><0xF1: 0>Question No. 2:<Button><CR>
 !---------------------!
 What distinguishes<LF>
 the Marine<LF>
@@ -534,13 +532,11 @@ Station kiosk?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>The Low Prices<LF>
 <Arrow: 34 16><Pos: 0 2>The Pretty Staff<CondJmp: 7 192 255 198 198>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>Correct! Here's<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>Correct! Here's<LF>
 the next question!<Button><CR>
 !---------------------!
 <Jmp: 0 202><@PointerIdx202>
-<0xfa>z<Char: 0 10><0xF1: 0>Question No. 3:<Button><CR>
+<0xFA: 36><Char: 0 10><0xF1: 0>Question No. 3:<Button><CR>
 !---------------------!
 How many tents are<LF>
 in Okuden Valley<LF>
@@ -550,13 +546,11 @@ Campground?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>3<LF>
 <Arrow: 34 16><Pos: 0 2>4<CondJmp: 7 192 198 255 198>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>Correct! Here's<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>Correct! Here's<LF>
 the next question!<Button><CR>
 !---------------------!
 <Jmp: 0 203><@PointerIdx203>
-<0xfa>z<Char: 0 10><0xF1: 0>Question No. 4:<Button><CR>
+<0xFA: 36><Char: 0 10><0xF1: 0>Question No. 4:<Button><CR>
 !---------------------!
 Where did the Marine<LF>
 Harbor Cafe waitress<LF>
@@ -566,13 +560,11 @@ work before?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>Arcade<LF>
 <Arrow: 34 16><Pos: 0 2>The Center<CondJmp: 7 192 255 198 198>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>Correct! And now,<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>Correct! And now,<LF>
 the last question!<Button><CR>
 !---------------------!
 <Jmp: 0 204><@PointerIdx204>
-<0xfa>z<Char: 0 10><0xF1: 0>Question No. 5:<Button><CR>
+<0xFA: 36><Char: 0 10><0xF1: 0>Question No. 5:<Button><CR>
 !---------------------!
 Choose cannons in<LF>
 A,B,and C order,and<LF>
@@ -582,7 +574,7 @@ what do you get?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>Ultra Cannon<LF>
 <Arrow: 34 16><Pos: 0 2>Zeta Cannon<CondJmp: 7 192 198 198 255>
 !---------------------!
-<0xff><0xfa> I0<0xEA: 1 20 0>Absolutely correct!<Button><CR>
+<0xff><0xFA: 0 45 1><0xEA: 1 20 0>Absolutely correct!<Button><CR>
 !---------------------!
 Congratulations!!<Button><CR>
 !---------------------!

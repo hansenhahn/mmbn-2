@@ -204,8 +204,8 @@ the "HeatData!!"<Button><CR>
 !---------------------!
 <Jmp: 0 26><@PointerIdx26>
 <Char: 0 73><0xF1: 0>Lessee here,<LF>
-<0xfa> 90click-click<LF>
-<0xfa> <0xdb> beep-beep!<Button><CR>
+<0xFA: 0 10 1>click-click<LF>
+<0xFA: 0 219 0>beep-beep!<Button><CR>
 !---------------------!
 Here yah goes!<Button><CR>
 !---------------------!
@@ -269,7 +269,7 @@ hard enough,doors<LF>
 will open for you!<Button><EB>
 !*********************!
 <@PointerIdx32>
-<Char: 1 241> <0xF8: 0><0xfa> é <0xF8: 4 24>MegaMan got his<LF>
+<Char: 1 241> <0xF8: 0><0xFA: 0 133 0><0xF8: 4 24>MegaMan got his<LF>
 PowerUps and battle-<LF>
 chips back!!!<Button><CR>
 !---------------------!

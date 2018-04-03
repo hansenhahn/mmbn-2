@@ -326,9 +326,9 @@ can make one.<Button><CR>
 !---------------------!
 Hold on a sec...<Button><CR>
 !---------------------!
-<0xfa>b<0xfa> 90Rattle...<0xfa> 80Ka-ching!<Button><CR>
+<0xFA: 12><0xFA: 0 10 1>Rattle...<0xFA: 0 9 1>Ka-ching!<Button><CR>
 !---------------------!
-<0xfa>7Here it is! I owe<LF>
+<0xFA: 8>Here it is! I owe<LF>
 you one,so take it!<Button><CR>
 !---------------------!
 <Jmp: 0 92><@PointerIdx92>

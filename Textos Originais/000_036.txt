@@ -392,7 +392,7 @@ Come anytime!<LF>
 I'll be waiting!<Button><EB>
 !*********************!
 <@PointerIdx191>
-<0xfa>v<Char: 0 22><0xF1: 0>Who called the Quiz<LF>
+<0xFA: 32><Char: 0 22><0xF1: 0>Who called the Quiz<LF>
 Master? Who called<LF>
 the QuizMaster?<Button><CR>
 !---------------------!
@@ -410,7 +410,7 @@ Come anytime!<LF>
 I'll be waiting!<Button><EB>
 !*********************!
 <@PointerIdx192>
-<Char: 0 22><0xF1: 0><0xfa> n0<0xEA: 1 40 0>Too baaad!<Button><CR>
+<Char: 0 22><0xF1: 0><0xFA: 0 24 1><0xEA: 1 40 0>Too baaad!<Button><CR>
 !---------------------!
 But humans learn by<LF>
 making mistakes!<LF>
@@ -429,7 +429,7 @@ my master,the Quiz<LF>
 King?<Button><EB>
 !*********************!
 <@PointerIdx194>
-<0xfa>z<Char: 0 22><0xF1: 0>OK,here goes!<Button><CR>
+<0xFA: 36><Char: 0 22><0xF1: 0>OK,here goes!<Button><CR>
 !---------------------!
 Question 1:<Button><CR>
 !---------------------!
@@ -441,13 +441,11 @@ TV show name?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>CattleOx TV<LF>
 <Arrow: 34 16><Pos: 0 2>RaiShip TV<CondJmp: 7 192 255 192 192>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>Correct! Here's<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>Correct! Here's<LF>
 the next question!<Button><CR>
 !---------------------!
 <Jmp: 0 195><@PointerIdx195>
-<0xfa>z<Char: 0 22><0xF1: 0>Question 2:<Button><CR>
+<0xFA: 36><Char: 0 22><0xF1: 0>Question 2:<Button><CR>
 !---------------------!
 What's the name of<LF>
 the quick,rat-shaped<LF>
@@ -457,13 +455,11 @@ virus?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>Ratter<LF>
 <Arrow: 34 16><Pos: 0 2>Ratty<CondJmp: 7 192 192 192 255>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>Correct! Here's<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>Correct! Here's<LF>
 the next question!<Button><CR>
 !---------------------!
 <Jmp: 0 196><@PointerIdx196>
-<0xfa>z<Char: 0 22><0xF1: 0>Question 3:<Button><CR>
+<0xFA: 36><Char: 0 22><0xF1: 0>Question 3:<Button><CR>
 !---------------------!
 What advance occurs<LF>
 when Spreaders are<LF>
@@ -473,13 +469,11 @@ in alphabet-order?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>H-Burst<LF>
 <Arrow: 34 16><Pos: 0 2>O-Canon1<CondJmp: 7 192 192 255 192>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>Correct! Here's<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>Correct! Here's<LF>
 the next question!<Button><CR>
 !---------------------!
 <Jmp: 0 197><@PointerIdx197>
-<0xfa>z<Char: 0 22><0xF1: 0>Question 4:<Button><CR>
+<0xFA: 36><Char: 0 22><0xF1: 0>Question 4:<Button><CR>
 !---------------------!
 What shape is Okud-<LF>
 en Valley's air-<LF>
@@ -489,13 +483,11 @@ monitoring system?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>Tent<LF>
 <Arrow: 34 16><Pos: 0 2>Bear<CondJmp: 7 192 255 192 192>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>Correct! Here's<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>Correct! Here's<LF>
 the next question!<Button><CR>
 !---------------------!
 <Jmp: 0 198><@PointerIdx198>
-<0xfa>z<Char: 0 22><0xF1: 0>Question 5:<Button><CR>
+<0xFA: 36><Char: 0 22><0xF1: 0>Question 5:<Button><CR>
 !---------------------!
 Where is the statue<LF>
 of the ancient<LF>
@@ -505,13 +497,11 @@ Melpos god of war?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>Jewelry store<LF>
 <Arrow: 34 16><Pos: 0 2>Yai's house<CondJmp: 7 192 192 192 255>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>Correct! Here's<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>Correct! Here's<LF>
 the next question!<Button><CR>
 !---------------------!
 <Jmp: 0 199><@PointerIdx199>
-<0xfa>z<Char: 0 22><0xF1: 0>Question 6:<Button><CR>
+<0xFA: 36><Char: 0 22><0xF1: 0>Question 6:<Button><CR>
 !---------------------!
 A rooster stood on<LF>
 the peak of a<LF>
@@ -530,13 +520,11 @@ or the right?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>The right<LF>
 <Arrow: 34 16><Pos: 0 2>Can't lay eggs!<CondJmp: 7 192 192 192 255>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>Correct! Here's<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>Correct! Here's<LF>
 the next question!<Button><CR>
 !---------------------!
 <Jmp: 0 200><@PointerIdx200>
-<0xfa>z<Char: 0 22><0xF1: 0>Question 7:<Button><CR>
+<0xFA: 36><Char: 0 22><0xF1: 0>Question 7:<Button><CR>
 !---------------------!
 Which has a more<LF>
 powerful attack?<LF>
@@ -546,13 +534,11 @@ powerful attack?<LF>
 <Arrow: 17 2><Pos: 0 2><ItemTbl: 0 15 1><LF>
 <Arrow: 34 16><Pos: 0 2>The same power.<CondJmp: 7 192 192 192 255>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>Correct! Here's<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>Correct! Here's<LF>
 the next question!<Button><CR>
 !---------------------!
 <Jmp: 0 201><@PointerIdx201>
-<0xfa>z<Char: 0 22><0xF1: 0>Question 8:<Button><CR>
+<0xFA: 36><Char: 0 22><0xF1: 0>Question 8:<Button><CR>
 !---------------------!
 What's the name of<LF>
 SnakeMan's operator?<Button><CR>
@@ -561,13 +547,11 @@ SnakeMan's operator?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>Mrs.Millions<LF>
 <Arrow: 34 16><Pos: 0 2>Mrs.Millionaire<CondJmp: 7 192 192 255 192>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>Correct! Here's<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>Correct! Here's<LF>
 the next question!<Button><CR>
 !---------------------!
 <Jmp: 0 202><@PointerIdx202>
-<0xfa>z<Char: 0 22><0xF1: 0>Question 9:<Button><CR>
+<0xFA: 36><Char: 0 22><0xF1: 0>Question 9:<Button><CR>
 !---------------------!
 What wood does the<LF>
 bath in ACDC Town's<LF>
@@ -577,13 +561,11 @@ largest house use?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>Cedar<LF>
 <Arrow: 34 16><Pos: 0 2>Cypress<CondJmp: 7 192 192 192 255>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>Correct! And now,<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>Correct! And now,<LF>
 the last question!<Button><CR>
 !---------------------!
 <Jmp: 0 203><@PointerIdx203>
-<0xfa>z<Char: 0 22><0xF1: 0>Question 10:<Button><CR>
+<0xFA: 36><Char: 0 22><0xF1: 0>Question 10:<Button><CR>
 !---------------------!
 What's in the trash<LF>
 can in underground<LF>
@@ -593,7 +575,7 @@ Netopia?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>Radio<LF>
 <Arrow: 34 16><Pos: 0 2>Basketball<CondJmp: 7 192 255 192 192>
 !---------------------!
-<0xff><0xfa> I0<0xEA: 1 20 0>Absolutely correct!<Button><CR>
+<0xff><0xFA: 0 45 1><0xEA: 1 20 0>Absolutely correct!<Button><CR>
 !---------------------!
 You did it!<Button><CR>
 !---------------------!

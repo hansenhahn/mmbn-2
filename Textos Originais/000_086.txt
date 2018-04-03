@@ -223,7 +223,7 @@
 controlling traps!<Button><CR>
 !---------------------!
 MegaMan stopped the<LF>
-<0xfa> <0xa6> program!!<Button><CR>
+<0xFA: 0 166 0>program!!<Button><CR>
 !---------------------!
 <0xF2: 0 50 2><EB>
 !*********************!

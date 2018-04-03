@@ -231,7 +231,7 @@ till someone can<LF>
 set my soul free!<Button><EB>
 !*********************!
 <@PointerIdx191>
-<0xfa>v<Char: 0 13><0xF1: 0>WHO called the<LF>
+<0xFA: 32><Char: 0 13><0xF1: 0>WHO called the<LF>
 QuizKing? WHO called<LF>
 the QuizKing?<Button><CR>
 !---------------------!
@@ -258,7 +258,7 @@ on the enemy is<LF>
 embarrassing!!<Button><EB>
 !*********************!
 <@PointerIdx192>
-<Char: 0 13><0xF1: 0><0xfa> n0<0xEA: 1 40 0>You couldn't free<LF>
+<Char: 0 13><0xF1: 0><0xFA: 0 24 1><0xEA: 1 40 0>You couldn't free<LF>
 my soul...<Button><CR>
 !---------------------!
 But,I'll keep<LF>
@@ -281,7 +281,7 @@ Yeah...I just<LF>
 can't remember.<Button><EB>
 !*********************!
 <@PointerIdx194>
-<0xfa>z<Char: 0 13><0xF1: 0>Well let's begin!<Button><CR>
+<0xFA: 36><Char: 0 13><0xF1: 0>Well let's begin!<Button><CR>
 !---------------------!
 Question 1:<Button><CR>
 !---------------------!
@@ -292,13 +292,11 @@ element?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>No Element<LF>
 <Arrow: 34 16><Pos: 0 2>Wood<CondJmp: 7 192 192 255 192>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>You're correct...<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>You're correct...<LF>
 Next question.<Button><CR>
 !---------------------!
 <Jmp: 0 195><@PointerIdx195>
-<0xfa>z<Char: 0 13><0xF1: 0>Question 2:<Button><CR>
+<0xFA: 36><Char: 0 13><0xF1: 0>Question 2:<Button><CR>
 !---------------------!
 What's the virus<LF>
 that shoots CannonB-<LF>
@@ -308,13 +306,11 @@ alls from its mouth?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>Handy<LF>
 <Arrow: 34 16><Pos: 0 2>HardHead<CondJmp: 7 192 192 192 255>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>You're correct...<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>You're correct...<LF>
 Next question.<Button><CR>
 !---------------------!
 <Jmp: 0 196><@PointerIdx196>
-<0xfa>z<Char: 0 13><0xF1: 0>Question 3:<Button><CR>
+<0xFA: 36><Char: 0 13><0xF1: 0>Question 3:<Button><CR>
 !---------------------!
 What's the combined<LF>
 attack of <ItemTbl: 0 232 1>,<LF>
@@ -324,13 +320,11 @@ attack of <ItemTbl: 0 232 1>,<LF>
 <Arrow: 17 2><Pos: 0 2>220<LF>
 <Arrow: 34 16><Pos: 0 2>240<CondJmp: 7 192 192 192 255>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>You're correct...<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>You're correct...<LF>
 Next question.<Button><CR>
 !---------------------!
 <Jmp: 0 197><@PointerIdx197>
-<0xfa>z<Char: 0 13><0xF1: 0>Question 4:<Button><CR>
+<0xFA: 36><Char: 0 13><0xF1: 0>Question 4:<Button><CR>
 !---------------------!
 Who is a former<LF>
 WWW operator?<Button><CR>
@@ -339,13 +333,11 @@ WWW operator?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>Chaud<LF>
 <Arrow: 34 16><Pos: 0 2>Mr.Match<CondJmp: 7 192 192 192 255>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>You're correct...<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>You're correct...<LF>
 Next question.<Button><CR>
 !---------------------!
 <Jmp: 0 198><@PointerIdx198>
-<0xfa>z<Char: 0 13><0xF1: 0>Question 5:<Button><CR>
+<0xFA: 36><Char: 0 13><0xF1: 0>Question 5:<Button><CR>
 !---------------------!
 What's the name of<LF>
 MagnetMan's operator<LF>
@@ -355,13 +347,11 @@ Gauss's brother?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>Hippopotamus Gauss<LF>
 <Arrow: 34 16><Pos: 0 2>Jack Electricity<CondJmp: 7 192 192 192 255>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>You're correct...<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>You're correct...<LF>
 Next question.<Button><CR>
 !---------------------!
 <Jmp: 0 199><@PointerIdx199>
-<0xfa>z<Char: 0 13><0xF1: 0>Question 6:<Button><CR>
+<0xFA: 36><Char: 0 13><0xF1: 0>Question 6:<Button><CR>
 !---------------------!
 Of these Navis,who<LF>
 is vulnerable to<LF>
@@ -371,13 +361,11 @@ Wood attacks?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>HeatMan<LF>
 <Arrow: 34 16><Pos: 0 2>KnightMan<CondJmp: 7 192 255 192 192>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>You're correct...<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>You're correct...<LF>
 Next question.<Button><CR>
 !---------------------!
 <Jmp: 0 200><@PointerIdx200>
-<0xfa>z<Char: 0 13><0xF1: 0>Question 7:<Button><CR>
+<0xFA: 36><Char: 0 13><0xF1: 0>Question 7:<Button><CR>
 !---------------------!
 What's the temp. of<LF>
 the Netopia hotel<LF>
@@ -387,13 +375,11 @@ fridge?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>0 degrees C<LF>
 <Arrow: 34 16><Pos: 0 2>3 degrees C<CondJmp: 7 192 192 192 255>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>You're correct...<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>You're correct...<LF>
 Next question.<Button><CR>
 !---------------------!
 <Jmp: 0 201><@PointerIdx201>
-<0xfa>z<Char: 0 13><0xF1: 0>Question 8:<Button><CR>
+<0xFA: 36><Char: 0 13><0xF1: 0>Question 8:<Button><CR>
 !---------------------!
 What's the name of<LF>
 the popular robot<LF>
@@ -403,13 +389,11 @@ cartoon in Netopia?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>RoboX<LF>
 <Arrow: 34 16><Pos: 0 2>RottaRobo<CondJmp: 7 192 192 255 192>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>You're correct...<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>You're correct...<LF>
 Next question.<Button><CR>
 !---------------------!
 <Jmp: 0 202><@PointerIdx202>
-<0xfa>z<Char: 0 13><0xF1: 0>Question 9:<Button><CR>
+<0xFA: 36><Char: 0 13><0xF1: 0>Question 9:<Button><CR>
 !---------------------!
 How many houses<LF>
 are there in<LF>
@@ -419,13 +403,11 @@ ACDC Town?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>8<LF>
 <Arrow: 34 16><Pos: 0 2>9<CondJmp: 7 192 192 192 255>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>You're correct...<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>You're correct...<LF>
 Next question.<Button><CR>
 !---------------------!
 <Jmp: 0 211><@PointerIdx203>
-<0xfa>z<Char: 0 13><0xF1: 0>Question 11:<Button><CR>
+<0xFA: 36><Char: 0 13><0xF1: 0>Question 11:<Button><CR>
 !---------------------!
 What's in DenCity<LF>
 but not in<LF>
@@ -435,13 +417,11 @@ Netopia?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>BusStop<LF>
 <Arrow: 34 16><Pos: 0 2>CyberSquare<CondJmp: 7 192 255 192 192>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>You're correct...<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>You're correct...<LF>
 Next question.<Button><CR>
 !---------------------!
 <Jmp: 0 204><@PointerIdx204>
-<0xfa>z<Char: 0 13><0xF1: 0>Question 12:<Button><CR>
+<0xFA: 36><Char: 0 13><0xF1: 0>Question 12:<Button><CR>
 !---------------------!
 What area can<LF>
 you enter the<LF>
@@ -451,13 +431,11 @@ Undernet from?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>Netopia 2<LF>
 <Arrow: 34 16><Pos: 0 2>Netopia 3<CondJmp: 7 192 192 192 255>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>You're correct...<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>You're correct...<LF>
 Next question.<Button><CR>
 !---------------------!
 <Jmp: 0 205><@PointerIdx205>
-<0xfa>z<Char: 0 13><0xF1: 0>Question 13:<Button><CR>
+<0xFA: 36><Char: 0 13><0xF1: 0>Question 13:<Button><CR>
 !---------------------!
 Where was Quiz?<Button><CR>
 !---------------------!
@@ -465,13 +443,11 @@ Where was Quiz?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>The Center<LF>
 <Arrow: 34 16><Pos: 0 2>Den Airport<CondJmp: 7 192 192 192 255>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>You're correct...<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>You're correct...<LF>
 Next question.<Button><CR>
 !---------------------!
 <Jmp: 0 206><@PointerIdx206>
-<0xfa>z<Char: 0 13><0xF1: 0>Question 14:<Button><CR>
+<0xFA: 36><Char: 0 13><0xF1: 0>Question 14:<Button><CR>
 !---------------------!
 What's Mother<LF>
 Comp1's second<LF>
@@ -481,14 +457,12 @@ keyword?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>RIVER<LF>
 <Arrow: 34 16><Pos: 0 2>UCANGO<CondJmp: 7 192 192 255 192>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>You're correct...<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>You're correct...<LF>
 Last question...<LF>
 Set me free.<Button><CR>
 !---------------------!
 <Jmp: 0 207><@PointerIdx207>
-<0xfa>z<Char: 0 13><0xF1: 0>Question 15:<Button><CR>
+<0xFA: 36><Char: 0 13><0xF1: 0>Question 15:<Button><CR>
 !---------------------!
 Who's the leader<LF>
 of WWW?<Button><CR>
@@ -497,7 +471,7 @@ of WWW?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>Dark<LF>
 <Arrow: 34 16><Pos: 0 2>Wiley<CondJmp: 7 192 192 192 255>
 !---------------------!
-<0xff><0xfa> I0<0xEA: 1 20 0>Ahhhhhhhh<LF>
+<0xff><0xFA: 0 45 1><0xEA: 1 20 0>Ahhhhhhhh<LF>
 I am free!<Button><CR>
 !---------------------!
 What is your name,<LF>
@@ -524,7 +498,7 @@ Regular memory<LF>
 increased by 3 MB!!<Button><EB>
 !*********************!
 <@PointerIdx211>
-<0xfa>z<Char: 0 13><0xF1: 0>Question 10:<Button><CR>
+<0xFA: 36><Char: 0 13><0xF1: 0>Question 10:<Button><CR>
 !---------------------!
 Which virus has the<LF>
 highest attack<LF>
@@ -534,9 +508,7 @@ power?<Button><CR>
 <Arrow: 17 2><Pos: 0 2>Swordy<LF>
 <Arrow: 34 16><Pos: 0 2>Swordy3<CondJmp: 7 192 192 192 255>
 !---------------------!
-<0xff><0xfa> <EB>
-!*********************!
- <0xEA: 1 20 0>You're correct...<LF>
+<0xff><0xFA: 0 231 0><0xEA: 1 20 0>You're correct...<LF>
 Next question.<Button><CR>
 !---------------------!
 <Jmp: 0 203><@PointerIdx212>
