@@ -1,0 +1,32 @@
+<div class="modal" id="goto-row-settings" tabindex="-1" role="dialog" aria-labelledby="gotoRowSettings">
+	<div class="modal-dialog modal-sm" role="document">
+		<div class="modal-content">
+			<form class="goto-row-form" onsubmit="return mmbn2de.gotoRow(this)">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h4 class="modal-title">Ir Para</h4>
+				</div>
+
+				<div class="modal-body">
+					<div class="form-group" id="div-goto-row-block-number">
+						<label for="goto-row-block-number" class="control-label">Número do Bloco*:</label>
+						<div class="input-group">
+							<span class="input-group-addon" id="block-number-prefix">Nº</span>
+							<input type="text" id="goto-row-block-number" placeholder="Digite o número do bloco" onkeydown="return mmbn2de.maskFilterInput(event)"
+								class="form-control" aria-describedby="order-suffix" />
+						</div>
+					</div>
+					<p class="help-block">* Campo obrigatório</p>
+				</div>
+
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+					<button type="submit" class="btn btn-primary">
+						<span class="glyphicon glyphicon-circle-arrow-right" aria-hidden="true"></span>
+						Ir para
+					</button>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>

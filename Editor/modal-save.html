@@ -1,0 +1,32 @@
+<div class="modal" id="save-settings" tabindex="-1" role="dialog" aria-labelledby="saveSettings">
+	<div class="modal-dialog modal-sm" role="document">
+		<div class="modal-content">
+			<form class="save-file-form" onsubmit="return mmbn2de.saveScript(this)">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h4 class="modal-title">Salvar Script</h4>
+				</div>
+
+				<div class="modal-body">
+					<div class="form-group">
+						<label for="save-name-field" class="control-label">Nome*:</label>
+						<div class="input-group">
+							<input type="text" id="save-name-field" placeholder="Digite o nome do arquivo" onkeydown="return mmbn2de.maskFilenameInput(event)"
+								aria-describedby="filename-extension" class="form-control" required />
+							<span class="input-group-addon" id="filename-extension">.txt</span>
+						</div>
+					</div>
+					<p class="help-block">* Campo obrigatório</p>
+				</div>
+
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+					<button type="submit" class="btn btn-primary">
+						<span class="glyphicon glyphicon-save-file" aria-hidden="true"></span>
+						Salvar
+					</button>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>

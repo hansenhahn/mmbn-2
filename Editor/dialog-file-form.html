@@ -1,0 +1,90 @@
+<form class="dialog-file-form" onsubmit="return mmbn2de.readScriptFile(this)">
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<div class="form-group">
+				<label for="file-origin-input" class="control-label">Arquivo*:</label>
+				<div class="row">
+					<div class="col-sm-6">
+						<div class="radio">
+							
+							<input type="radio" name="file-origin" id="file-origin-input" value="f"
+								onchange="mmbn2de.toggleFileOrigin(this)" checked />
+							<label for="file-origin-input" style='margin-bottom: 5px'><span></span>Fazer upload no campo abaixo</label>
+							
+							<input type="file" id="file-field" name="script-file" required />
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="radio">
+							<input type="radio" name="file-origin" id="file-origin-select" value="s"
+								onchange="mmbn2de.toggleFileOrigin(this)" />
+							<label for="file-origin-select"><span></span>Escolher arquivo na lista abaixo</label>
+							
+							<br />
+							<div id="file-list" style="display: none">
+								
+								<div class="col">
+									<input type="radio" name="file-item-list" id="file-item-list-0"
+										value="scripts/teste.txt"
+										onclick="mmbn2de.selectFileFromList(this)" />
+									<div class="btn-group">
+										<label for="file-item-list-0" class="btn btn-default">
+											<span class="content">teste.txt</span>
+										</label>
+									</div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-6 visible-xs">
+					<div class="form-group">
+						<label for="mobile-show-initially-preview" class="control-label">Exibir Inicialmente¹:</label>
+						<div class="radio">
+							<input type="radio" name="mobile-show-initially" id="mobile-show-initially-preview" value="p"
+								onchange="mmbn2de.changeMobileShowInitially(this)" checked />
+							<label for="mobile-show-initially-preview"><span></span>Prévia</label>
+						</div>
+						<div class="radio">
+							<input type="radio" name="mobile-show-initially" id="mobile-show-initially-textfield" value="t"
+								onchange="mmbn2de.changeMobileShowInitially(this)" />
+							<label for="mobile-show-initially-textfield"><span></span>Campo de Texto</label>
+						</div>
+					</div>
+					<sub>1. Apenas para dispositivos de pouca largura (celulares)</sub>
+				</div>
+			</div>
+			<p class="help-block">* Campo obrigatório</p>
+			<button type="submit" class="btn btn-primary">
+				<span class="glyphicon glyphicon-upload" aria-hidden="true"></span>
+				Enviar
+			</button>
+			<div class="alert alert-info" role="alert" style="margin-top: 10px">
+				Instruções:
+				<ul>
+					<li>
+						Obtenha um dos scripts situados no <a href="https://github.com/hansenhahn/mmbn-2">repositório do MMBN2 do DiegoHH</a>, e envie-o através do campo "Arquivo";
+					</li>
+					<li>
+						Aguarde o script terminar de ser interpretado. Geralmente leva alguns segundos;
+					</li>
+					<li>
+						Após tê-lo carregado, aparecerão os blocos de diálogo, separados em vários
+						campos de texto, seguido de uma prévia ao lado. É o sinal de que já pode
+						começar a traduzir;
+					</li>
+					<li><b>IMPORTANTE</b>: Antes de fechar a tool, lembre-se de salvar o script clicando em "Arquivo -> Salvar Script"¹</li>
+				</ul>
+
+				<sub>
+					1. Essa tool atualmente não realiza a persistência de nada submetido a ela,
+					logo cabe ao usuário upar e salvar os scripts periodicamente, enquanto traduz por ela.
+					Se o script não for salvo, ele será perdido.
+				</sub>
+			</div>
+		</div>
+	</div>
+</form>

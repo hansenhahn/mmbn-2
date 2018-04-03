@@ -1,0 +1,806 @@
+<@PointerIdx0>
+<F3: 4 1 1 25 255><Char: 0 0><F1: 0>Morning,Dex!<BTN><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 2><F1: 0>Yo,Lan!<BTN><CR>
+!---------------------!
+Hey,let's do some<LF>
+net surfing after<LF>
+school,OK?<BTN><CR>
+!---------------------!
+I'll tell you<LF>
+about it later!<BTN><CR>
+!---------------------!
+Aa! <EA: 1 30 0>Teach's coming!<BTN><F1: 1><F2: 0 2 2><EB>
+!*********************!
+<@PointerIdx2>
+<F3: 4 1 1 26 255><Char: 0 7><F1: 0>Good morning,Lan!<BTN><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><F1: 0>Hey,Mayl!<LF>
+Morning!<BTN><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 7><F1: 0>Lan! Dex was<LF>
+looking for you<LF>
+just now.<BTN><EB>
+!*********************!
+<@PointerIdx5>
+<F3: 4 1 1 27 255><Char: 0 0><F1: 0>Yo! Yai!<BTN><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 1><F1: 0>Why if it isn't Lan.<LF>
+Good morning. I<LF>
+suppose you want...<BTN><CR>
+!---------------------!
+...to hear about my<LF>
+collection,right?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 128 8 7 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 1><F1: 0>Ahem! You WANT to<LF>
+HEAR,right?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 128 8 7 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx8>
+<Char: 0 1><F1: 0>Well,I'm collecting<LF>
+Electopian fans!<BTN><CR>
+!---------------------!
+They're like little<LF>
+pieces of fan-shaped<LF>
+art,you see?<BTN><CR>
+!---------------------!
+A special privilege<LF>
+of the upper class,<LF>
+I suppose.<BTN><CR>
+!---------------------!
+Well,you probably<LF>
+wouldn't understand.<LF>
+<Arrow: 17 0><Pos: 0 2>I do! <Arrow: 0 17><Pos: 0 2>Huh?<CondJmp: 6 128 255 9 255>
+!---------------------!
+<Char: 0 1>That's all right.<LF>
+You don't have to<LF>
+pretend.<BTN><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 1><F1: 0>Of course you don't!<EA: 1 30 0><LF>
+It's OK. They're<LF>
+mine,anyway.<BTN><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 8><F1: 0>There's a book here<LF>
+about our "PET"<LF>
+terminals!<BTN><CR>
+!---------------------!
+Want me to tell<LF>
+you about it?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 128 16 255 255>
+!---------------------!
+<Char: 0 8>Well,you can read<LF>
+the books here<LF>
+anytime you want.<BTN><EB>
+!*********************!
+<@PointerIdx11>
+<F3: 4 4 255 36 255><F3: 4 1 3 28 255><Char: 0 8><F1: 0>Morning,Lan!<LF>
+You're always having<LF>
+fun with MegaMan.<BTN><CR>
+!---------------------!
+I wish my Navi was<LF>
+as fun as yours is.<BTN><EB>
+!*********************!
+<@PointerIdx12>
+<F3: 4 1 5 29 255><Char: 0 9><F1: 0>Hey! Vacation starts<LF>
+tomorrow! Whoopee!<BTN><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 0 9><F1: 0>Right...First,press<LF>
+START on your PET<LF>
+to open the menu.<BTN><CR>
+!---------------------!
+Then,you can read<LF>
+mail and organize<LF>
+your chipfolder.<BTN><CR>
+!---------------------!
+Press the L Button<LF>
+to talk to your Navi<LF>
+inside the PET.<BTN><CR>
+!---------------------!
+Of course,I'll<LF>
+probably forget<LF>
+everything anyway.<BTN><F2: 0 14 2><EB>
+!*********************!
+<@PointerIdx14>
+<Char: 0 64><F1: 0>Lan! We came all<LF>
+the way here! Don't<LF>
+go home now!!<BTN><EB>
+!*********************!
+<@PointerIdx15>
+<Char: 0 64><F1: 0>Lan,aren't you<LF>
+forgetting to<LF>
+do something?<BTN><EB>
+!*********************!
+<@PointerIdx16>
+<Char: 0 8><F1: 0>OK,I'll teach<LF>
+you...but it's kind<LF>
+of long,OK?<BTN><CR>
+!---------------------!
+<Char: 1 241> <Arrow: 0 17><Pos: 0 2>OK<LF>
+<Arrow: 17 0><Pos: 0 2>Later<CondJmp: 6 128 17 255 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx17>
+<F1: 0>"PET" is short for<LF>
+"PErsonal Terminal".<BTN><CR>
+!---------------------!
+Your "PET" is a<LF>
+portable link to<LF>
+the Net,get it?<BTN><CR>
+!---------------------!
+It's kind of like a<LF>
+cell phone,but it<LF>
+does a lot more.<BTN><CR>
+!---------------------!
+You can send mail,<LF>
+use electronic money<LF>
+and read textbooks!<BTN><CR>
+!---------------------!
+The NetNavi program<LF>
+inside helps if you<LF>
+have a problem.<BTN><CR>
+!---------------------!
+The NetNavi in<LF>
+your PET is<LF>
+called "MegaMan".<BTN><EB>
+!*********************!
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<F3: 0 59 1 23 255><Char: 0 8><F1: 0>Sometimes there are<LF>
+battlechips lying<LF>
+around class.<BTN><CR>
+!---------------------!
+...I don't see any<LF>
+here,though. Hmm...<BTN><EB>
+!*********************!
+<@PointerIdx23>
+<Char: 0 8><F1: 0>Wait...<EA: 1 30 0>That's<LF>
+the battlechip I hid<LF>
+in my desk!<BTN><CR>
+!---------------------!
+...Ah,who cares.<EA: 1 10 0><LF>
+I'm not using it so<LF>
+you can have it,Lan.<BTN><EB>
+!*********************!
+<@PointerIdx24>
+<Char: 0 64><F1: 0><F2: 12 0 7>Lan! You got mail!<BTN><EB>
+!*********************!
+<@PointerIdx25>
+<F2: 4 112 8><F2: 4 113 8><F2: 0 31 2><Char: 0 2><F1: 0>Hey,there you are.<LF>
+Now we can talk!<BTN><CR>
+!---------------------!
+You hear about the<LF>
+new "Square" on<LF>
+the Net?<BTN><CR>
+!---------------------!
+I hear they're<LF>
+looking for "city<LF>
+NetBattlers" there!<BTN><CR>
+!---------------------!
+I dunno what a "city<LF>
+NetBattler" is...<EA: 1 30 0><LF>
+But it sounds cool!<BTN><CR>
+!---------------------!
+I invited Mayl and<LF>
+Yai,too. We can all<LF>
+go together,ya?<BTN><CR>
+!---------------------!
+The meeting place is<LF>
+on the Net,at the<LF>
+"Square" enterance!<BTN><CR>
+!---------------------!
+Jack-in and send<LF>
+MegaMan online when<LF>
+you get home,OK?<BTN><CR>
+!---------------------!
+<Jmp: 0 31><@PointerIdx26>
+<Char: 0 7><F1: 0>You really should<LF>
+do your homework...<EA: 1 30 0><LF>
+But then again...<BTN><CR>
+!---------------------!
+It sounds like Dex<LF>
+is on to something!<LF>
+I'll be there,too!<BTN><EB>
+!*********************!
+<@PointerIdx27>
+<Char: 0 1><F1: 0>That Net thing Dex<LF>
+was talking about?<LF>
+I'll pass.<BTN><CR>
+!---------------------!
+I wouldn't want<LF>
+to miss my daily<LF>
+afternoon ablutions!<BTN><CR>
+!---------------------!
+That means "bath".<LF>
+Not that YOU'd know.<BTN><EB>
+!*********************!
+<@PointerIdx28>
+<Char: 0 8><F1: 0>Whoohoo!<LF>
+V-A-C-A-T-I-O-N!<BTN><EB>
+!*********************!
+<@PointerIdx29>
+<Char: 0 9><F1: 0>Where to go for<LF>
+vacation? <EA: 1 30 0>I can<LF>
+never decide.<EA: 1 30 0>.<EA: 1 30 0>.<EA: 1 30 0><BTN><EB>
+!*********************!
+<@PointerIdx30>
+<F3: 4 2 255 35 255><Char: 0 3><F1: 0>A+ in virus busting,<LF>
+Lan,but your other<LF>
+subjects...<BTN><EB>
+!*********************!
+<@PointerIdx31>
+<Char: 0 64><F1: 0>Did you hear that<LF>
+Lan!?<BTN><CR>
+!---------------------!
+"The Square" is like<LF>
+a city on the Net<LF>
+for us NetNavis.<BTN><CR>
+!---------------------!
+You can shop and<LF>
+talk to other Navis.<LF>
+<EA: 1 15 0>It's a lot of fun!<BTN><EB>
+!*********************!
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<Char: 0 3><F1: 0>Mayl and Dex and<LF>
+the others have<LF>
+all gone home.<BTN><CR>
+!---------------------!
+Weren't you supposed<LF>
+to meet them later,<LF>
+Lan? On the Net?<BTN><EB>
+!*********************!
+<@PointerIdx36>
+<Char: 0 8><F1: 0>Who? Mayl?<LF>
+Haven't seen her!<BTN><EB>
+!*********************!
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<Char: 0 9><F1: 0>Everyone's gone<LF>
+home already.<BTN><EB>
+!*********************!
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<Char: 0 7><F1: 0>I've got homework<LF>
+for Netopian class<LF>
+to do...<EA: 1 30 0>Sorry!<BTN><F2: 0 81 2><EB>
+!*********************!
+<@PointerIdx46>
+<F3: 4 64 72 90 255><F3: 4 61 61 88 255><F3: 4 56 57 75 255><F3: 4 55 55 70 255><F3: 4 32 33 65 255><F3: 4 10 15 50 255><Char: 0 8><F1: 0>I'm working on my<LF>
+project! "The study<LF>
+of living things!"<BTN><EB>
+!*********************!
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<Char: 0 8><F1: 0>Hmm..."Frog looks<LF>
+unhappy again today.<LF>
+Poor frog".<BTN><CR>
+!---------------------!
+There,that should<LF>
+do it!<BTN><EB>
+!*********************!
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<Char: 0 37><F1: 0>Whoops! It seems<LF>
+I have been found.<BTN><CR>
+!---------------------!
+I used to go to<LF>
+school here. I come<LF>
+back sometimes.<BTN><CR>
+!---------------------!
+This place is<LF>
+full of memories...<BTN><EB>
+!*********************!
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<Char: 0 3><F1: 0>It's a little lonely<LF>
+in here without kids<LF>
+in their desks.<BTN><EB>
+!*********************!
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<Char: 0 8><F1: 0>My research project<LF>
+is going great!<EA: 1 30 0><LF>
+How's yours,Lan?<BTN><EB>
+!*********************!
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<Char: 0 8><F1: 0>I'm raising a little<LF>
+pet over vacation...<BTN><CR>
+!---------------------!
+Not a PET! A "pet!"<LF>
+What is it? I'm not<LF>
+telling!<BTN><CR>
+!---------------------!
+But it keeps growing<LF>
+bigger each time it<LF>
+sheds its skin...<BTN><CR>
+!---------------------!
+Heh heh heh...<BTN><EB>
+!*********************!
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<Char: 0 8><F1: 0>I'm here to check<LF>
+on my pet after all<LF>
+those quakes!<BTN><EB>
+!*********************!
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<Char: 0 10><F1: 0>I-I'm scared...<BTN><EB>
+!*********************!
+<@PointerIdx81>
+<Char: 0 19><F1: 0>Try as we may,humans<LF>
+will never stand to<LF>
+the power of nature!<BTN><CR>
+!---------------------!
+We'll just have to<LF>
+let nature run its<LF>
+course...<BTN><EB>
+!*********************!
+<@PointerIdx82>
+<Char: 0 13><F1: 0>I was in a big quake<LF>
+once,back before you<LF>
+were born,sonny!<BTN><CR>
+!---------------------!
+Now THAT was a<LF>
+quake! Nothing like<LF>
+these lil' shivers.<BTN><CR>
+!---------------------!
+So I shouldn't be<LF>
+this scared,now,<LF>
+should I?<BTN><CR>
+!---------------------!
+It just brought back<LF>
+all those memories.<BTN><EB>
+!*********************!
+<@PointerIdx83>
+<Char: 0 3><F1: 0>I never expected my<LF>
+classroom would<LF>
+turn into a shelter!<BTN><EB>
+!*********************!
+<@PointerIdx84>
+<Char: 0 37><F1: 0>Should anything<LF>
+happen,I need you<LF>
+to all listen to me.<BTN><EB>
+!*********************!
+<@PointerIdx85>
+<Char: 0 14><F1: 0>In all my years,this<LF>
+is my first time in<LF>
+a shelter.<BTN><EB>
+!*********************!
+<@PointerIdx86>
+<Char: 0 16><F1: 0>I can't believe we<LF>
+had to evacuate!<LF>
+That's,like,bad!<BTN><EB>
+!*********************!
+<@PointerIdx87>
+<Char: 0 15><F1: 0>My wife's off in<LF>
+Okuden Valley.<BTN><CR>
+!---------------------!
+I can't even call<LF>
+her out there.<BTN><CR>
+!---------------------!
+Gosh,I'm worried!<LF>
+I sure hope<LF>
+she's OK.<BTN><EB>
+!*********************!
+<@PointerIdx88>
+<Char: 0 8><F1: 0>Those quakes are<LF>
+done now,right?<BTN><CR>
+!---------------------!
+Boy,was I ever<LF>
+scared!<BTN><EB>
+!*********************!
+<@PointerIdx89>
+<@PointerIdx90>
+<Char: 0 8><F1: 0>I finished my<LF>
+research project!<BTN><CR>
+!---------------------!
+But a virus trashed<LF>
+all my data! I have<LF>
+to start over...<BTN><EB>
+!*********************!
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<F3: 0 131 12 195 255><F3: 0 141 0 192 255><F3: 0 140 0 191 255><F2: 0 140 0><Char: 0 9><F1: 0>Lan! You're the one<LF>
+taking my request?<LF>
+What a surprise!<BTN><CR>
+!---------------------!
+Well,here's the<LF>
+problem. My cousin<LF>
+came to visit,see...<BTN><CR>
+!---------------------!
+And now she's gone<LF>
+off somewhere and<LF>
+I can't find her!<BTN><CR>
+!---------------------!
+I'm worried,and I<LF>
+was hoping you could<LF>
+go look for her?<BTN><CR>
+!---------------------!
+She's a clever girl,<LF>
+not like me at all.<BTN><CR>
+!---------------------!
+She might have even<LF>
+gone someplace on<LF>
+the Metroline!<BTN><CR>
+!---------------------!
+Who knows where she<LF>
+will wind up if we<LF>
+don't find her!<BTN><CR>
+!---------------------!
+All you have to do<LF>
+is find out where<LF>
+she is and tell me!<BTN><CR>
+!---------------------!
+Thanks,Lan. I'm<LF>
+counting on you!<BTN><EB>
+!*********************!
+<@PointerIdx191>
+<Char: 0 9><F1: 0>What's that? Need to<LF>
+hear the request<LF>
+once more? Sure...<BTN><CR>
+!---------------------!
+My little girl<LF>
+cousin's gone off<LF>
+somewhere...<BTN><CR>
+!---------------------!
+She's a clever girl.<LF>
+Who knows where she<LF>
+could have gone to!<BTN><CR>
+!---------------------!
+She might have even<LF>
+gone somewhere on<LF>
+the Metroline!<BTN><CR>
+!---------------------!
+Well,I'm pretty sure<LF>
+she wouldn't go too<LF>
+far,but still...<BTN><CR>
+!---------------------!
+Where could she be?<BTN><EB>
+!*********************!
+<@PointerIdx192>
+<F2: 0 131 12><F2: 4 82 0><Char: 0 9><F1: 0>What? Marine Harbor?<LF>
+So she rode the line<LF>
+all by herself!<BTN><CR>
+!---------------------!
+I'm glad you found<LF>
+her,Lan. Here's your<LF>
+reward!<BTN><CR>
+!---------------------!
+<Jmp: 0 193><@PointerIdx193>
+<Char: 1 241> <0xf8> <0xf8>3n<0xf6> <0x62>0Lan got a PowerUp<0x44><LF>
+"<0xf9> <0x62> !!"<0xf8>b<0xf8>7<BTN><CR>
+!---------------------!
+Regular memory<LF>
+increased by 1 MB!!<BTN><CR>
+!---------------------!
+<Jmp: 0 194><@PointerIdx194>
+<Char: 0 9><F1: 0>I knew I could count<LF>
+on you,Lan!<BTN><EB>
+!*********************!
+<@PointerIdx195>
+<Char: 0 9><F1: 0>Thanks a ton!<LF>
+Good work,Lan!<BTN><EB>
+!*********************!
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<F3: 4 0 1 233 255><F1: 0>The blackboard.<BTN><CR>
+!---------------------!
+You can jack in here<LF>
+during vacation,too.<BTN><EB>
+!*********************!
+<@PointerIdx221>
+<F1: 0>A class schedule.<BTN><CR>
+!---------------------!
+Thank goodness<LF>
+there's no classes<LF>
+during vacation!<BTN><EB>
+!*********************!
+<@PointerIdx222>
+<F1: 0>A bookshelf. There's<LF>
+a book about PETs.<LF>
+Want to read it?<BTN><CR>
+!---------------------!
+<Arrow: 0 17><Pos: 0 2>Sure<LF>
+<Arrow: 17 0><Pos: 0 2>Nope<CondJmp: 6 128 235 255 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx223>
+<F1: 0>These schoolbooks<LF>
+are fading in the<LF>
+summer sun.<BTN><EB>
+!*********************!
+<@PointerIdx224>
+<F1: 0>It's a terrarium.<LF>
+Somebody must be<LF>
+keeping a pet here.<BTN><CR>
+!---------------------!
+...!!<BTN><CR>
+!---------------------!
+The sand wriggled<LF>
+and moved!<BTN><CR>
+!---------------------!
+What the heck<LF>
+is in there?<BTN><EB>
+!*********************!
+<@PointerIdx225>
+<F1: 0>There's a frog in<LF>
+there. He's glaring<LF>
+out at you.<BTN><CR>
+!---------------------!
+Looking at his<LF>
+expression he seems<LF>
+to be saying,<BTN><CR>
+!---------------------!
+"Hey,buddy! You want<LF>
+to toast me? It's an<LF>
+oven in here!"<BTN><EB>
+!*********************!
+<@PointerIdx226>
+<F1: 0>Nothing's being<LF>
+kept in this one...<BTN><CR>
+!---------------------!
+.<EA: 1 20 0>.<EA: 1 20 0>.<EA: 1 20 0>You think.<BTN><EB>
+!*********************!
+<@PointerIdx227>
+<F1: 0>Lan's desk.<BTN><CR>
+!---------------------!
+It hasn't been used<LF>
+over vacation so<LF>
+it's sparkly clean.<BTN><EB>
+!*********************!
+<@PointerIdx228>
+<F1: 0>Mayl's desk.<BTN><CR>
+!---------------------!
+She really scrubbed<LF>
+it good. You can see<LF>
+your reflection!<BTN><EB>
+!*********************!
+<@PointerIdx229>
+<F1: 0>Dex's desk.<BTN><CR>
+!---------------------!
+Some graffiti is on<LF>
+the top...<BTN><CR>
+!---------------------!
+"I LUV GUTSMAN".<BTN><EB>
+!*********************!
+<@PointerIdx230>
+<F1: 0>Yai's desk.<BTN><CR>
+!---------------------!
+This desk is still<LF>
+kinda big for Yai.<BTN><EB>
+!*********************!
+<@PointerIdx231>
+<F1: 0>This classroom will<LF>
+be pretty empty till<LF>
+school starts again.<BTN><F3: 0 59 1 240 255><CR>
+!---------------------!
+There's something<LF>
+inside this desk!<BTN><CR>
+!---------------------!
+<F2: 0 59 1><0xf8>3n<0xf6>f<0x82> e0Lan got a chip for<LF>
+"<0xf9> <0x82>0 <0xf9> e2!!"<0xf8>b<0xf8>f<BTN><EB>
+!*********************!
+<@PointerIdx232>
+<F1: 0>The teacher's desk.<BTN><CR>
+!---------------------!
+This one's been<LF>
+well-cleaned,too.<BTN><EB>
+!*********************!
+<@PointerIdx233>
+<F1: 0>The blackboard.<LF>
+You can jack in here<LF>
+but why would you?<BTN><EB>
+!*********************!
+<@PointerIdx234>
+<@PointerIdx235>
+<F1: 0>"PET" is short for<LF>
+"PErsonal Terminal".<BTN><CR>
+!---------------------!
+Your "PET" is a<LF>
+portable link to<LF>
+the Net,get it?<BTN><CR>
+!---------------------!
+It's kind of like a<LF>
+cell phone,but it<LF>
+does a lot more.<BTN><CR>
+!---------------------!
+You can send mail,<LF>
+use electronic money<LF>
+and read textbooks!<BTN><CR>
+!---------------------!
+The NetNavi program<LF>
+inside helps if you<LF>
+have a problem.<BTN><CR>
+!---------------------!
+The NetNavi in<LF>
+your PET is<LF>
+called "MegaMan".<BTN><EB>
+!*********************!
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<EB>
+!*********************!
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>
