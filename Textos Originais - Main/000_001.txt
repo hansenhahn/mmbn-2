@@ -26,7 +26,7 @@ haven't forgotten<LF>
 what today is,right?<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
-<0xfa>32 <Char: 0 0><0xF1: 0>Not likely! It's the<LF>
+<0xFA: 4 3 0><Char: 0 0><0xF1: 0>Not likely! It's the<LF>
 last day of school!<LF>
 Vacation time!<Button><CR>
 !---------------------!

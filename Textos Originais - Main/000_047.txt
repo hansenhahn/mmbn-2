@@ -11,9 +11,9 @@ at your PET there?<Button><CR>
 Let me check your<LF>
 data for a second.<Button><CR>
 !---------------------!
-<0xf4> <0xfa>b<0xfa> 90<Char: 3 0>click click bing!<0xEA: 0 86 0><0xf4>0<Button><CR>
+<0xf4> <0xFA: 12><0xFA: 0 10 1><Char: 3 0>click click bing!<0xEA: 0 86 0><0xf4>0<Button><CR>
 !---------------------!
-<0xfa>7<Char: 3 1>Hmm...Looks like<LF>
+<0xFA: 8><Char: 3 1>Hmm...Looks like<LF>
 you're not qualified<LF>
 for the exam yet.<Button><CR>
 !---------------------!

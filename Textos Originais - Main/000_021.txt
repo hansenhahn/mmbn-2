@@ -23,7 +23,7 @@ Lan saved your life.<Button><CR>
 <Char: 0 0><0xF1: 0>Huh<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
-<0xfa>33 <Char: 0 1><0xF1: 0>...y-you saw me<LF>
+<0xFA: 4 4 0><Char: 0 1><0xF1: 0>...y-you saw me<LF>
 naked!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>

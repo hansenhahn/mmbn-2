@@ -21,7 +21,7 @@ spontaneous...<Button><CR>
 <Char: 0 64><0xF1: 0>Huh?<Button><EB>
 !*********************!
 <@PointerIdx6>
-<Char: 1 241> <0xfa>bPi-pi-pi!!<0xfa>7<Button><EB>
+<Char: 1 241> <0xFA: 12>Pi-pi-pi!!<0xFA: 8><Button><EB>
 !*********************!
 <@PointerIdx7>
 <Char: 0 64><0xF1: 0>Mail,wanna read it?<Button><CR>

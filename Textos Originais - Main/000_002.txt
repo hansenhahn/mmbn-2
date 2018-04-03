@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7854760>
 <@PointerIdx0>
-<0xF1: 0><0xfa>f<0xfa>b<0xf4> <0xF2: 0 13 2><0xfa> <0x9e> bing <0xEA: 0 40 0>bong <0xEA: 0 40 0>bing <0xEA: 0 40 0>bong<0xEA: 0 60 0><0xf4>0<0xfa>7<0xF2: 4 13 2><0xfa>32 <Button><CR>
+<0xF1: 0><0xFA: 16><0xFA: 12><0xf4> <0xF2: 0 13 2><0xFA: 0 158 0>bing <0xEA: 0 40 0>bong <0xEA: 0 40 0>bing <0xEA: 0 40 0>bong<0xEA: 0 60 0><0xf4>0<0xFA: 8><0xF2: 4 13 2><0xFA: 4 3 0><Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <Char: 0 1><0xF1: 0>The teacher's here!<Button><EB>
@@ -44,14 +44,14 @@ your homework!<Button><CR>
 have been waiting<LF>
 for! Report cards!<Button><CR>
 !---------------------!
-<0xfa>f<Jmp: 0 10><@PointerIdx10>
+<0xFA: 16><Jmp: 0 10><@PointerIdx10>
 <Char: 0 2><0xF1: 0>Noooo!<Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
 <Char: 0 0><0xF1: 0>Arrrgh!<Button><EB>
 !*********************!
 <@PointerIdx12>
-<0xfa>32 <Char: 0 3><0xF1: 0>OK class,have a<LF>
+<0xFA: 4 3 0><Char: 0 3><0xF1: 0>OK class,have a<LF>
 nice vacation!<LF>
 And be safe!<Button><CR>
 !---------------------!

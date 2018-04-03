@@ -94,7 +94,7 @@ him?<Button><CR>
 the article.<Button><CR>
 !---------------------!
 <Jmp: 0 22><@PointerIdx22>
-<0xfa>3e <Char: 1 241> ...They learned<LF>
+<0xFA: 4 15 0><Char: 1 241> ...They learned<LF>
 many things from<LF>
 that journal...<Button><CR>
 !---------------------!
@@ -149,7 +149,7 @@ the real world that<LF>
 had forsaken him...<Button><EB>
 !*********************!
 <@PointerIdx29>
-<0xfa>f<Char: 0 40><0xF1: 0>Uh...uhhhn...<Button><EB>
+<0xFA: 16><Char: 0 40><0xF1: 0>Uh...uhhhn...<Button><EB>
 !*********************!
 <@PointerIdx30>
 <Char: 0 0><0xF1: 0>Whoa! You're alive!<Button><CR>

@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7875332>
 <@PointerIdx0>
-<0xfa>34 <Char: 0 41><0xF1: 0>On the scene with a<LF>
+<0xFA: 4 5 0><Char: 0 41><0xF1: 0>On the scene with a<LF>
 live interview with<LF>
 a meritorious boy!<Button><EB>
 !*********************!

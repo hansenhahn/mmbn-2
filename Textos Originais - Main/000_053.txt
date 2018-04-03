@@ -79,10 +79,10 @@ is...<Button><CR>
 ...got that?<Button><CR>
 !---------------------!
 <Jmp: 0 10><@PointerIdx10>
-<Char: 0 81><0xF1: 0>My pleasure,sir!<Button><0xfa> <0xde> <0xF2: 4 66 2><EB>
+<Char: 0 81><0xF1: 0>My pleasure,sir!<Button><0xFA: 0 222 0><0xF2: 4 66 2><EB>
 !*********************!
 <@PointerIdx11>
-<Char: 0 70><0xF1: 0>Sire! Sire!<0xfa>3e <Button><CR>
+<Char: 0 70><0xF1: 0>Sire! Sire!<0xFA: 4 15 0><Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
 <Char: 0 83><0xF1: 0>Oh...Y-You're alive!<LF>

@@ -24,7 +24,7 @@ eternity!!<Button><EB>
 from FreezeMan's<LF>
 body!<Button><CR>
 !---------------------!
-<0xfa> é <0xF8: 4 24>MegaMan got:<LF>
+<0xFA: 0 133 0><0xF8: 4 24>MegaMan got:<LF>
 "BluFrag!!"<0xF8: 12><0xF8: 4 1><Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
@@ -33,7 +33,7 @@ We got the<LF>
 "BluFrag"...<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<Char: 1 241> <0xfa> A0Craaackkkk!<0xEA: 0 60 0><Button><CR>
+<Char: 1 241> <0xFA: 0 37 1>Craaackkkk!<0xEA: 0 60 0><Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 64><0xF1: 0>Ah!!<Button><CR>

@@ -16,7 +16,7 @@ anyway?<Button><CR>
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 16><0xF1: 0>Eeeeeeeek!!<Button><CR>
 !---------------------!
-<0xfa>3d <0xF2: 0 8 2><Jmp: 0 3><@PointerIdx3>
+<0xFA: 4 14 0><0xF2: 0 8 2><Jmp: 0 3><@PointerIdx3>
 <Char: 0 0><0xF1: 0>!?<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>

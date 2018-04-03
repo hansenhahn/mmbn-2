@@ -5,7 +5,7 @@ the start of<LF>
 vacation...<0xEA: 0 60 0><Button><EB>
 !*********************!
 <@PointerIdx1>
-<0xfa>33 <Char: 0 64><0xF1: 0>You should do your<LF>
+<0xFA: 4 4 0><Char: 0 64><0xF1: 0>You should do your<LF>
 homework at least<LF>
 once in a while,Lan.<Button><CR>
 !---------------------!

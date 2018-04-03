@@ -6,7 +6,7 @@
 <Char: 0 15><0xF1: 0>That should<LF>
 do the trick.<Button><CR>
 !---------------------!
-<0xfa>3a <Jmp: 0 2><@PointerIdx2>
+<0xFA: 4 11 0><Jmp: 0 2><@PointerIdx2>
 <0xF2: 0 8 2><Char: 0 58><0xF1: 0>Is he going to be<LF>
 all right,doctor?<Button><CR>
 !---------------------!

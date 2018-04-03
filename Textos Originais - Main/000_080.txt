@@ -141,7 +141,7 @@ Acted as a shield...<Button><CR>
 Urgh!<Button><CR>
 !---------------------!
 <0xF2: 4 124 2><Jmp: 0 26><@PointerIdx26>
-<0xfa>3x <Char: 0 64><0xF1: 0>Chaud! Hurry and<LF>
+<0xFA: 4 34 0><Char: 0 64><0xF1: 0>Chaud! Hurry and<LF>
 let me jack out<LF>
 ProtoMan.<Button><CR>
 !---------------------!

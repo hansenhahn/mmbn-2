@@ -28,7 +28,7 @@ Captain...<Button><CR>
 <Char: 0 59><0xF1: 0>What's up?<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
-<0xfa>3d <Char: 0 60><0xF1: 0>The landing gear<LF>
+<0xFA: 4 14 0><Char: 0 60><0xF1: 0>The landing gear<LF>
 control program!<LF>
 The gear won't...<Button><CR>
 !---------------------!

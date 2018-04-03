@@ -46,10 +46,10 @@ fine by me!<Button><CR>
 explosion.<Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
-<Char: 0 38><0xF1: 0>What the!<0xfa>f<Button><EB>
+<Char: 0 38><0xF1: 0>What the!<0xFA: 16><Button><EB>
 !*********************!
 <@PointerIdx12>
-<Char: 1 241> <0xf4> <0xfa>b<0xfa> 00Tick <0xEA: 0 45 0><0xfa> 00Tick <0xEA: 0 45 0><0xfa> 00Tick <0xEA: 0 45 0><0xfa>7<Jmp: 0 13><@PointerIdx13>
+<Char: 1 241> <0xf4> <0xFA: 12><0xFA: 0 1 1>Tick <0xEA: 0 45 0><0xFA: 0 1 1>Tick <0xEA: 0 45 0><0xFA: 0 1 1>Tick <0xEA: 0 45 0><0xFA: 8><Jmp: 0 13><@PointerIdx13>
 <0xf4>0<Char: 0 38><0xF1: 0>Oh that!<0xF2: 4 56 2><Button><EB>
 !*********************!
 <@PointerIdx14>
@@ -60,5 +60,5 @@ of us...<Button><CR>
 Of Gospel!<Button><CR>
 !---------------------!
 <Jmp: 0 15><@PointerIdx15>
-<Char: 1 241> <0xfa>b<0xfa> 30Beep <0xEA: 0 57 0><0xfa> 30Beep <0xEA: 0 57 0><0xfa> 30Beep <0xEA: 0 57 0><0xfa>7<Button><EB>
+<Char: 1 241> <0xFA: 12><0xFA: 0 4 1>Beep <0xEA: 0 57 0><0xFA: 0 4 1>Beep <0xEA: 0 57 0><0xFA: 0 4 1>Beep <0xEA: 0 57 0><0xFA: 8><Button><EB>
 !*********************!

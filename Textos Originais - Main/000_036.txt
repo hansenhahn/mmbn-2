@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7871008>
 <@PointerIdx0>
-<0xF1: 0><0xfa>b<0xfa> <0xa6> <0xfa>7Whiiir...<Button><CR>
+<0xF1: 0><0xFA: 12><0xFA: 0 166 0><0xFA: 8>Whiiir...<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <Char: 0 0><0xF1: 0>Yes!<Button><CR>

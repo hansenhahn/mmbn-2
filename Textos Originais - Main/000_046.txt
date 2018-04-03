@@ -55,9 +55,9 @@ What's it say?<Button><CR>
 translate it,OK?<Button><CR>
 !---------------------!
 Start translation<LF>
-program.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0><Char: 3 0><0xfa>b<0xfa> 80Bleep!!<0xEA: 0 30 0><Button><CR>
+program.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0><Char: 3 0><0xFA: 12><0xFA: 0 9 1>Bleep!!<0xEA: 0 30 0><Button><CR>
 !---------------------!
-<0xfa>7<Char: 3 1>Translation done!<LF>
+<0xFA: 8><Char: 3 1>Translation done!<LF>
 Hmm...It looks like<LF>
 some kind of letter.<Button><CR>
 !---------------------!
@@ -148,7 +148,7 @@ We're going to<LF>
 Yumland!<Button><EB>
 !*********************!
 <@PointerIdx20>
-<0xF1: 0><0xF2: 0 1 2><0xfa> é <0xF8: 4 24>Lan got:<LF>
+<0xF1: 0><0xF2: 0 1 2><0xFA: 0 133 0><0xF8: 4 24>Lan got:<LF>
 "<ItemTbl: 0 14 0>!!"<Button><CR>
 !---------------------!
 <0xF8: 12><0xF8: 4 4><Jmp: 0 6>   7 <0x69> r0<0x5c>0<Char: 1 241> This is the<LF>

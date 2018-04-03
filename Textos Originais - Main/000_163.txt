@@ -16,7 +16,7 @@ room...!<Button><CR>
 <Char: 0 0><0xF1: 0>!!!!!!<Button><EB>
 !*********************!
 <@PointerIdx4>
-<0xfa>30 <Char: 0 63><0xF1: 0>I'm impressed you've<LF>
+<0xFA: 4 1 0><Char: 0 63><0xF1: 0>I'm impressed you've<LF>
 made it this far.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<Button><EB>
 !*********************!
 <@PointerIdx5>
@@ -102,11 +102,11 @@ my SuperNavi would<LF>
 be unstoppable!<Button><CR>
 !---------------------!
 <Jmp: 0 16><@PointerIdx16>
-<0xfa>f<Char: 0 0><0xF1: 0>You can take your<LF>
+<0xFA: 16><Char: 0 0><0xF1: 0>You can take your<LF>
 offer...<0xEA: 1 30 0>and shove<LF>
 it!!!<Button><CR>
 !---------------------!
-<0xfa>3f I came here to stop<LF>
+<0xFA: 4 16 0>I came here to stop<LF>
 you and that's what<LF>
 I'm gonna do!<Button><CR>
 !---------------------!

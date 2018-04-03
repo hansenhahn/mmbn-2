@@ -3,7 +3,7 @@
 <0xF1: 0>beep-beep!<0xEA: 0 60 0><Button><EB>
 !*********************!
 <@PointerIdx1>
-<0xfa>3d <Char: 0 49><0xF1: 0>Johnson...<0xEA: 1 30 0><Button><CR>
+<0xFA: 4 14 0><Char: 0 49><0xF1: 0>Johnson...<0xEA: 1 30 0><Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 51><0xF1: 0>What's happened!?<Button><CR>
@@ -24,10 +24,10 @@ Forget about...<0xEA: 1 30 0>me.<LF>
 Press on...<0xEA: 1 30 0>ahead.<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
-<0xfa>f<Char: 1 241> <0xfa>b<0xF2: 0 87 2>go-go-go-go-go!<Button><CR>
+<0xFA: 16><Char: 1 241> <0xFA: 12><0xF2: 0 87 2>go-go-go-go-go!<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
-<0xF2: 4 87 2><Char: 0 49><0xF1: 0><0xfa>7Ghaaarrrr!!<Button><CR>
+<0xF2: 4 87 2><Char: 0 49><0xF1: 0><0xFA: 8>Ghaaarrrr!!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
 <Char: 0 0><0xF1: 0>Blast it!<Button><EB>

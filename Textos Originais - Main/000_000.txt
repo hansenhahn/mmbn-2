@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7853852>
 <@PointerIdx0>
-<Char: 0 18><Char: 2 1><0xfa>n<ItemTbl: 0 241 0>Sir...<LF>
+<Char: 0 18><Char: 2 1><0xFA: 24 249 0><0xF1: 0>Sir...<LF>
 ...research on...<LF>
 final stage...last<Button><CR>
 !---------------------!

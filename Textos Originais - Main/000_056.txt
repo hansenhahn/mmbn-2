@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7885492>
 <@PointerIdx0>
-<Char: 1 241> <0xf4> <0xfa>b<0xfa> 90clatter,clatter...<0xEA: 0 85 0><0xf4>0<0xfa>7<Button><EB>
+<Char: 1 241> <0xf4> <0xFA: 12><0xFA: 0 10 1>clatter,clatter...<0xEA: 0 85 0><0xf4>0<0xFA: 8><Button><EB>
 !*********************!
 <@PointerIdx1>
 <Char: 0 64><0xF1: 0>I can hear the<LF>

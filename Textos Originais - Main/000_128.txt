@@ -7,9 +7,9 @@ Where are they gonna<LF>
 infect next?<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<Char: 1 241> <0xfa>bbeep <0xfa> <0xd1> <0xEA: 0 54 0>beep <0xfa> <0xd1> <0xEA: 0 54 0>beep<0xfa> <0xd1> !!<0xEA: 0 54 0><Button><CR>
+<Char: 1 241> <0xFA: 12>beep <0xFA: 0 209 0><0xEA: 0 54 0>beep <0xFA: 0 209 0><0xEA: 0 54 0>beep<0xFA: 0 209 0>!!<0xEA: 0 54 0><Button><CR>
 !---------------------!
-<0xfa>7<Jmp: 0 2><@PointerIdx2>
+<0xFA: 8><Jmp: 0 2><@PointerIdx2>
 <Char: 0 59><0xF1: 0>What now!!<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>

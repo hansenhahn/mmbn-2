@@ -11,7 +11,7 @@ Glide! <0xEA: 1 30 0>Glide!<LF>
 Is something wrong?<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
-<0xfa>3c <Char: 0 68><0xF1: 0>Somebody help!<LF>
+<0xFA: 4 13 0><Char: 0 68><0xF1: 0>Somebody help!<LF>
 Miss Yai's in<LF>
 trouble!<Button><CR>
 !---------------------!

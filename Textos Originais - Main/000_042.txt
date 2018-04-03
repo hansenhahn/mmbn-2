@@ -29,7 +29,7 @@ and quick!<LF>
 <0xF2: 0 137 2>3!<0xEA: 0 60 0> 2!<0xEA: 0 60 0> 1!<0xEA: 0 60 0><EB>
 !*********************!
 <@PointerIdx4>
-<0xfa>f<Char: 0 0><0xF1: 0>MegaMaaan!<0xEA: 1 60 0><EB>
+<0xFA: 16><Char: 0 0><0xF1: 0>MegaMaaan!<0xEA: 1 60 0><EB>
 !*********************!
 <@PointerIdx5>
 <Char: 0 0><0xF1: 0><0xec> e...<0xec> 1Huh? <0xEA: 1 15 0>Wasn't the<LF>

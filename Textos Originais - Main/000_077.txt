@@ -71,7 +71,7 @@ cherished mother<LF>
 comp then so be it!!<Button><CR>
 !---------------------!
 Let's go out with<LF>
-a bang!!<0xfa>3f <Button><CR>
+a bang!!<0xFA: 4 16 0><Button><CR>
 !---------------------!
 Activate full<LF>
 power mode!!<Button><CR>

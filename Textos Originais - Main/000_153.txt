@@ -18,14 +18,14 @@ all this radiation.<Button><EB>
 to...<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
-<Char: 1 241> <0xfa> <0xc1> bing!<Button><CR>
+<Char: 1 241> <0xFA: 0 193 0>bing!<Button><CR>
 !---------------------!
 <0xF2: 0 14 2><Jmp: 0 6><@PointerIdx6>
 <Char: 0 0><0xF1: 0>Hey! Look! It's<LF>
 working!<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
-<0xfa>3d <Char: 0 64><0xF1: 0>Uh,Lan? That's great,<LF>
+<0xFA: 4 14 0><Char: 0 64><0xF1: 0>Uh,Lan? That's great,<LF>
 but we got company!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
@@ -48,7 +48,7 @@ go leaving your best<LF>
 friends behind!<Button><CR>
 !---------------------!
 <Jmp: 0 13><@PointerIdx13>
-<0xfa>3f <Char: 0 0><0xF1: 0>Dex!<Button><CR>
+<0xFA: 4 16 0><Char: 0 0><0xF1: 0>Dex!<Button><CR>
 !---------------------!
 <Jmp: 0 14><@PointerIdx14>
 <Char: 0 1><0xF1: 0>Don't forget us<LF>

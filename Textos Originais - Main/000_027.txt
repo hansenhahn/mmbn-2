@@ -4,7 +4,7 @@
 gimme a break...<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<Char: 1 241> <0xfa> é <0xF8: 4 24>MegaMan got:<LF>
+<Char: 1 241> <0xFA: 0 133 0><0xF8: 4 24>MegaMan got:<LF>
 "<ItemTbl: 0 5 0>!!"<LF>
 <0xF8: 12><0xF8: 4 1><Jmp: 0 2><@PointerIdx2>
 <Char: 0 0><0xF1: 0>Easy! Now let's take<LF>

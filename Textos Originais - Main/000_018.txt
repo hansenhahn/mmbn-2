@@ -6,7 +6,7 @@ ventilator program.<Button><CR>
 !---------------------!
 <Char: 0 0><0xF1: 0>Yeah! Try this!<Button><CR>
 !---------------------!
-<Char: 0 64><0xF1: 0>Ah!<0xfa>3x <Button><EB>
+<Char: 0 64><0xF1: 0>Ah!<0xFA: 4 34 0><Button><EB>
 !*********************!
 <@PointerIdx1>
 <Char: 0 78><0xF1: 0>Ho-ho...<0xEA: 1 30 0><LF>

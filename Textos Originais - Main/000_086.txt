@@ -14,7 +14,7 @@ Zat boy...eh!<LF>
 Out of my way!<Button><EB>
 !*********************!
 <@PointerIdx2>
-<0xF1: 0><0xfa>b<0xfa> ü whack!!!<0xfa>7<Button><CR>
+<0xF1: 0><0xFA: 12><0xFA: 0 142 0>whack!!!<0xFA: 8><Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 0><0xF1: 0>Ouch! What?<Button><EB>

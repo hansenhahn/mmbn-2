@@ -134,11 +134,23 @@ def fnTagF9(fd , buffer, tagname):
     args = struct.unpack("BBB", fd.read(3))
     buffer.extend( "<{0}: {1} {2} {3}>".format(tagname, *args) )      
 
+def fnTagFA(fd , buffer, tagname):
+    # Aponta para um nome da tabela de items
+    #( 4, 4, 2, 2, 2, 4, 4, 2, 2, 2 )
+    args = list(struct.unpack("B", fd.read(1)))
+    if args[0] in (0x0,0x4,0x14,0x18):
+        args += list(struct.unpack("BB", fd.read(2)))
+        buffer.extend( "<{0}: {1} {2} {3}>".format(tagname, *args) )    
+    else:
+        buffer.extend( "<{0}: {1}>".format(tagname, *args) )  
+        
+
 # Valor binário : (Nome amigável, Argumentos)
 tagsdict = { 0xE7 : ("EB", fnTagE7), 0xE8 : ("LF", fnTagE8), 0xE9 : ("CR", fnTagE9), 0xEA : ("0xEA", fnTagEA) ,
             0xEB : ("Button", fnTagEB) , 0xED : ("Char", fnTagED) , 0xEE : ("Pos", fnTagEE) , 0xEF : ("Arrow", fnTagEF),
             0xF0 : ("CondJmp", fnTagF0) , 0xF1 : ("0xF1", fnTagF1) , 0xF2 : ("0xF2", fnTagF2) , 0xF3 : ("0xF3", fnTagF3) ,
-            0xF5 : ("Jmp", fnTagF5) , 0xF6 : ("0xF6", fnTagF6) , 0xF8 : ("0xF8", fnTagF8) , 0xF9 : ("ItemTbl", fnTagF9) }
+            0xF5 : ("Jmp", fnTagF5) , 0xF6 : ("0xF6", fnTagF6) , 0xF8 : ("0xF8", fnTagF8) , 0xF9 : ("ItemTbl", fnTagF9) ,
+            0xFA : ("0xFA", fnTagFA) ,}
             
 TAG_IN_LINE = r'(<.+?>)'
 GET_TAG = r'^<(.+?)>$'

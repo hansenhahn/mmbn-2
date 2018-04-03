@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7902384>
 <@PointerIdx0>
-<Char: 0 10><0xfa>n<ItemTbl: 0 241 0>So,that Dark fellow<LF>
+<Char: 0 10><0xFA: 24 249 0><0xF1: 0>So,that Dark fellow<LF>
 was just a common<LF>
 mercenary after all.<Button><CR>
 !---------------------!
@@ -55,11 +55,11 @@ anyway...<Button><CR>
 Forgive me!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
-<Char: 1 241> <0xfa>b<0xfa> r0zzzt...pop!<Button><CR>
+<Char: 1 241> <0xFA: 12><0xFA: 0 28 1>zzzt...pop!<Button><CR>
 !---------------------!
-<0xfa>7<0xfa>n<ItemTbl: 0 245 0>8<@PointerIdx9>
-<0xF1: 0><0xfa>b<0xfa> 90click click click<0xEA: 0 88 0><LF>
-<0xfa>7...'s access has<LF>
+<0xFA: 8><0xFA: 24 249 0><Jmp: 0 9><@PointerIdx9>
+<0xF1: 0><0xFA: 12><0xFA: 0 10 1>click click click<0xEA: 0 88 0><LF>
+<0xFA: 8>...'s access has<LF>
 been terminated...<Button><CR>
 !---------------------!
 <Jmp: 0 10><@PointerIdx10>
@@ -68,8 +68,8 @@ to be surrounded<LF>
 by idiots?<Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
-<Char: 1 241> <0xfa>b<0xfa> 90click click click...<0xEA: 0 88 0><LF>
-<0xfa>7...has entered the<LF>
+<Char: 1 241> <0xFA: 12><0xFA: 0 10 1>click click click...<0xEA: 0 88 0><LF>
+<0xFA: 8>...has entered the<LF>
 room.<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>

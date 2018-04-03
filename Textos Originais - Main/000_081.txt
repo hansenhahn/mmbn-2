@@ -46,7 +46,7 @@ your main system?<Button><CR>
 !---------------------!
 <Jmp: 0 10><@PointerIdx10>
 <Char: 0 64><0xF1: 0>No abnormalities.<LF>
-All systems go.<0xfa>36 <Button><CR>
+All systems go.<0xFA: 4 7 0><Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
 <0xF2: 0 130 2><Char: 0 23><0xF1: 0>You two did a<LF>

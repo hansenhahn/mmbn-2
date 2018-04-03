@@ -3,13 +3,13 @@
 <Char: 0 0><0xF1: 0>Ventilator! Move!<Button><CR>
 !---------------------!
 <0xF1: 1><0xEA: 0 60 0><Jmp: 0 1><@PointerIdx1>
-<Char: 1 241> Wh.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0><0xfa> <0xa7> <0xfa>bWhirrrrr!<0xfa>7<Button><EB>
+<Char: 1 241> Wh.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0><0xFA: 0 167 0><0xFA: 12>Whirrrrr!<0xFA: 8><Button><EB>
 !*********************!
 <@PointerIdx2>
 <Char: 0 64><0xF1: 0>Lan!<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<0xfa>f<Char: 0 0><0xF1: 0>Yeah! I did it!<0xEA: 1 30 0><LF>
+<0xFA: 16><Char: 0 0><0xF1: 0>Yeah! I did it!<0xEA: 1 30 0><LF>
 The ventilator by<LF>
 Dex's feet started!<Button><CR>
 !---------------------!
@@ -40,7 +40,7 @@ Ahhhh that was rough.<LF>
 But,I'm...<0xEA: 1 30 0>OK now...<Button><EB>
 !*********************!
 <@PointerIdx11>
-<0xfa>3d <Char: 0 2><0xF1: 0>Sorry...<0xEA: 1 30 0>Lan!<Button><CR>
+<0xFA: 4 14 0><Char: 0 2><0xF1: 0>Sorry...<0xEA: 1 30 0>Lan!<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
 <Char: 0 0><0xF1: 0>No prob!!<Button><CR>

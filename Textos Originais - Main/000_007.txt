@@ -8,7 +8,7 @@ your "<ItemTbl: 0 58 0>",<LF>
 as promised!<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<Char: 1 241> <0xfa> é <0xF8: 4 24>MegaMan got:<LF>
+<Char: 1 241> <0xFA: 0 133 0><0xF8: 4 24>MegaMan got:<LF>
 "<ItemTbl: 0 58 0>!!"<LF>
 <0xF8: 12><0xF8: 16><Button><CR>
 !---------------------!
@@ -30,7 +30,7 @@ install it on your<LF>
 PET for you...<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<Char: 1 241> <0xfa> é <0xF8: 4 24>PET installed with:<LF>
+<Char: 1 241> <0xFA: 0 133 0><0xF8: 4 24>PET installed with:<LF>
 "chip selection<LF>
 system!!"<0xF8: 12><0xF8: 16><Button><CR>
 !---------------------!

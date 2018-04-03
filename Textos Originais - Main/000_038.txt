@@ -52,7 +52,7 @@ and they were all...<Button><CR>
 ?<Button><EB>
 !*********************!
 <@PointerIdx3>
-<0xfa>3d <Char: 0 2><0xF1: 0>Whaa!?<Button><CR>
+<0xFA: 4 14 0><Char: 0 2><0xF1: 0>Whaa!?<Button><CR>
 !---------------------!
 <Char: 0 1><0xF1: 0>Wha-What was that!?<Button><CR>
 !---------------------!

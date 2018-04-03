@@ -8,7 +8,7 @@ been,huh?<Button><CR>
 <Char: 0 0><0xF1: 0>Hey! Mr.Higsby!<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
-<0xfa>32 <Char: 0 5><0xF1: 0>It's been a long<LF>
+<0xFA: 4 3 0><Char: 0 5><0xF1: 0>It's been a long<LF>
 time! Huh!<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
@@ -42,7 +42,7 @@ still virus busting<LF>
 with MegaMan,hmm?<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
-<0xfa>f<Char: 0 0><0xF1: 0>...With MegaMan?<LF>
+<0xFA: 16><Char: 0 0><0xF1: 0>...With MegaMan?<LF>
 No way!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
@@ -64,7 +64,7 @@ Lan! Huh!!!<Button><CR>
 You scared me there!<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
-<0xfa>3e <Char: 0 5><0xF1: 0>That's not the Lan<LF>
+<0xFA: 4 15 0><Char: 0 5><0xF1: 0>That's not the Lan<LF>
 that I used to know!<Button><CR>
 !---------------------!
 Even if you fought,<LF>
@@ -101,7 +101,7 @@ it out on MegaMan.<Button><CR>
 <Jmp: 0 14><@PointerIdx14>
 <Char: 0 5><0xF1: 0>Ohyoyo...<0xEA: 1 30 0>So...<LF>
 So you're not mad<LF>
-anymore,Lan?<0xfa>f<Button><CR>
+anymore,Lan?<0xFA: 16><Button><CR>
 !---------------------!
 <Jmp: 0 15><@PointerIdx15>
 <Char: 0 0><0xF1: 0>No,thanks to you!<LF>

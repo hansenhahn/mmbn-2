@@ -25,7 +25,7 @@ KnightMan,I can man-<LF>
 ipulate the traps!<Button><EB>
 !*********************!
 <@PointerIdx5>
-<Char: 1 241> <0xfa>b<0xfa> <0xdb> peep <0xfa> <0xfe> papapa<0xfa>7<Button><EB>
+<Char: 1 241> <0xFA: 12><0xFA: 0 219 0>peep <0xFA: 0 254 0>papapa<0xFA: 8><Button><EB>
 !*********************!
 <@PointerIdx6>
 <Char: 0 54><0xF1: 0>Ha-ha-ha!<LF>

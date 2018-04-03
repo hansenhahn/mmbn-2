@@ -3,7 +3,7 @@
 <Char: 0 64><0xF1: 0>Done...finally!<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<0xfa> ê <Char: 0 64><0xF1: 0>...Hey! <0xEA: 1 30 0>New mail!<Button><CR>
+<0xFA: 0 134 0><Char: 0 64><0xF1: 0>...Hey! <0xEA: 1 30 0>New mail!<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 0><0xF1: 0>Who's it from?<Button><CR>
