@@ -1,0 +1,13 @@
+<@AbsoluteAddr 7860944>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>É isso aí, Lan!<LF>
+Mandou bem!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Valeu, MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>Ás ordens! Tá, vamos<LF>
+lá ajudar o Dex!<Button><EB>
+!*********************!
+

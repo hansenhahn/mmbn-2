@@ -1,0 +1,75 @@
+<@AbsoluteAddr 7858144>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>E-mail?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Lan... parece que é<LF>
+uma ligação pra você.<Button><CR>
+!---------------------!
+Espera! É o Navi da Yai,<LF>
+o Glide! <0xEA: 1 30 0>Glide!<LF>
+Algum problema?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<0xFA: 4 13 0><Char: 0 68><0xF1: 0>Socorro! Alguém!<LF>
+A Srta. Yai está em<LF>
+apuros!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>O que é que tem a Yai?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 68><0xF1: 0>Ela entrou para tomar um<LF>
+banho e ainda não saiu!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>E daí? Deve estar só<LF>
+relaxando.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 68><0xF1: 0>A Srta. Yai nunca toma<LF>
+banhos demorados!<LF>
+Fazem mal para a pele!<Button><CR>
+!---------------------!
+Além disso, o motor do<LF>
+aquecedor de água está<LF>
+errático!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>O que deu nele, um bug?<0xEA: 1 30 0><LF>
+Ou foi um...<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 68><0xF1: 0>Não tenho certeza,<LF>
+mas o alarme do<LF>
+aquecedor está apitando!<Button><CR>
+!---------------------!
+Vou verificar o programa<LF>
+do aquecedor e ver se<LF>
+acho algum bug.<Button><CR>
+!---------------------!
+Lan, por favor! Vá<LF>
+ajudar a Srta. Yai!<LF>
+Eu imploro!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 7><0xF1: 0>Lan! Ouviu o que<LF>
+aconteceu?<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>Da Yai? Ouvi, sim!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 7><0xF1: 0>Já falei com o Dex sobre<LF>
+a situação. A gente tá<LF>
+muito preocupado.<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>Eu sei!<LF>
+Já tô a caminho da<LF>
+casa da Yai!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 7><0xF1: 0>Obrigada, Lan!<Button><EB>
+!*********************!
+

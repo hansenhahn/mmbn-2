@@ -53,8 +53,14 @@ def fnTagEB(fd , buffer, tagname):
     buffer.extend( "<Button>" )
     
 def fnTagED(fd , buffer, tagname):
-    args = struct.unpack("2B", fd.read(2))
-    buffer.extend( "<Char: {0} {1}>".format(*args) )
+    args = list(struct.unpack("B", fd.read(1)))
+    if args[0] == 1:
+        args += list(struct.unpack("2B", fd.read(2)))
+        buffer.extend( "<{0}: {1} {2} {3}>".format(tagname, *args) )    
+    else:
+        args += list(struct.unpack("B", fd.read(1)))
+        buffer.extend( "<{0}: {1} {2}>".format(tagname, *args) )    
+    
     
 def fnTagEE(fd , buffer, tagname):
     # Sets (X,Y) position, absolute or relative
@@ -93,6 +99,10 @@ def fnTagF3(fd , buffer, tagname):
     else:
         args += list(struct.unpack("4B", fd.read(4)))
         buffer.extend( "<0xF3: {0} {1} {2} {3} {4}>".format(*args) )
+        
+def fnTagF4(fd , buffer, tagname):
+    args = struct.unpack("B", fd.read(1))
+    buffer.extend( "<{0}: {1}>\n!+++++++++++++++++++++!\n".format(tagname, *args) ) 
 
 def fnTagF5(fd , buffer, tagname):
     # Jumps to address pointed by pointer table arg index
@@ -144,13 +154,34 @@ def fnTagFA(fd , buffer, tagname):
     else:
         buffer.extend( "<{0}: {1}>".format(tagname, *args) )  
         
+def fnTagFB(fd , buffer, tagname):
+    args = list(struct.unpack("B", fd.read(1)))
+    if args[0] in ( 0x08, 0x10, 0x18, 
+                      0x20, 0x24, 0x28, 0x2c,
+                      0x30, 0x34, 0x38, 0x3c):
+        buffer.extend( "<{0}: {1}>".format(tagname, *args) )  
+    elif args[0] in (0x00, 0x04,):
+        args += list(struct.unpack("B", fd.read(1)))
+        r = ((args[1] + 1) << 2) - 3
+        args += list(struct.unpack(r*"B", fd.read(r)))
+        s = reduce(lambda x,y: "{0} {1}".format(x,y), args)
+        buffer.extend( "<{0}: {1}>".format(tagname, s) )
+        
+    elif args[0] in (0x0c,):
+        args += list(struct.unpack("9B", fd.read(9)))
+        buffer.extend( "<{0}: {1} {2} {3} {4} {5} {6} {7} {8} {9} {10}>".format(tagname, *args) )            
+    elif args[0] in (0x14, 0x1c,):    
+        args += list(struct.unpack("B", fd.read(1)))
+        buffer.extend( "<{0}: {1} {2}>".format(tagname, *args) )        
+
+        
 
 # Valor binário : (Nome amigável, Argumentos)
-tagsdict = { 0xE7 : ("EB", fnTagE7), 0xE8 : ("LF", fnTagE8), 0xE9 : ("CR", fnTagE9), 0xEA : ("0xEA", fnTagEA) ,
+tagsdict = { 0xE7 : ("EB", fnTagE7), 0xE8 : ("LF", fnTagE8), 0xE9 : ("CR", fnTagE9), 0xEA : ("Dly", fnTagEA) ,
             0xEB : ("Button", fnTagEB) , 0xED : ("Char", fnTagED) , 0xEE : ("Pos", fnTagEE) , 0xEF : ("Arrow", fnTagEF),
             0xF0 : ("CondJmp", fnTagF0) , 0xF1 : ("0xF1", fnTagF1) , 0xF2 : ("0xF2", fnTagF2) , 0xF3 : ("0xF3", fnTagF3) ,
-            0xF5 : ("Jmp", fnTagF5) , 0xF6 : ("0xF6", fnTagF6) , 0xF8 : ("0xF8", fnTagF8) , 0xF9 : ("ItemTbl", fnTagF9) ,
-            0xFA : ("0xFA", fnTagFA) ,}
+            0xF4 : ("Rst", fnTagF4) ,  0xF5 : ("Jmp", fnTagF5) , 0xF6 : ("0xF6", fnTagF6) , 0xF8 : ("0xF8", fnTagF8) ,
+            0xF9 : ("ItemTbl", fnTagF9) , 0xFA : ("0xFA", fnTagFA) , 0xFB : ("0xFB", fnTagFB) }
             
 TAG_IN_LINE = r'(<.+?>)'
 GET_TAG = r'^<(.+?)>$'
@@ -182,7 +213,7 @@ def Inserter(src, dst):
                     line = line.strip('\r\n')
                     if not line:
                         continue
-                    elif line in ( "!---------------------!", "!*********************!" ):
+                    elif line in ( "!---------------------!","!+++++++++++++++++++++!","!*********************!" ):
                         continue
                     else:
                         splitted = re.split( TAG_IN_LINE, line )
@@ -244,10 +275,97 @@ def Inserter(src, dst):
         dest.seek( 0x228a8 + 4*desc[1] )
         dest.write( struct.pack("<L", desc[2] | 0x08000000) )
 
-    dest.close()
+    dest.close()                     
+                 
+def Extract_Main(src, dst):
+    table = normal_table('mmbn2.tbl')
+    
+    main_pointers = [(0x77d71c, 0x79cb18),]  
+    
+    with open(src, "rb") as fd:
+
+        # Não preciso disso aqui na verdade...
+        # main_pointers = []
+        # fd.seek( 0x2282c )
+        # print ">> Buffering pointer to pointers..."
+        # while fd.tell() < 0x228a8 :
+            # main_pointers.append(struct.unpack("<L", fd.read(4))[0] & 0xFFFFFF)
+        
+        for i, pp in enumerate(main_pointers):
+            text_pointers = []
+            fd.seek( pp[0] )
+            print ">> Buffering pointer to text..."
+            
+            ret = fd.read(pp[1]-pp[0])
+            data = mmap.mmap( -1, len(ret) )
+            data.write(ret)
+            
+            data.seek(0)
+            j = 0
+            while True:        
+                # Bufferiza os ponteiros
+                while data.tell() % 4 != 0: data.read(1)
+                
+                offset = data.tell()
+                entries = data.read(2)
+                if len(entries) == 0: break
+                
+                print ">> Extracting {0} {1} text".format(i,j)
+                entries = struct.unpack("<H" , entries)[0]/ 2
+                
+                pointers = []
+                data.seek(-2,1)
+                for _ in range(entries):
+                    pointers.append(struct.unpack("<H", data.read(2))[0])
+                
+                buffer = array.array("c")
+                buffer.extend( "<@AbsoluteAddr %d>\n" % (pp[0]+offset) )  
+                
+                new_eb = True
+                while True:            
+                    p = data.tell() - offset
+                    if p in pointers:
+                        for k, ptr in enumerate( pointers ):
+                            if p == ptr:
+                                # Coloca labels no texto
+                                buffer.extend( "<@PointerIdx%d>\n" % k )                                
+                        
+                    b = data.read(1)
+                    if len(b) == 0: break            
+                    
+                    c = struct.unpack("B", b)[0]
+                    # Após a tag 0xE7, sempre devemos ler uma nova tag. Se não, podemos dizer que o bloco de leitura acabou
+                    if new_eb:
+                        if c < 0xE5:
+                            data.seek(-1,1)
+                            break
+                            
+                    new_eb = False
+                    
+                    if c >= 0xE5: # É uma tag.. esse teste é o mesmo do jogo
+                        if c in tagsdict:
+                            tagsdict[c][1](data, buffer, tagsdict[c][0])                                            
+                        else:
+                            buffer.extend( "<"+str(hex(c))+">" )                                
+                    else:            
+                        if b in table:
+                            buffer.append( table[b] )
+                        else:
+                            buffer.extend( "<"+str(hex(c))+">")
+                            
+                    if c == 0xE7:
+                        new_eb = True
+                                                
+                output = open(os.path.join(dst, "%03d_%03d.txt" %(i,j)), "w")
+                buffer.tofile(output)
+                output.close()
+                
+                j += 1
+                
+            data.close()            
             
 #def Extract(src,dst):
-def Extract(src, dst):
+def Extract_NPC(src, dst):
     table = normal_table('mmbn2.tbl')
     
     with open(src, "rb") as fd:
@@ -337,12 +455,13 @@ if __name__ == "__main__":
     # if args.mode == "e":
         # print "Desempacotando arquivo"
         # Extract( args.src , args.dst )
-    # Extract("../ROM Original/0468 - MegaMan Battle Network 2 (U)(Mode7).gba" , "../Textos Originais")
+    Extract_NPC("../ROM Original/0468 - MegaMan Battle Network 2 (U)(Mode7).gba" , "../Textos Originais/npc")
+    Extract_Main("../ROM Original/0468 - MegaMan Battle Network 2 (U)(Mode7).gba" , "../Textos Originais/main")
     # # insert text
     # elif args.mode == "i": 
         # print "Criando arquivo"        
         # Insert( args.src , args.dst )
-    Inserter("../Textos Traduzidos", "../ROM Modificada/0468 - MegaMan Battle Network 2 (U)(Mode7).gba") 
+    #Inserter("../Textos Traduzidos", "../ROM Modificada/0468 - MegaMan Battle Network 2 (U)(Mode7).gba") 
     # else:
         # sys.exit(1)
     

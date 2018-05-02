@@ -1,0 +1,28 @@
+<@AbsoluteAddr 7856256>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Terminamos... até que<LF>
+enfim!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<0xfa> ê <Char: 0 64><0xF1: 0>...Ah! <0xEA: 1 30 0>Chegou e-mail<LF>
+pra você!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>E-mail de quem?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Do Dex! Ele quer que eu<LF>
+vá pro Plaza agora<LF>
+mesmo!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Ah, é mesmo!<LF>
+Cara, eu tinha esquecido<LF>
+completamente disso!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Bom, eu vou lá! E se<LF>
+brotar vírus no caminho<LF>
+a gente acaba com eles!<Button><EB>
+!*********************!
+

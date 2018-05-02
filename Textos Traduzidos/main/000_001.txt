@@ -1,0 +1,46 @@
+<@AbsoluteAddr 7854260>
+<@PointerIdx0>
+<0xF1: 0>Colégio ACDC, DenCity<LF>
+Último Dia de Aula<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 64><0xF1: 0>Lan, é um milagre! Você<LF>
+não chegou atrasado<LF>
+dessa vez!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>arf... puf...<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Mas se tivesse acordado<LF>
+mais cedo não ia ter que<LF>
+correr tanto!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Nossa, valeu, MegaMan.<LF>
+Você é um amigão.<LF>
+Isso ajuda taaanto.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Ei, relaxa! Você não<LF>
+esqueceu que dia é<LF>
+hoje, né?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<0xfa>32 <Char: 0 0><0xF1: 0>Até parece, né? É<LF>
+o último dia de aula!<LF>
+Fé-riaaaaas!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>E bôôô-letim também!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Tá tranquilo!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 64><0xF1: 0>Hmm... me engana que<LF>
+eu gosto.<0xEA: 1 30 0> 
+Ah! Temos que<LF>
+fazer planos pras férias!<Button><EB>
+!*********************!
+

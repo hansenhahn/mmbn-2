@@ -1,0 +1,72 @@
+<@AbsoluteAddr 7856508>
+<@PointerIdx0>
+<Char: 0 76><0xF1: 0>Tá atrasado!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 69><0xF1: 0>Corre, Mega!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>Roll! GutsMan!<LF>
+Eu chego já aí!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 2><0xF1: 0>MegaMan! Até que enfim,<LF>
+hein?<0xEA: 1 30 0> Lan, a gente tá<LF>
+esperando há um tempão!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Desculpa, Dex!<LF>
+Desculpa, Mayl!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 7><0xF1: 0>Você tá super atrasado!<LF>
+O que é que vocês<LF>
+tavam fazendo?<Button><CR>
+!---------------------!
+Eu conectei assim que<LF>
+cheguei em casa e fiquei<LF>
+HORAS aqui esperando...<Button><CR>
+!---------------------!
+<Char: 0 0><0xF1: 0>Desculpadescuulpaa!<LF>
+Foi a minha mãe, ela me<LF>
+descobriu rápido demais...<Button><CR>
+!---------------------!
+<Char: 0 7><0xF1: 0>Humpf! Sei!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 69><0xF1: 0>Também vale pra<LF>
+você, Mega!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Desculpa, Roll...<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Elas estão zangadas<LF>
+pra caramba...<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 64><0xF1: 0>Bom, a culpa é sua!<LF>
+Quem mandou tirar só<LF>
+nota baixa, Lan?<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 2><0xF1: 0>Galera!<LF>
+Guardem a conversa pra<LF>
+depois! Vamos logo!<Button><CR>
+!---------------------!
+GutsMan! Vamos lá ver<LF>
+como se faz pra virar<LF>
+"NetLutador Municipal!"<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 76><0xF1: 0>Já é! 'Simbora!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 7><0xF1: 0>Roll! A gente também<LF>
+vai!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 69><0xF1: 0>Claro, Mayl!<0xEA: 1 30 0><LF>
+...Até mais, Mega!<Button><EB>
+!*********************!
+

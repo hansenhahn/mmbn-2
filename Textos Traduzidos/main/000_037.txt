@@ -1,0 +1,18 @@
+<@AbsoluteAddr 7871208>
+<@PointerIdx0>
+<Char: 0 2><0xF1: 0>Até que enfim a gente<LF>
+chegou!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 7><0xF1: 0>Verdade!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 2><0xF1: 0>Bom, "acampar" é o<LF>
+mesmo que... "churrasco"!<LF>
+Bora preparar as coisas!<Button><CR>
+!---------------------!
+Vamos nos separar e<LF>
+procurar trecos!<LF>
+Dispensados!!<Button><EB>
+!*********************!
+

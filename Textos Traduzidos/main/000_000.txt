@@ -1,0 +1,42 @@
+<@AbsoluteAddr 7853852>
+<@PointerIdx0>
+<Char: 0 18><Char: 2 1><0xfa>n<ItemTbl: 0 241 0>Senhor...<LF>
+...pesquisa está...<LF>
+entrando...fase final<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 10><0xF1: 0>Por que demor...<LF>
+tanto?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 18><Char: 2 1><0xF1: 0>Peç...erdão<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 10><0xF1: 0>Hmpf... ...há uma punição<LF>
+...atrasos!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 18><Char: 2 1><0xF1: 0>Senhor! ...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 10><0xF1: 0>Que sej...<LF>
+...penas comece<LF>
+logo os preparativos.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 18><Char: 2 1><0xF1: 0>Vamos domi... o mundo,<LF>
+assim como a WWW!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 10><0xF1: 0>Idiota...!<LF>
+Não "como a WWW"...<LF>
+Não ins... a grande "..."!<Button><CR>
+!---------------------!
+Hora de dar iní...<LF>
+...Projeto...!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 18><Char: 2 1><0xF1: 0>Sim, senhor! <0xEA: 1 15 0>.<0xEA: 1 15 0>.<0xEA: 1 15 0>.<Button><EB>
+!*********************!
+<@PointerIdx9>
+<@PointerIdx10>

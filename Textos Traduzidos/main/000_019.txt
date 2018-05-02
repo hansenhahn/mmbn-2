@@ -1,0 +1,67 @@
+<@AbsoluteAddr 7863356>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Esse gás todo é obra<LF>
+sua, não é!? Pare ele,<LF>
+agora!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 78><0xF1: 0>Ho-ho...<0xEA: 1 30 0><LF>
+Isso... eu não posso<LF>
+fazer!<0xEA: 1 30 0> Ho-ho...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 38><0xF1: 0>Esqueça, garoto! <0xEA: 1 30 0><LF>
+O AirMan só obedece<LF>
+às MINHAS ordens!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>!? O cara daquela<0xEA: 1 30 0><LF>
+empresa de  gás! Mas<LF>
+por que ela faria isso!?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 38><0xF1: 0>Empresas? Há!<LF>
+Eu tenho um propósito<LF>
+muito maior!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Você tem alguma coisa<LF>
+contra a Yai!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 38><0xF1: 0>Claro que não! Qualquer<LF>
+menininha rica serviria.<Button><CR>
+!---------------------!
+Prender uma, ligar pros<LF>
+pais, exigir "dinheiro,<LF>
+senão...<Button><CR>
+!---------------------!
+é câmara de gás pra sua<LF>
+filhinha"! É fácil arrancar<LF>
+milhões deles assim!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Você é um monstro!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 64><0xF1: 0>Sacrificando crianças por<LF>
+dinheiro? Isso é<LF>
+imperdoável!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 38><0xF1: 0>Pouco me importam suas<LF>
+opiniões! Fique quieto e<LF>
+aspire o gás até morrer!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>Esquece!<0xEA: 1 30 0><LF>
+Vanis nessa, MegaMan!<0xEA: 1 30 0><LF>
+Rotina de batalha<0xEA: 1 30 0>...<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 64><0xF1: 0>Executar!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 78><0xF1: 0>Ho-hooo!!<Button><EB>
+!*********************!
+

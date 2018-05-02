@@ -1,0 +1,103 @@
+<@AbsoluteAddr 7871332>
+<@PointerIdx0>
+<Char: 0 2><0xF1: 0>Opa! Parece que o<LF>
+churrasco tá pronto!<Button><CR>
+!---------------------!
+Tchau, dieta!<Button><CR>
+!---------------------!
+<Char: 0 7><0xF1: 0>Esse "tchau" me fez<LF>
+lembrar... onde é que<LF>
+foi parar o Chaud?<Button><CR>
+!---------------------!
+<Char: 0 0><0xF1: 0>Eu sei lá!<LF>
+Esquece aquele cara.<LF>
+Bora comer!<Button><CR>
+!---------------------!
+<Char: 0 7><0xF1: 0>Lan! Você prometeu que<LF>
+ia se comportar!<Button><CR>
+!---------------------!
+<Char: 0 0><0xF1: 0>Tá bom então, Mayl.<LF>
+E você, faz alguma ideia<LF>
+de onde ele tá?<Button><CR>
+!---------------------!
+<Char: 0 7><0xF1: 0>Bom.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 1><0xF1: 0>E como ninguém sabe, a<LF>
+gente tem que ficar aqui.<LF>
+<0xEA: 1 30 0>Concorda?<Button><CR>
+!---------------------!
+<Char: 0 7><0xF1: 0>Acho que sim...<Button><CR>
+!---------------------!
+<Char: 0 2><0xF1: 0>Beleza, então!<LF>
+Pra comilança!<Button><CR>
+!---------------------!
+<Char: 0 0><0xF1: 0>É nossa missão sagrada<LF>
+acabar com esse<LF>
+churrasco!<Button><CR>
+!---------------------!
+<Char: 0 1><0xF1: 0>Aaacaabaaaarrr!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 2><0xF1: 0>nhoc nhac nham!<Button><CR>
+!---------------------!
+<Char: 0 0><0xF1: 0>aum! humm!<LF>
+aum! humm!<Button><CR>
+!---------------------!
+<Char: 0 1><0xF1: 0>...eu eu fiquei tipo...<LF>
+e eles ficaram tipo...<Button><CR>
+!---------------------!
+<Char: 0 7><0xF1: 0>Jura? Hihihi!<Button><CR>
+!---------------------!
+?<Button><EB>
+!*********************!
+<@PointerIdx3>
+<0xFA: 4 14 0><Char: 0 2><0xF1: 0>O-O quê!?<Button><CR>
+!---------------------!
+<Char: 0 1><0xF1: 0>O q-que foi isso?!?<Button><CR>
+!---------------------!
+<Char: 0 0><0xF1: 0>Mayl? Alguma notícia<LF>
+na Rede?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 7><0xF1: 0>Não dá pra saber!<LF>
+Não tem sinal aqui!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Lan... essa explosão<LF>
+parece ter vindo da<LF>
+Represa Okuden!<Button><CR>
+!---------------------!
+Se a represa romper...<0xEA: 1 30 0><LF>
+A água vai descer pra<LF>
+cá!<Button><CR>
+!---------------------!
+<0xF2: 4 127 2><Char: 0 0><0xF1: 0>É sério isso!?<LF>
+Então a gente tem que<LF>
+dar o fora daqui!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 2><0xF1: 0>P-Peraí! Mas e como<LF>
+fica aquele cara,<LF>
+o Chaud!?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Ah, é mesmo! Ai, aquele<LF>
+idiota!<Button><CR>
+!---------------------!
+Eu procuro por ele.<LF>
+E vocês vão pra um<LF>
+lugar seguro, ouviram?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 7><0xF1: 0>Toma cuidado, Lan!<LF>
+E não demora!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 0><0xF1: 0>Calma! Não precisa se<LF>
+preocupar comigo!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 64><0xF1: 0>Lan! Hora do show!<Button><EB>
+!*********************!
+

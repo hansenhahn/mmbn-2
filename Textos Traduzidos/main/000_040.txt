@@ -1,0 +1,26 @@
+<@AbsoluteAddr 7873472>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>E aí? É um detonador?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Isso aqui é um detonador<LF>
+sim, sem sombra de<LF>
+dúvida!<Button><CR>
+!---------------------!
+Aposto que tem um<LF>
+programa de detonação<LF>
+por aqui em algum lugar.<Button><CR>
+!---------------------!
+E além disso...<0xEA: 1 30 0><LF>
+Eu tô captando um sinal<LF>
+de vírus! E dos fortes!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Certo!<LF>
+Vai com cuidado,<LF>
+MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Pode deixar!<Button><EB>
+!*********************!
+

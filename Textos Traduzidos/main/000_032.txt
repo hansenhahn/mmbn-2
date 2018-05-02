@@ -1,0 +1,75 @@
+<@AbsoluteAddr 7868788>
+<@PointerIdx0>
+<Char: 0 2><0xF1: 0>Chegamos!<LF>
+Aqui, no Vale Okuden!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 7><0xF1: 0>Vamos lá pra área de<LF>
+acampamento!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Vamos!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 1><0xF1: 0>Chaud?<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 6><0xF1: 0>...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Chaud!?<0xEA: 1 30 0><LF>
+Achei que você tinha<LF>
+recusado o convite.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 6><0xF1: 0>Pois é, mas...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Se queria vir, era só<LF>
+falar!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 6><0xF1: 0>Eu não vim aqui porque<LF>
+queria ficar com VOCÊ,<LF>
+ouviu?<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 0><0xF1: 0>Ai, ai... de volta à estaca<LF>
+Chaud. Você é o quê,<LF>
+alérgico a diversão!?<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 7><0xF1: 0>Lan!<0xEA: 1 30 0> Ele veio de muito<LF>
+longe até chegar aqui.<LF>
+Comporte-se!<Button><CR>
+!---------------------!
+E Chaud...<0xEA: 1 30 0><LF>
+Será que a gente pode<LF>
+ficar sem brigar hoje?<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 6><0xF1: 0>Hmm...<0xEA: 1 30 0> Que seja.<LF>
+Se é o que querem, por<LF>
+mim tudo bem.<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 1><0xF1: 0>Viram? O Chaud se<LF>
+comporta perto da Mayl.<0xEA: 1 30 0><LF>
+Pode isso, Lan?<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 0><0xF1: 0>Hmpf! Eu não tô nem aí!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 2><0xF1: 0>Ô! Gente? <0xEA: 1 30 0>Vocês esque-<LF>
+ceram? EU sou o chefe<LF>
+do acampamento aqui!<Button><CR>
+!---------------------!
+Entenderam?<LF>
+Então chega de birra e<LF>
+vamos andando!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 1 241>Tááááááá!!!<Button><EB>
+!*********************!
+

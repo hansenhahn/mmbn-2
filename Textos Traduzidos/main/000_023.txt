@@ -1,0 +1,48 @@
+<@AbsoluteAddr 7865800>
+<@PointerIdx0>
+<0xF1: 0>Alguns dias após o<LF>
+início das férias...<0xEA: 0 60 0><Button><EB>
+!*********************!
+<@PointerIdx1>
+<0xFA: 4 4 0><Char: 0 64><0xF1: 0>Devia fazer o seu dever<LF>
+de casa pelo menos uma<LF>
+vez por semana, Lan.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Relaxa! A gente ainda<LF>
+tem tempo de sobra pra<LF>
+fazer isso!<Button><CR>
+!---------------------!
+Férias são demais!<LF>
+Preciso pensar no que eu<LF>
+vou fazer hoje... Hmm...<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Tá bom, mas não vem<LF>
+chorar pra mim quando<LF>
+as férias acabarem, viu?<Button><CR>
+!---------------------!
+Se é pra gente brincar,<LF>
+vamos curtir o dia ao<LF>
+máximo!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Agora sim!<0xEA: 1 30 0><LF>
+Que tal a praia?<LF>
+Ou um acampamento!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>As duas opções parecem<LF>
+legais...<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Vamos acampar!<0xEA: 1 30 0><LF>
+O chamado da natureza<LF>
+me... er, chama!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Tá resolvido, então!<LF>
+Vamos lá falar com a<LF>
+Mayl e os outros!<Button><EB>
+!*********************!
+

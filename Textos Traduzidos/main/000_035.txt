@@ -1,0 +1,48 @@
+<@AbsoluteAddr 7870564>
+<@PointerIdx0>
+<Char: 0 7><0xF1: 0>Lan! Dá outra olhada no<LF>
+urso com os Binóculos<LF>
+<Button><CR>
+!---------------------!
+que você achou.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Deixa comigo!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 0><0xF1: 0>Fala sério...!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 1><0xF1: 0>O que foi agora?<LF>
+Deixa eu dar uma<LF>
+olhada nisso!<Button><CR>
+!---------------------!
+Ah! É falso!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 1 241> <0xFA: 12><0xFA: 0 8 1>Rraaauurrr!!!!<0xEA: 0 60 0><Button><CR>
+!---------------------!
+<0xFA: 8><Jmp: 0 5><@PointerIdx5>
+<Char: 0 1><0xF1: 0>M-<0xEA: 1 30 0>Mas é tão feroz<LF>
+quanto um de verdade.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 2><0xF1: 0>Não parece ser capaz<LF>
+de se mexer, mas pode<LF>
+estar programado<Button><CR>
+!---------------------!
+pra atacar.<Button><CR>
+!---------------------!
+Alguém precisa se<LF>
+conectar no urso e<LF>
+fazê-lo parar.<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 6><0xF1: 0><Char: 3 0>(Hm!)<Char: 3 1><Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Tão com medinho, é?<0xF1: 0><LF>
+Tá bom, deixa que eu<LF>
+resolvo!<Button><EB>
+!*********************!
+

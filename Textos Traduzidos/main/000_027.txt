@@ -1,0 +1,18 @@
+<@AbsoluteAddr 7867356>
+<@PointerIdx0>
+<Char: 0 75><0xF1: 0>Tá bom, eu devolvo.<LF>
+Só me deixa em paz,<LF>
+tá...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 1 241> <0xFA: 0 133 0><0xF8: 4 24>MegaMan recebeu:<LF>
+"<ItemTbl: 0 5 0>!!"<LF>
+<0xF8: 12><0xF8: 4 1><Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Facinho! Vamos lá levar<LF>
+o"<ItemTbl: 0 5 0>"<LF>
+lá praquele Navi!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Partiu Navi!<Button><EB>
+!*********************!
+

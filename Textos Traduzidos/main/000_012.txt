@@ -1,0 +1,22 @@
+<@AbsoluteAddr 7860472>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>E aí, MegaMan!?<LF>
+Como é que tão as<LF>
+coisas?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Olha, parece tudo<LF>
+normal...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Mas... TEM que ter<LF>
+alguma coisa aí que tá<LF>
+mexendo com o programa!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Eu sei! Vou tomar cuidado!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Isso! E vai rápido!<Button><EB>
+!*********************!
+

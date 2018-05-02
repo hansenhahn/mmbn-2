@@ -1,0 +1,32 @@
+<@AbsoluteAddr 7864104>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0><0xF8: 4 24>É isso aí!<0xF8: 12><0xF8: 4 4><Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0> Mandou bem!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 38><0xF1: 0>Derrotado por crianças.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0><LF>
+Mas... tanto faz! Ainda<LF>
+vamos nos reencontrar!!<Button><CR>
+!---------------------!
+O nosso grupo é o mais<LF>
+forte que há! Nos<LF>
+veremos em breve!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>...Ele fugiu...<0xEA: 1 30 0><LF>
+Ah, sim! MegaMan! <0xEA: 1 30 0>A Yai!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Bem lembrado!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 1 241> <0xFA: 12><0xFA: 0 165 0>Clique!<Button><CR>
+!---------------------!
+<0xFA: 8><Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>É por ali!<LF>
+Rápido, vá salvar a Yai!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>É pra já!<Button><EB>
+!*********************!
+

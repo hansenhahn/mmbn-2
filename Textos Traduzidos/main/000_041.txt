@@ -1,0 +1,37 @@
+<@AbsoluteAddr 7873724>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>QuickMan! Esquece! Não<LF>
+vou deixá-lo enviar o<LF>
+programa de detonação!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 79><0xF1: 0>Ah, é? Então venha me<LF>
+impedir...<0xEA: 1 30 0> Se conseguir<LF>
+me acompanhar!<Button><CR>
+!---------------------!
+Fui!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 43><0xF1: 0>Espere um pouquinho aí,<LF>
+QuickMan. Esses dois são<LF>
+só crianças...<Button><CR>
+!---------------------!
+Temos que dar uma lição<LF>
+neles... A educação é<LF>
+importante, afinal...!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 79><0xF1: 0>É verdade! Uma lição<LF>
+rápida! Podem vir,<LF>
+hora de lutar!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>MegaMan! Toma cuidado!<LF>
+Esse cara é rápido!<Button><CR>
+!---------------------!
+Rotina de<0xEA: 1 30 0> batalha...!!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Executar!<Button><EB>
+!*********************!
+

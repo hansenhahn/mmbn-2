@@ -1,0 +1,46 @@
+<@AbsoluteAddr 7862772>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Bom, sebo nas canelas!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Se segura(?)!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 64><0xF1: 0>Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Ah, que droga!<0xEA: 1 30 0><LF>
+Meleca!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 64><0xF1: 0>Mandou bem!!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Isso! Estamos quase lá!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 0><0xF1: 0>Droga, droga, droga!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 0><0xF1: 0>Beleza!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 64><0xF1: 0>Eu encontrei a Yai!<LF>
+Lan, vá até ela!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 0><0xF1: 0>Ah! Certo(?)!<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 0><0xF1: 0>Droga! A gente tem que<LF>
+fazer alguma coisa com<LF>
+esse Controle do Gás!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 64><0xF1: 0>Concordo! Espera só um<LF>
+segundo aí!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>???<Button><EB>
+!*********************!
+

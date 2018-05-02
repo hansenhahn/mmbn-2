@@ -1,0 +1,62 @@
+<@AbsoluteAddr 7864428>
+<@PointerIdx0>
+<Char: 0 1><0xF1: 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>A<0xEA: 1 30 0>i<0xEA: 1 30 0>... urgh...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 2><0xF1: 0>Ela tá acordando!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 7><0xF1: 0>Yai! <0xEA: 1 30 0>Tudo bem com você?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 1><0xF1: 0>Hm.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0><LF>
+Eu tava tomando banho,<LF>
+e...<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 7><0xF1: 0>Você desmaiou por causa<LF>
+do Gás.<0xEA: 1 30 0> E o Lan salvou<LF>
+a sua vida.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 1><0xF1: 0>Lan...<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Sim?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<0xFA: 4 4 0><Char: 0 1><0xF1: 0>...v-você me viu pelada!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Não, eu não tava<LF>
+olhando!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 1><0xF1: 0>Ah tá, até parece!<LF>
+Vamos! <0xEA: 1 30 0>Confesse!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 7><0xF1: 0>O Lan não tá mentindo.<Button><CR>
+!---------------------!
+Ele desligou o gás, mas<LF>
+quem a carregou até<LF>
+aqui fui eu.<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 2><0xF1: 0>E eu tava destrancando<LF>
+a porta da frente!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 1><0xF1: 0>Tenho pena de você,<LF>
+Lan.<0xEA: 1 30 0> Perdeu a chance de<LF>
+ver o meu "corpitcho".<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 0><0xF1: 0>Hmpf. Essa Yai não muda<LF>
+nunca... só sabe falar<LF>
+bobagem!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 1 241> Ha ha ha ha!!<Button><EB>
+!*********************!
+

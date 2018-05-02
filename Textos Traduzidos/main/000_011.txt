@@ -1,0 +1,38 @@
+<@AbsoluteAddr 7860064>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>O que é que tá<LF>
+acontecendo aqui!?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>O lugar tá cheio de gás!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>E a Yai tá lá, em algum<LF>
+lugar!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Essa não! A gente tem<LF>
+que salvar ela!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Ah! Lan, ali!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 0><0xF1: 0>É o Dex!<0xEA: 1 30 0><LF>
+.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>A gente...<0xEA: 1 30 0> PRECISA se<LF>
+livrar desse gás!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>Espera... o Glide não<LF>
+falou alguma sobre um<LF>
+aquecedor de água?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>É verdade! O motor<LF>
+aquecedor de água!<LF>
+Ele é movido a gás!<Button><CR>
+!---------------------!
+Vamos lá conferir ele,<LF>
+MegaMan!<Button><EB>
+!*********************!
+

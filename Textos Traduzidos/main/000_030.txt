@@ -1,0 +1,37 @@
+<@AbsoluteAddr 7868268>
+<@PointerIdx0>
+<0xF1: 0>..aan! La...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Z-z-z.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0><Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 1 241>Ei, Lan! Laann!!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Ahn.<0xEA: 1 30 0>..<0xEA: 1 30 0> hm?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Aaaanda, Lan!!<0xEA: 1 30 0> Acorda!<0xEA: 1 30 0><LF>
+Já tá na hora do acam-<LF>
+pamento!<0xEA: 1 30 0> Vai se atrasar!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>MegaMan?<0xEA: 1 30 0><LF>
+A corda...? <0xEA: 1 30 0><LF>
+Pra um acampamento.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>?<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 0><0xF1: 0>Ah, é! O acampamento!<0xEA: 1 30 0><LF>
+Tô acordado, MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>A gente já tá atrasado<LF>
+pra encontrar o pessoal!<LF>
+Anda logo, Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Fala sério! <0xEA: 1 30 0>Vamos correr,<LF>
+então!<Button><EB>
+!*********************!
+

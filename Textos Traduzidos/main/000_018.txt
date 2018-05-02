@@ -1,0 +1,26 @@
+<@AbsoluteAddr 7863112>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Lan! Deu certo! A gente<LF>
+se livrou do gás. Olha, um<LF>
+programa de ventilação.<Button><CR>
+!---------------------!
+<Char: 0 0><0xF1: 0>Yeah! Try this!<Button><CR>
+!---------------------!
+<Char: 0 64><0xF1: 0>Ah!<0xFA: 4 34 0><Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 78><0xF1: 0>Ho-ho...<0xEA: 1 30 0><LF>
+Quem ousar tentar isso(?) <0xEA: 1 30 0><LF>
+Ho-ho...!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Eu sei! Ele é a causa<LF>
+por trás desse gás todo!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Vai rápido!<Button><EB>
+!*********************!
+

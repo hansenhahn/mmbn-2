@@ -1,0 +1,50 @@
+<@AbsoluteAddr 7857560>
+<@PointerIdx0>
+<Char: 0 70><0xF1: 0>Você achou as duas!<LF>
+Impressionante!<Button><CR>
+!---------------------!
+Bom, aqui está a sua<LF>
+"<ItemTbl: 0 58 0>", como<LF>
+prometido!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 1 241> <0xFA: 0 133 0><0xF8: 4 24>MegaMan recebeu:<LF>
+"<ItemTbl: 0 58 0>!!"<LF>
+<0xF8: 12><0xF8: 16><Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 70><0xF1: 0>O Centro irá contactá-lo<LF>
+para dar mais detalhes<LF>
+sobre a prova de licença.<Button><CR>
+!---------------------!
+Se você se sair bem<LF>
+nela, ganhará sua<LF>
+licença completa!<Button><CR>
+!---------------------!
+Ah, e também vamos lhe<LF>
+dar um presente! É uma<LF>
+oferta de tempo limitado,<Button><CR>
+!---------------------!
+Tome. Pode deixar que<LF>
+eu o instalo em seu<LF>
+PET pra você...<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 1 241> <0xFA: 0 133 0><0xF8: 4 24>Instalado no PET:<LF>
+"sistema de seleção<LF>
+de chips"!!<0xF8: 12><0xF8: 16><Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 70><0xF1: 0>Verá que o "sistema<LF>
+de seleção de chips"<LF>
+é extremamente útil.<Button><CR>
+!---------------------!
+Se tiver alguma dúvida, é<LF>
+só perguntar para a<LF>
+senhorita ao meu lado!<Button><CR>
+!---------------------!
+E isso é tudo!<LF>
+Desejo a vocês boa<LF>
+sorte e boas lutas!<Button><EB>
+!*********************!
+

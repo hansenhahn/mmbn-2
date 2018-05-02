@@ -1,0 +1,39 @@
+<@AbsoluteAddr 7858988>
+<@PointerIdx0>
+<Char: 0 2><0xF1: 0>Agora não é hora de<LF>
+conversar. É hora de<LF>
+agir!<Button><CR>
+!---------------------!
+Fiquem aqui fora, tá?<0xEA: 1 30 0><LF>
+Eu vou lá,<0xEA: 1 30 0> podem<LF>
+ficar só esperando!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 7><0xF1: 0>Tem certeza disso?<LF>
+Não seria melhor a gente<LF>
+entrar todo mundo junto?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 2><0xF1: 0>Não! <0xEA: 1 30 0>Não devemos todos<LF>
+arriscar nossas vidas!<LF>
+É perigoso demais!<Button><CR>
+!---------------------!
+Não temam!<LF>
+Estarei de volta aqui em<LF>
+5 minutos, no máximo!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 1 241> <0xFA: 12><0xFA: 0 255 0>Crííííc... blam!<LF>
+.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xFA: 8><Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 7><0xF1: 0>Lan...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>! <0xEA: 1 30 0>Já deu 5 minutos!<0xEA: 1 30 0><Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>Vamos lá! Aqueles dois<LF>
+precisam da nossa ajuda!<Button><EB>
+!*********************!
+
