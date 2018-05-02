@@ -1,0 +1,111 @@
+<@AbsoluteAddr 7894096>
+<@PointerIdx0>
+<Char: 0 36><0xF1: 0>The security system<LF>
+has been damaged...<Button><CR>
+!---------------------!
+A password has to be<LF>
+input or you can't<LF>
+open the doors....<Button><CR>
+!---------------------!
+<0xF2: 0 114 2>Huh? Hikari's son?<LF>
+<0xF2: 0 115 2><0xF2: 0 116 2>What are you doing<LF>
+here?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Please let me<LF>
+help too.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 36><0xF1: 0>It's very reassuring<LF>
+having you here!<Button><CR>
+!---------------------!
+But,leave the<LF>
+battling to us<LF>
+adults!<Button><CR>
+!---------------------!
+We'll show you the<LF>
+force of Official<LF>
+NetBattlers!!<Button><CR>
+!---------------------!
+Come on you all!<LF>
+We're off!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 37><0xF1: 0>Yes!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 39><0xF1: 0>Roger that!<Button><CR>
+!---------------------!
+<0xF2: 4 114 2><0xF2: 4 115 2><0xF2: 4 116 2><Jmp: 0 5><@PointerIdx5>
+<Char: 0 36><0xF1: 0>Jack in!!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<0xF2: 4 114 2><0xF2: 4 115 2><0xF2: 4 116 2><Char: 0 36><0xF1: 0>Advance!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 37><0xF1: 0>Uh...<LF>
+The password for<LF>
+this is...<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 39><0xF1: 0>Official beam!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 36><0xF1: 0>Great,just a little<LF>
+more to go!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 37><0xF1: 0>Yes!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 39><0xF1: 0>Roger that!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 36><0xF1: 0>Huh!? What's this!<LF>
+A virus! You guys<LF>
+lend me a hand!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 37><0xF1: 0>Okay!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 39><0xF1: 0>Roger that!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 1 241 0><0xFA: 12><0xFA: 0 19 1>Pow!<Dly: 0 16 0> <0xFA: 0 20 1>Biff!<Dly: 0 15 0> <0xFA: 0 21 1>Wham!<Dly: 0 14 0><Button><CR>
+!---------------------!
+<0xFA: 8><Jmp: 0 16><@PointerIdx16>
+<Char: 0 37><0xF1: 0>If this keeps up<LF>
+we're...!<LF>
+Use that!! That!<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 1 241 0><0xFA: 12><0xFA: 0 22 1>Wham!<Dly: 0 19 0> <0xFA: 0 19 1>Bam!<Button><CR>
+!---------------------!
+<0xFA: 8><Jmp: 0 18><@PointerIdx18>
+<Char: 0 39><0xF1: 0>Official de<LF>
+Barbarossa's<LF>
+Dangerous Cannon!!<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 1 241 0><0xFA: 12><0xFA: 0 237 0>Bash!<Button><CR>
+!---------------------!
+<0xFA: 8><Jmp: 0 20><@PointerIdx20>
+<0xF2: 0 114 2><0xF2: 0 115 2><0xF2: 0 116 2><Char: 0 36><0xF1: 0>Delete complete!<Button><0xF2: 4 114 2><0xF2: 4 115 2><0xF2: 4 116 2><EB>
+!*********************!
+<@PointerIdx21>
+<0xF2: 0 114 2><0xF2: 0 115 2><0xF2: 0 116 2><Char: 0 36><0xF1: 0>How about it! What<LF>
+did you think of<LF>
+us adults' skills?<Button><CR>
+!---------------------!
+<Jmp: 0 22><@PointerIdx22>
+<Char: 0 0>Performed only like<LF>
+Officials could!<Button><CR>
+!---------------------!
+<Jmp: 0 23><@PointerIdx23>
+<Char: 0 36><0xF1: 0>The door's opening!<Button><0xF2: 4 114 2><0xF2: 4 115 2><0xF2: 4 116 2><EB>
+!*********************!
+<@PointerIdx24>
+<Char: 0 36><0xF1: 0>We'll go on ahead<LF>
+so follow us.<Button><EB>
+!*********************!

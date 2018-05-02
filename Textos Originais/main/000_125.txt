@@ -1,0 +1,29 @@
+<@AbsoluteAddr 7932464>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Captain!<LF>
+I happen to be a<LF>
+city NetBattler!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 59><0xF1: 0>Oh,you are...<Button><CR>
+!---------------------!
+A bug broke out in<LF>
+the right wing<LF>
+program.<Button><CR>
+!---------------------!
+We can't control the<LF>
+balance. That's why<LF>
+we're shaking so.<Button><CR>
+!---------------------!
+We're in danger of<LF>
+crashing if we don't<LF>
+respond.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Put your faith in<LF>
+us! MegaMan we're<LF>
+needed in action!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Roger that!!<Button><EB>
+!*********************!

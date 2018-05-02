@@ -1,0 +1,108 @@
+<@AbsoluteAddr 7903788>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Oh,man...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>What's wrong?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Vacation's just<LF>
+started and it's<LF>
+already half over!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Yeah,we've done a<LF>
+whole lot...<Dly: 1 30 0>except<LF>
+for your homework!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Oh,c'mon,MegaMan...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>No use trying to<LF>
+sweet-talk me,Lan!<LF>
+Do your homework!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>You could at least<LF>
+do my math for me...<LF>
+You're so quick!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Praise will get you<LF>
+nowhere! You have to<LF>
+do it yourself,Lan.<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Bummer...<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 64><0xF1: 0>...OK,I'll do it,<LF>
+but lemme check<LF>
+the mail,first.<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 64><0xF1: 0>Whoa! Wow! Mail from<LF>
+"NetBattler Head<LF>
+Quarters!" Cool!<Button><CR>
+!---------------------!
+Open it up!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 1 241 0>As we all know from<LF>
+the attacks on<LF>
+Yumland & Electopia,<Button><CR>
+!---------------------!
+The netmafia group<LF>
+"Gospel" is growing<LF>
+larger and larger.<Button><CR>
+!---------------------!
+But,we have recently<LF>
+obtained important<LF>
+info about Gospel.<Button><CR>
+!---------------------!
+We want to share<LF>
+this info with<LF>
+NetBattlers and make<Button><CR>
+!---------------------!
+preparations,so<LF>
+please make efforts<LF>
+to attend our<Button><CR>
+!---------------------!
+Official NetBattler<LF>
+Meeting,to be held<LF>
+at the World<Button><CR>
+!---------------------!
+NetBattler HQ in<LF>
+Netopia.<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>Hmm...I dunno.<LF>
+Sounds tough...<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 64><0xF1: 0>There's more...<LF>
+Hang on...<Button><CR>
+!---------------------!
+The meeting will be<LF>
+held at NetBattler<LF>
+HQ in...Netopia!<Button><CR>
+!---------------------!
+Hey! <Dly: 1 30 0>And there's<LF>
+even an airplane<LF>
+ticket attached!<Button><EB>
+!*********************!
+<@PointerIdx14>
+<Char: 0 0><0xF1: 0>Wow! A foreign<LF>
+country! Netopia!<LF>
+Let's go!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 64><0xF1: 0>That does sound like<LF>
+fun,but what about<LF>
+your homework?<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 0><0xF1: 0>I'll do it when<LF>
+I get home!<Button><EB>
+!*********************!

@@ -1,0 +1,50 @@
+<@AbsoluteAddr 7948824>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Another incident?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 11><0xF1: 0>I know...<Dly: 1 30 0><LF>
+It's very troubling.<Button><CR>
+!---------------------!
+Why,they just said<LF>
+that Gospel had been<LF>
+destroyed!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Yeah...<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 64><0xF1: 0>Want to read<LF>
+your mail?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>OK.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Let's see...<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 1 241 0>"Attention All<LF>
+city NetBattlers!"<Button><CR>
+!---------------------!
+"As we believe that<LF>
+Gospel is continuing<LF>
+its operations...<Button><CR>
+!---------------------!
+We request you to<LF>
+re-investigate<LF>
+Kotobuki Square!"<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>What...?<Dly: 1 30 0> We<LF>
+beat FreezeMan...<Dly: 1 30 0><LF>
+So what was that?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Well,we can't find<LF>
+out just sitting<LF>
+around here!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 64><0xF1: 0>Yeah! Let's go!<Button><EB>
+!*********************!

@@ -1,0 +1,146 @@
+<@AbsoluteAddr 7891908>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Dad,I brought the<LF>
+program!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 23><0xF1: 0>Oh Lan,<LF>
+thanks for that.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>The program was in<LF>
+YumSquare but,<Button><CR>
+!---------------------!
+taking it turned<LF>
+out to be<LF>
+prohibited.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 23><0xF1: 0>Really? I'll<LF>
+transmit it to<LF>
+YumSquare later.<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 23><0xF1: 0>I'll set up the<LF>
+program right<LF>
+away.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 1 241 0><Rst: 0>
+!+++++++++++++++++++++!
+<0xFA: 12><0xFA: 0 10 1>click,click...<Dly: 0 84 0><Rst: 1>
+!+++++++++++++++++++++!
+<0xFA: 8><Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 23><0xF1: 0>Done!<LF>
+The new program<LF>
+is finished!!<Button><0xF2: 0 79 2><CR>
+!---------------------!
+Lan,can I borrow<LF>
+that PET?<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 0><0xF1: 0><0xF2: 4 79 2>Sure,Dad.<Button><CR>
+!---------------------!
+<0xF2: 0 79 2><Jmp: 0 8><@PointerIdx8>
+<Char: 0 23><0xF1: 0>This might hurt<LF>
+MegaMan so bear<LF>
+with me.<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 64><0xF1: 0>Okay.<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 23><0xF1: 0>Install new<LF>
+program.<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 1 241 0><Rst: 0>
+!+++++++++++++++++++++!
+<0xFA: 12><0xFA: 0 10 1>click,click...<Dly: 0 85 0><Rst: 1>
+!+++++++++++++++++++++!
+<0xFA: 8><Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 64><0xF1: 0>Owchhhhh....<Button><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 1 241 0><Rst: 0>
+!+++++++++++++++++++++!
+<0xFA: 12><0xFA: 0 10 1>click...<Dly: 0 85 0><Rst: 1>
+!+++++++++++++++++++++!
+<0xFA: 8><Button><EB>
+!*********************!
+<@PointerIdx14>
+<Char: 0 23><0xF1: 0>Just a little<LF>
+longer!<LF>
+Hang in there!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 64><0xF1: 0>Y...yes...<Button><EB>
+!*********************!
+<@PointerIdx16>
+<Char: 1 241 0><Rst: 0>
+!+++++++++++++++++++++!
+<0xFA: 12><0xFA: 0 10 1>click,click...<Dly: 0 85 0><Rst: 1>
+!+++++++++++++++++++++!
+<0xFA: 8><Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 0 23><0xF1: 0>Install complete!<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 0><0xF1: 0>You okay!?<LF>
+MegaMan?<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 64><0xF1: 0>I think so but...<LF>
+Feels the same as<LF>
+before the install.<Button><CR>
+!---------------------!
+<Jmp: 0 20><@PointerIdx20>
+<Char: 0 23><0xF1: 0>The program is like<LF>
+a seed to strengthen<LF>
+MegaMan.<Button><CR>
+!---------------------!
+Use his experience<LF>
+as nourishment to<LF>
+grow the seed.<Button><CR>
+!---------------------!
+No telling when it<LF>
+will sprout but when<LF>
+it does...<Button><CR>
+!---------------------!
+MegaMan will gain a<LF>
+new-found strength!<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 0 0><0xF1: 0>Thanks,Dad!<Button><EB>
+!*********************!
+<@PointerIdx22>
+<Char: 1 241 0><0xFA: 12>beep<0xFA: 0 209 0><Dly: 0 54 0>beep<0xFA: 0 209 0><Dly: 0 54 0>beep<0xFA: 0 209 0>!!<Dly: 0 54 0><0xFA: 8><Button><EB>
+!*********************!
+<@PointerIdx23>
+<Char: 1 241 0><0xF2: 4 79 2>Something has<LF>
+infiltrated the<LF>
+Square!<Button><EB>
+!*********************!
+<@PointerIdx24>
+<Char: 0 0><0xF1: 0>No way,it's those<LF>
+Navis...!!<Button><CR>
+!---------------------!
+<Jmp: 0 25><@PointerIdx25>
+<Char: 0 64><0xF1: 0>Come on Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 26><@PointerIdx26>
+<Char: 0 0><0xF1: 0>Yeah!<Button><CR>
+!---------------------!
+<0xF2: 0 79 2><Jmp: 0 27><@PointerIdx27>
+<Char: 0 23><0xF1: 0>Lan!<LF>
+Don't bite off more<LF>
+than you can chew!<Button><CR>
+!---------------------!
+<Jmp: 0 28><@PointerIdx28>
+<Char: 0 0><0xF1: 0>I know darn it!<Button><EB>
+!*********************!

@@ -1,0 +1,165 @@
+<@AbsoluteAddr 7897464>
+<@PointerIdx0>
+<Char: 0 81><0xF1: 0>Aah,you've done very<LF>
+well,making it this<LF>
+far...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>What the! He's<LF>
+supposed to be<LF>
+fighting ProtoMan...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 81><0xF1: 0>Humph...<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>So the ShadowMan<LF>
+battling ProtoMan<LF>
+is a fake?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 81><0xF1: 0>You're a day late<LF>
+and a zenny short.<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 23><0xF1: 0>Lan! I finished!<LF>
+An anti-ShadowMan<LF>
+battlechip.<Button><CR>
+!---------------------!
+It's called an<LF>
+"Ultimate Blaster".<Button><CR>
+!---------------------!
+The force of this<LF>
+chip can maybe<LF>
+defeat ShadowMan...<Button><CR>
+!---------------------!
+But,it can only fire<LF>
+once. No time to<LF>
+make it perfect.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0><Button><CR>
+!---------------------!
+Sorry,Lan.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>One shot is all it<LF>
+takes! Believe in<LF>
+MegaMan and me!<Button><CR>
+!---------------------!
+<0xF2: 0 79 2>Install the<LF>
+"Ultimate Blaster!"<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 0><0xF1: 0>MegaMan,we've only<LF>
+got one chance!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 64><0xF1: 0>I'm with you!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 81><0xF1: 0>...Humph,trying<LF>
+that weapon on me?<Button><CR>
+!---------------------!
+You're aware of what<LF>
+will happen if you<LF>
+miss,right?<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 64><0xF1: 0>If we miss...<LF>
+The mother comp will<LF>
+be destroyed...<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 0><0xF1: 0>But,it's our only<LF>
+hope!<LF>
+However...<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 81><0xF1: 0>Little boy...<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 0><0xF1: 0>Damn! What should<LF>
+we do!?<Button><EB>
+!*********************!
+<@PointerIdx14>
+<Char: 1 241 0>Shing!<Button><EB>
+!*********************!
+<@PointerIdx15>
+<Char: 0 81><0xF1: 0>Unh!?<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 74><0xF1: 0>Hurry and fire!<LF>
+MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 0 64><0xF1: 0>P,ProtoMan...!<Button><CR>
+!---------------------!
+I,I...can't shoot!<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 74><0xF1: 0>Do wish the same<LF>
+fate as Yumland<LF>
+for Electopia?<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 81><0xF1: 0>......<Button><CR>
+!---------------------!
+You killed my simu-<LF>
+lacrum? Aah,but not<LF>
+without affliction.<Button><CR>
+!---------------------!
+<Jmp: 0 20><@PointerIdx20>
+<Char: 0 74><0xF1: 0>Come on!!<LF>
+MegaMan...!<Button><CR>
+!---------------------!
+Hurry up!<LF>
+My strength won't<LF>
+last much longer!<Button><CR>
+!---------------------!
+Even if deleted I<LF>
+can be repaired with<LF>
+my backup data...<Button><CR>
+!---------------------!
+Now fire! MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 0 64><0xF1: 0>I'll revive you<LF>
+with the backup<LF>
+data right away!<Button><CR>
+!---------------------!
+<Jmp: 0 22><@PointerIdx22>
+<Char: 0 81><0xF1: 0>......<Button><EB>
+!*********************!
+<@PointerIdx23>
+<Char: 1 241 0>Shoom<Button><EB>
+!*********************!
+<@PointerIdx24>
+<Char: 1 241 0>Kaboooooom!!<Button><EB>
+!*********************!
+<@PointerIdx25>
+<Char: 0 74><0xF1: 0>Those underlings...<LF>
+Acted as a shield...<Button><CR>
+!---------------------!
+Urgh!<Button><CR>
+!---------------------!
+<0xF2: 4 124 2><Jmp: 0 26><@PointerIdx26>
+<0xFA: 4 34 0><Char: 0 64><0xF1: 0>Chaud! Hurry and<LF>
+let me jack out<LF>
+ProtoMan.<Button><CR>
+!---------------------!
+<Jmp: 0 27><@PointerIdx27>
+<Char: 0 6><0xF1: 0>ProtoMan!<Button><EB>
+!*********************!
+<@PointerIdx28>
+<Char: 0 81><0xF1: 0>Close but yet<LF>
+so far...<Button><CR>
+!---------------------!
+<Jmp: 0 29><@PointerIdx29>
+<Char: 0 64><0xF1: 0>Darn!<Button><CR>
+!---------------------!
+<Jmp: 0 30><@PointerIdx30>
+<Char: 0 81><0xF1: 0>What's wrong? Why<LF>
+won't you attack?<LF>
+Then,I'll attack.<Button><CR>
+!---------------------!
+Alright,let's<LF>
+fight.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>fair!<Button><EB>
+!*********************!

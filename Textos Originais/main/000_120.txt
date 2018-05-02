@@ -1,0 +1,29 @@
+<@AbsoluteAddr 7930748>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>I got all the<LF>
+materials for<LF>
+the spider trap!!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 62><0xF1: 0>Already?<LF>
+Shall we set the<LF>
+trap?<Button><CR>
+!---------------------!
+By the way,where<LF>
+is the spider<LF>
+anyway?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 16><0xF1: 0>Eeeeeeeek!!<Button><CR>
+!---------------------!
+<0xFA: 4 14 0><0xF2: 0 8 2><Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>!?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 16><0xF1: 0>A spider just ran<LF>
+into first class...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 62><0xF1: 0>First class!!<LF>
+We're off son!!<Button><EB>
+!*********************!

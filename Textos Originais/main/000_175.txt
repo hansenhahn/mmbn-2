@@ -1,0 +1,148 @@
+<@AbsoluteAddr 7978120>
+<@PointerIdx0>
+<0xF6: 3 62 1 7 7 255><0xF3: 0 225 0 9 255><0xF3: 0 226 0 7 255><0xF3: 0 227 0 5 255><0xF3: 0 234 0 3 255><0xF3: 0 233 0 2 255><Char: 0 70><0xF1: 0>I'm the <ItemTbl: 0 62 0><LF>
+test examiner.<Button><CR>
+!---------------------!
+You came to take the<LF>
+test? There are two<LF>
+problems.<Button><CR>
+!---------------------!
+If you pass,I'll<LF>
+give you an<LF>
+<ItemTbl: 0 62 0>. Ready?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<0xF2: 0 233 0><Char: 0 70><0xF1: 0>For the first<LF>
+problem,you will<LF>
+perform a mission.<Button><CR>
+!---------------------!
+Influenced by Gospel<LF>
+4 Navis have formed<Button><CR>
+!---------------------!
+a gang called the<LF>
+Black Navis.<Button><CR>
+!---------------------!
+There are only 4<LF>
+members,but each one<LF>
+is notorious.<Button><CR>
+!---------------------!
+If they are not<LF>
+eliminated now while<LF>
+they're small,<Button><CR>
+!---------------------!
+they may grow into<LF>
+a major criminal<LF>
+organization.<Button><CR>
+!---------------------!
+You will be the<LF>
+agent of the Black<LF>
+Navis' destruction.<Button><CR>
+!---------------------!
+The members of the<LF>
+Black Navis are<LF>
+spread about.<Button><CR>
+!---------------------!
+They all are black,<LF>
+and look very mean.<Button><CR>
+!---------------------!
+One member is often<LF>
+spotted in the<LF>
+Yumland area.<Button><CR>
+!---------------------!
+This is problem 1.<LF>
+Shall I repeat it?<LF>
+<Arrow: 17 0><Pos: 0 2>Please <Arrow: 0 17><Pos: 0 2>That's OK<CondJmp: 6 129 1 255 255>
+!---------------------!
+Very well. Good<LF>
+luck!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 70><0xF1: 0>Have you defeated<LF>
+all 4 members of the<LF>
+Black Navis?<Button><CR>
+!---------------------!
+Not yet?<Button><CR>
+!---------------------!
+Good luck defeating<LF>
+them.<Button><CR>
+!---------------------!
+Or,do you wish I<LF>
+repeat the problem?<LF>
+<Arrow: 17 0><Pos: 0 2>Please <Arrow: 0 17><Pos: 0 2>That's OK<CondJmp: 6 129 1 255 255>
+!---------------------!
+Very well. Good<LF>
+luck!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<0xF2: 0 227 0><Char: 0 70><0xF1: 0>Congratulations!<LF>
+Nice work!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 70><0xF1: 0>Now for Problem 2!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 70><0xF1: 0>Problem 2 is a<LF>
+survival battle.<Button><CR>
+!---------------------!
+To pass,delete<LF>
+20 viruses that<LF>
+appear in a row.<Button><CR>
+!---------------------!
+You cannot recover<LF>
+HP during battle,<LF>
+so be careful.<Button><CR>
+!---------------------!
+I will replenish<LF>
+your HP before and<LF>
+after the problem.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 70><0xF1: 0>So,are you ready?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Yes!<LF>
+<Arrow: 17 2><Pos: 0 2>Try later<LF>
+<Arrow: 34 16><Pos: 0 2>Explain again<CondJmp: 7 192 12 255 5>
+!---------------------!
+<0xff>Very well. Please<LF>
+come speak to me<LF>
+again.<Button><EB>
+!*********************!
+<@PointerIdx7>
+<0xF2: 4 226 0><Char: 0 70><0xF1: 0>That's too bad...<Dly: 1 30 0><LF>
+Try it again?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes! <Arrow: 0 17><Pos: 0 2>Later.<CondJmp: 6 128 12 255 255>
+!---------------------!
+Very well. Please<LF>
+come speak to me<LF>
+again.<Button><EB>
+!*********************!
+<@PointerIdx8>
+<Char: 0 70><0xF1: 0>You're attempting<LF>
+problem 2 again,<LF>
+right?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx9>
+<Char: 0 70><0xF1: 0>Superb! You passed<LF>
+the test with<LF>
+flying colors!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 62 1>MegaMan got:<LF>
+"<ItemTbl: 0 62 0>!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><0xF2: 0 230 0><CR>
+!---------------------!
+<Char: 0 70>I'll give you this<LF>
+too as a bonus!<Button><CR>
+!---------------------!
+<Char: 1 248 0><0xF8: 4 24><0xF6: 0 98 1>MegaMan got a<LF>
+PowerUp:<LF>
+"<ItemTbl: 0 98 0>!!"<Button><0xF8: 12><0xF8: 8><CR>
+!---------------------!
+Regular memory<LF>
+increased by 1 MB!!<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 70><0xF1: 0>Great work!<Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 70><0xF1: 0><0xF2: 0 227 0><0xF1: 1><0xF2: 0 228 0><0xF2: 4 231 0><EB>
+!*********************!

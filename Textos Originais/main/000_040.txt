@@ -1,0 +1,25 @@
+<@AbsoluteAddr 7873472>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Well? Found<LF>
+anything?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>This is a detonator<LF>
+for a bomb,all<LF>
+right!<Button><CR>
+!---------------------!
+I'll bet there's a<LF>
+detonation program<LF>
+here somewhere.<Button><CR>
+!---------------------!
+That,and...<Dly: 1 30 0><LF>
+Lan,I'm picking up a<LF>
+virus! A tough one!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Roger!<LF>
+Be careful,MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Right!<Button><EB>
+!*********************!

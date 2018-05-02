@@ -1,0 +1,71 @@
+<@AbsoluteAddr 7866388>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Darn it...<LF>
+Everyone is too<LF>
+busy.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>It was all too<LF>
+spontaneous...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>You said it.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>What now?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Well...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Huh?<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 1 241 0><0xFA: 12>Pi-pi-pi!!<0xFA: 8><Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 64><0xF1: 0>Mail,wanna read it?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Sure.<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 1 241 0>Attention all<LF>
+<ItemTbl: 0 58 0>-holders!<Button><CR>
+!---------------------!
+The Center is<LF>
+looking for city<LF>
+NetBattlers.<Button><CR>
+!---------------------!
+Pass the license<LF>
+exam and be a<LF>
+city NetBattler!<Button><CR>
+!---------------------!
+Take a chance!<LF>
+Stop by the Center<LF>
+in Marine Harbor!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>Hmmm.<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 64><0xF1: 0>Hey! Let's try!<Button><CR>
+!---------------------!
+It wouldn't hurt us<LF>
+if we passed!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>Well,today's work<LF>
+is done so.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0><LF>
+Let's give it a go!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 64><0xF1: 0>Definitely!<Button><CR>
+!---------------------!
+We'll talk to<LF>
+everyone about camp<LF>
+tomorrow!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 0><0xF1: 0>Yeah,that's better!<Button><EB>
+!*********************!

@@ -1,0 +1,48 @@
+<@AbsoluteAddr 7865800>
+<@PointerIdx0>
+<0xF1: 0>A few days after<LF>
+the start of<LF>
+vacation...<Dly: 0 60 0><Button><EB>
+!*********************!
+<@PointerIdx1>
+<0xFA: 4 4 0><Char: 0 64><0xF1: 0>You should do your<LF>
+homework at least<LF>
+once in a while,Lan.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>No problem! We got<LF>
+plenty of time for<LF>
+that later!<Button><CR>
+!---------------------!
+Vacation rules!<LF>
+I wonder what I'll<LF>
+do today...Hmm...<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>OK,but don't come<LF>
+whining to me when<LF>
+vacation's over!<Button><CR>
+!---------------------!
+If we're gonna play<LF>
+let's make the best<LF>
+of it!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>That's the spirit!<Dly: 1 30 0><LF>
+How about the beach?<LF>
+Or a camping trip!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>They both sound like<LF>
+fun...<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Let's go camping!<Dly: 1 30 0><LF>
+Mother Nature,here<LF>
+we come!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>That settles it!<LF>
+Let's go tell Mayl<LF>
+and the others!<Button><EB>
+!*********************!

@@ -1,0 +1,132 @@
+<@AbsoluteAddr 7922076>
+<@PointerIdx0>
+<Char: 0 53><0xF1: 0>Thanks to you,<LF>
+we could save the<LF>
+Organization!<Button><CR>
+!---------------------!
+You have my<LF>
+eternal gratitude!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>What about Raoul?<LF>
+Is he all right?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 53><0xF1: 0>He's in the hospital<LF>
+by now. Good thing<LF>
+discovery was quick!<Button><CR>
+!---------------------!
+We're rescuing the<LF>
+others now. They're<LF>
+wounded,but safe.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>And the princess?<LF>
+Did she...die?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 53><0xF1: 0>We've rescued her,<LF>
+too. Her wounds are<LF>
+healing...<Button><CR>
+!---------------------!
+But she'll be<LF>
+questioned as soon<LF>
+as she's better!<Button><CR>
+!---------------------!
+I don't think you'll<LF>
+be seeing her for<LF>
+a while.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 6><0xF1: 0>I heard a story<LF>
+once...<Button><CR>
+!---------------------!
+Creamland was one of<LF>
+the first countries<LF>
+to get on the Net.<Button><CR>
+!---------------------!
+That's how that tiny<LF>
+country got so<LF>
+powerful so fast.<Button><CR>
+!---------------------!
+But soon after,the<LF>
+big countries caught<LF>
+up to Creamland.<Button><CR>
+!---------------------!
+Creamland was just<LF>
+in their way,and<LF>
+got left behind...<Button><CR>
+!---------------------!
+The princess might<LF>
+have joined Gospel<LF>
+to get revenge...<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 0><0xF1: 0>Wow,I didn't know<LF>
+about that at all.<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 6><0xF1: 0>I still don't think<LF>
+she was right to do<LF>
+what she did,though.<Button><CR>
+!---------------------!
+What I do know,is<LF>
+that the real enemy<LF>
+is Gospel!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Right!<Button><CR>
+!---------------------!
+With MegaMan and<LF>
+ProtoMan together,we<LF>
+have a chance!<Button><CR>
+!---------------------!
+Ah,sorry...<LF>
+About ProtoMan,I...<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 6><0xF1: 0>Hmph.<Button><CR>
+!---------------------!
+You forget so easily<LF>
+my friend. You and<LF>
+I are different...<Button><CR>
+!---------------------!
+All of ProtoMan's<LF>
+programming is safe<LF>
+in my head...<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>Really? So then<LF>
+ProtoMan isn't...<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 6><0xF1: 0>...I don't know why<LF>
+that should make<LF>
+YOU happy.<Button><CR>
+!---------------------!
+It should be clear<LF>
+that I do not plan<LF>
+to team-up with you.<Button><CR>
+!---------------------!
+The next time we<LF>
+meet,I...ProtoMan<LF>
+will defeat MegaMan!<Button><CR>
+!---------------------!
+Later.<Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 0><0xF1: 0>Man,that Chaud<LF>
+guy burns me up!<Button><CR>
+!---------------------!
+But those Gospel<LF>
+guys are even worse!<LF>
+Let's go get 'em!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 64><0xF1: 0>Yeah! I'm ready when<LF>
+you are,Lan!<LF>
+Let's do it!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 0><0xF1: 0>Whooo!!!!<Button><EB>
+!*********************!

@@ -1,0 +1,103 @@
+<@AbsoluteAddr 7871332>
+<@PointerIdx0>
+<Char: 0 2><0xF1: 0>Mmm! That BBQ<LF>
+looks just about<LF>
+ready!<Button><CR>
+!---------------------!
+Let's chow!<Button><CR>
+!---------------------!
+<Char: 0 7><0xF1: 0>Speakin' of chow,<LF>
+where'd that Chaud<LF>
+get to?<Button><CR>
+!---------------------!
+<Char: 0 0><0xF1: 0>Don't look at me!<LF>
+Who cares,anyway?<LF>
+Let's eat!<Button><CR>
+!---------------------!
+<Char: 0 7><0xF1: 0>Now,Lan! What did<LF>
+I tell you about<LF>
+being nice ?<Button><CR>
+!---------------------!
+<Char: 0 0><0xF1: 0>OK,Mayl. Do you<LF>
+have any idea where<LF>
+he went?<Button><CR>
+!---------------------!
+<Char: 0 7><0xF1: 0>Well.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 1><0xF1: 0>If nobody knows we<LF>
+will just have to<LF>
+wait here.<Dly: 1 30 0> Right?<Button><CR>
+!---------------------!
+<Char: 0 7><0xF1: 0>I guess...<Button><CR>
+!---------------------!
+<Char: 0 2><0xF1: 0>All right!<LF>
+Let's eat!<Button><CR>
+!---------------------!
+<Char: 0 0><0xF1: 0>Here's to BBQ!<Button><CR>
+!---------------------!
+<Char: 0 1><0xF1: 0>Yaaaay!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 2><0xF1: 0>gobble mrrmf gobble!<Button><CR>
+!---------------------!
+<Char: 0 0><0xF1: 0>smack mmmf!<LF>
+smack mmmf!<Button><CR>
+!---------------------!
+<Char: 0 1><0xF1: 0>...and so I said...<LF>
+and they were all...<Button><CR>
+!---------------------!
+<Char: 0 7><0xF1: 0>No way! Heeheehee!<Button><CR>
+!---------------------!
+?<Button><EB>
+!*********************!
+<@PointerIdx3>
+<0xFA: 4 14 0><Char: 0 2><0xF1: 0>Whaa!?<Button><CR>
+!---------------------!
+<Char: 0 1><0xF1: 0>Wha-What was that!?<Button><CR>
+!---------------------!
+<Char: 0 0><0xF1: 0>Mayl? Any e-news<LF>
+bulletins?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 7><0xF1: 0>It's no good!<LF>
+We're out of range<LF>
+here!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Lan,that explosion<LF>
+sounded like it came<LF>
+from Okuden Dam!<Button><CR>
+!---------------------!
+If the dam broke...<Dly: 1 30 0><LF>
+The water would come<LF>
+this way!<Button><CR>
+!---------------------!
+<0xF2: 4 127 2><Char: 0 0><0xF1: 0>You serious!?<LF>
+We gotta get out<LF>
+of here!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 2><0xF1: 0>W-Wait! What are<LF>
+we gonna do about<LF>
+that Chaud kid!?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Oh,man! That's<LF>
+right! That dummy!<Button><CR>
+!---------------------!
+I'll go look for<LF>
+him. You all get to<LF>
+safety,OK?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 7><0xF1: 0>Lan! Be careful,<LF>
+and come back quick!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 0><0xF1: 0>No sweat! Don't<LF>
+worry about me!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 64><0xF1: 0>Lan! Let's roll!<Button><EB>
+!*********************!

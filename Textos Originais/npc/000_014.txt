@@ -1,0 +1,513 @@
+<@PointerIdx0>
+<0xF6: 3 60 1 40 40 255><0xF3: 4 16 18 20 255><0xF6: 3 59 1 10 10 255><Char: 0 36><0xF1: 0>The license exam<LF>
+room. No entry<LF>
+without permission.<Button><EB>
+!*********************!
+<@PointerIdx1>
+<0xF3: 4 64 72 100 255><0xF3: 4 61 61 83 255><0xF3: 4 56 60 80 255><0xF3: 4 55 55 75 255><0xF3: 4 32 45 70 255><0xF3: 4 16 31 21 255><0xF6: 3 59 1 11 11 255><0xF3: 0 84 2 2 255><0xF2: 0 84 2><Char: 0 36><0xF1: 0>That's a testcard.<LF>
+You're testing too?<Button><CR>
+!---------------------!
+I'll open the door.<LF>
+Go in and jack<LF>
+yourself in.<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 36><0xF1: 0>It's open. Go inside<LF>
+and take the test.<Button><EB>
+!*********************!
+<@PointerIdx3>
+<0xF3: 4 32 33 71 255><0xF6: 3 59 1 12 12 255><Char: 0 39><0xF1: 0>I'm waiting for a<LF>
+case bad enough for<LF>
+me to take.<Button><EB>
+!*********************!
+<@PointerIdx4>
+<0xF6: 3 59 1 13 13 255><Char: 0 16><0xF1: 0>It's rare that there<LF>
+aren't any cases<LF>
+posted at all.<Button><EB>
+!*********************!
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<Char: 0 36><0xF1: 0>Your next visit to<LF>
+the test room will<LF>
+be for an ALicense.<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 36><0xF1: 0>Got a BLicense? We<LF>
+expect big things<LF>
+from city Battlers!<Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 39><0xF1: 0>They don't need me<LF>
+for a case like<LF>
+this. You take it.<Button><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 0 16><0xF1: 0>Do only one request<LF>
+at a time,and that's<LF>
+all,until it's done.<Button><CR>
+!---------------------!
+City NetBattlers<LF>
+must be responsible<LF>
+in taking requests.<Button><EB>
+!*********************!
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<Char: 0 36><0xF1: 0>The license exam<LF>
+room. No entry<LF>
+without permission.<Button><EB>
+!*********************!
+<@PointerIdx21>
+<0xF3: 4 28 31 53 255><0xF3: 4 27 27 50 255><0xF3: 4 22 26 45 255><0xF3: 4 20 21 43 255><0xF3: 4 19 19 35 255><0xF3: 0 26 2 32 255><0xF3: 0 6 2 31 255><0xF3: 4 17 17 25 255><Char: 0 36><0xF1: 0>This is city<LF>
+NetBattler test<LF>
+reception.<Button><CR>
+!---------------------!
+What? You knew that?<Button><EB>
+!*********************!
+<@PointerIdx22>
+<0xF3: 4 18 21 33 255><0xF3: 4 17 17 26 255><Char: 0 39><0xF1: 0>Let's go keep the<LF>
+people safe!<Button><EB>
+!*********************!
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<0xF2: 0 6 2><EB>
+!*********************!
+<@PointerIdx26>
+<Char: 0 39><0xF1: 0>What license are you<LF>
+testing for?<Button><CR>
+!---------------------!
+ALicense? If a kid<LF>
+like you can pass,<LF>
+great! Go for it!<Button><EB>
+!*********************!
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<Char: 0 36><0xF1: 0>NetBattlers also<LF>
+need to gain<LF>
+experience!<Button><EB>
+!*********************!
+<@PointerIdx31>
+<0xF3: 0 128 12 255 30><0xF3: 0 129 12 255 30><0xF3: 0 130 12 255 30><0xF2: 0 25 2><EB>
+!*********************!
+<@PointerIdx32>
+<Char: 0 36><0xF1: 0>Hang in there.<Button><EB>
+!*********************!
+<@PointerIdx33>
+<Char: 0 39><0xF1: 0>Requests include<LF>
+being asked to share<LF>
+battlechips.<Button><CR>
+!---------------------!
+If you take such<LF>
+a request,<Button><CR>
+!---------------------!
+you'd best do so<LF>
+after getting the<LF>
+desired chip.<Button><CR>
+!---------------------!
+Taking a request<LF>
+with no chip to give<LF>
+is not acceptable.<Button><EB>
+!*********************!
+<@PointerIdx34>
+<@PointerIdx35>
+<Char: 0 36><0xF1: 0>So how's it going?<Button><EB>
+!*********************!
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<Char: 0 36><0xF1: 0>The license exam<LF>
+room. No entry<LF>
+without permission.<Button><EB>
+!*********************!
+<@PointerIdx41>
+<0xF2: 0 139 2><Char: 0 36><0xF1: 0>Well done! I see you<LF>
+passed the test.<LF>
+Here's a gift.<Button><CR>
+!---------------------!
+<Jmp: 0 42><@PointerIdx42>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 16 124 0 26 1>Lan got a chip for<LF>
+"<ItemTbl: 0 124 1> <ItemTbl: 0 26 3>!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
+!*********************!
+<@PointerIdx43>
+<0xF3: 0 139 2 255 41><Char: 0 36><0xF1: 0>The license exam<LF>
+room. No entry<LF>
+without permission.<Button><EB>
+!*********************!
+<@PointerIdx44>
+<@PointerIdx45>
+<Char: 0 36><0xF1: 0>We're not having<LF>
+tests at this time.<Button><EB>
+!*********************!
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<Char: 0 36><0xF1: 0>A terrible thing<LF>
+has happened.<Button><EB>
+!*********************!
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<Char: 0 36><0xF1: 0>First Square,then<LF>
+the mother computer.<Button><CR>
+!---------------------!
+What will become<LF>
+of us?<Button><EB>
+!*********************!
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<Char: 0 36><0xF1: 0>An SLicense?<Button><CR>
+!---------------------!
+You solved a big<LF>
+case,but just made<LF>
+city NetBattler.<Button><CR>
+!---------------------!
+You'll be ready to<LF>
+test soon,just<LF>
+not yet.<Button><EB>
+!*********************!
+<@PointerIdx71>
+<Char: 0 39><0xF1: 0>The requests just<LF>
+keep on coming.<Button><CR>
+!---------------------!
+That can only mean<LF>
+we've barely even<LF>
+hurt Gospel...<Button><EB>
+!*********************!
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<Char: 0 36><0xF1: 0>With this wave of<LF>
+violent Net Crimes<LF>
+we're having,<Button><CR>
+!---------------------!
+we haven't enough<LF>
+Official Net-<LF>
+Battlers.<Button><CR>
+!---------------------!
+So we're making more<LF>
+city NetBattlers for<LF>
+local protection.<Button><CR>
+!---------------------!
+We've opened the<LF>
+testrooms to get<LF>
+more people tested.<Button><CR>
+!---------------------!
+Now we can take<LF>
+test applicants<LF>
+directly online,too.<Button><CR>
+!---------------------!
+Ask the Proctor Navi<LF>
+in the Square if<LF>
+you can test.<Button><EB>
+!*********************!
+<@PointerIdx76>
+<Char: 0 16><0xF1: 0>If you see this<LF>
+request,you'll see<LF>
+our law and order.<Button><EB>
+!*********************!
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<Char: 0 36><0xF1: 0>Now,when most<LF>
+Officials are on<LF>
+rescue detail,<Button><CR>
+!---------------------!
+we need more<LF>
+good people.<Button><CR>
+!---------------------!
+So the test rooms<LF>
+are still open.<Button><EB>
+!*********************!
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<Char: 0 36><0xF1: 0>The worst time is<LF>
+just after we solve<LF>
+our cases.<Button><CR>
+!---------------------!
+We need more people<LF>
+for emergencies.<Button><CR>
+!---------------------!
+The test rooms are<LF>
+always open!<Button><EB>
+!*********************!
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<Char: 0 36><0xF1: 0>At times like these,<LF>
+we all have time<LF>
+on our hands.<Button><EB>
+!*********************!
+<@PointerIdx101>
+<0xF3: 4 55 55 76 255><Char: 0 16><0xF1: 0>Receptionists are<LF>
+too busy to send<LF>
+requests up here.<Button><EB>
+!*********************!
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 6 1 193 255><0xF3: 0 5 1 194 255><0xF2: 0 5 1><Char: 0 34><0xF1: 0>Hey there,son!<Button><CR>
+!---------------------!
+Have you got the<LF>
+"<ItemTbl: 0 138 1> <ItemTbl: 0 13 3>"<LF>
+battlechip?<Button><CR>
+!---------------------!
+Would you trade for<LF>
+"<ItemTbl: 0 84 1> <ItemTbl: 0 25 3>?"<Button><CR>
+!---------------------!
+Will you?<LF>
+<Arrow: 17 0><Pos: 0 2>Sure <Arrow: 0 17><Pos: 0 2>No way!<CondJmp: 6 128 191 255 255>
+!---------------------!
+Oh,I see.<LF>
+That's too bad.<Button><EB>
+!*********************!
+<@PointerIdx191>
+õ c0<0xff><0xff><0xc3><0xF2: 0 6 1>õ c0<Char: 0 34><0xF1: 0>Oh,you will?<LF>
+I'm so glad!<Button><CR>
+!---------------------!
+This is my chip.<LF>
+Here you go!<Button><CR>
+!---------------------!
+<Jmp: 0 192><@PointerIdx192>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 16 84 0 25 1>Lan got a chip for<LF>
+"<ItemTbl: 0 84 1> <ItemTbl: 0 25 3>!!"<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx193>
+<Char: 0 34><0xF1: 0>I felt someone<LF>
+would trade with me<LF>
+if I waited here!<Button><CR>
+!---------------------!
+And I was right!<Button><EB>
+!*********************!
+<@PointerIdx194>
+<Char: 0 34><0xF1: 0>Hey there,son!<Button><CR>
+!---------------------!
+Since you're talking<LF>
+to me again,will you<LF>
+swap chips with me?<Button><CR>
+!---------------------!
+Will you swap your<LF>
+"<ItemTbl: 0 138 1> <ItemTbl: 0 13 3>"<LF>
+for my"<ItemTbl: 0 84 1> <ItemTbl: 0 25 3>?"<Button><CR>
+!---------------------!
+Is that OK?<LF>
+<Arrow: 17 0><Pos: 0 2>Sure <Arrow: 0 17><Pos: 0 2>No!<CondJmp: 6 128 191 255 255>
+!---------------------!
+Oh,I see. That's the<LF>
+way it goes.<Button><EB>
+!*********************!
+<@PointerIdx195>
+<Char: 0 34><0xF1: 0>Hey,son.<LF>
+Where is"<ItemTbl: 0 138 1> <ItemTbl: 0 13 3>?"<Button><CR>
+!---------------------!
+It's not in your<LF>
+pack,is it in your<LF>
+folder?<Button><CR>
+!---------------------!
+The chip you trade<LF>
+goes in your pack.<Button><EB>
+!*********************!
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF3: 4 18 18 222 255><0xF3: 4 0 255 223 223><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>This PC has data on<LF>
+the test takers.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF3: 0 9 2 223 255><0xF2: 0 8 2><EB>
+!*********************!
+<@PointerIdx223>
+<0xFB: 40> <@PointerIdx224>
+<0xF2: 0 192 12><0xF2: 0 82 0><0xF1: 0>1 Request accepted<Button><EB>
+!*********************!
+<@PointerIdx225>
+<0xF2: 0 193 12><0xF2: 0 82 0><0xF1: 0>2 Requests accepted<Button><EB>
+!*********************!
+<@PointerIdx226>
+<0xF2: 0 194 12><0xF2: 0 82 0><0xF1: 0>3 Requests accepted<Button><EB>
+!*********************!
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

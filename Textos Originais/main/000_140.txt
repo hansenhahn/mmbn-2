@@ -1,0 +1,49 @@
+<@AbsoluteAddr 7942260>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Lan! How'd that Navi<LF>
+on the floor below<LF>
+get down there?<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 75><0xF1: 0>Huh? Hey,you! You're<LF>
+Mega-somethin',on<LF>
+Gospel's blacklist!<Button><CR>
+!---------------------!
+Came to steal my<LF>
+"BluFrag" did you!?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>"BluFrag?"<LF>
+Isn't that the<LF>
+base for BlueCure?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 75><0xF1: 0>Come and get<LF>
+"BluFrag"<LF>
+if you want it!<0xF2: 0 7 2><Dly: 0 60 0><Button><CR>
+!---------------------!
+Even if you find<LF>
+your way here it's<LF>
+pointless.<Button><CR>
+!---------------------!
+Our "Civilization<LF>
+Destruction Plan"<LF>
+will be complete!<Button><CR>
+!---------------------!
+I wanna see you<LF>
+sucking your<LF>
+thumb...<Button><CR>
+!---------------------!
+As the world<LF>
+crumbles...<LF>
+Hi-ha-ha!!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 64><0xF1: 0>Lan,that's Navi's<LF>
+holding "BluFrag!!"<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Check to see if<LF>
+there's a route to<LF>
+get near him!<Button><EB>
+!*********************!

@@ -1,0 +1,380 @@
+<@PointerIdx0>
+<0xF3: 0 19 2 1 255><Char: 0 0><0xF1: 0>How should I<LF>
+know MegaMan!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<0xF2: 0 20 2><Dly: 0 1 0><EB>
+!*********************!
+<@PointerIdx2>
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF6: 3 55 1 197 197 255><0xF3: 0 145 12 197 255><0xF3: 0 27 1 195 255><0xF3: 0 28 1 191 255><0xF2: 0 28 1><Char: 0 51><0xF1: 0>What's wrong? B.<Dly: 1 20 0>o.<Dly: 1 20 0>y?<Button><CR>
+!---------------------!
+Don't just barge in<LF>
+a ladies' room for<LF>
+no reason season.<Button><EB>
+!*********************!
+<@PointerIdx191>
+<0xF2: 0 27 1><Char: 0 51><0xF1: 0>What...Hurry up and<LF>
+leave eve! I'll<LF>
+call someone son!<Button><CR>
+!---------------------!
+<Jmp: 0 192><@PointerIdx192>
+<Char: 0 0><0xF1: 0>You talk like the<LF>
+"3 Bandit Sisters!"<LF>
+You one of them!?<Button><CR>
+!---------------------!
+Return the jewelry<LF>
+you stole!!<Button><CR>
+!---------------------!
+<Jmp: 0 193><@PointerIdx193>
+<Char: 0 51><0xF1: 0>Huh,return what?<LF>
+Lately they're on<LF>
+to us sisters...<Button><CR>
+!---------------------!
+We'll talk after...<Button><CR>
+!---------------------!
+I beat you black and<LF>
+blue!!!<Button><CR>
+!---------------------!
+<0xFB: 12 255 0 0 1 1 1 55 65 27><@PointerIdx194>
+<Char: 1 241 0><@PointerIdx195>
+<0xF2: 0 27 1><Char: 0 51><0xF1: 0>Wow! Whipped!<LF>
+Never figured this<LF>
+kid was so tough.<Button><CR>
+!---------------------!
+Well all be me.<LF>
+Here's the jewelry<LF>
+back Jack.<Button><CR>
+!---------------------!
+But can you find my<LF>
+sister mister?<Button><CR>
+!---------------------!
+<Jmp: 0 196><@PointerIdx196>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 55 1>Lan got:<LF>
+"<ItemTbl: 0 55 0>!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
+!*********************!
+<@PointerIdx197>
+<Char: 0 51><0xF1: 0>Knew I'd get caught.<LF>
+I'm going straight.<LF>
+I'm done thieving.<Button><EB>
+!*********************!
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>Behind the door is<LF>
+a bath and toilet,<LF>
+or "unit bath".<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>There's a fridge in<LF>
+the center with a<LF>
+jack-in port.<Button><CR>
+!---------------------!
+<0xF3: 0 64 1 255 235><Jmp: 0 236><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>A big lamp stand.<Button><CR>
+!---------------------!
+Turned on at nite it<LF>
+creates a moody<LF>
+Net nite.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>There's a room<LF>
+service menu on<LF>
+the table.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<0xF3: 4 41 41 225 255><0xF3: 4 38 38 233 230><EB>
+!*********************!
+<@PointerIdx225>
+<Char: 0 64><0xF1: 0>Ready for bed?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 128 231 255 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx226>
+<Char: 0 64><0xF1: 0>Save today's events<LF>
+on your PET?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 128 232 228 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx227>
+<Char: 0 64><0xF1: 0><0xfc><0xff><0xe5>OK!<LF>
+...<Dly: 1 30 0>Save complete!<Button><CR>
+!---------------------!
+<Jmp: 0 228><@PointerIdx228>
+<Char: 0 64><0xF1: 0>Good night Lan!<Button><EB>
+!*********************!
+<@PointerIdx229>
+<Char: 0 64><0xF1: 0>Hmm...It looks like<LF>
+the save failed...<Button><CR>
+!---------------------!
+Try again?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 128 227 228 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx230>
+<Char: 0 64><0xF1: 0>Lan,napping is a<LF>
+waste of our time in<LF>
+this foreign land.<Button><EB>
+!*********************!
+<@PointerIdx231>
+<0xF3: 4 41 41 255 226><0xF2: 0 31 2><Jmp: 0 226><@PointerIdx232>
+<Char: 0 64><0xF1: 0>This will erase any<LF>
+old save data. OK?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 128 227 228 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx233>
+<0xF1: 0>Big beds like this<LF>
+aren't in Electopia,<LF>
+but you're not<Button><CR>
+!---------------------!
+tired.<Button><EB>
+!*********************!
+<@PointerIdx234>
+<@PointerIdx235>
+<0xF2: 0 64 1><0xF1: 0>rustle,rustle<0xec> 9...<0xec> 1<Button><CR>
+!---------------------!
+Lan Opened the<LF>
+Refrigerator.<Button><CR>
+!---------------------!
+There's an<LF>
+"<ItemTbl: 0 96 0>".<LF>
+Cold but useful.<Button><CR>
+!---------------------!
+<0xF8: 4 24><0xF6: 0 96 1>Lan got a PowerUp:<LF>
+"<ItemTbl: 0 96 0>!!"<0xF8: 12><0xF8: 16><Button><EB>
+!*********************!
+<@PointerIdx236>
+<EB>
+!*********************!
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

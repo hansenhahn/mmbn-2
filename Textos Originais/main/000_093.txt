@@ -1,0 +1,40 @@
+<@AbsoluteAddr 7911872>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>There! How did you<LF>
+like that? Want<LF>
+some more?<Button><CR>
+!---------------------!
+Now!<LF>
+Give back Lan's<LF>
+passport!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 75><0xF1: 0>All right all ready.<Dly: 1 30 0><LF>
+Long as you'll leave<LF>
+me alone...<Button><CR>
+!---------------------!
+There. Take it.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 1 241 0><0xFA: 0 133 0><0xF8: 4 24>MegaMan got:<LF>
+"<ItemTbl: 0 23 0>!!"<Button><0xF8: 12><0xF8: 16><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 75><0xF1: 0>Grrr! I won't forget<LF>
+this,you dig?<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 64><0xF1: 0>Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Yay! You did it!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>Now,to get back the<LF>
+chips that were in<LF>
+your pack!<Button><CR>
+!---------------------!
+Let's go back to<LF>
+that Jim guy's place<LF>
+and have a look!<Button><EB>
+!*********************!

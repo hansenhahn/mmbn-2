@@ -1,0 +1,20 @@
+<@AbsoluteAddr 7871008>
+<@PointerIdx0>
+<0xF1: 0><0xFA: 12><0xFA: 0 166 0><0xFA: 8>Whiiir...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Yes!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 2><0xF1: 0>Not yet!<Dly: 1 30 0><LF>
+.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Whew it<LF>
+finally shut up.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 7><0xF1: 0>Hey,let's put it by<LF>
+the roadside so oth-<LF>
+ers won't be scared.<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 1><0xF1: 0>Good idea.<Button><EB>
+!*********************!

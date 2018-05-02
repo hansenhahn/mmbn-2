@@ -1,0 +1,65 @@
+<@AbsoluteAddr 7906008>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Hey,MegaMan?<LF>
+Which way is<LF>
+our gate?<Button><CR>
+!---------------------!
+Oh,right...<Dly: 1 30 0>MegaMan's<LF>
+not here...<LF>
+Man...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 1 241 0>Excusez moi!<Dly: 1 30 0><LF>
+Zat boy...eh!<LF>
+Out of my way!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<0xF1: 0><0xFA: 12><0xFA: 0 142 0>whack!!!<0xFA: 8><Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Ouch! What?<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 49><0xF1: 0>Oooh! I am begging<LF>
+your forgiveness!<Button><CR>
+!---------------------!
+Mon ami,you 'ave<LF>
+drop-ped something.<Button><CR>
+!---------------------!
+Voila!<Dly: 1 30 0> I mean,<LF>
+'ere you are. I give<LF>
+it to you!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Oh! My MiniPET...<Dly: 1 30 0><LF>
+Thanks,mister.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 49><0xF1: 0>Ah,it is my pleasure<LF>
+to 'elp such a nice,<LF>
+polite little boy.<Button><CR>
+!---------------------!
+It was ze least<LF>
+I could do!<Button><CR>
+!---------------------!
+Now,I bid you adieu!<Button><0xF2: 0 7 2><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 0><0xF1: 0>Man,that guy talked<LF>
+weird. Is everyone<LF>
+in Netopia like him?<Button><CR>
+!---------------------!
+Whew...<Dly: 1 30 0>Well,<Dly: 1 30 0><LF>
+all this checking in<LF>
+has made me thirsty!<Button><EB>
+!*********************!
+<@PointerIdx8>
+<Char: 0 0><0xF1: 0>Guess I'll get a.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0><LF>
+Hey! All my zenny<LF>
+are gone!<Button><CR>
+!---------------------!
+Hey! That weirdo<LF>
+took my zenny!<Button><CR>
+!---------------------!
+Arrgggh!!!<Button><EB>
+!*********************!

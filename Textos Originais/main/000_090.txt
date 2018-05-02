@@ -1,0 +1,58 @@
+<@AbsoluteAddr 7908832>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Whew...The hotel!<LF>
+Finally!<Dly: 1 30 0> Wait<LF>
+a second...<Button><CR>
+!---------------------!
+Hey! What kind<LF>
+of a hotel is<LF>
+this!?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Well,it's been a<LF>
+pretty rough trip<LF>
+so far...<Button><CR>
+!---------------------!
+I guess it's<LF>
+dangerous traveling<LF>
+alone as a kid...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>It's your fault,<LF>
+MegaMan!<Button><CR>
+!---------------------!
+You were the one<LF>
+that said that guy<LF>
+might be nice!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>But you only got in<LF>
+because you agreed<LF>
+with me,right?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>You wouldn't be so<LF>
+calm about it if you<LF>
+were out here!<Button><CR>
+!---------------------!
+As long as you're<LF>
+safe in your PET,you<LF>
+don't care,do you?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Hey,Lan! That's<LF>
+not very nice!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>I don't feel like<LF>
+being very nice!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Fine! You can be<LF>
+mean by yourself!<LF>
+I'm outta here!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Fine! Good riddance!<LF>
+MegaDummy!<Button><EB>
+!*********************!

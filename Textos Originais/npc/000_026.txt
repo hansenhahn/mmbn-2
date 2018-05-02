@@ -1,0 +1,662 @@
+<@PointerIdx0>
+<0xF3: 0 93 8 255 1><Char: 0 0><0xF1: 0>Oh yeah...I can't<LF>
+go back now...<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 64><0xF1: 0>Lan,this isn't your<LF>
+boarding gate. Are<LF>
+you homesick?<Button><EB>
+!*********************!
+<@PointerIdx2>
+<@PointerIdx3>
+<0xF6: 3 64 1 7 7 255><Char: 0 0><0xF1: 0>I just don't like<LF>
+being separated from<LF>
+MegaMan like this!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 44><0xF1: 0>Have yourself a<LF>
+nice flight.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Lan! It's Netopia<LF>
+at last!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<@PointerIdx7>
+<Char: 0 64><0xF1: 0>Going to Netopia?<LF>
+Or see the planes?<LF>
+<Arrow: 17 0><Pos: 0 2>Netopia <Arrow: 0 17><Pos: 0 2>Planes<CondJmp: 6 192 8 9 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx8>
+<Char: 0 64><0xF1: 0>Roger that! Next<LF>
+stop,Netopia!<Button><0xFB: 28 3><EB>
+!*********************!
+<@PointerIdx9>
+<0xF2: 0 120 0><Char: 0 64><0xF1: 0>Roger that! Let's go<LF>
+see the planes!<Button><0xFB: 28 4><EB>
+!*********************!
+<@PointerIdx10>
+<@PointerIdx11>
+<@PointerIdx12>
+<0xF3: 0 93 8 255 15><Char: 0 6><0xF1: 0>Heh. Don't you look<LF>
+down in the dumps.<LF>
+<Arrow: 17 0><Pos: 0 2>Yeah <Arrow: 0 17><Pos: 0 2>Go away!<CondJmp: 6 128 255 13 255>
+!---------------------!
+All because your<LF>
+Navi is gone? You're<LF>
+so lame...<Button><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 0 6><0xF1: 0>You need more power<LF>
+if you're going to<LF>
+get through.<Button><CR>
+!---------------------!
+Here. I got it with<LF>
+my Official<LF>
+Authority.<Button><CR>
+!---------------------!
+You're helpless<LF>
+without it,right?<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<0xF2: 4 93 8><Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 0 1>Lan got:<LF>
+"<ItemTbl: 0 0 0>!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx15>
+<Char: 0 6><0xF1: 0>You're nothing but<LF>
+trouble...<Button><EB>
+!*********************!
+<@PointerIdx16>
+<0xF3: 4 64 72 90 255><0xF3: 4 56 61 71 255><Char: 0 44><0xF1: 0>Please board the<LF>
+plane from the<LF>
+other entrance.<Button><EB>
+!*********************!
+<@PointerIdx17>
+<0xF3: 4 64 72 91 255><0xF3: 4 61 61 82 255><0xF3: 4 58 60 75 255><0xF3: 4 56 57 72 255><Char: 0 46><0xF1: 0>Our Duty Free Shop<LF>
+has the world's best<LF>
+selection.<Button><EB>
+!*********************!
+<@PointerIdx18>
+<Char: 0 22><0xF1: 0>I don't like<LF>
+flying...<Button><EB>
+!*********************!
+<@PointerIdx19>
+<Char: 0 34><0xF1: 0>We're taking off,<LF>
+at last...<Button><CR>
+!---------------------!
+I'm looking forward<LF>
+to meeting people in<LF>
+that other country.<Button><EB>
+!*********************!
+<@PointerIdx20>
+<Char: 0 18><0xF1: 0>I've been robbed?<Button><CR>
+!---------------------!
+I'm so unlucky.<Button><EB>
+!*********************!
+<@PointerIdx21>
+<Char: 0 64><0xF1: 0>Lan! I've missed<LF>
+you!<Button><CR>
+!---------------------!
+What's wrong?<Dly: 1 30 0><LF>
+Are you feeling<LF>
+all right?<Button><CR>
+!---------------------!
+You've been robbed?<LF>
+And you didn't see<LF>
+where he went?<Button><CR>
+!---------------------!
+Oh well. <Dly: 1 30 0>C'mon,let's<LF>
+board the plane! We<LF>
+can earn more money.<Button><EB>
+!*********************!
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<Char: 0 64><0xF1: 0>Here's the exit,Lan!<Button><EB>
+!*********************!
+<@PointerIdx61>
+<0xF3: 4 61 61 84 255><0xF3: 4 56 57 74 255><Char: 0 44><0xF1: 0>Welcome back!<Button><EB>
+!*********************!
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<0xF3: 4 64 72 93 255><Char: 0 12><0xF1: 0>What?! I told you,<LF>
+I didn't do<LF>
+anything!<Button><CR>
+!---------------------!
+<Jmp: 0 161><@PointerIdx71>
+<Char: 0 44><0xF1: 0>This is the boarding<LF>
+gate.<Button><CR>
+!---------------------!
+We are having an<LF>
+exhibit of special<LF>
+NAL aircraft.<Button><CR>
+!---------------------!
+We hope you<LF>
+enjoy it.<Button><EB>
+!*********************!
+<@PointerIdx72>
+<Char: 0 46><0xF1: 0>Not many visitors.<LF>
+We feel the quake's<LF>
+effects here,too.<Button><EB>
+!*********************!
+<@PointerIdx73>
+<0xF3: 4 61 61 83 255><0xF3: 4 58 60 76 255><Char: 0 14><0xF1: 0>You mean there's<LF>
+trouble in<LF>
+Netopia,too?!<Button><CR>
+!---------------------!
+Well,my goodness! I<LF>
+guess we're not<LF>
+going anywhere.<Button><EB>
+!*********************!
+<@PointerIdx74>
+<Char: 0 44><0xF1: 0>Welcome back. Beware<LF>
+as there are<LF>
+frequent quakes.<Button><EB>
+!*********************!
+<@PointerIdx75>
+<Char: 0 46><0xF1: 0>Evacuation orders?<LF>
+That'll keep the<LF>
+customers away too.<Button><EB>
+!*********************!
+<@PointerIdx76>
+<Char: 0 14><0xF1: 0>It'll be rough not<LF>
+being able to cancel<LF>
+at this point.<Button><EB>
+!*********************!
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<Char: 0 46><0xF1: 0>The evacuation<LF>
+order has been<LF>
+canceled.<Button><CR>
+!---------------------!
+I wonder if things<LF>
+will pick up again.<Button><EB>
+!*********************!
+<@PointerIdx83>
+<Char: 0 14><0xF1: 0>Oh! The world's<LF>
+disasters are over?<LF>
+Time to travel,then!<Button><EB>
+!*********************!
+<@PointerIdx84>
+<Char: 0 44><0xF1: 0>Welcome back!<Button><CR>
+!---------------------!
+The quakes have<LF>
+stopped! It's<LF>
+safe once again!<Button><EB>
+!*********************!
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<Char: 0 44><0xF1: 0>Dangerous people are<LF>
+not on board. Please<LF>
+board at this time.<Button><EB>
+!*********************!
+<@PointerIdx91>
+<Char: 0 46><0xF1: 0>Our sales are in<LF>
+the tank...<Button><CR>
+!---------------------!
+That's what comes of<LF>
+having hardly any<LF>
+tourists,I guess.<Button><EB>
+!*********************!
+<@PointerIdx92>
+<Char: 0 22><0xF1: 0>People who want to<LF>
+go abroad are scared<LF>
+of Net Crimes.<Button><CR>
+!---------------------!
+And yet I,who don't<LF>
+like flying,have to<LF>
+travel on business.<Button><EB>
+!*********************!
+<@PointerIdx93>
+<Char: 0 12><0xF1: 0>Gospel? Beats me! I,<LF>
+Mr.Match,don't know<LF>
+anything about it!<Button><CR>
+!---------------------!
+<Jmp: 0 161><@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<0xF3: 0 198 0 70 255><0xF2: 0 198 0><Char: 0 12><0xF1: 0>Well! If it isn't<LF>
+Lan Hikari! I knew<LF>
+I recognized you!<Button><CR>
+!---------------------!
+Hey,don't tell me<LF>
+you forgot what I<LF>
+look like!<Button><CR>
+!---------------------!
+<Char: 1 239 17> <Pos: 0 2>I didn't <Arrow: 0 17><Pos: 0 2>I did<CondJmp: 6 192 176 255 255>
+!---------------------!
+<Char: 0 12><0xF1: 0>Mr.Match! I infected<LF>
+your microwave duri-<LF>
+ng the WWW Incident!<Button><CR>
+!---------------------!
+Oh,now,don't look at<LF>
+me like that!<Button><CR>
+!---------------------!
+I'm on the right<LF>
+side of things now!<LF>
+<Dly: 1 15 0>Really I am!<Button><CR>
+!---------------------!
+How about having a<LF>
+NetBattle with my<LF>
+new Navi,HeatMan?<Button><CR>
+!---------------------!
+<Jmp: 0 161><@PointerIdx161>
+<Char: 0 64><0xF1: 0>Accept this...<LF>
+person's challenge?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<LF>
+<CondJmp: 6 129 162 164 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx162>
+<0xF3: 0 194 0 165 255><Char: 0 12><0xF1: 0>Well,don't mix up<LF>
+HeatMan and FireMan<LF>
+or you'll get burnt!<Button><CR>
+!---------------------!
+<Jmp: 0 163><@PointerIdx163>
+<0xF2: 0 194 0><0xF1: 1><Dly: 255 0 0><@PointerIdx164>
+<0xF2: 4 195 0><0xF2: 4 196 0><0xF2: 4 197 0><Char: 0 12><0xF1: 0>No ignition!<Button><EB>
+!*********************!
+<@PointerIdx165>
+<0xF2: 4 195 0><0xF2: 4 196 0><0xF2: 4 197 0><Char: 0 12><0xF1: 0>He seems a little<LF>
+damp now. Sorry,<LF>
+take a raincheck.<Button><EB>
+!*********************!
+<@PointerIdx166>
+<0xF3: 0 195 0 167 255><0xF3: 0 196 0 169 255><0xF3: 0 197 0 171 171><@PointerIdx167>
+<0xF3: 0 199 0 174 255><Char: 0 12><0xF1: 0>Ha! Up to your old<LF>
+tricks again,heh?<Button><CR>
+!---------------------!
+Little rascal...<LF>
+Here!<Button><CR>
+!---------------------!
+<Jmp: 0 168><@PointerIdx168>
+<0xF2: 0 199 0><0xF2: 4 195 0><Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 96 1>Lan got a chip for<LF>
+"<ItemTbl: 0 96 0>!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 173><@PointerIdx169>
+<0xF3: 0 200 0 174 255><Char: 0 12><0xF1: 0>That was pretty hot!<Button><CR>
+!---------------------!
+<Jmp: 0 170><@PointerIdx170>
+<0xF2: 0 200 0><0xF2: 4 196 0><EB>
+!*********************!
+<@PointerIdx171>
+<0xF3: 0 201 0 174 255><Char: 0 12><0xF1: 0>You got me. <Dly: 1 15 0><LF>
+You're hotter than<LF>
+any campfire.<Button><CR>
+!---------------------!
+<Jmp: 0 172><@PointerIdx172>
+<0xF2: 0 201 0><0xF2: 4 197 0><EB>
+!*********************!
+<@PointerIdx173>
+<Char: 0 12><0xF1: 0>Don't count me out<LF>
+just yet!<Button><EB>
+!*********************!
+<@PointerIdx174>
+<Char: 0 12><0xF1: 0>I'm burned out...<Button><EB>
+!*********************!
+<@PointerIdx175>
+<Char: 0 12><0xF1: 0>I'm heating up!!<LF>
+I'll always burn<LF>
+brightly!!<Button><EB>
+!*********************!
+<@PointerIdx176>
+<Char: 0 12><0xF1: 0>Ha! Got you that<LF>
+time! <Dly: 1 30 0>Hey,don't look<LF>
+at me like that!<Button><CR>
+!---------------------!
+I'm on the right<LF>
+side of things now!<LF>
+<Dly: 1 15 0>Really I am!<Button><CR>
+!---------------------!
+How about having a<LF>
+NetBattle with my<LF>
+new Navi,HeatMan?<Button><CR>
+!---------------------!
+<Jmp: 0 161><@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<0xF3: 0 10 1 199 255><0xF3: 0 9 1 197 255><0xF2: 0 9 1><Char: 0 10><0xF1: 0>Who called Quiz?<LF>
+Who called Quiz?<Button><CR>
+!---------------------!
+It's Quiz Time!<LF>
+Come on and do it!<LF>
+Cha-cha-cha!<Button><CR>
+!---------------------!
+They call me Quiz.<LF>
+Answer 5 questions<LF>
+correctly,<Button><CR>
+!---------------------!
+and you win a<LF>
+terrific prize!!<Button><CR>
+!---------------------!
+Will you take the<LF>
+challenge?<LF>
+<Arrow: 17 0><Pos: 0 2>Yeah! <Arrow: 0 17><Pos: 0 2>No way<CondJmp: 6 128 200 255 255>
+!---------------------!
+I'll be here<LF>
+whenever you're<LF>
+ready!<Button><EB>
+!*********************!
+<@PointerIdx197>
+<0xFA: 32><Char: 0 10><0xF1: 0>Who called Quiz?<LF>
+Who called Quiz?<Button><CR>
+!---------------------!
+It's Quiz Time!<LF>
+Come on and do it!<LF>
+Cha-cha-cha!<Button><CR>
+!---------------------!
+Have you decided at<LF>
+last to take the<LF>
+challenge?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Sure <Arrow: 0 17><Pos: 0 2>Uh-uh<CondJmp: 6 128 200 255 255>
+!---------------------!
+I'll be here<LF>
+whenever you're<LF>
+ready!<Button><EB>
+!*********************!
+<@PointerIdx198>
+<Char: 0 10><0xF1: 0><0xFA: 0 24 1><Dly: 1 40 0>Too bad!<Button><CR>
+!---------------------!
+Try again some other<LF>
+time! I'm always<LF>
+ready!<Button><EB>
+!*********************!
+<@PointerIdx199>
+<Char: 0 10><0xF1: 0>Heh heh. That quiz<LF>
+was just a warm-up.<Button><CR>
+!---------------------!
+Do you think you can<LF>
+beat the Quiz<LF>
+Master?<Button><EB>
+!*********************!
+<@PointerIdx200>
+<0xFA: 36><Char: 0 10><0xF1: 0>OK,here we go!<Button><CR>
+!---------------------!
+Question No. 1:<Button><CR>
+!---------------------!
+What animal does the<LF>
+ACDC Town Park Slide<LF>
+look like?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Squirrel<LF>
+<Arrow: 17 2><Pos: 0 2>Elephant<LF>
+<Arrow: 34 16><Pos: 0 2>Giraffe<CondJmp: 7 192 198 255 198>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Correct! Here's<LF>
+the next question!<Button><CR>
+!---------------------!
+<Jmp: 0 201><@PointerIdx201>
+<0xFA: 36><Char: 0 10><0xF1: 0>Question No. 2:<Button><CR>
+!---------------------!
+What distinguishes<LF>
+the Marine<LF>
+Station kiosk?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>The Selection<LF>
+<Arrow: 17 2><Pos: 0 2>The Low Prices<LF>
+<Arrow: 34 16><Pos: 0 2>The Pretty Staff<CondJmp: 7 192 255 198 198>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Correct! Here's<LF>
+the next question!<Button><CR>
+!---------------------!
+<Jmp: 0 202><@PointerIdx202>
+<0xFA: 36><Char: 0 10><0xF1: 0>Question No. 3:<Button><CR>
+!---------------------!
+How many tents are<LF>
+in Okuden Valley<LF>
+Campground?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>2<LF>
+<Arrow: 17 2><Pos: 0 2>3<LF>
+<Arrow: 34 16><Pos: 0 2>4<CondJmp: 7 192 198 255 198>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Correct! Here's<LF>
+the next question!<Button><CR>
+!---------------------!
+<Jmp: 0 203><@PointerIdx203>
+<0xFA: 36><Char: 0 10><0xF1: 0>Question No. 4:<Button><CR>
+!---------------------!
+Where did the Marine<LF>
+Harbor Cafe waitress<LF>
+work before?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Restaurant<LF>
+<Arrow: 17 2><Pos: 0 2>Arcade<LF>
+<Arrow: 34 16><Pos: 0 2>The Center<CondJmp: 7 192 255 198 198>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Correct! And now,<LF>
+the last question!<Button><CR>
+!---------------------!
+<Jmp: 0 204><@PointerIdx204>
+<0xFA: 36><Char: 0 10><0xF1: 0>Question No. 5:<Button><CR>
+!---------------------!
+Choose cannons in<LF>
+A,B,and C order,and<LF>
+what do you get?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Omega Cannon<LF>
+<Arrow: 17 2><Pos: 0 2>Ultra Cannon<LF>
+<Arrow: 34 16><Pos: 0 2>Zeta Cannon<CondJmp: 7 192 198 198 255>
+!---------------------!
+<0xff><0xFA: 0 45 1><Dly: 1 20 0>Absolutely correct!<Button><CR>
+!---------------------!
+Congratulations!!<Button><CR>
+!---------------------!
+And here's your<LF>
+prize for getting<LF>
+all the answers!<Button><CR>
+!---------------------!
+Wow! Hurray!<Button><CR>
+!---------------------!
+<Jmp: 0 205><@PointerIdx205>
+<0xF2: 0 10 1><Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 16 1 0 26 1>Lan got a chip for<LF>
+"<ItemTbl: 0 1 1> <ItemTbl: 0 26 3>!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>There are alcohol<LF>
+and neckties here.<Button><CR>
+!---------------------!
+No taxes are charged<LF>
+on these items,so<LF>
+they are cheap.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>Traditional<LF>
+Electopian snacks!<Button><CR>
+!---------------------!
+The perfect souvenir<LF>
+of Electopia.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>Guide books are<LF>
+here. They might<LF>
+help you out.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>This is not the way<LF>
+to other countries.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<0xF1: 0>This is not the way<LF>
+home.<Button><EB>
+!*********************!
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

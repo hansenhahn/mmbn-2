@@ -1,0 +1,77 @@
+<@AbsoluteAddr 7946536>
+<@PointerIdx0>
+<0xF6: 3 61 1 7 7 255><0xF3: 0 217 0 5 255><0xF3: 0 218 0 3 255><0xF3: 0 219 0 4 255><Char: 0 70><0xF1: 0>I'm the<LF>
+<ItemTbl: 0 61 0><LF>
+test examiner.<Button><CR>
+!---------------------!
+So you're here for<LF>
+the exam are you?<Button><CR>
+!---------------------!
+If you pass,I'll<LF>
+give you <ItemTbl: 0 61 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 70><0xF1: 0>This is a survival<LF>
+battle test.<Button><CR>
+!---------------------!
+To pass,delete<LF>
+10 viruses that<LF>
+appear in a row.<Button><CR>
+!---------------------!
+You cannot recover<LF>
+HP during battle,<LF>
+so be careful.<Button><CR>
+!---------------------!
+I will replenish<LF>
+your HP before and<LF>
+after the problem.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 70><0xF1: 0>So,are you ready?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Yes!<LF>
+<Arrow: 17 2><Pos: 0 2>Try later<LF>
+<Arrow: 34 16><Pos: 0 2>Explain again<CondJmp: 7 192 8 255 1>
+!---------------------!
+<0xff>Very well. Please<LF>
+come speak to me<LF>
+again.<Button><EB>
+!*********************!
+<@PointerIdx3>
+<0xF2: 4 218 0><Char: 0 70><0xF1: 0>That's too bad...<Dly: 1 30 0><LF>
+Try it again?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes! <Arrow: 0 17><Pos: 0 2>Later.<CondJmp: 6 128 8 255 255>
+!---------------------!
+Very well. Please<LF>
+come speak to me<LF>
+again.<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 70><0xF1: 0>So you'll try<LF>
+again right?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx5>
+<Char: 0 70><0xF1: 0>Superb! You passed<LF>
+the test with<LF>
+flying colors!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 61 1>MegaMan got:<LF>
+"<ItemTbl: 0 61 0>!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><0xF2: 0 222 0><CR>
+!---------------------!
+<Char: 0 70>I'll give you this<LF>
+too as a bonus!<Button><CR>
+!---------------------!
+<Char: 1 248 0><0xF8: 4 24><0xF6: 0 98 1>MegaMan got a<LF>
+PowerUp:<LF>
+"<ItemTbl: 0 98 0>!!"<Button><0xF8: 12><0xF8: 8><CR>
+!---------------------!
+Regular memory<LF>
+increased by 1 MB!!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 70><0xF1: 0>Great work!<Button><EB>
+!*********************!
+<@PointerIdx8>
+<0xF2: 0 219 0><0xF1: 1><0xF2: 0 220 0><0xF2: 4 223 0><EB>
+!*********************!

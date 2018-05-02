@@ -1,0 +1,93 @@
+<@AbsoluteAddr 7927788>
+<@PointerIdx0>
+<Char: 0 62><0xF1: 0>Anything I can help<LF>
+you with,sonny?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Um,I'm looking for<LF>
+someone who knows<LF>
+about bugs...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 62><0xF1: 0>Knows about bugs?<LF>
+Don't insult me!<Button><CR>
+!---------------------!
+I know so much about<LF>
+bugs,they call me<LF>
+the inseclopedia!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Well,then,I was<LF>
+wondering...<Button><CR>
+!---------------------!
+Do you know any<LF>
+spiders with fat<LF>
+legs and black hair?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 62><0xF1: 0>Well,spiders aren't<LF>
+insects,but I know<LF>
+a few like that...<Button><CR>
+!---------------------!
+Did it have any<LF>
+other notable<LF>
+features?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Um...Oh,yeah.<LF>
+It had really red<LF>
+eyes.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 62><0xF1: 0>Ah! That's an easy<LF>
+one! Lives in<LF>
+Netopia,that one.<Button><CR>
+!---------------------!
+The red-eyed wooly<LF>
+spider.<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>The red-eyed wooly<LF>
+spider!?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 62><0xF1: 0>Yes,it's quite<LF>
+rare,you see...<Button><CR>
+!---------------------!
+Easily identified<LF>
+by its thick black<LF>
+hair and red eyes.<Button><CR>
+!---------------------!
+And,its incredibly<LF>
+lethal poison!<Button><CR>
+!---------------------!
+If a person is<LF>
+bitten they freeze<LF>
+up in a few hours...<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 1 241 0>Ayeeee!!<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 0><0xF1: 0>What was that!?<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 64><0xF1: 0>It came from those<LF>
+seats in the back!<Button><CR>
+!---------------------!
+Lan! What if...!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>MegaMan! Let's go!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 64><0xF1: 0>Right on!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<0xF2: 0 7 2><Char: 0 0><0xF1: 0>Thanks,mister!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 62><0xF1: 0>My pleasure,sonny.<LF>
+If it's about bugs,<LF>
+I'm yer man!<Button><EB>
+!*********************!

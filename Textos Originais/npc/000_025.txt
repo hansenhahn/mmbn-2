@@ -1,0 +1,814 @@
+<@PointerIdx0>
+<0xF3: 0 4 2 4 255><0xF2: 0 4 2><Char: 0 7><0xF1: 0>You going abroad<LF>
+alone worries me,<Dly: 1 30 0>so<LF>
+I'm seeing you off.<Button><CR>
+!---------------------!
+Take these with<LF>
+you,Lan.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 16 195 0 17 1>Lan got a chip for<LF>
+"<ItemTbl: 0 195 1> <ItemTbl: 0 17 3>!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><CR>
+!---------------------!
+<0xF8: 0><0xF8: 4 24><0xF6: 0 24 1>Lan got:<LF>
+"<ItemTbl: 0 24 0>!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>The chip I know,but<LF>
+what is this? What<LF>
+do I do with it?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 7><0xF1: 0>Don't talk like<LF>
+that!<Button><CR>
+!---------------------!
+Your horoscope says<LF>
+this is your lucky<LF>
+item,Lan!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 7><0xF1: 0>You are so stupid!!<Dly: 1 30 0><LF>
+Just...be careful!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<0xF6: 3 64 1 8 8 255><0xF3: 0 4 2 6 255><Char: 0 64><0xF1: 0>Lan? Mayl's here to<LF>
+see you off. Didn't<LF>
+you notice?<Button><EB>
+!*********************!
+<@PointerIdx6>
+<0xF3: 0 58 2 7 255><0xF2: 0 58 2><0xF1: 0>Lan put:<LF>
+"<ItemTbl: 0 22 0>"<LF>
+in the machine!!<Button><CR>
+!---------------------!
+<0xFA: 12><0xFA: 0 29 1>SWISH!! <Dly: 1 30 0><0xFA: 0 17 1>CLICK!!<0xFA: 8><Button><CR>
+!---------------------!
+"<ItemTbl: 0 22 0>"<LF>
+went through!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 64><0xF1: 0>Once inside,you<LF>
+can't come out.<Button><EB>
+!*********************!
+<@PointerIdx8>
+<0xF1: 0>Lan put:<LF>
+"FreePass"<LF>
+in the machine!!<Button><CR>
+!---------------------!
+<0xFA: 12><0xFA: 0 29 1>SWISH!! <Dly: 1 30 0><0xFA: 0 17 1>CLICK!!<0xFA: 8><Button><CR>
+!---------------------!
+The "FreePass"<LF>
+went through!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 44><0xF1: 0>Please take your<LF>
+airline ticket.<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 44><0xF1: 0>This walkway is for<LF>
+crew,VIPs,and<LF>
+OfficialNetBattlers.<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Dly: 0 1 0><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 46><0xF1: 0>This is Arrivals.<LF>
+No Admittance<LF>
+Past This Point.<Button><EB>
+!*********************!
+<@PointerIdx13>
+<@PointerIdx14>
+<Char: 0 46><0xF1: 0>Hey! If you're going<LF>
+outside,why'd you go<LF>
+through inspection?<Button><EB>
+!*********************!
+<@PointerIdx15>
+<@PointerIdx16>
+<0xF3: 4 56 255 50 255><0xF3: 0 6 2 36 255><Char: 0 46><0xF1: 0>Show me your<LF>
+passport.<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>Uh-Uh<CondJmp: 6 128 17 255 255>
+!---------------------!
+Then I can't let you<LF>
+through. You can't<LF>
+travel,you hear?<Button><EB>
+!*********************!
+<@PointerIdx17>
+<0xF2: 0 6 2><0xF2: 4 115 8><Char: 0 46><0xF1: 0>Lan Hikari <Dly: 1 30 0>Really!<Dly: 1 30 0><LF>
+Where are you going?<LF>
+<Arrow: 17 0><Pos: 0 2>Netopia! <Arrow: 0 17><Pos: 0 2>Yumland!<CondJmp: 6 192 18 255 255>
+!---------------------!
+But the ticket says<LF>
+Netopia. That's your<LF>
+destination,right?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Right <Arrow: 0 17><Pos: 0 2>Yumland!<CondJmp: 6 128 19 255 255>
+!---------------------!
+Hmm,that's strange.<Dly: 1 30 0><LF>
+But OK. Go ahead.<Button><EB>
+!*********************!
+<@PointerIdx18>
+<Char: 0 46><0xF1: 0>Mm-hm...<Dly: 1 30 0> OK!<Dly: 1 30 0><LF>
+Have a nice trip!<Button><EB>
+!*********************!
+<@PointerIdx19>
+<Char: 0 46><0xF1: 0>I see. OK,you're all<LF>
+set! Have a nice<LF>
+trip!<Button><EB>
+!*********************!
+<@PointerIdx20>
+<Char: 0 46><0xF1: 0>Hey,you've already<LF>
+been checked. You<LF>
+can't come back now.<Button><EB>
+!*********************!
+<@PointerIdx21>
+<Char: 0 46><0xF1: 0>Hey,kid,you can't<LF>
+just walk through<LF>
+here like that!<Button><EB>
+!*********************!
+<@PointerIdx22>
+<@PointerIdx23>
+<Char: 0 46><0xF1: 0>This walkway,too,is<LF>
+for crew,VIPs,and<LF>
+OfficialNetBattlers.<Button><EB>
+!*********************!
+<@PointerIdx24>
+<@PointerIdx25>
+<0xF3: 4 64 72 80 255><Char: 0 44><0xF1: 0>Welcome to Den<LF>
+Airport,Electopia's<LF>
+aerial front door!<Button><EB>
+!*********************!
+<@PointerIdx26>
+<Char: 0 46><0xF1: 0>This way for<LF>
+passengers with<LF>
+tickets.<Button><CR>
+!---------------------!
+Be prepared. Once<LF>
+through here,you may<LF>
+not go back.<Button><EB>
+!*********************!
+<@PointerIdx27>
+<Char: 0 51><0xF1: 0>Sushi! Geishas!<LF>
+Okuden Valley! I<LF>
+love Electopia!<Button><EB>
+!*********************!
+<@PointerIdx28>
+<Char: 0 6><0xF1: 0>It seems that you've<LF>
+been called to the<LF>
+conference,too.<Button><CR>
+!---------------------!
+Just don't step on<LF>
+my toes,you hear?<Button><EB>
+!*********************!
+<@PointerIdx29>
+<0xF3: 4 55 72 48 255><Char: 0 46><0xF1: 0>This is Arrivals.<LF>
+Please go to<LF>
+Departures.<Button><EB>
+!*********************!
+<@PointerIdx30>
+<Char: 0 29><0xF1: 0>I've never been to<LF>
+Electopia before!!<Button><EB>
+!*********************!
+<@PointerIdx31>
+<Char: 0 14><0xF1: 0>I was robbed while<LF>
+on my trip. You<LF>
+watch yourself too.<Button><EB>
+!*********************!
+<@PointerIdx32>
+<Char: 0 44><0xF1: 0>You have your<LF>
+ticket? Then have a<LF>
+nice trip!<Button><EB>
+!*********************!
+<@PointerIdx33>
+<0xF3: 4 64 72 83 255><0xF3: 4 61 61 76 255><0xF3: 4 56 60 59 255><Char: 0 44><0xF1: 0>NAL is the airline<LF>
+of Netopia.<Button><EB>
+!*********************!
+<@PointerIdx34>
+<0xF3: 4 64 72 84 255><Char: 0 46><0xF1: 0>Do not bring<LF>
+dangerous objects on<LF>
+board the aircraft.<Button><CR>
+!---------------------!
+You must pass<LF>
+security before<LF>
+entering the gate.<Button><EB>
+!*********************!
+<@PointerIdx35>
+<0xF3: 4 64 72 85 255><Char: 0 13><0xF1: 0>Next is the<LF>
+Immigration check,<LF>
+at long last.<Button><CR>
+!---------------------!
+Give wrong answers<LF>
+and you don't leave<LF>
+the country,I hear.<Button><EB>
+!*********************!
+<@PointerIdx36>
+<Char: 0 46><0xF1: 0>What is it? You've<LF>
+been through the<LF>
+Immigration check.<Button><EB>
+!*********************!
+<@PointerIdx37>
+    <0xff>C<0xff><0xF2: 12 27 7><Jmp: 0 39><@PointerIdx38>
+<@PointerIdx39>
+<0xF1: 0><0xF2: 12 26 7>You got mail...<Button><EB>
+!*********************!
+<@PointerIdx40>
+<0xF3: 4 56 255 67 255><0xF3: 0 60 2 42 255><Char: 0 46><0xF1: 0>Show me your<LF>
+passport.<LF>
+<Arrow: 17 0><Pos: 0 2>Here <Arrow: 0 17><Pos: 0 2>No way<CondJmp: 6 128 41 255 255>
+!---------------------!
+Then you can't go<LF>
+through. That's the<LF>
+rules.<Button><EB>
+!*********************!
+<@PointerIdx41>
+<Char: 0 46><0xF1: 0>Yes,you are Lan<LF>
+Hikari!<Dly: 1 30 0><LF>
+Welcome back!<Button><0xF2: 0 60 2><EB>
+!*********************!
+<@PointerIdx42>
+<Char: 0 46><0xF1: 0>Hey,you've already<LF>
+been checked. You<LF>
+can't come back now.<Button><EB>
+!*********************!
+<@PointerIdx43>
+<Char: 0 46><0xF1: 0>Hey,kid,you can't<LF>
+just go through<LF>
+here.<Button><EB>
+!*********************!
+<@PointerIdx44>
+<Char: 0 10><0xF1: 0>I'm going to a<LF>
+foreign country!!<Button><CR>
+!---------------------!
+I'm taking a plane<LF>
+to Yumland!!<Button><CR>
+!---------------------!
+Heh heh!!<Button><EB>
+!*********************!
+<@PointerIdx45>
+<Char: 0 15><0xF1: 0>Hey! I said,don't<LF>
+run around!! Hold<LF>
+your horses!<Button><EB>
+!*********************!
+<@PointerIdx46>
+<Char: 0 49><0xF1: 0>Wow! I'm to<LF>
+Electopia at a last!<Button><CR>
+!---------------------!
+I'll do lot of<LF>
+seesighting before<LF>
+going home!!<Button><EB>
+!*********************!
+<@PointerIdx47>
+<Char: 0 44><0xF1: 0>We hope you had<LF>
+a good flight.<Button><EB>
+!*********************!
+<@PointerIdx48>
+<Char: 0 46><0xF1: 0>This is the<LF>
+Arrivals Lobby.<Button><EB>
+!*********************!
+<@PointerIdx49>
+<@PointerIdx50>
+<Char: 0 46><0xF1: 0>You have a <ItemTbl: 0 64 0>?<LF>
+Please go through.<Button><EB>
+!*********************!
+<@PointerIdx51>
+<Char: 0 44><0xF1: 0>You have a <ItemTbl: 0 64 0>?<LF>
+Then you don't need<LF>
+a visa.<Button><CR>
+!---------------------!
+Go on through.<Button><EB>
+!*********************!
+<@PointerIdx52>
+<0xF3: 4 61 61 75 255><0xF3: 4 58 60 65 255><Char: 0 13><0xF1: 0>Metroline and planes<LF>
+are working even in<LF>
+these circumstances.<Button><CR>
+!---------------------!
+Do you suppose they<LF>
+don't have<LF>
+accidents here?<Button><EB>
+!*********************!
+<@PointerIdx53>
+<Char: 0 10><0xF1: 0>Ooooh!!<Button><EB>
+!*********************!
+<@PointerIdx54>
+<Char: 0 15><0xF1: 0>There was a flash<LF>
+flood when I landed<LF>
+in Yumland.<Button><CR>
+!---------------------!
+So my son got<LF>
+all upset.<Button><CR>
+!---------------------!
+Look,I'll take you<LF>
+to an amusement park<LF>
+so don't be so mad!<Button><EB>
+!*********************!
+<@PointerIdx55>
+<0xF3: 4 61 61 70 255><0xF3: 4 58 60 60 255><Char: 0 10><0xF1: 0>I hope Dad will<LF>
+get back soon.<Button><EB>
+!*********************!
+<@PointerIdx56>
+<0xF3: 4 61 61 71 255><0xF3: 4 58 60 61 255><Char: 0 17><0xF1: 0>Dad's coming home<LF>
+today.<Button><EB>
+!*********************!
+<@PointerIdx57>
+<0xF3: 4 61 61 72 255><0xF3: 4 58 60 62 255><Char: 0 17><0xF1: 0>Is he here yet? Is<LF>
+he here yet? Is he<LF>
+here yet?<Button><EB>
+!*********************!
+<@PointerIdx58>
+<0xF3: 4 61 61 73 255><0xF3: 4 58 60 63 255><Char: 0 16><0xF1: 0>My husband got appe-<LF>
+ndicitis,in Netopia<LF>
+so he couldn't fly.<Button><CR>
+!---------------------!
+So he's supposed<LF>
+to come home today.<Button><CR>
+!---------------------!
+Electopia's got its<LF>
+quakes,and Netopia<LF>
+has disasters too.<Button><CR>
+!---------------------!
+He may not be able<LF>
+to come back at all.<Button><EB>
+!*********************!
+<@PointerIdx59>
+<Char: 0 44><0xF1: 0>We are now having<LF>
+tours of the special<LF>
+NAL aircraft.<Button><CR>
+!---------------------!
+You may enter if you<LF>
+have either a ticket<LF>
+or a FreePass.<Button><EB>
+!*********************!
+<@PointerIdx60>
+<Char: 0 10><0xF1: 0>Hey! It's Dad!<LF>
+Welcome home,Dad!!<Button><EB>
+!*********************!
+<@PointerIdx61>
+<Char: 0 17><0xF1: 0>Give me a hug,Dad!<Button><EB>
+!*********************!
+<@PointerIdx62>
+<Char: 0 17><0xF1: 0>Does it still hurt,<LF>
+Dad?<Button><EB>
+!*********************!
+<@PointerIdx63>
+<Char: 0 16><0xF1: 0>How could you leave<LF>
+your wife and kids<LF>
+at a time like this!<Button><CR>
+!---------------------!
+.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0><LF>
+Just kidding.<LF>
+Welcome home,dear.<Button><EB>
+!*********************!
+<@PointerIdx64>
+<0xF3: 4 61 61 74 255><Char: 0 18><0xF1: 0>I'm all right now!<LF>
+There's nothing to<LF>
+worry about!<Button><CR>
+!---------------------!
+We'd best not go out<LF>
+for a while.<Button><CR>
+!---------------------!
+Let's wait and see<LF>
+how things develop.<Button><EB>
+!*********************!
+<@PointerIdx65>
+<Char: 0 13><0xF1: 0>Ho ho! A moving<LF>
+family reunion.<Button><CR>
+!---------------------!
+What am I saying?<LF>
+I'm the one who's<LF>
+feeling moved here!<Button><EB>
+!*********************!
+<@PointerIdx66>
+<0xF3: 4 61 61 77 255><Char: 0 49><0xF1: 0>My first earthshake<LF>
+in Electopia. I<LF>
+can't go anywhere.<Button><EB>
+!*********************!
+<@PointerIdx67>
+<Char: 0 46><0xF1: 0>Welcome back!<Button><CR>
+!---------------------!
+Never mind the<LF>
+inspection,I know<LF>
+your face.<Button><EB>
+!*********************!
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<Char: 0 10><0xF1: 0>The quakes seem to<LF>
+have stopped,so<LF>
+let's go home.<Button><CR>
+!---------------------!
+Dad,let's play catch<LF>
+when we get home.<Button><CR>
+!---------------------!
+Will you promise?<Button><EB>
+!*********************!
+<@PointerIdx71>
+<Char: 0 17><0xF1: 0>Me too!<Button><EB>
+!*********************!
+<@PointerIdx72>
+<Char: 0 17><0xF1: 0>Don't leave me out!<Button><EB>
+!*********************!
+<@PointerIdx73>
+<Char: 0 16><0xF1: 0>Let's go. We haven't<LF>
+all been together in<LF>
+such a long time.<Button><CR>
+!---------------------!
+Tonight,I'll make my<LF>
+own Den Shrimp in<LF>
+Miso Soup!<Button><EB>
+!*********************!
+<@PointerIdx74>
+<Char: 0 18><0xF1: 0>Oh,you...<Button><EB>
+!*********************!
+<@PointerIdx75>
+<Char: 0 13><0xF1: 0>Oh! This is such<LF>
+a moving scene!<Button><CR>
+!---------------------!
+Tears are running<LF>
+down my cheeks!!<Button><EB>
+!*********************!
+<@PointerIdx76>
+<Char: 0 44><0xF1: 0>It seems that the<LF>
+disasters have<LF>
+ended at last.<Button><CR>
+!---------------------!
+We need to prepare<LF>
+for the rush of<LF>
+homebound travelers!<Button><EB>
+!*********************!
+<@PointerIdx77>
+<Char: 0 49><0xF1: 0>My departure date<LF>
+is near! I must go<LF>
+sightseeing soon!<Button><CR>
+!---------------------!
+My departure date<LF>
+is near! I must go<LF>
+seesighting soon!<Button><CR>
+!---------------------!
+This is a problem.<Button><EB>
+!*********************!
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<Char: 0 44><0xF1: 0>Welcome to Den<LF>
+Airport,Electopia's<LF>
+aerial front door!<Button><CR>
+!---------------------!
+But in these times,<LF>
+it's best to avoid<LF>
+unnecessary travel.<Button><EB>
+!*********************!
+<@PointerIdx81>
+<Char: 0 50><0xF1: 0>I'm worried about my<LF>
+family,back home!<Button><CR>
+!---------------------!
+I hope they aren't<LF>
+affected by any Net<LF>
+Crimes.<Button><EB>
+!*********************!
+<@PointerIdx82>
+<Char: 0 18><0xF1: 0>At last,I'm back<LF>
+in Electopia!<Button><CR>
+!---------------------!
+I've got to see the<LF>
+wife and kids,fast!<Button><EB>
+!*********************!
+<@PointerIdx83>
+<Char: 0 44><0xF1: 0>Airline flights are<LF>
+being limited in<LF>
+frequency as of now.<Button><CR>
+!---------------------!
+Thus,only NAL<LF>
+flights are going to<LF>
+Netopia now.<Button><EB>
+!*********************!
+<@PointerIdx84>
+<Char: 0 46><0xF1: 0>The carry-on bag<LF>
+checks are pretty<LF>
+strict right now.<Button><CR>
+!---------------------!
+That doesn't apply<LF>
+if you have a<LF>
+FreePass,however.<Button><CR>
+!---------------------!
+Please go through.<Button><EB>
+!*********************!
+<@PointerIdx85>
+<Char: 0 13><0xF1: 0>I can't believe that<LF>
+the carry-on bag<LF>
+check takes 1 hour.<Button><CR>
+!---------------------!
+Net Crimes are<LF>
+causing all kinds of<LF>
+inconveniences.<Button><EB>
+!*********************!
+<@PointerIdx86>
+<Char: 0 34><0xF1: 0>My boyfriend will be<LF>
+departing Netopia<LF>
+any time now...<Button><CR>
+!---------------------!
+I hope he makes it<LF>
+back OK. I just<LF>
+can't sit still...<Button><CR>
+!---------------------!
+With hours to go,<LF>
+I bet you think I'm<LF>
+stupid for worrying.<Button><CR>
+!---------------------!
+But someday you'll<LF>
+understand how I<LF>
+feel right now.<Button><EB>
+!*********************!
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 160 0 193 255><0xF3: 0 159 0 194 255><0xF2: 0 159 0><Char: 0 49><0xF1: 0>Hi there! Will you<LF>
+taking my request?<Button><CR>
+!---------------------!
+What it is,is,I want<LF>
+you give me<LF>
+"<ItemTbl: 0 136 1> <ItemTbl: 0 13 3>".<Button><CR>
+!---------------------!
+I may seeming like<LF>
+foreigner,but I<LF>
+Electopia born.<Button><CR>
+!---------------------!
+So I go abroad<LF>
+for the first time<LF>
+ever in my life.<Button><CR>
+!---------------------!
+You know they say<LF>
+how violent it's in<LF>
+other countries?<Button><CR>
+!---------------------!
+I not fighter,<LF>
+but...<Button><CR>
+!---------------------!
+I terrible at<LF>
+virus busting.<Button><CR>
+!---------------------!
+That's why I<LF>
+making this request.<Button><CR>
+!---------------------!
+So will you give me<LF>
+"<ItemTbl: 0 136 1> <ItemTbl: 0 13 3>?"<Button><CR>
+!---------------------!
+Not for free,of<LF>
+course. I gladly<LF>
+compensate you.<Button><CR>
+!---------------------!
+What do you saying?<LF>
+<Arrow: 17 0><Pos: 0 2>Sure <Arrow: 0 17><Pos: 0 2>Uh-Uh<CondJmp: 6 128 191 255 255>
+!---------------------!
+What kind of city<LF>
+NetBattler are you?<Button><CR>
+!---------------------!
+Accepting a request<LF>
+means giving me a<LF>
+chip,no?<Button><CR>
+!---------------------!
+Come on,boy.<Button><EB>
+!*********************!
+<@PointerIdx191>
+ò c0<0xff><0xff><0xc3>ò c0<Char: 0 49><0xF1: 0>You'll giving it to<LF>
+me? You can't get<LF>
+it back!<Button><CR>
+!---------------------!
+Ha ha! Thanks!<LF>
+Thanks a very much!<Button><CR>
+!---------------------!
+And here's your fee.<LF>
+Taking it.<Button><CR>
+!---------------------!
+<Jmp: 0 192><@PointerIdx192>
+<0xF2: 0 160 0><0xF2: 0 140 12><0xF2: 4 82 0><Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 48 80 195 0 0 255 255 255>Lan got:<LF>
+"50000 zennys!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
+!*********************!
+<@PointerIdx193>
+<Char: 0 49><0xF1: 0>It's worth it if<LF>
+it'll keeping me<LF>
+safety you know?<Button><CR>
+!---------------------!
+Only in Electopia<LF>
+can one get water<LF>
+and safety for free!<Button><CR>
+!---------------------!
+You be careful too,<LF>
+when you traveling<LF>
+abroad,you hearing?<Button><EB>
+!*********************!
+<@PointerIdx194>
+<Char: 0 49><0xF1: 0>Hey,haven't you have<LF>
+"<ItemTbl: 0 136 1> <ItemTbl: 0 13 3>?"<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Sure <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 128 191 255 255>
+!---------------------!
+What kind of city<LF>
+NetBattler are you?<Button><CR>
+!---------------------!
+Accepting a request<LF>
+means giving me a<LF>
+chip,no?<Button><CR>
+!---------------------!
+Come on,boy.<Button><EB>
+!*********************!
+<@PointerIdx195>
+<Char: 0 49><0xF1: 0>What is this?<Button><CR>
+!---------------------!
+You don't have<LF>
+"<ItemTbl: 0 136 1> <ItemTbl: 0 13 3>!" You<LF>
+don't! You don't!<Button><CR>
+!---------------------!
+I saying it 3 times!<Button><CR>
+!---------------------!
+Maybe it's in<LF>
+folder?<Button><CR>
+!---------------------!
+I can't find it if<LF>
+it's in folder.<Button><EB>
+!*********************!
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>It's a Flight Board!<LF>
+Departure times are<LF>
+posted here.<Button><CR>
+!---------------------!
+.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>It seems that you<LF>
+can jack in here.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>The slot where you<LF>
+insert your boarding<LF>
+pass.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>The EEXP Counter.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>The NAL Counter.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<0xF1: 0>"A Request That You<LF>
+Not Bring Dangerous<LF>
+Items On Board"<Button><EB>
+!*********************!
+<@PointerIdx225>
+<0xF1: 0>Here,they check for<LF>
+dangerous things in<LF>
+your belongings.<Button><EB>
+!*********************!
+<@PointerIdx226>
+<0xF1: 0>"No Admittance to<LF>
+Unauthorized<LF>
+Personnel!"<Button><EB>
+!*********************!
+<@PointerIdx227>
+<Jmp: 0 16><@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

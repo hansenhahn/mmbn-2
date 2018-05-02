@@ -1,0 +1,18 @@
+<@AbsoluteAddr 7906756>
+<@PointerIdx0>
+<0xF1: 0><0xec> 2One 10-hour flight<LF>
+later<0xec> t...<Button><CR>
+!---------------------!
+<0xec> 2We arrived<LF>
+in Netopia<0xec> t...<0xec> 1<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 0><0xF1: 0>Phew-wee!<LF>
+That was one<LF>
+long flight!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>No kidding! Hey,<LF>
+we're in Netopia!<LF>
+Let's hit the town!<Button><EB>
+!*********************!

@@ -1,0 +1,49 @@
+<@AbsoluteAddr 7857560>
+<@PointerIdx0>
+<Char: 0 70><0xF1: 0>You found both of<LF>
+them! Impressive!<Button><CR>
+!---------------------!
+Well,then. Here's<LF>
+your "<ItemTbl: 0 58 0>",<LF>
+as promised!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 1 241 0><0xFA: 0 133 0><0xF8: 4 24>MegaMan got:<LF>
+"<ItemTbl: 0 58 0>!!"<LF>
+<0xF8: 12><0xF8: 16><Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 70><0xF1: 0>The Center will<LF>
+contact you about<LF>
+the license test.<Button><CR>
+!---------------------!
+Do well on that,and<LF>
+you'll get a full<LF>
+license!<Button><CR>
+!---------------------!
+Oh,and for a limited<LF>
+time only,we're<LF>
+giving out presents!<Button><CR>
+!---------------------!
+Here's yours. Let me<LF>
+install it on your<LF>
+PET for you...<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 1 241 0><0xFA: 0 133 0><0xF8: 4 24>PET installed with:<LF>
+"chip selection<LF>
+system!!"<0xF8: 12><0xF8: 16><Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 70><0xF1: 0>You'll find the<LF>
+"chip selection<LF>
+system" very useful.<Button><CR>
+!---------------------!
+If you have any<LF>
+questions,ask the<LF>
+girl next to me!<Button><CR>
+!---------------------!
+That's all!<LF>
+Good luck and happy<LF>
+busting!<Button><EB>
+!*********************!

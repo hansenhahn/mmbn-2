@@ -1,0 +1,123 @@
+<@AbsoluteAddr 7968500>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>If this goes on much<LF>
+longer nothing human<LF>
+has a chance!<Dly: 1 30 0> Laaan!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 64><0xF1: 0>Please hear me!<LF>
+Please!<Button><CR>
+!---------------------!
+Laaaaaaan!!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 0><0xF1: 0>W...<Dly: 1 30 0>Who's there?<Dly: 1 30 0><LF>
+That voice...<Dly: 1 30 0>so<LF>
+familiar...<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Lan! <Dly: 1 30 0>Lan!!!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>My brother...<Dly: 1 30 0><LF>
+H...Hub?<Dly: 1 30 0><LF>
+Is that you?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>You can hear me!<Dly: 1 30 0><LF>
+Phew...<Dly: 1 30 0>It's me,Lan!<LF>
+Your brother!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>It's hard to hear<LF>
+you...<Dly: 1 30 0>So dark...<Dly: 1 30 0><LF>
+Where am I?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 64><0xF1: 0>You blacked out when<LF>
+you got stuck in the<LF>
+radiation wave!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 0><0xF1: 0>Oh...<Dly: 1 30 0>I...<Button><CR>
+!---------------------!
+Wait! <Dly: 1 30 0>If I'm<LF>
+stuck like this,I<LF>
+can't operate you!<Button><CR>
+!---------------------!
+I'm sorry,Hub!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 64><0xF1: 0>You have to try,Lan!<LF>
+If I was your<LF>
+brother Hub...<Button><CR>
+!---------------------!
+But I'm not...<Dly: 1 30 0><LF>
+I'm MegaMan.EXE,and<LF>
+<Dly: 1 30 0>...I need you,Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 0><0xF1: 0>Hub...<Dly: 1 30 0><LF>
+But how...<Dly: 1 30 0><LF>
+What can I do?<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 64><0xF1: 0>OK,Lan,listen to me.<Button><CR>
+!---------------------!
+I'm going to put my<LF>
+"heart program" into<LF>
+full synch with you.<Button><CR>
+!---------------------!
+It won't matter if<LF>
+you can't use your<LF>
+arms or your PET...<Button><CR>
+!---------------------!
+You'll be able to<LF>
+operate me...<Dly: 1 30 0><LF>
+with your heart!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 0><0xF1: 0>My heart...?<Dly: 1 30 0><LF>
+Is that...<Dly: 1 30 0>can I<LF>
+really do that?<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 64><0xF1: 0>You bet! Remember?<LF>
+We were once the<LF>
+same person!<Button><CR>
+!---------------------!
+And then we were<LF>
+brothers,and more<LF>
+than that...<Dly: 1 30 0>friends.<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 0><0xF1: 0>Friends...<Button><CR>
+!---------------------!
+OK...<LF>
+I...I'll give<LF>
+it a try!<Button><CR>
+!---------------------!
+Let's get that<LF>
+Multibug Organism...<Dly: 1 30 0><LF>
+and Gospel,too!<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 64><0xF1: 0>That's the spirit!<Button><EB>
+!*********************!
+<@PointerIdx17>
+<Char: 0 0><0xF1: 0>MegaMan! Well?<Dly: 1 30 0><LF>
+You read me?<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 64><0xF1: 0>Loud and clear!<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 0><0xF1: 0>OK! Let's rock!<Dly: 1 30 0><LF>
+Battle routine,set!<Button><CR>
+!---------------------!
+<Jmp: 0 20><@PointerIdx20>
+<Char: 0 64><0xF1: 0>Execute!<Button><EB>
+!*********************!

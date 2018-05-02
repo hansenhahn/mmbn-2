@@ -1,0 +1,5 @@
+<@AbsoluteAddr 7890748>
+<@PointerIdx0>
+<Char: 1 241 0>MegaMan used:<LF>
+"<ItemTbl: 0 19 0>!!"<Button><0xF2: 0 32 0><EB>
+!*********************!

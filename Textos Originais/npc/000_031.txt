@@ -1,0 +1,861 @@
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>This must be the<LF>
+hotel...Let's go<LF>
+in the room.<Button><0xF2: 4 113 8><EB>
+!*********************!
+<@PointerIdx1>
+<0xF3: 4 42 42 36 255><0xF3: 0 19 2 18 255><0xF3: 4 38 38 15 255><Char: 0 50><0xF1: 0>Hey boy!!<LF>
+Here is downtown!<LF>
+What? Me a thief!?<Dly: 1 30 0><Button><CR>
+!---------------------!
+Excuse me for looki-<LF>
+ng like someone<LF>
+else!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<0xF3: 4 48 48 57 255><0xF3: 4 42 42 37 255><0xF3: 0 19 2 19 255><0xF3: 4 38 38 16 255><Char: 0 51><0xF1: 0>What's with the long<LF>
+face? Can I help?<Button><CR>
+!---------------------!
+<Arrow: 0 17><Pos: 0 2>Where's the hotel?<LF>
+<Arrow: 17 0><Pos: 0 2>No thanks.<CondJmp: 6 128 3 255 255>
+!---------------------!
+Huh? You look as if<LF>
+you can't trust any<LF>
+any Netopians.<Button><CR>
+!---------------------!
+But you know,there<LF>
+are bad apples in<LF>
+every country!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 51><0xF1: 0>At the first corner<LF>
+there's a door with<LF>
+HOTEL written above.<Button><EB>
+!*********************!
+<@PointerIdx4>
+<0xF3: 4 64 72 100 255><0xF3: 4 48 48 58 255><0xF3: 4 42 42 38 255><Char: 0 47><0xF1: 0>Sorry pal,I'm busy!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<0xF3: 4 61 61 82 255><0xF3: 4 48 48 59 255><Char: 0 49><0xF1: 0>I very hurry! So<LF>
+sorry!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<0xF3: 4 48 48 60 255><0xF3: 4 41 41 28 255><0xF3: 0 23 2 27 255><0xF3: 4 39 39 25 255><Char: 0 48><0xF1: 0>This is the world's<LF>
+financial center,so<LF>
+everyone's busy!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 3><0xF1: 0>Wow!! If it isn't<LF>
+Lan!<Button><CR>
+!---------------------!
+I'm on vacation too!<Button><CR>
+!---------------------!
+Hmm,what should I<LF>
+buy...a gourmet meal<Dly: 1 30 0><LF>
+or jewelry...<Button><EB>
+!*********************!
+<@PointerIdx8>
+<0xF3: 4 64 72 101 255><0xF3: 4 48 48 61 255><0xF3: 4 42 42 40 255><Char: 0 50><0xF1: 0>Pardon me! I rushy-<LF>
+rush! Move out of<LF>
+path!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<0xF3: 4 64 72 102 255><0xF3: 4 48 48 62 255><0xF3: 4 39 40 26 255><Char: 0 52><0xF1: 0>You know that funky<LF>
+machine next to the<LF>
+hotel?<Button><CR>
+!---------------------!
+Some Electopian dude<LF>
+left it,saying "I'll<LF>
+leave it here,huh!"<Button><CR>
+!---------------------!
+Are all Electopians<LF>
+like that?<Button><EB>
+!*********************!
+<@PointerIdx10>
+<0xF3: 4 64 72 103 255><0xF3: 4 48 48 63 255><0xF3: 4 42 42 41 255><0xF3: 0 19 2 20 255><0xF3: 4 38 38 17 255><Char: 0 29><0xF1: 0>Hee hee...Electopian<LF>
+boys are wild and<LF>
+crazy! Cool!!<Button><EB>
+!*********************!
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<Char: 0 50><0xF1: 0>Hey boy!!<LF>
+Here is downtown!<Button><CR>
+!---------------------!
+Hey! Don't looking<LF>
+so blue!<Button><EB>
+!*********************!
+<@PointerIdx16>
+<Char: 0 51><0xF1: 0>Hi! What's wrong?<Dly: 1 30 0><LF>
+You look more down<LF>
+than before...<Button><EB>
+!*********************!
+<@PointerIdx17>
+<Char: 0 29><0xF1: 0>Electopian boys...<LF>
+aren't as wild and<LF>
+crazy as I thought.<Button><EB>
+!*********************!
+<@PointerIdx18>
+<Char: 0 50><0xF1: 0>Hey boy!!<LF>
+Here is downtown!<Button><CR>
+!---------------------!
+You looking much<LF>
+happy. Much<LF>
+improvement!<Button><EB>
+!*********************!
+<@PointerIdx19>
+<Char: 0 51><0xF1: 0>Hi there! You got a<LF>
+nice smile!<Button><EB>
+!*********************!
+<@PointerIdx20>
+<Char: 0 29><0xF1: 0>Electopian boys are<LF>
+wild and crazy after<LF>
+all!<Button><EB>
+!*********************!
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<Char: 0 48><0xF1: 0>Kid! Sump'n wrong?<LF>
+You should see <0x49>him<0x49><LF>
+in Netopia Park.<Button><CR>
+!---------------------!
+Ain't nothin' that<LF>
+dude can't handle.<Button><CR>
+!---------------------!
+Hah!<Button><EB>
+!*********************!
+<@PointerIdx26>
+<Char: 0 52><0xF1: 0>Heyhey! That funky<LF>
+Electopian's over<LF>
+there!<Button><CR>
+!---------------------!
+Bet some funk's<LF>
+'bout to go down!<Button><EB>
+!*********************!
+<@PointerIdx27>
+<Char: 0 48><0xF1: 0>So? That dude's able<LF>
+to help out,right?<Button><CR>
+!---------------------!
+Hah!<Button><EB>
+!*********************!
+<@PointerIdx28>
+<Char: 0 48><0xF1: 0>Kid,let me tell<LF>
+you sump'n.<Button><CR>
+!---------------------!
+You gotta take care<LF>
+of today's stuff...<LF>
+<0x49>today<0x49>,see?<Button><CR>
+!---------------------!
+'Cause you never kn-<LF>
+ow what'll happen<LF>
+tomorrow.<Button><CR>
+!---------------------!
+Know what I'm<LF>
+sayin'?<Button><EB>
+!*********************!
+<@PointerIdx29>
+<@PointerIdx30>
+<0xF3: 0 30 2 34 255><0xF3: 0 92 2 33 255><0xF3: 0 90 2 32 255><0xF2: 0 90 2><Char: 0 5><0xF1: 0>Glad to hear the po-<LF>
+werhouse pair's back<LF>
+in action!!<Button><CR>
+!---------------------!
+Sorry I got upset.<LF>
+This is to<LF>
+apologize,huh!<Button><CR>
+!---------------------!
+<Jmp: 0 31><@PointerIdx31>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 16 43 0 22 1>Lan got a chip for<LF>
+"<ItemTbl: 0 43 1> <ItemTbl: 0 22 3>!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<0xF8: 0><0xF8: 4 24><0xF6: 16 20 0 26 1>Lan got a chip for<LF>
+"<ItemTbl: 0 20 1> <ItemTbl: 0 26 3>!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<0xF8: 0><0xF8: 4 24><0xF6: 16 40 0 8 1>Lan got a chip for<LF>
+"<ItemTbl: 0 40 1> <ItemTbl: 0 8 3>!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 32><@PointerIdx32>
+<Char: 0 5><0xF1: 0>Well,I'm off! Huh!!<Button><EB>
+!*********************!
+<@PointerIdx33>
+<Char: 0 5><0xF1: 0>Owowowo...!<Button><CR>
+!---------------------!
+"<ItemTbl: 0 111 1> <ItemTbl: 0 26 3>" isn't<LF>
+rare! <Dly: 1 15 0>I don't have<LF>
+it,huh!<Button><EB>
+!*********************!
+<@PointerIdx34>
+<Char: 0 5><0xF1: 0>I'd better be off...<Dly: 1 20 0><LF>
+We'll meet again! <Dly: 1 20 0><LF>
+Huh!<Button><EB>
+!*********************!
+<@PointerIdx35>
+<Char: 0 64><0xF1: 0><0xF2: 12 28 7>Lan,you've got mail!<Button><EB>
+!*********************!
+<@PointerIdx36>
+<Char: 0 50><0xF1: 0>Bonjour boy!!<Button><EB>
+!*********************!
+<@PointerIdx37>
+<Char: 0 51><0xF1: 0>It's so bright...<Button><CR>
+!---------------------!
+But,I love the glis-<LF>
+tening morning sun.<Button><EB>
+!*********************!
+<@PointerIdx38>
+<Char: 0 47><0xF1: 0>Sorry pal,I'm busy!<LF>
+Gotta get to the<LF>
+office!<Button><EB>
+!*********************!
+<@PointerIdx39>
+<Char: 0 16><0xF1: 0>Netopia's bustling<LF>
+from the crack of<LF>
+dawn!<Button><EB>
+!*********************!
+<@PointerIdx40>
+<Char: 0 50><0xF1: 0>Pardon please! Today<LF>
+is also rushy-rush!<Button><EB>
+!*********************!
+<@PointerIdx41>
+<Char: 0 29><0xF1: 0>Oh,you again!<Button><CR>
+!---------------------!
+Maybe you an' me got<LF>
+some kinda fate-<LF>
+thing goin' on!<Button><CR>
+!---------------------!
+You gotta<LF>
+girlfriend?<Button><EB>
+!*********************!
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<0xF6: 3 29 1 55 55 255><0xF6: 3 28 1 52 52 255><0xF6: 3 27 1 49 49 255><Char: 0 50><0xF1: 0>Hey,boy!<Button><CR>
+!---------------------!
+Won't you buy a<LF>
+Netopian souvenir?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Sure! <Arrow: 0 17><Pos: 0 2>Nah<CondJmp: 6 128 46 255 255>
+!---------------------!
+Hey! At least have<LF>
+a look at my gifts!<Button><EB>
+!*********************!
+<@PointerIdx46>
+<Char: 0 50><0xF1: 0>First,I got this!<Button><CR>
+!---------------------!
+"<ItemTbl: 0 27 0>"<Button><CR>
+!---------------------!
+It's said a Netopi-<LF>
+an princess once<LF>
+wore it!<Button><CR>
+!---------------------!
+Normally I charge<LF>
+100000 zennys,but<LF>
+you special customer<Button><CR>
+!---------------------!
+I give you for<LF>
+1000 zennys!<Button><CR>
+!---------------------!
+You buy?<LF>
+<Arrow: 17 0><Pos: 0 2>Sure! <Arrow: 0 17><Pos: 0 2>Nah<CondJmp: 6 128 47 255 255>
+!---------------------!
+Come back again.<Button><EB>
+!*********************!
+<@PointerIdx47>
+<LF>
+2  <0xff><0xff>T<LF>
+2  <0xff><0xff><0xff><Char: 0 50><0xF1: 0>You buy "<ItemTbl: 0 27 0>!"<LF>
+Merci beaucoup boy!<Button><CR>
+!---------------------!
+I have more souven-<LF>
+irs,so come again!<Button><CR>
+!---------------------!
+<Jmp: 0 48><@PointerIdx48>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 27 1>Lan got:<LF>
+"<ItemTbl: 0 27 0>!!"<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx49>
+<Char: 0 50><0xF1: 0>Next I got this!<LF>
+Every Netopian kid<Button><CR>
+!---------------------!
+wants this popular<LF>
+robot!<Button><CR>
+!---------------------!
+"<ItemTbl: 0 28 0>"<Button><CR>
+!---------------------!
+This is very popular<LF>
+and very rare.<Button><CR>
+!---------------------!
+I give you special<LF>
+price of<LF>
+1000 zennys!<Button><CR>
+!---------------------!
+You buy?<LF>
+<Arrow: 17 0><Pos: 0 2>Sure! <Arrow: 0 17><Pos: 0 2>Nah<CondJmp: 6 128 50 255 255>
+!---------------------!
+Come back again.<Button><EB>
+!*********************!
+<@PointerIdx50>
+<LF>
+2  <0xff><0xff>T<LF>
+2  <0xff><0xff><0xff><Char: 0 50><0xF1: 0>Hahaaa!<Button><CR>
+!---------------------!
+You buy "<ItemTbl: 0 28 0>!"<LF>
+You generous,very<LF>
+generous boy!<Button><CR>
+!---------------------!
+But I only have one<LF>
+more souvenir. Come<LF>
+again!<Button><CR>
+!---------------------!
+<Jmp: 0 51><@PointerIdx51>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 28 1>Lan got:<LF>
+"<ItemTbl: 0 28 0>!!"<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx52>
+<Char: 0 50><0xF1: 0>The final souvenir<LF>
+for today is...<LF>
+This!!<Button><CR>
+!---------------------!
+"<ItemTbl: 0 29 0>"<Button><CR>
+!---------------------!
+Perfect as a gift<LF>
+for that <0x49>special<0x49><LF>
+girl,yes?<Button><CR>
+!---------------------!
+I give you this too<LF>
+at bargain price of<LF>
+1000 zennys!!<Button><CR>
+!---------------------!
+You buy?<LF>
+<Arrow: 17 0><Pos: 0 2>Sure! <Arrow: 0 17><Pos: 0 2>Nah<CondJmp: 6 128 53 255 255>
+!---------------------!
+Come back again.<Button><EB>
+!*********************!
+<@PointerIdx53>
+<LF>
+2  <0xff><0xff>T<LF>
+2  <0xff><0xff><0xff><Char: 0 50><0xF1: 0>You bought<LF>
+"<ItemTbl: 0 29 0>!"<Button><CR>
+!---------------------!
+I now all sold out!<Button><CR>
+!---------------------!
+Merci! Merci!<Button><CR>
+!---------------------!
+<Jmp: 0 54><@PointerIdx54>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 29 1>Lan got:<LF>
+"<ItemTbl: 0 29 0>!!"<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx55>
+<Char: 0 50><0xF1: 0>Hey! Many mercis!<Button><CR>
+!---------------------!
+Give my regards to<LF>
+your fellow<LF>
+Electopians!<Button><EB>
+!*********************!
+<@PointerIdx56>
+<Char: 0 50><0xF1: 0>Boy,I very sorry<LF>
+but you is "tres<LF>
+broke!"<Button><CR>
+!---------------------!
+Come back when you<LF>
+got money.<Button><EB>
+!*********************!
+<@PointerIdx57>
+<Char: 0 51><0xF1: 0>What? You're going<LF>
+back to Electopia<LF>
+today?<Button><CR>
+!---------------------!
+How was Netopia? Not<LF>
+too bad,right?<Button><CR>
+!---------------------!
+Please come visit<LF>
+again,OK?<Button><EB>
+!*********************!
+<@PointerIdx58>
+<Char: 0 47><0xF1: 0>Sorry,pal. That's<LF>
+right,I'm BUSY!<Button><CR>
+!---------------------!
+B-U-S-Y,BUSY!<Button><EB>
+!*********************!
+<@PointerIdx59>
+<Char: 0 49><0xF1: 0>I so sorry. I very<LF>
+very busy!<Button><CR>
+!---------------------!
+(Sigh)<Button><EB>
+!*********************!
+<@PointerIdx60>
+<Char: 0 48><0xF1: 0>Rumor has it sumpin'<LF>
+heavy went down at<LF>
+the castle.<Button><CR>
+!---------------------!
+Huh? You handled it,<LF>
+kid? Didn't see that<LF>
+one comin'.<Button><EB>
+!*********************!
+<@PointerIdx61>
+<Char: 0 50><0xF1: 0>Sorry sorry! Very<LF>
+busy y'know!<Button><EB>
+!*********************!
+<@PointerIdx62>
+<Char: 0 52><0xF1: 0>The other day I put<LF>
+10 chips in that<LF>
+funky contraption.<Button><CR>
+!---------------------!
+Then this ultra-rare<LF>
+"<ItemTbl: 0 167 1> <ItemTbl: 0 26 3>" chip<LF>
+came out!<Button><CR>
+!---------------------!
+'Bout blew my mind!<Button><EB>
+!*********************!
+<@PointerIdx63>
+<Char: 0 29><0xF1: 0>You're going back to<LF>
+Electopia? An' I<LF>
+kinda liked ya too!<Button><EB>
+!*********************!
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<0xF3: 4 61 61 80 255><0xF3: 4 57 57 72 255><Char: 0 51><0xF1: 0>Not many people<LF>
+out today...<Button><CR>
+!---------------------!
+I guess that's unde-<LF>
+rstandable with this<LF>
+scorching sun.<Button><EB>
+!*********************!
+<@PointerIdx67>
+<0xF3: 4 57 57 73 255><Char: 0 49><0xF1: 0>I so busy-busy rush-<LF>
+rush! But I can't go<LF>
+anywhere today...<Button><CR>
+!---------------------!
+Why so hot I wonder-<LF>
+ing? Haha...<Button><EB>
+!*********************!
+<@PointerIdx68>
+<0xF3: 4 61 61 84 255><0xF3: 4 57 57 74 255><Char: 0 50><0xF1: 0>Heard all this rack-<LF>
+et on the surface so<LF>
+I came to see.<Button><CR>
+!---------------------!
+This sun isn't<LF>
+normal!<Button><EB>
+!*********************!
+<@PointerIdx69>
+<0xF3: 4 61 61 86 255><0xF3: 4 57 57 75 255><Char: 0 29><0xF1: 0>The sun's too strong<LF>
+up here. I want to<LF>
+retreat underground,<Button><CR>
+!---------------------!
+but the UnderStr-<LF>
+eet's scary...<Dly: 1 20 0><LF>
+Decisions decisions!<Button><EB>
+!*********************!
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<Char: 0 51><0xF1: 0>The city can't func-<LF>
+tion under this sun!<Button><CR>
+!---------------------!
+If this continues,<LF>
+the Netopian economy<LF>
+will collapse!<Button><EB>
+!*********************!
+<@PointerIdx73>
+<Char: 0 49><0xF1: 0>Aaaaahh!! It's impo-<LF>
+ssible to work! Have<LF>
+to stop work today!<Button><EB>
+!*********************!
+<@PointerIdx74>
+<Char: 0 50><0xF1: 0>The busy bees on the<LF>
+surface will die<LF>
+from exhaustion.<Button><CR>
+!---------------------!
+This doesn't look<LF>
+good...<Button><EB>
+!*********************!
+<@PointerIdx75>
+<Char: 0 29><0xF1: 0>That's it,I'm going<LF>
+underground. Too<LF>
+dangerous up here!<Button><EB>
+!*********************!
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<Char: 0 51><0xF1: 0>Looks like the sun's<LF>
+calmed down.<Button><CR>
+!---------------------!
+Now Netopia can get<LF>
+back to its usual<LF>
+busy self!<Button><EB>
+!*********************!
+<@PointerIdx81>
+<Char: 0 47><0xF1: 0>Back to work! Gotta<LF>
+make up for the<LF>
+time lost!!<Button><EB>
+!*********************!
+<@PointerIdx82>
+<Char: 0 49><0xF1: 0>Hahaaa!!<LF>
+Work! Work!<Button><CR>
+!---------------------!
+Back to work!!!!!<Button><EB>
+!*********************!
+<@PointerIdx83>
+<Char: 0 48><0xF1: 0>At last we can go<LF>
+outside again.<Button><CR>
+!---------------------!
+Bein' shut up indoo-<LF>
+rs ain't good for<LF>
+your health.<Button><EB>
+!*********************!
+<@PointerIdx84>
+<Char: 0 50><0xF1: 0>Gotta work on impro-<LF>
+ving relations with<LF>
+the surfacers.<Button><EB>
+!*********************!
+<@PointerIdx85>
+<Char: 0 52><0xF1: 0>I gotta work on<LF>
+collecting more<LF>
+chips!<Button><EB>
+!*********************!
+<@PointerIdx86>
+<Char: 0 29><0xF1: 0>Guess it's not good<LF>
+to be exposed to too<LF>
+much sunlight.<Button><CR>
+!---------------------!
+Gotta buy a lotta<LF>
+suntan lotion!<Button><EB>
+!*********************!
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<Char: 0 50><0xF1: 0>We must unite in<LF>
+times like this!<Button><CR>
+!---------------------!
+One-two!<Button><CR>
+!---------------------!
+Netopia! <Dly: 1 15 0>Netopia!<Button><EB>
+!*********************!
+<@PointerIdx96>
+<Char: 0 48><0xF1: 0>Netopia! <Dly: 1 15 0>Netopia!<Button><EB>
+!*********************!
+<@PointerIdx97>
+<Char: 0 49><0xF1: 0>Netopia! <Dly: 1 15 0>Netopia!<Button><EB>
+!*********************!
+<@PointerIdx98>
+<Char: 0 45><0xF1: 0>Netopia! <Dly: 1 15 0>Netopia!<Button><EB>
+!*********************!
+<@PointerIdx99>
+<Char: 0 51><0xF1: 0>Everyone over there<LF>
+united into a group,<LF>
+see?<Button><CR>
+!---------------------!
+You guys may not do<LF>
+that,but it's one<LF>
+of our traditions!<Button><EB>
+!*********************!
+<@PointerIdx100>
+<Char: 0 47><0xF1: 0>The office's been<LF>
+attacked by a Gospel<LF>
+virus!<Button><CR>
+!---------------------!
+Sorry,pal! Stand<LF>
+aside!<Button><EB>
+!*********************!
+<@PointerIdx101>
+<Char: 0 50><0xF1: 0>Pardon me! I rushy-<LF>
+rush!<Button><CR>
+!---------------------!
+No time to explain<LF>
+reasons such!<Button><EB>
+!*********************!
+<@PointerIdx102>
+<Char: 0 52><0xF1: 0>Everyone's striving<LF>
+to protect the coun-<LF>
+try,so they don't<Button><CR>
+!---------------------!
+have much time to<LF>
+chat. Don't be mad<LF>
+at them,though!<Button><EB>
+!*********************!
+<@PointerIdx103>
+<Char: 0 29><0xF1: 0>Electopian boys are<LF>
+just as wild and<LF>
+crazy as ever!<Button><CR>
+!---------------------!
+But there's no time<LF>
+for that now. I<LF>
+gotta get wild too!<Button><EB>
+!*********************!
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 142 12 194 255><0xF3: 0 163 0 195 255><0xF2: 0 163 0><Char: 0 29><0xF1: 0>I'm the one with the<LF>
+request!<Button><CR>
+!---------------------!
+As I wrote on the<LF>
+board,I want you to<LF>
+punish 4 bullies.<Button><CR>
+!---------------------!
+They should be hang-<LF>
+ing out by the Net-<LF>
+Square Entrance.<Button><EB>
+!*********************!
+<@PointerIdx191>
+<Char: 0 29><0xF1: 0>They're messing with<LF>
+everyone! Go get<LF>
+'em! NetSq.Entrance!<Button><EB>
+!*********************!
+<@PointerIdx192>
+<0xF2: 0 142 12><0xF2: 4 82 0><Char: 0 29><0xF1: 0>You got 'em! You're<LF>
+pretty strong. I<LF>
+like strong people.<Button><CR>
+!---------------------!
+Tee-hee! Here's<LF>
+your reward!<Button><CR>
+!---------------------!
+<Jmp: 0 193><@PointerIdx193>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 16 32 0 12 1>Lan got a chip for<LF>
+"<ItemTbl: 0 32 1> <ItemTbl: 0 12 3>!!"<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx194>
+<Char: 0 29><0xF1: 0>Now things'll settle<LF>
+down a bit. Thanks!<Button><EB>
+!*********************!
+<@PointerIdx195>
+<0xF3: 0 252 0 255 191><0xF3: 0 253 0 255 191><0xF3: 0 254 0 255 191><0xF3: 0 61 1 255 191><0xF2: 0 164 0><Jmp: 0 192><@PointerIdx196>
+<0xF3: 0 14 1 199 255><0xF3: 0 13 1 200 255><0xF2: 0 13 1><Char: 0 48><0xF1: 0>Psst! Kid! You got a<LF>
+"<ItemTbl: 0 119 1> <ItemTbl: 0 21 3>" chip?<Button><CR>
+!---------------------!
+My grandkid would<LF>
+kill for it.<Button><CR>
+!---------------------!
+I propose to trade<LF>
+ya my "<ItemTbl: 0 19 1> <ItemTbl: 0 26 3>"<LF>
+for it.<Button><CR>
+!---------------------!
+Whaddya say?<LF>
+<Arrow: 17 0><Pos: 0 2>Alright <Arrow: 0 17><Pos: 0 2>No way!<CondJmp: 6 128 197 255 255>
+!---------------------!
+That's too bad. If<LF>
+you happen to locate<LF>
+it,wouldja mind?<Button><CR>
+!---------------------!
+Please listen to<LF>
+this old man's<LF>
+request.<Button><EB>
+!*********************!
+<@PointerIdx197>
+Í k0<0xff><0xff><0xc9><0xF2: 0 14 1>Í k0<Char: 0 48><0xF1: 0>You will? Thanks! I<LF>
+wasn't kiddin' when<LF>
+I said...<Button><CR>
+!---------------------!
+he'd kill for it! Oh<LF>
+yeah,here's yours.<Button><CR>
+!---------------------!
+<Jmp: 0 198><@PointerIdx198>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 16 19 0 26 1>Lan got a chip for<LF>
+"<ItemTbl: 0 19 1> <ItemTbl: 0 26 3>!!"<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx199>
+<Char: 0 48><0xF1: 0>Thanks,kid! My gran-<LF>
+dkid'll be<LF>
+overjoyed!<Button><EB>
+!*********************!
+<@PointerIdx200>
+<Char: 0 48><0xF1: 0>Hey,how's it goin'<LF>
+kid?<Button><CR>
+!---------------------!
+You gonna trade me<LF>
+"<ItemTbl: 0 119 1> <ItemTbl: 0 21 3>" for my<LF>
+"<ItemTbl: 0 19 1> <ItemTbl: 0 26 3>?"<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 128 197 255 255>
+!---------------------!
+Come stop by again<LF>
+if you so desire.<Button><EB>
+!*********************!
+<@PointerIdx201>
+<Char: 0 48><0xF1: 0>Hey! Where's your<LF>
+"<ItemTbl: 0 119 1> <ItemTbl: 0 21 3>?"<Button><CR>
+!---------------------!
+I can't find it<LF>
+anywhere...<Button><CR>
+!---------------------!
+It ain't in your<LF>
+folder now,is it?<Button><CR>
+!---------------------!
+We can't exchange if<LF>
+it's in your folder!<Button><CR>
+!---------------------!
+Take a gander.<Button><CR>
+!---------------------!
+Place the chip you<LF>
+want to trade in<LF>
+your pack.<Button><EB>
+!*********************!
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>The biggest bank in<LF>
+Netopia.<Button><CR>
+!---------------------!
+There're millions of<LF>
+zennys flowing<LF>
+through this city.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>A mouth-watering<LF>
+aroma comes from<LF>
+the restaurant.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>An extravagant rest-<LF>
+aurant for sophisti-<LF>
+cated adults.<Button><CR>
+!---------------------!
+No kids allowed.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>Fine jewelry lines<LF>
+the window,stopping<LF>
+you momentarily.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

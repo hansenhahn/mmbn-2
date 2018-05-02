@@ -1,0 +1,25 @@
+<@AbsoluteAddr 7863112>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Lan! That did it!<LF>
+No more gas. Look,a<LF>
+ventilator program.<Button><CR>
+!---------------------!
+<Char: 0 0><0xF1: 0>Yeah! Try this!<Button><CR>
+!---------------------!
+<Char: 0 64><0xF1: 0>Ah!<0xFA: 4 34 0><Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 78><0xF1: 0>Ho-ho...<Dly: 1 30 0><LF>
+Who dares try that <Dly: 1 30 0><LF>
+Ho-ho...!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Yeah! He's the<LF>
+cause of this gas!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Hurry up!<Button><EB>
+!*********************!

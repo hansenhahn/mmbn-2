@@ -1,0 +1,62 @@
+<@AbsoluteAddr 7918488>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Raoul! Raoul!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 55><0xF1: 0>Huff...Puff<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>He's still<LF>
+breathing!<LF>
+He's gonna make it!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 6><0xF1: 0>!!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 6><0xF1: 0>Lan,I didn't believe<LF>
+it,but you're the<LF>
+Gospel NetBattler?<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 0><0xF1: 0>Chaud are you out<LF>
+of your mind!?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 6><0xF1: 0>Hmph...Don't play<LF>
+dumb with me...<Button><CR>
+!---------------------!
+But,these<LF>
+circumstances are<LF>
+proof enough...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Wrong! I just got<LF>
+here too! <Dly: 1 30 0>You're not<LF>
+the one from Gospel?<Button><CR>
+!---------------------!
+So who got Raoul...<LF>
+and the others?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 6><0xF1: 0>Nonsense...<Button><CR>
+!---------------------!
+Anyway,I'm arresting<LF>
+you under official<LF>
+rights.<Button><CR>
+!---------------------!
+We'll have time to<LF>
+talk about it all<LF>
+in detail later...<Button><CR>
+!---------------------!
+First,I will delete<LF>
+MegaMan...<Dly: 1 30 0>the<LF>
+root of these evils!<Button><CR>
+!---------------------!
+ProtoMan!<LF>
+Time for a little<LF>
+virus busting!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 74><0xF1: 0>...Huh!!<Button><EB>
+!*********************!

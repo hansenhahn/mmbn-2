@@ -1,0 +1,26 @@
+<@AbsoluteAddr 7867056>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>At last! The test...<LF>
+Makes me nervous...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Me too! Now you know<LF>
+why I hate studying?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>You're just trying<LF>
+to take the blame<LF>
+off yourself!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Not so. Come on!<LF>
+Let's take it!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Oh,Lan,you...!<LF>
+OK,I'm all set.<LF>
+Don't let me down!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Leave it to me!<Button><EB>
+!*********************!

@@ -1,0 +1,37 @@
+<@AbsoluteAddr 7937788>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Lan,look!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Huh? What?<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 46><0xF1: 0>Come over here!!<LF>
+This way you...<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 61><0xF1: 0>Forgive me...<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 62><0xF1: 0>Get them bones<LF>
+a walking!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 61><0xF1: 0>Ahhh.<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 64><0xF1: 0>Poor guy.<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Yeah.<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 64><0xF1: 0>C'mon Lan,let's get<LF>
+back home and catch<LF>
+up with everyone.<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 0><0xF1: 0>Yeah,let's tell<LF>
+everyone we're<LF>
+back.<Button><EB>
+!*********************!

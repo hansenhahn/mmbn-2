@@ -1,0 +1,49 @@
+<@AbsoluteAddr 7869548>
+<@PointerIdx0>
+<0xF1: 0><0xFA: 12><0xFA: 0 7 1>Bzzzzz!!!<Dly: 0 60 0><Button><CR>
+!---------------------!
+<0xFA: 8><Jmp: 0 1><@PointerIdx1>
+<Char: 0 2><0xF1: 0>Yo! Lan! Let's use<LF>
+that stuff we picked<LF>
+up on these bees!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 1><0xF1: 0>Which ones should<LF>
+we use?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 1 241 0><Arrow: 0 33><Pos: 0 2>Lighter<LF>
+<Arrow: 17 2><Pos: 0 2>Lighter+stick<LF>
+<Arrow: 34 16><Pos: 0 2>Lighter+stick+paper<CondJmp: 7 192 4 5 6>
+!---------------------!
+<0xff><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 2><0xF1: 0>The bees aren't<LF>
+gonna be scared of<LF>
+a little lighter!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx5>
+<Char: 0 2><0xF1: 0>I dunno,that stick<LF>
+might not catch fire<LF>
+with just that...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx6>
+<Char: 0 2><0xF1: 0>Right! We'll wrap<LF>
+the paper around the<LF>
+stick and light it!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 0><0xF1: 0>Take that,bees!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 7><0xF1: 0>Lan! Be careful!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 0><0xF1: 0><0xFA: 0 133 0><0xF8: 4 24>It worked!<Button><0xF8: 12><0xF8: 4 7><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 2><0xF1: 0>See! It pays to<LF>
+listen to the camp<LF>
+leader! Let's go!<Button><EB>
+!*********************!

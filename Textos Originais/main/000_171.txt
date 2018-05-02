@@ -1,0 +1,203 @@
+<@AbsoluteAddr 7969940>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Phew...<Dly: 1 30 0>Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Uh...<Dly: 1 30 0>uhh...<Dly: 1 30 0>hnn?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>Lan! Can you<LF>
+hear me?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<0xF8: 4 42><Char: 0 0><0xF1: 0>Mega...<Dly: 1 30 0>Man?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>You awake?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>I think so...<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 0><0xF1: 0>Did.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>we do it?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>You bet we did!<LF>
+Gospel's history!<Button><CR>
+!---------------------!
+Look! The servers<LF>
+have completely<LF>
+stopped!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<0xF2: 0 13 2><Char: 0 0><0xF1: 0>...<Dly: 1 30 0>You're right!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 0><0xF1: 0>Wait...<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 0><0xF1: 0>Hey! Are you OK?<LF>
+Hello? Can you hear<LF>
+me?<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 40><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>He doesn't look<LF>
+so good...<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 64><0xF1: 0>He was in the<LF>
+electromagnetic<LF>
+field the longest.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+!---------------------!
+Huh?<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 0><0xF1: 0>What?<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 64><0xF1: 0>There's something on<LF>
+the floor next to<LF>
+him...<Dly: 1 30 0>a book?<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 0><0xF1: 0>I'll check it out!<Button><EB>
+!*********************!
+<@PointerIdx17>
+<Char: 1 241 0>It was an old diary<LF>
+with one newspaper<LF>
+page stuck inside...<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 64><0xF1: 0>This news article is<LF>
+about that plane<LF>
+crash 5 years ago!<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 0><0xF1: 0>Right! There was a<LF>
+bug in the plane<LF>
+computer...<Button><CR>
+!---------------------!
+It was all over the<LF>
+news as the biggest<LF>
+netcrime ever!<Button><CR>
+!---------------------!
+<Jmp: 0 20><@PointerIdx20>
+<Char: 0 64><0xF1: 0>So what did this<LF>
+have to do with<LF>
+him?<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 0 0><0xF1: 0>Hmm...let's read<LF>
+the article.<Button><CR>
+!---------------------!
+<Jmp: 0 22><@PointerIdx22>
+<0xFA: 4 15 0><Char: 1 241 0>...They learned<LF>
+many things from<LF>
+that journal...<Button><CR>
+!---------------------!
+How the boy's<LF>
+parents had died in<LF>
+that plane crash...<Button><CR>
+!---------------------!
+How afterwards he<LF>
+had lived with his<LF>
+cruel relatives...<Button><CR>
+!---------------------!
+How his parents'<LF>
+fortune had brought<LF>
+him little joy...<Button><CR>
+!---------------------!
+How he had grown to<LF>
+distrust everyone<LF>
+but himself...<Button><CR>
+!---------------------!
+And,more than<LF>
+anything else,how<LF>
+lonely he was.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 23><@PointerIdx23>
+<Char: 0 64><0xF1: 0>Gee,Lan...<Dly: 1 30 0><LF>
+Why do I feel<LF>
+so sad now...?<Button><CR>
+!---------------------!
+<Jmp: 0 24><@PointerIdx24>
+<Char: 0 0><0xF1: 0>Me,too...<Button><CR>
+!---------------------!
+<Jmp: 0 25><@PointerIdx25>
+<Char: 0 64><0xF1: 0>These computers were<LF>
+the only thing that<LF>
+never betrayed him.<Button><CR>
+!---------------------!
+<Jmp: 0 26><@PointerIdx26>
+<Char: 0 0><0xF1: 0>Yeah...<Button><CR>
+!---------------------!
+He used them to play<LF>
+at being an adult,<LF>
+making Netfriends...<Button><CR>
+!---------------------!
+<Jmp: 0 27><@PointerIdx27>
+<Char: 0 64><0xF1: 0>And bringing them<LF>
+together to form...<LF>
+Gospel!<Button><CR>
+!---------------------!
+<Jmp: 0 28><@PointerIdx28>
+<Char: 0 0><0xF1: 0>All to get back at<LF>
+the real world that<LF>
+had forsaken him...<Button><EB>
+!*********************!
+<@PointerIdx29>
+<0xFA: 16><Char: 0 40><0xF1: 0>Uh...uhhhn...<Button><EB>
+!*********************!
+<@PointerIdx30>
+<Char: 0 0><0xF1: 0>Whoa! You're alive!<Button><CR>
+!---------------------!
+<Jmp: 0 31><@PointerIdx31>
+<0xF2: 4 14 2><Char: 0 40><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>!!!!<Button><EB>
+!*********************!
+<@PointerIdx32>
+<Char: 0 40><0xF1: 0>I...I'm finished!<LF>
+Do what you will<LF>
+with me!<Button><CR>
+!---------------------!
+There's no reason<LF>
+for me to live...<Dly: 1 30 0><LF>
+not anymore!<Button><EB>
+!*********************!
+<@PointerIdx33>
+<Char: 0 0><0xF1: 0>C'mon!<Dly: 1 30 0><LF>
+Everybody's got a<LF>
+reason to live!<Button><CR>
+!---------------------!
+<Jmp: 0 34><@PointerIdx34>
+<Char: 0 40><0xF1: 0>Not me! I hate this<LF>
+world! I want to<LF>
+die!<Button><CR>
+!---------------------!
+<Jmp: 0 35><@PointerIdx35>
+<Char: 0 0><0xF1: 0>No way!<Dly: 1 30 0> Of course,<LF>
+you will be punished<LF>
+for your crimes...<Button><CR>
+!---------------------!
+<Jmp: 0 36><@PointerIdx36>
+<Char: 0 40><0xF1: 0>See! Everybody<LF>
+hates me! <Button><CR>
+!---------------------!
+<Jmp: 0 37><@PointerIdx37>
+<Char: 0 0><0xF1: 0>But.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 38><@PointerIdx38>
+<Char: 0 40><0xF1: 0>What!<Button><CR>
+!---------------------!
+<Jmp: 0 39><@PointerIdx39>
+<Char: 0 0><0xF1: 0>Once you've atoned<LF>
+for what you did...<Button><CR>
+!---------------------!
+I promise,I'll be<LF>
+your first friend!<Button><EB>
+!*********************!
+<@PointerIdx40>
+<Char: 0 40><0xF1: 0>.<Dly: 0 30 0>.<Dly: 0 30 0>.<Dly: 0 30 0>.<Dly: 0 30 0>.<Dly: 0 30 0>.<Dly: 0 30 0>Whaaaaah!<Button><EB>
+!*********************!

@@ -1,0 +1,172 @@
+<@AbsoluteAddr 7924096>
+<@PointerIdx0>
+<Char: 1 241 0>A lot happened on<LF>
+my first overseas<LF>
+trip...<Button><CR>
+!---------------------!
+It was pretty rough,<LF>
+but at least it was<LF>
+memorable!<Button><CR>
+!---------------------!
+Bye for now,Netopia.<Button><CR>
+!---------------------!
+I'm sad to leave,<LF>
+but I'm sure I'll<LF>
+be back someday...<Button><CR>
+!---------------------!
+The plane will be<LF>
+landing in Electopia<LF>
+soon.<Button><CR>
+!---------------------!
+I was only gone<LF>
+for a little while,<LF>
+really...<Button><CR>
+!---------------------!
+But somehow it feels<LF>
+like it's been<LF>
+years.<Button><CR>
+!---------------------!
+I wonder what<LF>
+everyone's been<LF>
+doing.<Button><CR>
+!---------------------!
+I can't wait to<LF>
+see everyone again!<Button><CR>
+!---------------------!
+.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0><Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 2><0xF1: 0>Lan! We were waiting<LF>
+for you to get back!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 1><0xF1: 0>We all heard about<LF>
+your adventures in<LF>
+Netopia!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 7><0xF1: 0>......<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 2><0xF1: 0>What's wrong with<LF>
+with you?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 1><0xF1: 0>Yeah,Mayl. I thought<LF>
+you'd be happiest to<LF>
+see Lan back.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 7><0xF1: 0>W-Welcome back,Lan.<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Hey! Why the<LF>
+glum look,Mayl?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 1><0xF1: 0>She's been worried<LF>
+sick about you!<LF>
+You big dummy!<Button><0xF2: 0 7 2><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 7><0xF1: 0>I was sooo worried,<LF>
+Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>H-Hey! Not so close!<LF>
+Dex and everyone's<LF>
+watching! Hey!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 2><0xF1: 0>Whoo-hoo!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 1><0xF1: 0>Look at the two<LF>
+lovebirds!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 7><0xF1: 0>I'm never letting<LF>
+you go away again,<LF>
+Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 0><0xF1: 0>M...Mayl...<Button><EB>
+!*********************!
+<@PointerIdx15>
+<Char: 1 241 0>This is your captain<LF>
+speaking...<Button><CR>
+!---------------------!
+Our flight is<LF>
+currently on<LF>
+schedule.<Button><CR>
+!---------------------!
+We've crossed the<LF>
+international date<LF>
+line,which means...<Button><CR>
+!---------------------!
+We'll be arriving<LF>
+at DenCity airport<LF>
+at 7:45 AM,today.<Button><CR>
+!---------------------!
+I hope you enjoy<LF>
+the remainder of<LF>
+your flight.<Button><EB>
+!*********************!
+<@PointerIdx16>
+<Char: 0 0><0xF1: 0>Oh,Mayl..mrph...<LF>
+I am your captain<LF>
+speak...huh?<Button><CR>
+!---------------------!
+<0xF2: 0 8 2>Ah...eh? Huh?<LF>
+Where am I?<Button><EB>
+!*********************!
+<@PointerIdx17>
+<Char: 0 64><0xF1: 0>In the airplane,<LF>
+where else,sleepy-<LF>
+head!<Button><CR>
+!---------------------!
+You were...talking<LF>
+in your sleep,Lan!<LF>
+Heh-<Dly: 1 20 0>heh-<Dly: 1 20 0>heh.<Button><CR>
+!---------------------!
+"Mayl! Oh,Mayl!"<LF>
+I can't wait to<LF>
+tell everyone!<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 0><0xF1: 0>Hey! I didn't say<LF>
+anything,OK? So<LF>
+don't you dare...<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 64><0xF1: 0>Just kidding!<LF>
+You awake yet?<Button><CR>
+!---------------------!
+<Jmp: 0 20><@PointerIdx20>
+<Char: 0 0><0xF1: 0>Yeah,I think.<LF>
+What time is it,<LF>
+anyway?<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 0 64><0xF1: 0>11:30AM,it's almost<LF>
+time for lunch.<Button><CR>
+!---------------------!
+Hey,Lan! Let's ask<LF>
+if we can see the<LF>
+cockpit!<Button><CR>
+!---------------------!
+<Jmp: 0 22><@PointerIdx22>
+<Char: 0 0><0xF1: 0>I'm not so sure<LF>
+they'll just let<LF>
+us in like that.<Button><CR>
+!---------------------!
+<Jmp: 0 23><@PointerIdx23>
+<Char: 0 64><0xF1: 0>Sure they will!<LF>
+We just have to ask<LF>
+them really nicely.<Button><CR>
+!---------------------!
+<Jmp: 0 24><@PointerIdx24>
+<Char: 0 0><0xF1: 0>.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>Sure!<LF>
+Why not? We could<LF>
+tell everyone later!<Button><EB>
+!*********************!

@@ -1,0 +1,75 @@
+<@AbsoluteAddr 7861996>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Well? Can you get <LF>
+near the bath?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Wait a sec.<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 0><0xF1: 0>It's no use...<Dly: 1 30 0><LF>
+Still gassy.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Huh? But<LF>
+I can't find the<LF>
+ventilator program.<Button><CR>
+!---------------------!
+...<Dly: 1 30 0>Was that the<LF>
+ventilator program?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Darn,if only we had<LF>
+something to blow<LF>
+away this gas...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Lan! That's it!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>This morning...<LF>
+What Yai said!<LF>
+Remember!?<Button><CR>
+!---------------------!
+<Char: 1 239 0>w<Pos: 0 2>Of course!<LF>
+<Arrow: 17 2><Pos: 0 2>Uh...<LF>
+<Arrow: 34 16><Pos: 0 2>I spoke to Yai?<CondJmp: 7 128 8 9 12>
+!---------------------!
+<0xff><EB>
+!*********************!
+<@PointerIdx8>
+<Char: 0 0><0xF1: 0>I see! A fan!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx9>
+<Char: 0 0><0xF1: 0>Huh...What was it?<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 64><0xF1: 0>You know! A fan!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 0><0xF1: 0>...Oh right! That's<LF>
+it!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx12>
+<Char: 0 0><0xF1: 0>Um,did I talk to<LF>
+Yai this morning...?<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 64><0xF1: 0>You don't remember?<Dly: 1 30 0><LF>
+I heard Yai collects<LF>
+fans lately!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 0><0xF1: 0>A fan! That just<LF>
+might work!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 64><0xF1: 0>A fan...Must be <LF>
+one in this home!<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 0><0xF1: 0>Well I'll go search!<Button><EB>
+!*********************!

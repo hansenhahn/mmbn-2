@@ -1,0 +1,41 @@
+<@AbsoluteAddr 7853852>
+<@PointerIdx0>
+<Char: 0 18><Char: 2 1><0xFA: 24 249 0><0xF1: 0>Sir...<LF>
+...research on...<LF>
+final stage...last<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 10><0xF1: 0>What took...<LF>
+so long?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 18><Char: 2 1><0xF1: 0>Forgi...me<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 10><0xF1: 0>Hmph... ...delays<LF>
+...be punished!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 18><Char: 2 1><0xF1: 0>Sir! ...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 10><0xF1: 0>Just...get things<LF>
+started,will you?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 18><Char: 2 1><0xF1: 0>We will...rule<LF>
+the world,just<LF>
+like the WWW!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 10><0xF1: 0>Fool...!<LF>
+Not like the WWW...<LF>
+Don't...our "...!"<Button><CR>
+!---------------------!
+Begin...Projec...!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 18><Char: 2 1><0xF1: 0>Sir! <Dly: 1 15 0>.<Dly: 1 15 0>.<Dly: 1 15 0>.<Button><EB>
+!*********************!
+<@PointerIdx9>
+<@PointerIdx10>

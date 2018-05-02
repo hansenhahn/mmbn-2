@@ -1,0 +1,219 @@
+<@AbsoluteAddr 7950000>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Dad! We checked out<LF>
+Kotobuki Square!<Button><CR>
+!---------------------!
+<Char: 0 23><0xF1: 0>Lan...<Dly: 1 30 0><LF>
+I was...<Dly: 1 20 0>hoping<LF>
+you'd not be here.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Why not?<LF>
+After we helped out<LF>
+and everything!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 23><0xF1: 0>Ah...<Dly: 1 20 0>I'm sorry.<LF>
+Thank you,Lan.<Button><CR>
+!---------------------!
+It's just,I hoped<LF>
+you wouldn't be<LF>
+involved this time.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Why not?<Button><CR>
+!---------------------!
+I've been safe up<LF>
+till now...more or<LF>
+less...haven't I?<Button><CR>
+!---------------------!
+Well...<Dly: 1 15 0>There was<LF>
+that one time...and<LF>
+that other...<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 23><0xF1: 0>That's my boy!<Dly: 1 30 0><LF>
+No,you've been doing<LF>
+great all along...<Button><CR>
+!---------------------!
+Just,this time feels<LF>
+different somehow...<LF>
+I have a feeling...<Button><CR>
+!---------------------!
+this will be the<LF>
+final,and most<LF>
+difficult battle...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>What do you mean?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 23><0xF1: 0>Gospel has something<LF>
+up its sleeves...<Dly: 1 30 0><LF>
+I'm sure of it!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Something up its...<LF>
+But what!?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 23><0xF1: 0>If we knew,we could<LF>
+prepare for it...<Dly: 1 30 0><LF>
+I need more time.<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 23><0xF1: 0>...Well,be that as<LF>
+it may,you've both<LF>
+done a great job.<Button><CR>
+!---------------------!
+I'm going to explain<LF>
+what we know about<LF>
+Kotobuki Town...<Button><CR>
+!---------------------!
+So,Lan? MegaMan?<LF>
+I want you both to<LF>
+listen carefully!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 64><0xF1: 0>Right!<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 23><0xF1: 0>...In our research,<LF>
+we found something<LF>
+very strange...<Button><CR>
+!---------------------!
+Kotobuki Town is<LF>
+releasing electro-<LF>
+magnetic radiation.<Button><CR>
+!---------------------!
+We think the warping<LF>
+in Kotobuki Square<LF>
+is somehow related.<Button><CR>
+!---------------------!
+And it all stinks of<LF>
+Gospel. The town<LF>
+must be the real HQ!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>The Gospel main<LF>
+base...<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 64><0xF1: 0>How much radiation<LF>
+are we talking about<LF>
+here,Dr.Hikari?<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 23><0xF1: 0>I'd say about 10k<LF>
+times the usual<LF>
+radiation levels.<Button><CR>
+!---------------------!
+Of course,radiation<LF>
+at those levels is<LF>
+dangerous to humans.<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 64><0xF1: 0>I guess I'll be fine<LF>
+then,but what about<LF>
+Lan?<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 23><0xF1: 0>With that kind of<LF>
+dosage,you'd be one<LF>
+sick kid,for sure...<Button><CR>
+!---------------------!
+In a worst case<LF>
+scenario,you could<LF>
+even die...<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 0 0><0xF1: 0>But I have to go!<Dly: 1 30 0><LF>
+Dad,isn't there<LF>
+anything you can do?<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 23><0xF1: 0>Well,we thought of<LF>
+a few things to help<LF>
+you out.<Button><CR>
+!---------------------!
+Two,to be exact.<LF>
+First,you'll get<LF>
+to Kotobuki Town...<Button><CR>
+!---------------------!
+...on the unopened<LF>
+Kotobuki Metroline.<Button><CR>
+!---------------------!
+We've made a special<LF>
+car that will absorb<LF>
+some radiation.<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 64><0xF1: 0>How about once we<LF>
+get there?<Button><CR>
+!---------------------!
+<Jmp: 0 20><@PointerIdx20>
+<Char: 0 23><0xF1: 0>Right,we've also<LF>
+made a special<LF>
+shielded "MagSuit".<Button><CR>
+!---------------------!
+The suit will shield<LF>
+you at levels up to<LF>
+50k times normal.<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 0 0><0xF1: 0>And then we can<LF>
+hit Gospel where it<LF>
+hurts the most!<Button><CR>
+!---------------------!
+<Jmp: 0 22><@PointerIdx22>
+<Char: 0 23><0xF1: 0>That's right...<Dly: 1 30 0>But<LF>
+still,I'd rather<LF>
+that it wasn't you.<Button><CR>
+!---------------------!
+<Jmp: 0 23><@PointerIdx23>
+<0xFA: 4 16 0><Char: 0 0><0xF1: 0>But I want to<LF>
+do it,Dad!<Button><CR>
+!---------------------!
+<Jmp: 0 24><@PointerIdx24>
+<Char: 0 23><0xF1: 0>But,Lan! It's<LF>
+too dangerous!<Button><CR>
+!---------------------!
+<Jmp: 0 25><@PointerIdx25>
+<Char: 0 0><0xF1: 0>Then wouldn't it be<LF>
+harder for you to<LF>
+ask someone else?<Button><CR>
+!---------------------!
+And...even if...<Dly: 1 30 0><LF>
+I didn't make it...<Button><CR>
+!---------------------!
+At least you'd know<LF>
+what it was I'd died<LF>
+fighting for!<Button><CR>
+!---------------------!
+And...<Dly: 1 30 0>My brother,<LF>
+<Dly: 1 30 0>MegaMan,will be<LF>
+there to protect me!<Button><EB>
+!*********************!
+<@PointerIdx26>
+<Char: 0 23><0xF1: 0>Lan...<Dly: 1 30 0>Your Mom's<LF>
+right. You've really<LF>
+grown.<Button><CR>
+!---------------------!
+Okay,you win. Here's<LF>
+a "KotoPass" and a<LF>
+"MagSuit"...<Button><CR>
+!---------------------!
+<Jmp: 0 27><@PointerIdx27>
+<Char: 1 241 0><0xF8: 4 24><0xFA: 0 133 0>Lan got:<LF>
+"<ItemTbl: 0 41 0>!!"<0xF8: 12><0xF8: 16><Button><CR>
+!---------------------!
+<0xF8: 4 24><0xFA: 0 133 0>Lan got:<LF>
+"<ItemTbl: 0 42 0>!!"<Button><0xF8: 12><0xF8: 16><Button><EB>
+!*********************!
+<@PointerIdx28>
+<Char: 0 0><0xF1: 0>Well,I'm off!<Button><CR>
+!---------------------!
+<Jmp: 0 29><@PointerIdx29>
+<Char: 0 23><0xF1: 0>Lan,<LF>
+be careful!<Button><EB>
+!*********************!

@@ -1,0 +1,84 @@
+<@AbsoluteAddr 7929016>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>I found a doctor!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 15><0xF1: 0>That should<LF>
+do the trick.<Button><CR>
+!---------------------!
+<0xFA: 4 11 0><Jmp: 0 2><@PointerIdx2>
+<0xF2: 0 8 2><Char: 0 58><0xF1: 0>Is he going to be<LF>
+all right,doctor?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 15><0xF1: 0>I think so,but he<LF>
+should rest until<LF>
+we reach Electopia.<Button><CR>
+!---------------------!
+He appears to be<LF>
+in shock from the<LF>
+poison...<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 58><0xF1: 0>He was bitten<LF>
+by a spider...<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 15><0xF1: 0>A poisonous spider<LF>
+on the plane! Why<LF>
+didn't you tell us!?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 58><0xF1: 0>Sorry,sir! You see,<LF>
+we didn't know it<LF>
+was poisonous...<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 15><0xF1: 0>...Well,no point<LF>
+picking on the<LF>
+stewardess,now...<Button><CR>
+!---------------------!
+First things first,<LF>
+we've got to catch<LF>
+that spider!<Button><CR>
+!---------------------!
+Except I have to<LF>
+look after this<LF>
+patient...<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Then I'll go<LF>
+catch the spider!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 15><0xF1: 0>You'll...catch<LF>
+the spider? The<LF>
+POISONous spider?<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>No problem! The bug<LF>
+guy can help me<LF>
+find him!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 15><0xF1: 0>OK,you're on the<LF>
+job! And,try to<LF>
+be discreet...<Button><CR>
+!---------------------!
+If people find out<LF>
+there's going to be<LF>
+mass panic!<Button><CR>
+!---------------------!
+And panic means<LF>
+lots of injuries,<LF>
+so be careful!<Button><CR>
+!---------------------!
+I'll be looking<LF>
+after the patient<LF>
+in the back.<Button><CR>
+!---------------------!
+Good luck,kid!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>Right-on!<Button><EB>
+!*********************!

@@ -1,0 +1,37 @@
+<@AbsoluteAddr 7932784>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>MegaMan,search out<LF>
+the right wing<LF>
+program.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Gotcha!<LF>
+<0xF2: 0 7 2>...Uwhaaa!!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 0><0xF1: 0>What's up,MegaMan!?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>The magnetic force<LF>
+inside the airplane<LF>
+is incredible!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 0><0xF1: 0>MegaMan,you okay!?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<0xF2: 4 7 2><Char: 0 64><0xF1: 0>Fine but my body is<LF>
+being overwhelmed by<LF>
+the magnetic force.<Button><CR>
+!---------------------!
+The airplane might<LF>
+also be affected by<LF>
+the magnetic force.<Button><CR>
+!---------------------!
+But there's no other<LF>
+way! Lan,you handle<LF>
+the routines!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>I'm on it!!<Button><EB>
+!*********************!

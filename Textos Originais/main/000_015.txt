@@ -1,0 +1,87 @@
+<@AbsoluteAddr 7861040>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Ventilator! Move!<Button><CR>
+!---------------------!
+<0xF1: 1><Dly: 0 60 0><Jmp: 0 1><@PointerIdx1>
+<Char: 1 241 0>Wh.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0><0xFA: 0 167 0><0xFA: 12>Whirrrrr!<0xFA: 8><Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 64><0xF1: 0>Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<0xFA: 16><Char: 0 0><0xF1: 0>Yeah! I did it!<Dly: 1 30 0><LF>
+The ventilator by<LF>
+Dex's feet started!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Hurry and help Dex!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>I'm on it!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 0><0xF1: 0>Hey! <Dly: 1 30 0>Dex! <Dly: 1 30 0>Hang tough!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 2><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Yeah..<Dly: 1 30 0>Uh..<Dly: 1 30 0>Uh<Dly: 1 30 0><Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Dex! Wake up!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 76><0xF1: 0>Dexxxxx! <Dly: 1 30 0>Guts!!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 2><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Guts..<Dly: 1 30 0>GutsMan...<Dly: 1 30 0><LF>
+Oh...<Dly: 1 30 0><LF>
+Ah...<Dly: 1 30 0>Uhhhh <Dly: 1 30 0><Button><CR>
+!---------------------!
+Ahhhh that was rough.<LF>
+But,I'm...<Dly: 1 30 0>OK now...<Button><EB>
+!*********************!
+<@PointerIdx11>
+<0xFA: 4 14 0><Char: 0 2><0xF1: 0>Sorry...<Dly: 1 30 0>Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>No prob!!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 2><0xF1: 0>But,I can't be<LF>
+indebted to you.<Dly: 1 30 0><LF>
+Hey! GutsMan!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 76><0xF1: 0>???! Dex!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 2><0xF1: 0>We're going to unlo-<LF>
+ck the door so Lan<LF>
+can get out anytime!<Button><CR>
+!---------------------!
+Okay! Jack out!<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 76><0xF1: 0>YEEEHAAAAW!<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 0 2><0xF1: 0>This place...<Dly: 1 30 0>I'm<LF>
+leavin' up to you!<Button><EB>
+!*********************!
+<@PointerIdx18>
+<Char: 0 0><0xF1: 0>Dex.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 64><0xF1: 0>Lan! No time for<LF>
+contemplation!<LF>
+Yai is still...!<Button><CR>
+!---------------------!
+<Jmp: 0 20><@PointerIdx20>
+<Char: 0 0><0xF1: 0>Yeah! I know!<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 0 64><0xF1: 0>I'll look for<LF>
+the other switches!<Button><CR>
+!---------------------!
+<Jmp: 0 22><@PointerIdx22>
+<Char: 0 0><0xF1: 0>Let's go!<Button><EB>
+!*********************!

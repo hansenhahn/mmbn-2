@@ -1,0 +1,718 @@
+<@PointerIdx0>
+<0xF3: 4 64 72 121 255><0xF3: 4 40 47 15 255><0xF2: 0 26 2><Char: 0 71><0xF1: 0>I saw a thug Navi<LF>
+leaving the Square.<Button><CR>
+!---------------------!
+I heard him saying<LF>
+that he's busy and<LF>
+has a meeting...<Button><EB>
+!*********************!
+<@PointerIdx1>
+<0xF3: 4 40 47 16 255><Char: 0 70><0xF1: 0>Are you looking for<LF>
+your passport?<Button><CR>
+!---------------------!
+I think I saw a thug<LF>
+Navi with a<LF>
+passport...<Button><EB>
+!*********************!
+<@PointerIdx2>
+<0xF3: 4 64 72 122 255><Char: 0 66><0xF1: 0>Security in Netopia<LF>
+is stronger because<LF>
+of the meeting.<Button><CR>
+!---------------------!
+That's why so many<LF>
+programs like us<LF>
+were made.<Button><CR>
+!---------------------!
+See any bad guys?<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 66><0xF1: 0>A stranger...<LF>
+<Dly: 1 15 0>Are you a bad Navi?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 128 4 255 255>
+!---------------------!
+Whew! I'm relieved.<Button><EB>
+!*********************!
+<@PointerIdx4>
+<0xF3: 4 64 72 121 255><Char: 0 66><0xF1: 0>Bad Navis aren't<LF>
+allowed here now!!<LF>
+<Dly: 1 15 0>P-please leave!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<0xF3: 4 64 72 124 255><Char: 0 66><0xF1: 0>I've caught five<LF>
+criminals already<LF>
+this time.<Button><CR>
+!---------------------!
+And I think my co-<LF>
+workers are working<LF>
+as hard as I am.<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 71><0xF1: 0>Even with tight<LF>
+security,bad guys<LF>
+still pop up...<Button><EB>
+!*********************!
+<@PointerIdx7>
+<0xF3: 4 64 72 120 255><Char: 0 66><0xF1: 0>Hello,hello!!<Button><CR>
+!---------------------!
+Welcome to the<LF>
+NetSquare!<Button><EB>
+!*********************!
+<@PointerIdx8>
+<0xF3: 4 61 61 112 255><0xF3: 4 58 60 95 255><Char: 0 73><0xF1: 0>It's fun,but close<LF>
+to the Undernet,so<LF>
+bad guys show up.<Button><EB>
+!*********************!
+<@PointerIdx9>
+<@PointerIdx10>
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<Char: 0 71><0xF1: 0>I can't believe you<LF>
+fought that thug<LF>
+Navi...<Button><CR>
+!---------------------!
+You're ProtoMan,<LF>
+aren't you? You're<LF>
+famous in Netopia!<Button><EB>
+!*********************!
+<@PointerIdx16>
+<Char: 0 70><0xF1: 0>Was that your pass-<LF>
+port? I'm glad you<LF>
+got it back.<Button><EB>
+!*********************!
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<0xF3: 4 56 56 73 255><Char: 0 70><0xF1: 0>Hey,YOU!! You<LF>
+speaky Netopian?<Button><CR>
+!---------------------!
+Just kidding. I come<LF>
+from Electopia.<Button><CR>
+!---------------------!
+Seems there are more<LF>
+Electopian Navis<LF>
+than I thought.<Button><EB>
+!*********************!
+<@PointerIdx66>
+<0xF3: 4 61 61 113 255><0xF3: 4 60 60 101 255><0xF3: 4 56 57 80 255><Char: 0 70><0xF1: 0>Have you ever been<LF>
+to the Undernet?<Button><CR>
+!---------------------!
+I've never been<LF>
+there,but I heard<LF>
+it's scary.<Button><EB>
+!*********************!
+<@PointerIdx67>
+<0xF3: 4 61 61 111 255><0xF3: 4 58 60 94 255><0xF3: 4 56 57 81 255><Char: 0 71><0xF1: 0>About that regular<LF>
+customer whose name<LF>
+is Millions...<Button><CR>
+!---------------------!
+I heard she looks<LF>
+young but she's<LF>
+actually very old.<Button><EB>
+!*********************!
+<@PointerIdx68>
+<Char: 0 70><Char: 2 1><0xF1: 0>The technology in<LF>
+Netopia is more<LF>
+advanced...<Button><CR>
+!---------------------!
+But it isn't as<LF>
+intricate as stuff<LF>
+made in Electopia.<Button><CR>
+!---------------------!
+If Electopia and<LF>
+Netopia cooperate...<Button><CR>
+!---------------------!
+I bet we could<LF>
+create an amazing<LF>
+Navi.<Button><EB>
+!*********************!
+<@PointerIdx69>
+<0xF3: 4 56 57 79 255><Char: 0 66><0xF1: 0>We've returned to<LF>
+normal security<LF>
+measures.<Button><CR>
+!---------------------!
+Now our day-to-day<LF>
+work is preventing<LF>
+crime.<Button><EB>
+!*********************!
+<@PointerIdx70>
+<0xF3: 4 61 61 104 255><0xF3: 4 58 60 96 255><0xF3: 4 56 57 82 255><Char: 0 66><0xF1: 0>Are you the MegaMan<LF>
+who fixed the<LF>
+problem before?<Button><CR>
+!---------------------!
+You and ProtoMan are<LF>
+famous among us<LF>
+security programs.<Button><EB>
+!*********************!
+<@PointerIdx71>
+<0xF3: 4 61 61 105 255><0xF3: 4 58 60 97 255><0xF3: 4 56 57 83 255><Char: 0 66><0xF1: 0>There are programs<LF>
+similar to us in<LF>
+Electopia.<Button><CR>
+!---------------------!
+I'd like to see a<LF>
+world conference for<LF>
+all programs held.<Button><EB>
+!*********************!
+<@PointerIdx72>
+<0xF3: 4 61 61 106 255><0xF3: 4 58 60 98 255><0xF3: 4 56 57 84 255><Char: 0 66><0xF1: 0>It's too dangerous<LF>
+to lower my guard<LF>
+right now...<Button><EB>
+!*********************!
+<@PointerIdx73>
+<Char: 0 70><0xF1: 0>What a mess,huh?<Button><CR>
+!---------------------!
+Earthquakes keep<LF>
+hitting Electopia.<LF>
+Sounds scary!<Button><EB>
+!*********************!
+<@PointerIdx74>
+<@PointerIdx75>
+<0xF3: 0 126 2 76 255><Char: 0 70><0xF1: 0>I heard the real<LF>
+world is in trouble.<Button><EB>
+!*********************!
+<@PointerIdx76>
+<0xF3: 0 129 2 78 255><0xF3: 0 128 2 77 255><0xF2: 0 128 2><Char: 0 70><0xF1: 0>The keyword to call<LF>
+for the Doc?<Button><CR>
+!---------------------!
+.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>Well,<LF>
+I heard my friend<LF>
+knows it...<Button><CR>
+!---------------------!
+Where is he now?<Button><CR>
+!---------------------!
+I think he left for<LF>
+the Net to buy a<LF>
+chip.<Button><CR>
+!---------------------!
+I don't think he<LF>
+went too far.<Button><EB>
+!*********************!
+<@PointerIdx77>
+<Char: 0 70><0xF1: 0>I think he's at a<LF>
+store on the Net.<Button><EB>
+!*********************!
+<@PointerIdx78>
+<Char: 0 70><0xF1: 0>He took your chip?<LF>
+Ha-ha! He's famous<LF>
+for being greedy!<Button><EB>
+!*********************!
+<@PointerIdx79>
+<Char: 0 66><0xF1: 0>This time,something<LF>
+went wrong on the<LF>
+Net.<Button><CR>
+!---------------------!
+My co-workers have<LF>
+left to investigate.<Button><CR>
+!---------------------!
+But don't worry.<LF>
+I may not look like<LF>
+it...<Button><CR>
+!---------------------!
+But I'm a tough one.<LF>
+They call me the<LF>
+"Tiger of Netopia".<Button><EB>
+!*********************!
+<@PointerIdx80>
+<Char: 0 70><0xF1: 0>Is Electopia covered<LF>
+with ice,just like<LF>
+the Net?<Button><EB>
+!*********************!
+<@PointerIdx81>
+<Char: 0 71><0xF1: 0>I saw programs and<LF>
+Navis...<Button><CR>
+!---------------------!
+...that were trapped<LF>
+along the way.<Button><CR>
+!---------------------!
+Their lives are in<LF>
+danger. They need to<LF>
+be rescued soon.<Button><EB>
+!*********************!
+<@PointerIdx82>
+<Char: 0 66><0xF1: 0>We have a system<LF>
+for attacking<LF>
+intruders,but...<Button><CR>
+!---------------------!
+We aren't capable of<LF>
+breaking the ice.<Button><CR>
+!---------------------!
+There's nothing we<LF>
+can do.<Button><EB>
+!*********************!
+<@PointerIdx83>
+<Char: 0 66><0xF1: 0>The ice is covering<LF>
+the Net,and programs<LF>
+can't run properly.<Button><CR>
+!---------------------!
+So the Net's frozen.<Button><CR>
+!---------------------!
+Is there any way to<LF>
+solve this problem?<Button><EB>
+!*********************!
+<@PointerIdx84>
+<Char: 0 66><0xF1: 0>The damage keeps on<LF>
+spreading. Even<LF>
+now...<Button><CR>
+!---------------------!
+Somebody! Please!<LF>
+Do something...<Button><EB>
+!*********************!
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<0xF3: 4 61 61 110 255><0xF3: 4 60 60 100 255><0xF3: 0 17 7 91 255><Char: 0 70><Char: 2 1><0xF1: 0><Jmp: 0 91><@PointerIdx91>
+<0xF6: 3 68 1 93 93 255><Char: 0 70><Char: 2 1><0xF1: 0>Hey,great to see you<LF>
+again!<Button><CR>
+!---------------------!
+You're looking for a<LF>
+key? For where?<Button><CR>
+!---------------------!
+The gate at Den Area?<Button><CR>
+!---------------------!
+The gate that leads<LF>
+to Kotobuki,huh? I<LF>
+can make one.<Button><CR>
+!---------------------!
+Hold on a sec...<Button><CR>
+!---------------------!
+<0xFA: 12><0xFA: 0 10 1>Rattle...<0xFA: 0 9 1>Ka-ching!<Button><CR>
+!---------------------!
+<0xFA: 8>Here it is! I owe<LF>
+you one,so take it!<Button><CR>
+!---------------------!
+<Jmp: 0 92><@PointerIdx92>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 68 1>MegaMan got:<LF>
+"<ItemTbl: 0 68 0>!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
+!*********************!
+<@PointerIdx93>
+<Char: 0 70><Char: 2 1><0xF1: 0>Don't tell anyone<LF>
+I gave you the key.<Button><CR>
+!---------------------!
+I'd be in trouble.<Button><EB>
+!*********************!
+<@PointerIdx94>
+<Char: 0 71><0xF1: 0>All of the Navis<LF>
+that were here were<LF>
+jacked out.<Button><CR>
+!---------------------!
+Maybe the Operators<LF>
+evacuated them<LF>
+before the attack...<Button><EB>
+!*********************!
+<@PointerIdx95>
+<Char: 0 73><0xF1: 0>I bet the bad guys<LF>
+from the Undernet<LF>
+are behind this...<Button><EB>
+!*********************!
+<@PointerIdx96>
+<Char: 0 66><0xF1: 0>I think it's safe<LF>
+inside the Square,<LF>
+but...<Button><CR>
+!---------------------!
+You should<LF>
+jack out.<LF>
+Just in case.<Button><EB>
+!*********************!
+<@PointerIdx97>
+<Char: 0 66><0xF1: 0>We'll protect the<LF>
+Square,no matter<LF>
+what happens.<Button><EB>
+!*********************!
+<@PointerIdx98>
+<Char: 0 66><0xF1: 0>The order to go to<LF>
+high alert is so<LF>
+common these days.<Button><CR>
+!---------------------!
+The world's in<LF>
+that much trouble,<LF>
+I guess...<Button><EB>
+!*********************!
+<@PointerIdx99>
+<@PointerIdx100>
+<Char: 0 70><Char: 2 1><0xF1: 0>The world is in<LF>
+trouble,isn't it?<Button><EB>
+!*********************!
+<@PointerIdx101>
+<Char: 0 70><0xF1: 0>W-what's going to<LF>
+happen to the world?<Button><EB>
+!*********************!
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<Char: 0 66><0xF1: 0>I must update myself<LF>
+so that I can deal<LF>
+with disasters!!<Button><EB>
+!*********************!
+<@PointerIdx105>
+<Char: 0 66><0xF1: 0>I may sound down on<LF>
+myself,but...<Button><CR>
+!---------------------!
+A world that is<LF>
+totally controlled by<LF>
+programs...<Button><CR>
+!---------------------!
+Sounds like a very<LF>
+dangerous place.<Button><EB>
+!*********************!
+<@PointerIdx106>
+<Char: 0 66><0xF1: 0>We are the programs<LF>
+that protect the<LF>
+Net.<Button><CR>
+!---------------------!
+If we start attack-<LF>
+ing others...<Button><CR>
+!---------------------!
+There won't be any<LF>
+difference between<LF>
+the viruses and us.<Button><EB>
+!*********************!
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<Char: 0 70><Char: 2 1><0xF1: 0>Was my key handy?<Button><EB>
+!*********************!
+<@PointerIdx111>
+<Char: 0 71><0xF1: 0>I heard Gospel was<LF>
+behind things again.<Button><CR>
+!---------------------!
+I'm starting to<LF>
+realize how fragile<LF>
+the cyberworld is...<Button><EB>
+!*********************!
+<@PointerIdx112>
+<Char: 0 73><0xF1: 0>It was nothing to do<LF>
+with those Undernet<LF>
+guys,after all...<Button><EB>
+!*********************!
+<@PointerIdx113>
+<Char: 0 70><0xF1: 0>The world disaster<LF>
+is over,right?<Button><CR>
+!---------------------!
+That's great!<Button><EB>
+!*********************!
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<Char: 0 66><0xF1: 0>Hello? Hello!!<Button><CR>
+!---------------------!
+My duty is greeting<LF>
+people with my big<LF>
+smile!<Button><EB>
+!*********************!
+<@PointerIdx121>
+<Char: 0 71><0xF1: 0>Don't you think this<LF>
+place always gets<LF>
+into trouble?<Button><EB>
+!*********************!
+<@PointerIdx122>
+<Char: 0 66><0xF1: 0>See there any bad<LF>
+guys?<Dly: 1 15 0> Any of<LF>
+Gospel's followers?<Button><EB>
+!*********************!
+<@PointerIdx123>
+<Char: 0 73><0xF1: 0>My boss's great<LF>
+grandfather was a<LF>
+cowboy.<Button><CR>
+!---------------------!
+So that's why I'm<LF>
+customized to be<LF>
+a quick shot.<Button><EB>
+!*********************!
+<@PointerIdx124>
+<Char: 0 66><0xF1: 0>I have arrested<LF>
+1286 criminals<LF>
+so far.<Button><EB>
+!*********************!
+<@PointerIdx125>
+<Char: 0 70><Char: 2 1><0xF1: 0>He left for virus<LF>
+busting and hasn't<LF>
+come back yet.<Button><CR>
+!---------------------!
+My boss told me to<LF>
+jack out,but I'm<LF>
+worried about him.<Button><CR>
+!---------------------!
+Navis can fall in<LF>
+love too. Right?<Button><EB>
+!*********************!
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<0xF3: 8 10 255 182><Char: 0 70><0xF1: 0>I'm a Netdealer...<LF>
+Want to take a look?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 0 255 181 255>
+!---------------------!
+<0xFB: 20 10><@PointerIdx181>
+<CR>
+!---------------------!
+Please come again!<Button><EB>
+!*********************!
+<@PointerIdx182>
+<Char: 0 70><0xF1: 0>I'm a Netdealer,but<LF>
+I'm all sold out...<Button><EB>
+!*********************!
+<@PointerIdx183>
+<0xF3: 8 11 255 185><Char: 0 71><0xF1: 0>I'm a subchipdealer.<LF>
+Wanna see my wares?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 0 255 184 255>
+!---------------------!
+<0xFB: 20 11><@PointerIdx184>
+<CR>
+!---------------------!
+Please come again.<Button><EB>
+!*********************!
+<@PointerIdx185>
+<Char: 0 71><0xF1: 0>I'm a subchip<LF>
+dealer,but I'm sold<LF>
+out...<Button><EB>
+!*********************!
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 8 1 193 255><0xF3: 0 7 1 194 255><0xF2: 0 7 1><Char: 0 71><0xF1: 0>Hi there!<LF>
+How do you do?<Button><CR>
+!---------------------!
+I'm sorry to ask you<LF>
+right off the bat,<LF>
+but...<Button><CR>
+!---------------------!
+Do you have a chip<LF>
+called "<ItemTbl: 0 84 1> <ItemTbl: 0 25 3>?"<Button><CR>
+!---------------------!
+If you do,I'd like<LF>
+to trade my<LF>
+"<ItemTbl: 0 119 1> <ItemTbl: 0 21 3>" for it.<Button><CR>
+!---------------------!
+Want to trade?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes! <Arrow: 0 17><Pos: 0 2>Sorry<CondJmp: 6 128 191 255 255>
+!---------------------!
+I figured. We just<LF>
+met and everything.<LF>
+But no worries...<Button><CR>
+!---------------------!
+Please talk to me<LF>
+again sometime...<Button><EB>
+!*********************!
+<@PointerIdx191>
+" o0<0xff><0xff><0xc3><0xF2: 0 8 1>" o0<Char: 0 71><0xF1: 0>Are you sure you<LF>
+want to trade?<Button><CR>
+!---------------------!
+I'm so excited!<LF>
+Here's what I've<LF>
+got for you!<Button><CR>
+!---------------------!
+<Jmp: 0 192><@PointerIdx192>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 16 119 0 21 1>MegaMan got a<LF>
+chip for<LF>
+"<ItemTbl: 0 119 1> <ItemTbl: 0 21 3>!!"<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx193>
+<Char: 0 71><0xF1: 0>Thanks for trading<LF>
+chips...<Button><CR>
+!---------------------!
+We're friends<LF>
+now,right?<Button><CR>
+!---------------------!
+Hee-hee!<Button><EB>
+!*********************!
+<@PointerIdx194>
+<Char: 0 71><0xF1: 0>Hey,we're friends<LF>
+now,right?<Button><CR>
+!---------------------!
+If it's possible...<Button><CR>
+!---------------------!
+I want to trade my<LF>
+"<ItemTbl: 0 119 1> <ItemTbl: 0 21 3>" for<LF>
+your "<ItemTbl: 0 84 1> <ItemTbl: 0 25 3>".<Button><CR>
+!---------------------!
+Please,my friend!<LF>
+<Arrow: 17 0><Pos: 0 2>Sure <Arrow: 0 17><Pos: 0 2>Back off<CondJmp: 6 128 191 255 255>
+!---------------------!
+Sorry! I apologize<LF>
+if I made you<LF>
+upset!<Button><CR>
+!---------------------!
+So let's talk again<LF>
+sometime!!<Button><EB>
+!*********************!
+<@PointerIdx195>
+<Char: 0 71><0xF1: 0>I can't find your<LF>
+"<ItemTbl: 0 84 1> <ItemTbl: 0 25 3>".<Button><CR>
+!---------------------!
+Do you happen to<LF>
+have it in your<LF>
+folder?<Button><CR>
+!---------------------!
+I can't trade you<LF>
+unless you have it<LF>
+in your pack.<Button><EB>
+!*********************!
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<Jmp: 0 183><@PointerIdx221>
+<Jmp: 0 180><@PointerIdx222>
+<@PointerIdx223>
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

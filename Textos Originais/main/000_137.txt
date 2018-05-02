@@ -1,0 +1,153 @@
+<@AbsoluteAddr 7939704>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Dad,trouble!!<LF>
+Roll has gone<LF>
+missing on the Net!<Button><CR>
+!---------------------!
+And,strange icy<LF>
+things have been<LF>
+falling...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 23><0xF1: 0>Roll MIA...<LF>
+That ice is probably<LF>
+the cause...<Button><CR>
+!---------------------!
+I checked out the<LF>
+Net and discovered<LF>
+something terrible.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>What do you mean<LF>
+"something<LF>
+terrible?"<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 23><0xF1: 0>Natural disasters<LF>
+are occurring all<LF>
+over the world.<Button><CR>
+!---------------------!
+While it's not well<LF>
+known,each nation's<LF>
+environment is...<Button><CR>
+!---------------------!
+controlled by an<LF>
+"Environment System"<LF>
+to prevent...<Button><CR>
+!---------------------!
+natural disasters<LF>
+from taking place.<Button><CR>
+!---------------------!
+But,the ice is a<LF>
+special virus that<LF>
+has frozen the...<Button><CR>
+!---------------------!
+Net and the<LF>
+Environment System.<Button><CR>
+!---------------------!
+<0xFA: 4 13 0><Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>A virus? That ice?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 23><0xF1: 0>Most of the official<LF>
+Navis were taken out<LF>
+in the Removal Ops.<Button><CR>
+!---------------------!
+It's just that<LF>
+dangerous of a<LF>
+virus.<Button><CR>
+!---------------------!
+The ice virus has<LF>
+four forms:white,<LF>
+red,blue and yellow.<Button><CR>
+!---------------------!
+A special cure is<LF>
+required to remove<LF>
+the ice.<Button><CR>
+!---------------------!
+The only cure we can<LF>
+create...<Button><CR>
+!---------------------!
+is "<ItemTbl: 0 35 0>",which<LF>
+breaks red ice.<Button><CR>
+!---------------------!
+But we need sample<LF>
+data from a red-ice<LF>
+virus to make it!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>A sample? Something<LF>
+like this?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 1 241 0><0xF6: 1 34 1>Lan gave his dad:<LF>
+"<ItemTbl: 0 34 0>!!"<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 23><0xF1: 0>With this I can make<LF>
+"<ItemTbl: 0 35 0>".<LF>
+Hold on a sec.<Button><CR>
+!---------------------!
+<0xF2: 0 8 2><Char: 3 0><0xFA: 12><0xFA: 0 10 1>click-click<0xFA: 8><Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 23><0xF1: 0>Done!!<Button><0xF2: 4 8 2><Jmp: 0 10><@PointerIdx10>
+<Char: 0 23><0xF1: 0>"<ItemTbl: 0 35 0>"<LF>
+is complete!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 1 241 0><0xFA: 0 133 0><0xF8: 4 24>Lan got:<LF>
+"<ItemTbl: 0 35 0>!!"<0xF8: 12><0xF8: 4 1><Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 23><0xF1: 0>If you don't hurry<LF>
+and remove all the<LF>
+ice on the Net...<Button><CR>
+!---------------------!
+Nature's power that<LF>
+has been suppressed<LF>
+by programs for...<Button><CR>
+!---------------------!
+decades will sudden-<LF>
+ly be unleashed,des-<LF>
+troying the world!<Button><CR>
+!---------------------!
+I'll go and fix the<LF>
+Environment System.<Button><CR>
+!---------------------!
+I won't be back<LF>
+for a while.<Button><CR>
+!---------------------!
+I'll leave the<LF>
+ice viruses to<LF>
+you.<Button><CR>
+!---------------------!
+I'm leaving an<LF>
+important duty<LF>
+in your hands...<Button><CR>
+!---------------------!
+But I believe we<LF>
+can pull this off<LF>
+together.<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 0><0xF1: 0>Leave it to me,Dad!<LF>
+We'll protect the<LF>
+world together!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 23><0xF1: 0>Go to it son!<Button><CR>
+!---------------------!
+I'll go see about<LF>
+the Environment<LF>
+System.<Button><CR>
+!---------------------!
+Good luck,Lan<LF>
+and MegaMan!<Button><0xF2: 0 8 2><EB>
+!*********************!
+<@PointerIdx15>
+<Char: 0 64><0xF1: 0>Lan,let's hurry!<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 0><0xF1: 0>Okay!<Button><EB>
+!*********************!

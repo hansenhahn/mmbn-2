@@ -1,0 +1,419 @@
+<@PointerIdx0>
+<0xF3: 4 64 72 60 255><Char: 0 53><0xF1: 0>Welcome to Net<LF>
+Castle. A symbol of<LF>
+our Netopia history.<Button><CR>
+!---------------------!
+Netopia has always<LF>
+lead the way in<LF>
+civilization.<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 6><0xF1: 0>Hmph...<Button><EB>
+!*********************!
+<@PointerIdx2>
+<0xF3: 4 64 72 61 255><Char: 0 49><0xF1: 0>Me's a Netopian...<Button><CR>
+!---------------------!
+First time out of<LF>
+the country. So this<LF>
+be the city. Shucks!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<0xF2: 0 33 2><Char: 0 51><0xF1: 0>By jove...<LF>
+You look like a pal<LF>
+I know that much.<Button><CR>
+!---------------------!
+I already found the<LF>
+hidden passage to<LF>
+the meeting area.<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 14><0xF1: 0>Been touring the<LF>
+castle since<LF>
+morning too boy?<Button><EB>
+!*********************!
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<Char: 0 18><0xF1: 0>The castle is amazing<LF>
+I've got lots to<LF>
+tell my friends.<Button><EB>
+!*********************!
+<@PointerIdx31>
+<Char: 0 17><0xF1: 0>W,wow wow!<LF>
+Castle! Castle!<LF>
+Whaaaa!<Button><EB>
+!*********************!
+<@PointerIdx32>
+<0xF3: 4 61 61 54 255><0xF3: 4 58 60 45 255><0xF3: 4 56 56 37 255><Char: 0 45><0xF1: 0>The castle acts as<LF>
+the main office of<LF>
+the Center as well<Button><CR>
+!---------------------!
+as a world famous<LF>
+resort spot.<Button><CR>
+!---------------------!
+But...the main of-<LF>
+fice part is a sec-<LF>
+ret to the public.<Button><EB>
+!*********************!
+<@PointerIdx33>
+<0xF3: 4 64 72 62 255><0xF3: 4 61 61 55 255><Char: 0 51><0xF1: 0>These Birokko style<LF>
+pillars are<LF>
+something else...<Button><EB>
+!*********************!
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<Char: 0 45><0xF1: 0>Tourists are oddly<LF>
+few today...Never<LF>
+like this before.<Button><CR>
+!---------------------!
+Tourism is the main<LF>
+income source for<LF>
+Netopia.<Button><CR>
+!---------------------!
+This shortage of<LF>
+tourists is a<LF>
+serious blow.<Button><EB>
+!*********************!
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<Char: 0 45><0xF1: 0>Looks like everyone<LF>
+took refuge<LF>
+from outside.<Button><CR>
+!---------------------!
+The sunlight is<LF>
+absurdly strong.<Button><EB>
+!*********************!
+<@PointerIdx46>
+<Char: 0 13><0xF1: 0>It's much better in<LF>
+here than outside.<LF>
+Will the sun set?<Button><EB>
+!*********************!
+<@PointerIdx47>
+<Char: 0 29><0xF1: 0>Taking refuge was<LF>
+fine but not being<LF>
+able to leave is...<Button><EB>
+!*********************!
+<@PointerIdx48>
+<Char: 0 48><0xF1: 0>I got it,<LF>
+this unusual weather<LF>
+is nature's anger.<Button><CR>
+!---------------------!
+We've hurt nature<LF>
+too much and are<LF>
+being punished!<Button><EB>
+!*********************!
+<@PointerIdx49>
+<Char: 0 52><0xF1: 0>This unusual weather<LF>
+is just too much<LF>
+to take!<Button><EB>
+!*********************!
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<Char: 0 45><0xF1: 0>With the weather<LF>
+back to normal the<LF>
+tourists came.<Button><CR>
+!---------------------!
+That puts me at<LF>
+ease a bit.<Button><EB>
+!*********************!
+<@PointerIdx55>
+<Char: 0 51><0xF1: 0>Being inside this<LF>
+castle somehow<LF>
+makes me feel holy.<Button><EB>
+!*********************!
+<@PointerIdx56>
+<Char: 0 50><0xF1: 0>Oh yeah<LF>
+beautiful baby!<Button><CR>
+!---------------------!
+This castle is an<LF>
+aggregation of<LF>
+art work.<Button><EB>
+!*********************!
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<Char: 0 53><0xF1: 0>Net Castle is adored<LF>
+by the Netopians.<Button><CR>
+!---------------------!
+Even if HQ wasn't<LF>
+here I'd defend it<LF>
+with my life!<Button><EB>
+!*********************!
+<@PointerIdx61>
+<Char: 0 49><0xF1: 0>I leaved my hometown<LF>
+to protect and<LF>
+defend Net Castle!<Button><CR>
+!---------------------!
+I willn't let Gospel<LF>
+have their way with<LF>
+our castle!<Button><EB>
+!*********************!
+<@PointerIdx62>
+<Char: 0 51><0xF1: 0>You said it!<Button><CR>
+!---------------------!
+Net Castle is the<LF>
+foundation of our<LF>
+hearts!<Button><EB>
+!*********************!
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<0xF3: 8 19 255 182><Char: 0 22><0xF1: 0>Should always have a<LF>
+subchip when travel-<LF>
+ling...just in case.<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Buy <Arrow: 0 17><Pos: 0 2>Don't Buy<CondJmp: 6 0 255 181 255>
+!---------------------!
+<0xFB: 20 19><@PointerIdx181>
+<CR>
+!---------------------!
+Though those "cases"<LF>
+are precisely the<LF>
+reason some travel.<Button><EB>
+!*********************!
+<@PointerIdx182>
+<Char: 0 22><0xF1: 0>Hmmm...Now that I<LF>
+think about it,<LF>
+I don't have one...<Button><EB>
+!*********************!
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>A divine goddess<LF>
+statue. You can<LF>
+jack in!<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>The stairs above<LF>
+are off limits.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF3: 0 33 2 223 255><0xF1: 0>Looks like a royal<LF>
+crest. It's only<LF>
+displayed here.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>Lan carefully<LF>
+searched near the<LF>
+crest<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+!---------------------!
+A hologram shines<LF>
+around the crest!<LF>
+You can go inside!<Button><EB>
+!*********************!
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

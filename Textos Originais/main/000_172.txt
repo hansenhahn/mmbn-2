@@ -1,0 +1,25 @@
+<@AbsoluteAddr 7972216>
+<@PointerIdx0>
+<0xF1: 0>And then,<Dly: 1 30 0>finally...<Dly: 1 30 0><LF>
+the world was at<LF>
+peace once again.<Button><CR>
+!---------------------!
+Gospel was disbanded<LF>
+and the fear of net<LF>
+crime was no more...<Button><CR>
+!---------------------!
+The boy was arrested<LF>
+and questioned about<LF>
+his activities...<Button><CR>
+!---------------------!
+...but I told Dad<LF>
+about what we read<LF>
+in the diary...<Button><CR>
+!---------------------!
+...so I think they<LF>
+went a little easy<LF>
+on him. A little.<Button><CR>
+!---------------------!
+...What about us?<Dly: 1 30 0><LF>
+Well.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><EB>
+!*********************!

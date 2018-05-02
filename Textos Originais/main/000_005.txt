@@ -1,0 +1,69 @@
+<@AbsoluteAddr 7856508>
+<@PointerIdx0>
+<Char: 0 76><0xF1: 0>You're late,man!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 69><0xF1: 0>Hurry up,Mega!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>Roll! GutsMan!<LF>
+Be there in a sec!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 2><0xF1: 0>MegaMan! Finally!<Dly: 1 30 0><LF>
+We were waiting<LF>
+forever,Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Sorry,Dex!<LF>
+Sorry,Mayl!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 7><0xF1: 0>You're totally late!<LF>
+What were you doing?<Button><CR>
+!---------------------!
+I jacked in as soon<LF>
+as I got home and<LF>
+waited,and waited...<Button><CR>
+!---------------------!
+<Char: 0 0><0xF1: 0>Sorrysorrysorry!<LF>
+Mom got hold of me<LF>
+too quick...<Button><CR>
+!---------------------!
+<Char: 0 7><0xF1: 0>Hmph! Figures!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 69><0xF1: 0>You too,Mega!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Sorry,Roll...<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Well,they sure are<LF>
+mad...<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 64><0xF1: 0>Hey! It's your fault<LF>
+for getting such<LF>
+bad grades,Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 2><0xF1: 0>Yo,guys!<LF>
+You can chat later!<LF>
+Let's get going!<Button><CR>
+!---------------------!
+GutsMan! Let's go<LF>
+ask about becoming<LF>
+"city NetBattlers!"<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 76><0xF1: 0>Yeehaw! Lessgo!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 7><0xF1: 0>Roll! Let's go<LF>
+along,too!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 69><0xF1: 0>Sure thing,Mayl!<Dly: 1 30 0><LF>
+...Later,Mega!<Button><EB>
+!*********************!

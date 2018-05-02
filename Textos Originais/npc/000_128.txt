@@ -1,0 +1,668 @@
+<@PointerIdx0>
+<0xF3: 8 0 255 2><Char: 0 70><0xF1: 0>I'm a Netdealer.<LF>
+Want to take a look?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 0 255 1 255>
+!---------------------!
+<0xFB: 20 0><@PointerIdx1>
+<CR>
+!---------------------!
+Come again!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 70><0xF1: 0>I'm a Netdealer.<LF>
+But I'm sold out.<Button><EB>
+!*********************!
+<@PointerIdx3>
+<@PointerIdx4>
+<0xF3: 4 64 72 145 255><Char: 0 66><0xF1: 0>Welcome to the Net,<LF>
+which provides your<LF>
+access to the world!<Button><CR>
+!---------------------!
+Viva la Net!!<Dly: 1 30 0>Yeah!!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<0xF3: 4 21 21 44 255><0xF3: 4 20 20 38 255><0xF3: 4 19 19 33 255><0xF3: 4 16 18 27 255><Char: 0 71><0xF1: 0>There are places<LF>
+that you can't<LF>
+access freely.<Button><CR>
+!---------------------!
+For example,you need<LF>
+a passcode to access<LF>
+a private PC.<Button><CR>
+!---------------------!
+There's also places,<LF>
+like over there,that<LF>
+have been locked up.<Button><EB>
+!*********************!
+<@PointerIdx6>
+<0xF3: 4 3 255 11 255><Char: 0 70><0xF1: 0>I'm delivering the<LF>
+mail. But this board<LF>
+makes me wanna shop!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<0xF1: 0>MegaMan checked the<LF>
+dropped data<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+!---------------------!
+It seems to be<LF>
+"<ItemTbl: 0 2 0>!!"<Button><CR>
+!---------------------!
+<0xF2: 0 1 5><0xF8: 0><0xF8: 4 24><0xF6: 0 2 1>MegaMan got:<LF>
+"<ItemTbl: 0 2 0>!!"<0xF8: 12><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx11>
+<Char: 0 70><0xF1: 0>I went shopping up-<LF>
+stairs! Have you<LF>
+gone yet?<Button><EB>
+!*********************!
+<@PointerIdx12>
+<0xF6: 3 2 1 13 13 255><Char: 0 69><0xF1: 0>I heard there's<LF>
+"<ItemTbl: 0 2 0>"<LF>
+around here...<Button><CR>
+!---------------------!
+But I got lost...<Button><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 0 69><0xF1: 0>MegaMan! You found<LF>
+"<ItemTbl: 0 2 0>!!"<LF>
+I'm so jealous...<Button><EB>
+!*********************!
+<@PointerIdx14>
+<Char: 0 0><0xF1: 0>You did it!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 64><0xF1: 0>Yeah!<Button><EB>
+!*********************!
+<@PointerIdx16>
+<Char: 0 70><Char: 2 1><0xF1: 0>I saw a strong-<LF>
+looking Navi delete<LF>
+another one...<Button><CR>
+!---------------------!
+There wasn't any<LF>
+Operator. The fight<LF>
+just broke out...<Button><CR>
+!---------------------!
+You should be<LF>
+careful,too.<Button><EB>
+!*********************!
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<0xF3: 0 92 2 22 255><0xF3: 4 9 9 21 255><Char: 0 70><0xF1: 0>Are you going to<LF>
+take a License exam?<Button><CR>
+!---------------------!
+But I thought you<LF>
+had to jack in from<LF>
+the Center directly.<Button><EB>
+!*********************!
+<@PointerIdx21>
+<Char: 0 70><0xF1: 0>It's the middle of<LF>
+the License exam,<LF>
+isn't it?<Button><CR>
+!---------------------!
+I haven't seen the<LF>
+Navi you're looking<LF>
+for around here.<Button><EB>
+!*********************!
+<@PointerIdx22>
+<Char: 0 70><0xF1: 0>I heard this<LF>
+construction will<LF>
+be finished soon.<Button><EB>
+!*********************!
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<Char: 0 70><0xF1: 0>The Warpgate here...<Button><CR>
+!---------------------!
+Connects to the<LF>
+Square,Kotobuki,<LF>
+Yumland,and Netopia.<Button><CR>
+!---------------------!
+But it's locked so<LF>
+to prevent malicious<LF>
+access.<Button><CR>
+!---------------------!
+So you need a Gate-<LF>
+Key to access the<LF>
+Warpgate.<Button><CR>
+!---------------------!
+I heard the keys are<LF>
+strong and made by a<LF>
+keymaker in Netopia.<Button><EB>
+!*********************!
+<@PointerIdx26>
+<0xF3: 4 21 21 43 255><0xF3: 4 20 20 37 255><0xF3: 4 19 19 32 255><Char: 0 70><0xF1: 0>My shopping's done.<LF>
+Maybe I should hit<LF>
+the Square now...<Button><EB>
+!*********************!
+<@PointerIdx27>
+<Char: 0 71><0xF1: 0>Hello! The Net<LF>
+sure is fun!<Button><CR>
+!---------------------!
+Wanna go to Yumland?<LF>
+To get there...<Button><CR>
+!---------------------!
+Hang a left at the<LF>
+end of Den Area 3.<Button><EB>
+!*********************!
+<@PointerIdx28>
+<0xF3: 4 28 31 57 255><0xF3: 4 27 27 54 255><0xF3: 4 22 22 52 255><0xF3: 4 21 21 45 255><0xF3: 4 20 20 39 255><0xF3: 4 19 19 34 255><Char: 0 66><0xF1: 0>Den Area is a very<LF>
+safe place.<Button><CR>
+!---------------------!
+Thanks in no small<LF>
+part to the work of<LF>
+the Officials.<Button><CR>
+!---------------------!
+Viva la Square!!<Button><EB>
+!*********************!
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<Char: 0 70><0xF1: 0>Maybe I should check<LF>
+the Board for newly<LF>
+posted info...<Button><EB>
+!*********************!
+<@PointerIdx33>
+<Char: 0 71><0xF1: 0>Oh,you're taking the<LF>
+License exam?<Button><CR>
+!---------------------!
+So you're a city<LF>
+NetBattler,then!<LF>
+Thanks for helping!<Button><CR>
+!---------------------!
+Good luck!<Button><EB>
+!*********************!
+<@PointerIdx34>
+<Char: 0 66><0xF1: 0>Den Area is nice and<LF>
+safe today,too...<Button><EB>
+!*********************!
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<Char: 0 70><0xF1: 0>You got an <ItemTbl: 0 60 0>!<LF>
+That's great!<Button><CR>
+!---------------------!
+Maybe I should take<LF>
+the exam,too...<Button><EB>
+!*********************!
+<@PointerIdx38>
+<Char: 0 71><0xF1: 0>You passed!?<LF>
+Congratulations!!<Button><EB>
+!*********************!
+<@PointerIdx39>
+<Char: 0 66><0xF1: 0>You got an<LF>
+<ItemTbl: 0 60 0>?<Button><CR>
+!---------------------!
+Amazing!<Button><CR>
+!---------------------!
+You're on the way<LF>
+to becoming a real<LF>
+Official NetBattler!<Button><EB>
+!*********************!
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<Char: 0 70><0xF1: 0>I went to take the<LF>
+exam,but they said I<LF>
+was inexperienced...<Button><EB>
+!*********************!
+<@PointerIdx44>
+<Char: 0 71><0xF1: 0>How was Yumland?<Button><CR>
+!---------------------!
+Lots of Navis there.<LF>
+Pretty lively,huh?<Button><EB>
+!*********************!
+<@PointerIdx45>
+<Char: 0 66><0xF1: 0>I'm on patrol!<Button><CR>
+!---------------------!
+It's Net-crime<LF>
+prevention month!<Button><CR>
+!---------------------!
+Let's all chip in to<LF>
+protect Den Area!<Button><CR>
+!---------------------!
+Be vigilant,beware,<LF>
+and behave!<Button><EB>
+!*********************!
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<Char: 0 73><0xF1: 0>You must be a<LF>
+private Navi. I'm an<LF>
+official Navi.<Button><CR>
+!---------------------!
+So jack out. Now!<Button><EB>
+!*********************!
+<@PointerIdx50>
+<Char: 0 73><0xF1: 0>Don't seem to be any<LF>
+suspicious people...<Button><EB>
+!*********************!
+<@PointerIdx51>
+<Char: 0 73><0xF1: 0>Nothing to report...<Button><EB>
+!*********************!
+<@PointerIdx52>
+<Char: 0 66><0xF1: 0>An official Navi is<LF>
+searching the Net.<LF>
+That means...<Button><CR>
+!---------------------!
+Something must be<LF>
+going on...<Button><EB>
+!*********************!
+<@PointerIdx53>
+<@PointerIdx54>
+<Char: 0 66><0xF1: 0>It looks like<LF>
+something happened<LF>
+in the Square!<Button><CR>
+!---------------------!
+All the official<LF>
+Navis went there!<Button><EB>
+!*********************!
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<Char: 0 66><0xF1: 0>The official Navis<LF>
+haven't returned...<Button><CR>
+!---------------------!
+Are they okay?<Button><EB>
+!*********************!
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<Char: 0 70><0xF1: 0>It's safe now,but<LF>
+I'm still a little<LF>
+scared to go out...<Button><EB>
+!*********************!
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<0xF3: 4 61 61 120 255><0xF3: 4 58 60 110 255><Char: 0 71><0xF1: 0>What is this<LF>
+ice?<Button><CR>
+!---------------------!
+It looks like it's<LF>
+emitting something<LF>
+very harmful.<Button><CR>
+!---------------------!
+I have a feeling<LF>
+this should be<LF>
+removed right away.<Button><CR>
+!---------------------!
+Somebody with<LF>
+scientific knowledge<LF>
+might know how...<Button><CR>
+!---------------------!
+But I can't do it.<Button><EB>
+!*********************!
+<@PointerIdx96>
+<0xF3: 4 61 61 121 255><0xF3: 4 58 60 111 255><Char: 0 66><0xF1: 0>I checked the Net<LF>
+around here...<Button><CR>
+!---------------------!
+And I found lots of<LF>
+people trapped in<LF>
+the ice!<Button><EB>
+!*********************!
+<@PointerIdx97>
+<0xF3: 4 61 61 122 255><0xF3: 4 58 60 112 255><Char: 0 66><0xF1: 0>White ice seems to<LF>
+be more fragile than<LF>
+colored ice.<Button><CR>
+!---------------------!
+Maybe you can break<LF>
+it by hitting it...<Button><CR>
+!---------------------!
+But I'm not strong<LF>
+enough. Sniff,sob...<Button><EB>
+!*********************!
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<Char: 0 71><0xF1: 0>I wonder what caused<LF>
+the ice to appear?<Button><EB>
+!*********************!
+<@PointerIdx111>
+<Char: 0 66><0xF1: 0>What will I do if<LF>
+I get trapped,too?<Button><EB>
+!*********************!
+<@PointerIdx112>
+<Char: 0 66><0xF1: 0>Ice on the Net,and<LF>
+disaster in the real<LF>
+world. What is this?<Button><EB>
+!*********************!
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<Char: 0 71><0xF1: 0>The ice shattered<LF>
+all of a sudden!<Button><CR>
+!---------------------!
+That ice was totally<LF>
+mysterious...<Button><EB>
+!*********************!
+<@PointerIdx121>
+<Char: 0 66><0xF1: 0>The ice has gone,<LF>
+and the real world<LF>
+is safe as well.<Button><EB>
+!*********************!
+<@PointerIdx122>
+<Char: 0 66><0xF1: 0>Whew. I'm just glad<LF>
+the ice is gone.<Button><EB>
+!*********************!
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<Char: 0 66><0xF1: 0>You're not scared<LF>
+for your life?<Button><CR>
+!---------------------!
+I mean,you came in<LF>
+spite of Gospel's<LF>
+viruses...<Button><EB>
+!*********************!
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<0xF3: 8 9 255 182><Char: 0 67><0xF1: 0>I'm a NumberMan<LF>
+peddling my wares!<Button><CR>
+!---------------------!
+Wanna take a peek?<LF>
+<Arrow: 17 0><Pos: 0 2>Yes <Arrow: 0 17><Pos: 0 2>No<CondJmp: 6 0 255 181 255>
+!---------------------!
+<0xFB: 20 9><@PointerIdx181>
+<CR>
+!---------------------!
+See you later!<Button><EB>
+!*********************!
+<@PointerIdx182>
+<Char: 0 67><0xF1: 0>Sorry,I'm sold out.<Button><EB>
+!*********************!
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<Char: 1 241 0>MegaMan smashed the<LF>
+ice!<Button><CR>
+!---------------------!
+<0xF2: 0 69 2><Dly: 0 18 0>A virus appeared<LF>
+from the broken ice!<Button><CR>
+!---------------------!
+<0xF2: 0 123 2><0xFB: 12 255 0 0 1 1 1 9 65 27><@PointerIdx211>
+<Char: 1 241 0>MegaMan smashed the<LF>
+ice!<Button><CR>
+!---------------------!
+<0xF2: 0 70 2><Dly: 0 18 0>A virus appeared<LF>
+from the broken ice!<Button><CR>
+!---------------------!
+<0xF2: 0 123 2><0xFB: 12 255 0 0 1 1 1 10 65 27><@PointerIdx212>
+<0xF6: 3 37 1 255 255 213><Char: 1 241 0>MegaMan used:<LF>
+"<ItemTbl: 0 37 0>!"<Button><CR>
+!---------------------!
+The ice shattered<LF>
+with a loud crack!<Button><CR>
+!---------------------!
+<0xF2: 0 71 2><Dly: 0 18 0>A virus appeared<LF>
+from the broken ice!<Button><CR>
+!---------------------!
+<0xF2: 0 123 2><0xFB: 12 255 0 0 1 1 1 11 65 27><@PointerIdx213>
+<Char: 1 241 0>MegaMan isn't strong<LF>
+enough to break this<LF>
+ice!<Button><EB>
+!*********************!
+<@PointerIdx214>
+<Char: 1 241 0>MegaMan isn't strong<LF>
+enough to break this<LF>
+ice!<Button><EB>
+!*********************!
+<@PointerIdx215>
+<Char: 1 241 0>MegaMan isn't strong<LF>
+enough to break this<LF>
+ice!<Button><EB>
+!*********************!
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF6: 3 80 1 221 221 255><0xF1: 0>This is Mayl's<LF>
+SecurityCube.<Button><CR>
+!---------------------!
+The Cube can't be<LF>
+accessed without a<LF>
+passcode.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>MegaMan used:<LF>
+the "<ItemTbl: 0 80 0>!!"<Button><CR>
+!---------------------!
+The SecurityCube<LF>
+opened!<Button><0xF1: 1><0xF2: 0 24 0><Dly: 0 102 0><EB>
+!*********************!
+<@PointerIdx222>
+<0xF6: 3 87 1 223 223 255><0xF1: 0>It's a mysterious<LF>
+SecurityCube.<Button><CR>
+!---------------------!
+It can't be opened<LF>
+without the proper<LF>
+passcode.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>MegaMan used:<LF>
+"<ItemTbl: 0 87 0>!!"<Button><CR>
+!---------------------!
+The SecurityCube<LF>
+opened!<Button><0xF1: 1><0xF2: 0 25 0><Dly: 0 102 0><EB>
+!*********************!
+<@PointerIdx224>
+<0xF6: 3 82 1 225 225 255><0xF1: 0>It's Yai's<LF>
+SecurityCube.<Button><CR>
+!---------------------!
+You don't have the<LF>
+passcode,so it can't<LF>
+be opened...<Button><EB>
+!*********************!
+<@PointerIdx225>
+<0xF1: 0>It's Yai's<LF>
+SecurityCube.<Button><CR>
+!---------------------!
+MegaMan used:<LF>
+"<ItemTbl: 0 82 0>!!"<Button><CR>
+!---------------------!
+The SecurityCube<LF>
+opened!<Button><0xF1: 1><0xF2: 0 26 0><Dly: 0 102 0><EB>
+!*********************!
+<@PointerIdx226>
+<@PointerIdx227>
+<0xF1: 0>Go left,enter the<LF>
+WarpZone,and you'll<LF>
+see the Netdealer.<Button><CR>
+!---------------------!
+Turn right at the<LF>
+Square and follow<LF>
+the big road.<Button><EB>
+!*********************!
+<@PointerIdx228>
+<0xF1: 0>Under construction!<LF>
+Keep out!<Button><EB>
+!*********************!
+<@PointerIdx229>
+<@PointerIdx230>
+<0xF1: 0>MegaMan accessed the<LF>
+mystery data.<Dly: 0 10 0>.<Dly: 0 10 0>.<Dly: 0 10 0><Button><CR>
+!---------------------!
+<0xF2: 0 4 5><0xF8: 0><0xF8: 4 24><0xF6: 16 113 0 26 1>MegaMan got a<LF>
+chip for<LF>
+"<ItemTbl: 0 113 1> <ItemTbl: 0 26 3>!!"<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx231>
+<0xF3: 0 95 8 255 240><0xF1: 0>MegaMan accessed the<LF>
+mystery data.<Dly: 0 10 0>.<Dly: 0 10 0>.<Dly: 0 10 0><Button><CR>
+!---------------------!
+<0xF8: 4 24><0xF6: 48 48 117 0 0 255 255 255>MegaMan got:<LF>
+"30000 zennys!!"<0xF8: 12><Button><0xF1: 1><0xF2: 0 5 5><EB>
+!*********************!
+<@PointerIdx232>
+<0xF3: 0 95 8 255 240><0xF1: 0>MegaMan accessed the<LF>
+mystery data.<Dly: 0 10 0>.<Dly: 0 10 0>.<Dly: 0 10 0><Button><CR>
+!---------------------!
+<0xF8: 4 24><0xF6: 0 57 1>MegaMan got:<LF>
+"<ItemTbl: 0 57 0>!!"<0xF8: 12><Button><0xF1: 1><0xF2: 0 6 5><EB>
+!*********************!
+<@PointerIdx233>
+<0xF1: 0>MegaMan accessed the<LF>
+mystery data.<Dly: 0 10 0>.<Dly: 0 10 0>.<Dly: 0 10 0><Button><CR>
+!---------------------!
+<0xF2: 0 7 5><0xF8: 0><0xF8: 4 24><0xF6: 0 69 1>MegaMan got:<LF>
+"<ItemTbl: 0 69 0>!!"<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<0xF1: 0>This mystery data<LF>
+is locked and can't<LF>
+be analyzed.<Button><CR>
+!---------------------!
+To analyze it,you<LF>
+need the subchip:<LF>
+"<ItemTbl: 0 117 0>".<Button><EB>
+!*********************!
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

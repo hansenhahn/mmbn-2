@@ -1,0 +1,36 @@
+<@AbsoluteAddr 7882324>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>I'm here to take<LF>
+the license exam?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 70><0xF1: 0>Welcome! Let's<LF>
+get you signed up<LF>
+then,shall we?<Button><CR>
+!---------------------!
+What is your name?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>MegaMan.EXE.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 70><0xF1: 0>MegaMan.EXE...<LF>
+very well!<Button><CR>
+!---------------------!
+<Rst: 0>
+!+++++++++++++++++++++!
+<0xFA: 12><0xFA: 0 10 1>click click<Dly: 0 91 0><Rst: 1>
+!+++++++++++++++++++++!
+<LF>
+<0xFA: 0 139 0>bing!<Button><CR>
+!---------------------!
+<0xFA: 8>Signup complete!<Button><CR>
+!---------------------!
+You can take<LF>
+exams whenever you<LF>
+want,now.<Button><CR>
+!---------------------!
+If you want to take<LF>
+an exam,just talk<LF>
+to me.<Button><EB>
+!*********************!

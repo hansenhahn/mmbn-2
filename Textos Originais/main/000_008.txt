@@ -1,0 +1,75 @@
+<@AbsoluteAddr 7858144>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Mail?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Lan,looks like a<Dly: 1 30 0><LF>
+phone call for you.<Button><CR>
+!---------------------!
+Wait,it's Yai's Navi<LF>
+Glide! <Dly: 1 30 0>Glide!<LF>
+Is something wrong?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<0xFA: 4 13 0><Char: 0 68><0xF1: 0>Somebody help!<LF>
+Miss Yai's in<LF>
+trouble!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>What's up with<LF>
+Yai?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 68><0xF1: 0>She went into the<LF>
+bath and hasn't come<LF>
+out yet!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>So? She's probably<LF>
+just relaxing!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 68><0xF1: 0>Miss Yai never takes<LF>
+long baths! It's bad<LF>
+for the skin!<Button><CR>
+!---------------------!
+That,and the gas-<LF>
+powered water heater<LF>
+is acting funny!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>What,is it a bug?<Dly: 1 30 0><LF>
+Or is it...<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 68><0xF1: 0>I can't say for sure<LF>
+but the water heater<LF>
+alarm is ringing!<Button><CR>
+!---------------------!
+I'll go and check<LF>
+the water heater<LF>
+program for bugs.<Button><CR>
+!---------------------!
+Lan,please go help<LF>
+Yai! Please!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 7><0xF1: 0>Lan! Did you hear<LF>
+the news?<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>You mean about Yai?<LF>
+Yeah!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 7><0xF1: 0>I talked to Dex,too.<LF>
+We're real worried.<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>I know!<LF>
+I'm on my way to<LF>
+Yai's place now!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 7><0xF1: 0>Thanks,Lan!<Button><EB>
+!*********************!

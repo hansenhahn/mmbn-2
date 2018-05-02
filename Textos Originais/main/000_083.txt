@@ -1,0 +1,117 @@
+<@AbsoluteAddr 7902384>
+<@PointerIdx0>
+<Char: 0 10><0xFA: 24 249 0><0xF1: 0>So,that Dark fellow<LF>
+was just a common<LF>
+mercenary after all.<Button><CR>
+!---------------------!
+Wind and fury,<LF>
+signifying nothing!<LF>
+He has failed us...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 18><Char: 2 1><0xF1: 0>Sir!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 10><0xF1: 0>But,I'm surprised<LF>
+those Officials<LF>
+have come this far.<Button><CR>
+!---------------------!
+It sounds as if your<LF>
+report was slightly<LF>
+inaccurate?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 18><Char: 2 1><0xF1: 0>Sir! Your apologies,<LF>
+sir! We had an eye<LF>
+on Chaud and Lan...<Button><CR>
+!---------------------!
+But their rate of<LF>
+growth was far<LF>
+greater than we...<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 10><0xF1: 0>Have you forgotten<LF>
+the Second Rule of<LF>
+Gospel?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 18><Char: 2 1><0xF1: 0>No,Sir! "Death to<LF>
+those who make lame<LF>
+excuses",Sir!<Button><CR>
+!---------------------!
+B-But,Mr.Admin,Sir!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 10><0xF1: 0>I believe you know<LF>
+there is no escape<LF>
+from Gospel...<Button><CR>
+!---------------------!
+But you might want<LF>
+to start running<LF>
+anyway...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 18><Char: 2 1><0xF1: 0>P-please!<LF>
+Forgive me!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 1 241 0><0xFA: 12><0xFA: 0 28 1>zzzt...pop!<Button><CR>
+!---------------------!
+<0xFA: 8><0xFA: 24 249 0><Jmp: 0 9><@PointerIdx9>
+<0xF1: 0><0xFA: 12><0xFA: 0 10 1>click click click<Dly: 0 88 0><LF>
+<0xFA: 8>...'s access has<LF>
+been terminated...<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 10><0xF1: 0>Hmph. Is it my fate<LF>
+to be surrounded<LF>
+by idiots?<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 1 241 0><0xFA: 12><0xFA: 0 10 1>click click click...<Dly: 0 88 0><LF>
+<0xFA: 8>...has entered the<LF>
+room.<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 64><0xF1: 0>Good evening.<LF>
+Sorry I'm late.<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 10><0xF1: 0>How fares our<LF>
+"project?"<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 64><0xF1: 0>Everything is<LF>
+on schedule.<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 10><0xF1: 0>And the necessary<LF>
+data? Did you get<LF>
+them?<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 64><0xF1: 0>No,but the perfect<LF>
+opportunity will<LF>
+soon present itself.<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 0 10><0xF1: 0>You seem awfully<LF>
+confident.<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 64><0xF1: 0>I'll be happy to<LF>
+deal with any...in-<LF>
+terference,as well.<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 10><0xF1: 0>Now that's what<LF>
+I like to hear!<Button><CR>
+!---------------------!
+<Jmp: 0 20><@PointerIdx20>
+<Char: 0 64><0xF1: 0>It's my pleasure.<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 0 10><0xF1: 0>Make Chaud and Lan<LF>
+understand they were<LF>
+fools to defy me!<Button><EB>
+!*********************!

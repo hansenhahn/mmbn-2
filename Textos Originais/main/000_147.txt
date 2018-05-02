@@ -1,0 +1,95 @@
+<@AbsoluteAddr 7947608>
+<@PointerIdx0>
+<Char: 0 36><0xF1: 0>...<LF>
+That is everything<LF>
+in Chaud's report.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 37><0xF1: 0>Chaud left to look<LF>
+into the incident by<LF>
+Netopia's request...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 22><0xF1: 0>That was 3 days ago.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 23><0xF1: 0>Hmm...<Dly: 1 30 0>Perhaps this<LF>
+is more complicated<LF>
+than we thought...<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 36><0xF1: 0>Don't you find it<LF>
+a little odd? Dr.<LF>
+Hikari's son,Lan...<Button><CR>
+!---------------------!
+destroyed Kotobuki<LF>
+Square...<Dly: 1 30 0>That's<LF>
+a major Gospel base!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 53><0xF1: 0>Yet netcrime is<LF>
+at record levels...<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 22><0xF1: 0>Dr.Hikari,is it<LF>
+possible we are over<LF>
+-looking something?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 23><0xF1: 0>Yes...perhaps we<LF>
+should re-inspect<LF>
+Kotobuki Square...<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 53><0xF1: 0>But our top<LF>
+NetBattler,Chaud,<LF>
+isn't back yet.<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 37><0xF1: 0>Recent events have<LF>
+destroyed our Net-<LF>
+Battler reserves!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 36><0xF1: 0>Should we get a city<LF>
+NetBattler to check<LF>
+out Kotobuki for us?<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 22><0xF1: 0>Excellent idea! Why<LF>
+Dr.Hikari's son is<LF>
+a city NetBattler...<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 23><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Yes,but I fear<LF>
+this will be far<LF>
+more dangerous...<Button><CR>
+!---------------------!
+And Lan is still<LF>
+inexperienced...<Button><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 0 53><0xF1: 0>But,Dr.Hikari! You<LF>
+yourself said this<LF>
+is an emergency!<Button><CR>
+!---------------------!
+We'll ask all the<LF>
+city NetBattlers to<LF>
+participate!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 23><0xF1: 0>True...<Dly: 1 30 0>Perhaps<LF>
+the other battlers<LF>
+would be up to it...<Button><CR>
+!---------------------!
+Very well...<Dly: 1 30 0><LF>
+Let us ask the city<LF>
+NetBattlers.<Button><CR>
+!---------------------!
+Meanwhile,we should<LF>
+all get back to our<LF>
+duties!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 1 241 0>Right!<Button><EB>
+!*********************!

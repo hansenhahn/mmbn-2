@@ -1,0 +1,211 @@
+<@AbsoluteAddr 7964324>
+<@PointerIdx0>
+<Char: 0 40><0xF1: 0>Crap! It appears the<LF>
+bug fusion was<LF>
+incomplete...<Button><CR>
+!---------------------!
+The server power<LF>
+must not have been<LF>
+high enough!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>...What!?<Dly: 1 30 0> You!?<Dly: 1 30 0><LF>
+B-But you're just<LF>
+a kid!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 40><0xF1: 0>W-What happened<LF>
+to my cybersuit!?<Dly: 0 60 0><Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Hey!<Dly: 1 30 0> I deleted<LF>
+your SuperNavi or<LF>
+whatever that was...<Button><CR>
+!---------------------!
+So why don't you<LF>
+just stop!<LF>
+Game over!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 40><0xF1: 0>You think you're so<LF>
+hot you can just<LF>
+make fun of me,too?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>What are you talking<LF>
+about? I'm not<LF>
+making fun of you...<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 40><0xF1: 0>You can't fool me!<LF>
+I know how it is!<Button><CR>
+!---------------------!
+Well I just didn't<LF>
+have enough server<LF>
+power!!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 40><0xF1: 0>Take...this!<LF>
+Server power 100%!!<Button><EB>
+!*********************!
+<@PointerIdx8>
+<Char: 0 40><0xF1: 0>Yeah!!!!!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 1><0xF1: 0>Owwee! <Dly: 1 30 0>I just<LF>
+got prickles all<LF>
+over!<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 2><0xF1: 0>Youch! Me,too!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 64><0xF1: 0>Oh-no,Lan! The<LF>
+radiation's over<LF>
+50k times normal!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>Hey,you! Stop! Don't<LF>
+raise the server<LF>
+power any higher!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 40><0xF1: 0>You can't tell me<LF>
+what to do!<LF>
+No one can!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 0><0xF1: 0>I'm telling you<LF>
+you're going to<LF>
+hurt yourself,too!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 40><0xF1: 0>B-B-Be..<Dly: 1 30 0>quiet!!!!<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 0><0xF1: 0>Why...<LF>
+Why can't you see!<Button><EB>
+!*********************!
+<@PointerIdx17>
+<Char: 0 0><0xF1: 0>Everyone! Chaud! <Dly: 1 30 0>Get<LF>
+out! You'll die<LF>
+without suits on!<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 6><0xF1: 0>...<Dly: 1 30 0>Lan's right...<Button><EB>
+!*********************!
+<@PointerIdx19>
+<Char: 0 7><0xF1: 0>No way! What about<LF>
+you,Lan? You're in<LF>
+danger,too!<Button><CR>
+!---------------------!
+And I'm not leaving<LF>
+without you!<LF>
+I'm fighting,too!<Button><EB>
+!*********************!
+<@PointerIdx20>
+<Char: 0 0><0xF1: 0>No! <Dly: 1 30 0>It's too<LF>
+dangerous!!<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 0 7><0xF1: 0>That's exactly why<LF>
+I can't leave you<LF>
+behind!<Button><CR>
+!---------------------!
+<Jmp: 0 22><@PointerIdx22>
+<Char: 0 2><0xF1: 0>Mayl,Lan's right.<LF>
+We have to trust<LF>
+him on this one!<Button><CR>
+!---------------------!
+<Jmp: 0 23><@PointerIdx23>
+<Char: 0 7><0xF1: 0>Trust...Lan...<Button><CR>
+!---------------------!
+<Jmp: 0 24><@PointerIdx24>
+<Char: 0 0><0xF1: 0>I'll be fine!<LF>
+I'll catch up with<LF>
+you guys,I promise!<Button><CR>
+!---------------------!
+<Jmp: 0 25><@PointerIdx25>
+<Char: 0 7><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Really?<Dly: 1 30 0><LF>
+You promise?<Button><CR>
+!---------------------!
+<Jmp: 0 26><@PointerIdx26>
+<Char: 0 0><0xF1: 0>Yeah!<LF>
+Cross my heart!<Button><CR>
+!---------------------!
+<Jmp: 0 27><@PointerIdx27>
+<Char: 0 7><0xF1: 0>...OK.<Dly: 1 30 0><Button><CR>
+!---------------------!
+OK,Lan...<Dly: 1 30 0><LF>
+But I'm leaving<LF>
+my heart...<Dly: 1 30 0><Button><CR>
+!---------------------!
+I'm leaving my<LF>
+heart with you!<Button><CR>
+!---------------------!
+<Jmp: 0 28><@PointerIdx28>
+<Char: 0 0><0xF1: 0>I got it,then!<Dly: 1 30 0><LF>
+And I'll bring it<LF>
+right back,promise!<Button><CR>
+!---------------------!
+<Jmp: 0 29><@PointerIdx29>
+<Char: 0 1><0xF1: 0>Stop you guys!<Dly: 1 30 0><LF>
+You're making me<LF>
+blush!<Button><CR>
+!---------------------!
+<Jmp: 0 30><@PointerIdx30>
+<Char: 0 2><0xF1: 0>All right guys!<LF>
+Let's get outta<LF>
+here!<Button><EB>
+!*********************!
+<@PointerIdx31>
+<Char: 0 6><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>For your sake,<LF>
+I hope you know what<LF>
+you're doing...<Button><EB>
+!*********************!
+<@PointerIdx32>
+<Char: 0 40><0xF1: 0>Ready or not,<LF>
+here I come!!!<Button><EB>
+!*********************!
+<@PointerIdx33>
+<Char: 0 40><0xF1: 0>Server power <Dly: 1 30 0>120%!!<Dly: 1 30 0><LF>
+More...<Dly: 1 30 0>I need more!!<Button><EB>
+!*********************!
+<@PointerIdx34>
+<Char: 0 0><0xF1: 0>Why do you want<LF>
+to rule the world<LF>
+so much anyway!?<Button><CR>
+!---------------------!
+<Jmp: 0 35><@PointerIdx35>
+<Char: 0 40><0xF1: 0>Because I hate it<LF>
+all!<Dly: 1 30 0> And I'm sick<LF>
+of being picked on!<Button><CR>
+!---------------------!
+...<Dly: 1 30 0><LF>
+Server power 150%!!!<Button><CR>
+!---------------------!
+<Jmp: 0 36><@PointerIdx36>
+<Char: 0 0><0xF1: 0>What are yo...<LF>
+Arrgghh!<Button><EB>
+!*********************!
+<@PointerIdx37>
+<Char: 0 0><0xF1: 0>W..<Dly: 1 30 0>What's...<LF>
+ha...<Dly: 1 30 0>ppening...!?<Button><CR>
+!---------------------!
+<Jmp: 0 38><@PointerIdx38>
+<Char: 0 64><0xF1: 0>Radiation is at 100k<LF>
+times normal! Your<LF>
+suit won't hold!<Button><CR>
+!---------------------!
+<Jmp: 0 39><@PointerIdx39>
+<Char: 0 0><0xF1: 0>Why..<Dly: 1 30 0>y...<Dly: 1 30 0>you...!!!<LF>
+Feet...<Dly: 1 30 0>won't move...<Button><CR>
+!---------------------!
+<Jmp: 0 40><@PointerIdx40>
+<Char: 0 40><0xF1: 0>Server...<Dly: 1 30 0>power...<Dly: 1 30 0><LF>
+200%!!!<Button><EB>
+!*********************!
+<@PointerIdx41>
+<Char: 0 40><0xF1: 0>Prepare...<Dly: 1 30 0>to face...<Dly: 1 30 0><LF>
+the REAL BASS!!!<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><EB>
+!*********************!

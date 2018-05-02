@@ -1,0 +1,44 @@
+<@AbsoluteAddr 7890784>
+<@PointerIdx0>
+<Char: 1 241 0>beep-beep!<Button><CR>
+!---------------------!
+Security system<LF>
+motion!!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 0><0xF1: 0>What happened!?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>Seems this program<LF>
+is a Yumland<LF>
+national treasure...<Button><CR>
+!---------------------!
+The security system<LF>
+was activated!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>So,we're...<LF>
+robbers!?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Let's hurry and<LF>
+escape!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Okay,I'll<LF>
+jack out!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>Jack out!<Button><CR>
+!---------------------!
+.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>Huh?<LF>
+I can't jack out!?<Button><CR>
+!---------------------!
+Something's blocking<LF>
+us. Some program is<LF>
+starting up!<Button><CR>
+!---------------------!
+We'll have to go<LF>
+back the way we<LF>
+came!<Button><EB>
+!*********************!

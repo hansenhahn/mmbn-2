@@ -1,0 +1,29 @@
+<@AbsoluteAddr 7893568>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Dad! What about the<LF>
+mother computer?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 23><0xF1: 0>Something invaded<LF>
+the system. And so<LF>
+fast...!<Button><CR>
+!---------------------!
+And the Navi repulse<LF>
+weapon is not<LF>
+complete yet...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Dad,we'll go!<LF>
+Complete the weapon<LF>
+while we're gone!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 23><0xF1: 0>Sure thing!<Button><CR>
+!---------------------!
+The Official<LF>
+NetBattlers are on<LF>
+the job. Help them!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Sure!<Button><EB>
+!*********************!

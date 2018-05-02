@@ -1,0 +1,440 @@
+<@PointerIdx0>
+<0xF1: 0>The door has an<LF>
+electric lock on it!<LF>
+It won't open.<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 64><0xF1: 0><0xF2: 12 1 7>Mail! I wonder what<LF>
+it could be?<Button><EB>
+!*********************!
+<@PointerIdx2>
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<0xF3: 0 142 2 6 255><0xF3: 0 45 2 255 7><Char: 0 2><0xF1: 0>A <ItemTbl: 0 3 0>,huh?<Dly: 1 30 0><LF>
+She'd probably hide<LF>
+it out of sight.<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 2><0xF1: 0>Go for it,GutsMan!<LF>
+That's it!<Button><CR>
+!---------------------!
+Knock out that virus<LF>
+and we're outta<LF>
+here!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 2><0xF1: 0>The virus has gotten<LF>
+to the door lock<LF>
+program,too!<Button><CR>
+!---------------------!
+Leave it to me!<LF>
+GutsMan and I will<LF>
+handle this!<Button><EB>
+!*********************!
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 143 12 192 255><0xF3: 0 165 0 197 255><0xF2: 0 165 0><Char: 0 46><0xF1: 0>Hiya,kid! Say,I've<LF>
+got a favor to ask.<LF>
+Got a second?<Button><CR>
+!---------------------!
+I'm running this<LF>
+disaster prevention<LF>
+agency,see...<Button><CR>
+!---------------------!
+But nowadays,those<LF>
+NetBattlers do all<LF>
+the work,y'know?<Button><CR>
+!---------------------!
+The bottom line is,<LF>
+we just don't have<LF>
+any work to do!<Button><CR>
+!---------------------!
+And our funding's<LF>
+scraping the bottom<LF>
+of the barrel...<Button><CR>
+!---------------------!
+If we had 50000<LF>
+zenny we could get<LF>
+through the month...<Button><CR>
+!---------------------!
+But if we don't get<LF>
+the money,we're<LF>
+finished--Bankrupt!<Button><CR>
+!---------------------!
+So I need you to<LF>
+loan me 50000<LF>
+zenny...please!<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Sure <Arrow: 0 17><Pos: 0 2>No way<CondJmp: 6 128 191 255 255>
+!---------------------!
+F-Fine then...<LF>
+I figured as much.<Button><EB>
+!*********************!
+<@PointerIdx191>
+.<0xc3>  <0xff><0xff><0xc4>.<0xc3>  <0xff><0xff><0xff><0xF2: 0 143 12><0xF2: 4 82 0><Char: 0 46><0xF1: 0>You'll loan me the<LF>
+money? Thanks!!<Button><CR>
+!---------------------!
+Just make a bank<LF>
+transfer with your<LF>
+PET there...<Button><CR>
+!---------------------!
+That'll do the<LF>
+trick!<Button><CR>
+!---------------------!
+Thanks,kid!<LF>
+You really helped<LF>
+me out!<Button><CR>
+!---------------------!
+I want to pay you<LF>
+back right away,I<LF>
+really do...<Button><CR>
+!---------------------!
+As soon as I get the<LF>
+money,I'll pay you<LF>
+back,with interest!<Button><CR>
+!---------------------!
+What's that? You<LF>
+want to know what<LF>
+I'm doing here?<Button><CR>
+!---------------------!
+The girl who lives<LF>
+in this place let<LF>
+me hide here.<Button><CR>
+!---------------------!
+I'm hiding from the<LF>
+loan sharks until<LF>
+my job shapes up.<Button><EB>
+!*********************!
+<@PointerIdx192>
+<0xF3: 0 166 0 195 255><0xF3: 0 25 1 193 255><Char: 0 46><0xF1: 0>I don't know when<LF>
+I'll make your<LF>
+money back...<Button><CR>
+!---------------------!
+But I will pay you<LF>
+back,you have my<LF>
+word on it.<Button><EB>
+!*********************!
+<@PointerIdx193>
+<0xF2: 0 166 0><Char: 0 46><0xF1: 0>Hey,kid! You won't<LF>
+believe the good<LF>
+news!<Button><CR>
+!---------------------!
+We had a natural<LF>
+disaster recently,<LF>
+see...<Button><CR>
+!---------------------!
+And business just<LF>
+went through the<LF>
+roof!<Button><CR>
+!---------------------!
+Here,this is for<LF>
+you,kid!<Button><CR>
+!---------------------!
+<Jmp: 0 194><@PointerIdx194>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 48 160 134 1 0 255 255 255>Lan got:<LF>
+"100000 zennys!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
+!*********************!
+<@PointerIdx195>
+<Char: 0 46><0xF1: 0>Celebratings's hard<LF>
+when you make money<LF>
+off of disasters...<Button><CR>
+!---------------------!
+But my company<LF>
+depends on disaster<LF>
+to make ends meet...<Button><CR>
+!---------------------!
+And generous folks<LF>
+like you,kid!<Button><EB>
+!*********************!
+<@PointerIdx196>
+<Char: 0 46><0xF1: 0>Gee,thanks,kid,<LF>
+but that's not<LF>
+enough...<Button><CR>
+!---------------------!
+Hehheh...you see,<LF>
+I need 50000 zenny<LF>
+or we go under!<Button><EB>
+!*********************!
+<@PointerIdx197>
+<Char: 0 46><0xF1: 0>You got the<LF>
+50000 zennys!?<Button><CR>
+!---------------------!
+You gonna lend me<LF>
+the money this time?<LF>
+<Arrow: 17 0><Pos: 0 2>Yup! <Arrow: 0 17><Pos: 0 2>Sorry<CondJmp: 6 128 191 255 255>
+!---------------------!
+Then leave me alone!<Button><EB>
+!*********************!
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>A statue of a dog.<LF>
+It looks real enough<LF>
+to bite you!<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>A world-famous<LF>
+painting! Looks like<LF>
+a replica,though...<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF3: 4 7 47 225 255><0xF3: 4 5 6 224 255><0xF1: 0>A bronze statue of<LF>
+Yai's ancestor. He's<LF>
+small but gallant.<Button><CR>
+!---------------------!
+On closer inspection<LF>
+you find a jack-in<LF>
+port!<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>The place is filled<LF>
+with gas! Stay back!<Button><EB>
+!*********************!
+<@PointerIdx224>
+<0xF1: 0>A bronze statue of<LF>
+Yai's ancestor. He's<LF>
+small but gallant.<Button><CR>
+!---------------------!
+It has a jack-in<LF>
+port--but now's not<LF>
+the time!<Button><EB>
+!*********************!
+<@PointerIdx225>
+<0xF1: 0>A bronze statue of<LF>
+Yai's ancestor. He's<LF>
+small but gallant.<Button><CR>
+!---------------------!
+The jack-in port is<LF>
+filled with dust...<Button><EB>
+!*********************!
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>
