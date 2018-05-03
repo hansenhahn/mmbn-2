@@ -25,4 +25,3 @@ Não vai me decepcionar!<Button><CR>
 <Jmp: 0 5><@PointerIdx5>
 <Char: 0 0><0xF1: 0>Pode deixar comigo!<Button><EB>
 !*********************!
-

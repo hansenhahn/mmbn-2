@@ -6,20 +6,19 @@ O programa dos ventila-<LF>
 dores deve estar por<LF>
 ali por baixo...<Button><CR>
 !---------------------!
-Eu conserto!<0xEA: 1 30 0> Apesar do<LF>
+Eu conserto!<Dly: 1 30 0> Apesar do<LF>
 gás dar muito medo...!<LF>
-.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>Lá vou eu!<Button><EB>
+.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Lá vou eu!<Button><EB>
 !*********************!
 <@PointerIdx1>
 <Char: 0 66><0xF1: 0>Aaaaahhhh!<Button><EB>
 !*********************!
 <@PointerIdx2>
 <Char: 0 66><0xF1: 0>Essa não!<LF>
-.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>Hm?<Button><CR>
+.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Hm?<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 64><0xF1: 0>Ah, cara! Isso tá<LF>
 parecendo encrenca!<LF>
 Vamos lá conferir!<Button><EB>
 !*********************!
-

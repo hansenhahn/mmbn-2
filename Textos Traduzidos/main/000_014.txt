@@ -10,4 +10,3 @@ Mandou bem!<Button><CR>
 <Char: 0 64><0xF1: 0>Ás ordens! Tá, vamos<LF>
 lá ajudar o Dex!<Button><EB>
 !*********************!
-

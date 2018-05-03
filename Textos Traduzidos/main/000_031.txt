@@ -14,7 +14,6 @@ Acampamento!!<Button><CR>
 <Char: 0 7><0xF1: 0>Êêêêbaa!!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
-<Char: 0 1><0xF1: 0>Ai, ai, essas crianças...<0xEA: 1 30 0><LF>
+<Char: 0 1><0xF1: 0>Ai, ai, essas crianças...<Dly: 1 30 0><LF>
 Hi hi...<Button><EB>
 !*********************!
-

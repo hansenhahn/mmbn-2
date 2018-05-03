@@ -20,12 +20,12 @@ ia se comportar!<Button><CR>
 E você, faz alguma ideia<LF>
 de onde ele tá?<Button><CR>
 !---------------------!
-<Char: 0 7><0xF1: 0>Bom.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<Button><CR>
+<Char: 0 7><0xF1: 0>Bom.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <Char: 0 1><0xF1: 0>E como ninguém sabe, a<LF>
 gente tem que ficar aqui.<LF>
-<0xEA: 1 30 0>Concorda?<Button><CR>
+<Dly: 1 30 0>Concorda?<Button><CR>
 !---------------------!
 <Char: 0 7><0xF1: 0>Acho que sim...<Button><CR>
 !---------------------!
@@ -68,7 +68,7 @@ Não tem sinal aqui!<Button><CR>
 parece ter vindo da<LF>
 Represa Okuden!<Button><CR>
 !---------------------!
-Se a represa romper...<0xEA: 1 30 0><LF>
+Se a represa romper...<Dly: 1 30 0><LF>
 A água vai descer pra<LF>
 cá!<Button><CR>
 !---------------------!
@@ -100,4 +100,3 @@ preocupar comigo!<Button><CR>
 <Jmp: 0 10><@PointerIdx10>
 <Char: 0 64><0xF1: 0>Lan! Hora do show!<Button><EB>
 !*********************!
-

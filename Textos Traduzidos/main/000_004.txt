@@ -4,7 +4,7 @@
 enfim!<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<0xfa> ê <Char: 0 64><0xF1: 0>...Ah! <0xEA: 1 30 0>Chegou e-mail<LF>
+<0xFA: 0 134 0><Char: 0 64><0xF1: 0>...Ah! <Dly: 1 30 0>Chegou e-mail<LF>
 pra você!<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
@@ -25,4 +25,3 @@ completamente disso!<Button><CR>
 brotar vírus no caminho<LF>
 a gente acaba com eles!<Button><EB>
 !*********************!
-

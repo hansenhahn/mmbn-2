@@ -6,8 +6,8 @@
 <Char: 0 0><0xF1: 0>Beleza!<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
-<Char: 0 2><0xF1: 0>Ainda não!<0xEA: 1 30 0><LF>
-.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>Ufa. Até que enfim<LF>
+<Char: 0 2><0xF1: 0>Ainda não!<Dly: 1 30 0><LF>
+.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Ufa. Até que enfim<LF>
 ele calou o focinho.<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
@@ -18,4 +18,3 @@ pra não assustar mais.<Button><CR>
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 1><0xF1: 0>Ótima ideia.<Button><EB>
 !*********************!
-

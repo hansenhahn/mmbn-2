@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7853852>
 <@PointerIdx0>
-<Char: 0 18><Char: 2 1><0xfa>n<ItemTbl: 0 241 0>Senhor...<LF>
+<Char: 0 18><Char: 2 1><0xFA: 24 249 0><0xF1: 0>Senhor...<LF>
 ...pesquisa está...<LF>
 entrando...fase final<Button><CR>
 !---------------------!
@@ -36,7 +36,7 @@ Hora de dar iní...<LF>
 ...Projeto...!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
-<Char: 0 18><Char: 2 1><0xF1: 0>Sim, senhor! <0xEA: 1 15 0>.<0xEA: 1 15 0>.<0xEA: 1 15 0>.<Button><EB>
+<Char: 0 18><Char: 2 1><0xF1: 0>Sim, senhor! <Dly: 1 15 0>.<Dly: 1 15 0>.<Dly: 1 15 0>.<Button><EB>
 !*********************!
 <@PointerIdx9>
 <@PointerIdx10>

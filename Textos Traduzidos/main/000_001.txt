@@ -27,7 +27,7 @@ esqueceu que dia é<LF>
 hoje, né?<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
-<0xfa>32 <Char: 0 0><0xF1: 0>Até parece, né? É<LF>
+<0xFA: 4 3 0><Char: 0 0><0xF1: 0>Até parece, né? É<LF>
 o último dia de aula!<LF>
 Fé-riaaaaas!<Button><CR>
 !---------------------!
@@ -39,8 +39,6 @@ Fé-riaaaaas!<Button><CR>
 !---------------------!
 <Jmp: 0 9><@PointerIdx9>
 <Char: 0 64><0xF1: 0>Hmm... me engana que<LF>
-eu gosto.<0xEA: 1 30 0> 
-Ah! Temos que<LF>
+eu gosto.<Dly: 1 30 0> Ah! Temos que<LF>
 fazer planos pras férias!<Button><EB>
 !*********************!
-

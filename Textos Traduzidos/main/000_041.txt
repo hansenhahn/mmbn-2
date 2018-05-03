@@ -6,7 +6,7 @@ programa de detonação!<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <Char: 0 79><0xF1: 0>Ah, é? Então venha me<LF>
-impedir...<0xEA: 1 30 0> Se conseguir<LF>
+impedir...<Dly: 1 30 0> Se conseguir<LF>
 me acompanhar!<Button><CR>
 !---------------------!
 Fui!<Button><CR>
@@ -29,9 +29,8 @@ hora de lutar!<Button><CR>
 <Char: 0 0><0xF1: 0>MegaMan! Toma cuidado!<LF>
 Esse cara é rápido!<Button><CR>
 !---------------------!
-Rotina de<0xEA: 1 30 0> batalha...!!<Button><CR>
+Rotina de<Dly: 1 30 0> batalha...!!<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
 <Char: 0 64><0xF1: 0>Executar!<Button><EB>
 !*********************!
-

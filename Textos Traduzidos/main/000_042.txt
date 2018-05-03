@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7874132>
 <@PointerIdx0>
-<Char: 0 79><0xF1: 0>Arrc...<0xEA: 1 20 0> Não comemorem!<Button><CR>
+<Char: 0 79><0xF1: 0>Arrc...<Dly: 1 20 0> Não comemorem!<Button><CR>
 !---------------------!
 Me deletar foi um<LF>
 grande erro!<Button><CR>
@@ -26,14 +26,14 @@ deve ser feito!<Button><CR>
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 79><0xF1: 0>Eu tive uma vida boa...<LF>
 e rápida!<LF>
-<0xF2: 0 137 2>3!<0xEA: 0 60 0> 2!<0xEA: 0 60 0> 1!<0xEA: 0 60 0><EB>
+<0xF2: 0 137 2>3!<Dly: 0 60 0> 2!<Dly: 0 60 0> 1!<Dly: 0 60 0><EB>
 !*********************!
 <@PointerIdx4>
-<0xFA: 16><Char: 0 0><0xF1: 0>MegaMaaan!<0xEA: 1 60 0><EB>
+<0xFA: 16><Char: 0 0><0xF1: 0>MegaMaaan!<Dly: 1 60 0><EB>
 !*********************!
 <@PointerIdx5>
-<Char: 0 0><0xF1: 0><0xec> e...<0xec> 1Hã? <0xEA: 1 15 0>Eu achei que<LF>
-a represa...<0xEA: 1 15 0> ela ia...<0xEA: 1 15 0><LF>
+<Char: 0 0><0xF1: 0><0xEC: 0 15>...<0xEC: 0 2>Hã? <Dly: 1 15 0>Eu achei que<LF>
+a represa...<Dly: 1 15 0> ela ia...<Dly: 1 15 0><LF>
 explodir...<Button><EB>
 !*********************!
 <@PointerIdx6>
@@ -87,20 +87,17 @@ si mesmo e a Gospel!<Button><CR>
 !---------------------!
 <Jmp: 0 13><@PointerIdx13>
 <Char: 0 43><0xF1: 0>Eu teria me safado se<LF>
-não fosse por essas
-<LF>
+não fosse por essas<LF>
 crianças enxeridas!<Button><CR>
 !---------------------!
 <Jmp: 0 14><@PointerIdx14>
 <Char: 0 6><0xF1: 0>Bom, não tenho mais<LF>
 tempo pra acompar com<LF>
-vocês...<0xEA: 1 15 0> Até!<Button><CR>
+vocês...<Dly: 1 15 0> Até!<Button><CR>
 !---------------------!
-ProtoMan! Vou
-<LF>
+ProtoMan! Vou<LF>
 desconectá-lo agora!<Button><CR>
 !---------------------!
 <Jmp: 0 15><@PointerIdx15>
 <Char: 0 74><0xF1: 0>Sim, senhor!!<Button><EB>
 !*********************!
-

@@ -7,7 +7,7 @@
 uma ligação pra você.<Button><CR>
 !---------------------!
 Espera! É o Navi da Yai,<LF>
-o Glide! <0xEA: 1 30 0>Glide!<LF>
+o Glide! <Dly: 1 30 0>Glide!<LF>
 Algum problema?<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
@@ -36,7 +36,7 @@ aquecedor de água está<LF>
 errático!<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
-<Char: 0 64><0xF1: 0>O que deu nele, um bug?<0xEA: 1 30 0><LF>
+<Char: 0 64><0xF1: 0>O que deu nele, um bug?<Dly: 1 30 0><LF>
 Ou foi um...<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
@@ -72,4 +72,3 @@ casa da Yai!<Button><CR>
 <Jmp: 0 13><@PointerIdx13>
 <Char: 0 7><0xF1: 0>Obrigada, Lan!<Button><EB>
 !*********************!
-

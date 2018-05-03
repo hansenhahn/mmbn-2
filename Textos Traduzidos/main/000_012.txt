@@ -19,4 +19,3 @@ mexendo com o programa!<Button><CR>
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 0><0xF1: 0>Isso! E vai rápido!<Button><EB>
 !*********************!
-

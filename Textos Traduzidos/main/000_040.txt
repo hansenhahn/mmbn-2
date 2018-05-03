@@ -11,7 +11,7 @@ Aposto que tem um<LF>
 programa de detonação<LF>
 por aqui em algum lugar.<Button><CR>
 !---------------------!
-E além disso...<0xEA: 1 30 0><LF>
+E além disso...<Dly: 1 30 0><LF>
 Eu tô captando um sinal<LF>
 de vírus! E dos fortes!<Button><CR>
 !---------------------!
@@ -23,4 +23,3 @@ MegaMan!<Button><CR>
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 64><0xF1: 0>Pode deixar!<Button><EB>
 !*********************!
-

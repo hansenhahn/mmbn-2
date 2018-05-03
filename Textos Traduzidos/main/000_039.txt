@@ -75,8 +75,7 @@ número de detonadores<LF>
 que puder!<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
-<Char: 0 0><0xF1: 0>Deixa comigo!<0xEA: 1 30 0><LF>
-Vamos nessa, >
+<Char: 0 0><0xF1: 0>Deixa comigo!<Dly: 1 30 0><LF>
+Vamos nessa,<LF>
 MegaMan!<Button><EB>
 !*********************!
-

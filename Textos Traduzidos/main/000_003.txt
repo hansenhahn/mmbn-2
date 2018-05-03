@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7855604>
 <@PointerIdx0>
-<0xF2: 0 6 2><Char: 0 11><0xF1: 0>Lan!!<0xEA: 0 20 0><EB>
+<0xF2: 0 6 2><Char: 0 11><0xF1: 0>Lan!!<Dly: 0 20 0><EB>
 !*********************!
 <@PointerIdx1>
 <Char: 0 11><0xF1: 0>Eu sei que você recebeu<LF>
@@ -11,18 +11,18 @@ ele. Mostre. Agora!<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 11><0xF1: 0>Não se faça de inocente,<LF>
-mocinho! O seu B<0xEA: 1 10 0>O<0xEA: 1 10 0>L<0xEA: 1 10 0>E<0xEA: 1 10 0>T<0xEA: 1 10 0>I<0xEA: 1 10 0>M<0xEA: 1 10 0>,<LF>
+mocinho! O seu B<Dly: 1 10 0>O<Dly: 1 10 0>L<Dly: 1 10 0>E<Dly: 1 10 0>T<Dly: 1 10 0>I<Dly: 1 10 0>M<Dly: 1 10 0>,<LF>
 é claro!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 0><0xF1: 0>Poxa... eu tava rezando<LF>
 pra senhora ter<LF>
-esquecido...<0xEA: 1 30 0> tá bom.<Button><CR>
+esquecido...<Dly: 1 30 0> tá bom.<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
-<Char: 0 11><0xF1: 0>Ótimo. Vamos ver...<0xEA: 1 30 0><LF>
+<Char: 0 11><0xF1: 0>Ótimo. Vamos ver...<Dly: 1 30 0><LF>
 M-mas que história é<LF>
-essa!?<0xEA: 1 30 0> ...Lan!!<Button><CR>
+essa!?<Dly: 1 30 0> ...Lan!!<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
 <Char: 0 0><0xF1: 0>Vixe!<Button><CR>
@@ -37,8 +37,8 @@ melhor você pedir<LF>
 desculpa...<Button><CR>
 !---------------------!
 <Jmp: 0 9><@PointerIdx9>
-<Char: 0 0><0xF1: 0>Concordo.<0xEA: 1 30 0> Mãe?<0xEA: 1 30 0><LF>
-Desculpa.<0xEA: 1 30 0> Já posso ir<LF>
+<Char: 0 0><0xF1: 0>Concordo.<Dly: 1 30 0> Mãe?<Dly: 1 30 0><LF>
+Desculpa.<Dly: 1 30 0> Já posso ir<LF>
 brincar na Rede?<Button><CR>
 !---------------------!
 <Jmp: 0 10><@PointerIdx10>
@@ -58,4 +58,3 @@ Use o botão R para se<LF>
 conectar no seu<LF>
 computador!<Button><EB>
 !*********************!
-

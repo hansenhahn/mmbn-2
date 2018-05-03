@@ -18,8 +18,8 @@ que salvar ela!<Button><CR>
 <Char: 0 64><0xF1: 0>Ah! Lan, ali!<Button><EB>
 !*********************!
 <@PointerIdx5>
-<Char: 0 0><0xF1: 0>É o Dex!<0xEA: 1 30 0><LF>
-.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>A gente...<0xEA: 1 30 0> PRECISA se<LF>
+<Char: 0 0><0xF1: 0>É o Dex!<Dly: 1 30 0><LF>
+.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>A gente...<Dly: 1 30 0> PRECISA se<LF>
 livrar desse gás!<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
@@ -35,4 +35,3 @@ Ele é movido a gás!<Button><CR>
 Vamos lá conferir ele,<LF>
 MegaMan!<Button><EB>
 !*********************!
-

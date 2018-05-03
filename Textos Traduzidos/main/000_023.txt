@@ -1,7 +1,7 @@
 <@AbsoluteAddr 7865800>
 <@PointerIdx0>
 <0xF1: 0>Alguns dias após o<LF>
-início das férias...<0xEA: 0 60 0><Button><EB>
+início das férias...<Dly: 0 60 0><Button><EB>
 !*********************!
 <@PointerIdx1>
 <0xFA: 4 4 0><Char: 0 64><0xF1: 0>Devia fazer o seu dever<LF>
@@ -27,7 +27,7 @@ vamos curtir o dia ao<LF>
 máximo!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
-<Char: 0 0><0xF1: 0>Agora sim!<0xEA: 1 30 0><LF>
+<Char: 0 0><0xF1: 0>Agora sim!<Dly: 1 30 0><LF>
 Que tal a praia?<LF>
 Ou um acampamento!<Button><CR>
 !---------------------!
@@ -36,7 +36,7 @@ Ou um acampamento!<Button><CR>
 legais...<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
-<Char: 0 0><0xF1: 0>Vamos acampar!<0xEA: 1 30 0><LF>
+<Char: 0 0><0xF1: 0>Vamos acampar!<Dly: 1 30 0><LF>
 O chamado da natureza<LF>
 me... er, chama!<Button><CR>
 !---------------------!
@@ -45,4 +45,3 @@ me... er, chama!<Button><CR>
 Vamos lá falar com a<LF>
 Mayl e os outros!<Button><EB>
 !*********************!
-

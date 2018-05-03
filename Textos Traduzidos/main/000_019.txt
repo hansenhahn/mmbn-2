@@ -5,17 +5,17 @@ sua, não é!? Pare ele,<LF>
 agora!<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<Char: 0 78><0xF1: 0>Ho-ho...<0xEA: 1 30 0><LF>
+<Char: 0 78><0xF1: 0>Ho-ho...<Dly: 1 30 0><LF>
 Isso... eu não posso<LF>
-fazer!<0xEA: 1 30 0> Ho-ho...<Button><CR>
+fazer!<Dly: 1 30 0> Ho-ho...<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
-<Char: 0 38><0xF1: 0>Esqueça, garoto! <0xEA: 1 30 0><LF>
+<Char: 0 38><0xF1: 0>Esqueça, garoto! <Dly: 1 30 0><LF>
 O AirMan só obedece<LF>
 às MINHAS ordens!<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<Char: 0 0><0xF1: 0>!? O cara daquela<0xEA: 1 30 0><LF>
+<Char: 0 0><0xF1: 0>!? O cara daquela<Dly: 1 30 0><LF>
 empresa de  gás! Mas<LF>
 por que ela faria isso!?<Button><CR>
 !---------------------!
@@ -54,9 +54,9 @@ opiniões! Fique quieto e<LF>
 aspire o gás até morrer!<Button><CR>
 !---------------------!
 <Jmp: 0 10><@PointerIdx10>
-<Char: 0 0><0xF1: 0>Esquece!<0xEA: 1 30 0><LF>
-Vanis nessa, MegaMan!<0xEA: 1 30 0><LF>
-Rotina de batalha<0xEA: 1 30 0>...<Button><CR>
+<Char: 0 0><0xF1: 0>Esquece!<Dly: 1 30 0><LF>
+Vanis nessa, MegaMan!<Dly: 1 30 0><LF>
+Rotina de batalha<Dly: 1 30 0>...<Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
 <Char: 0 64><0xF1: 0>Executar!<Button><CR>
@@ -64,4 +64,3 @@ Rotina de batalha<0xEA: 1 30 0>...<Button><CR>
 <Jmp: 0 12><@PointerIdx12>
 <Char: 0 78><0xF1: 0>Ho-hooo!!<Button><EB>
 !*********************!
-

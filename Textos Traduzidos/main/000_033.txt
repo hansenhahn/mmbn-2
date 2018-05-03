@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7869548>
 <@PointerIdx0>
-<0xF1: 0><0xFA: 12><0xFA: 0 7 1>Bzzzzz!!!<0xEA: 0 60 0><Button><CR>
+<0xF1: 0><0xFA: 12><0xFA: 0 7 1>Bzzzzz!!!<Dly: 0 60 0><Button><CR>
 !---------------------!
 <0xFA: 8><Jmp: 0 1><@PointerIdx1>
 <Char: 0 2><0xF1: 0>Lan! Vamos usar o que<LF>
@@ -12,7 +12,7 @@ espantar as abelhas!<Button><CR>
 nós vamos usar?<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<Char: 1 241><Arrow: 0 33><Pos: 0 2>Isqueiro<LF>
+<Char: 1 241 239> w<Pos: 0 2>Isqueiro<LF>
 <Arrow: 17 2><Pos: 0 2>Isqueiro+galho<LF>
 <Arrow: 34 16><Pos: 0 2>Isqueiro+galho+papel<CondJmp: 7 192 4 5 6>
 !---------------------!
@@ -47,4 +47,3 @@ fogo nele!<Button><EB>
 obedecer o líder do<LF>
 acampamento! Vamos indo!<Button><EB>
 !*********************!
-

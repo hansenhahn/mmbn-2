@@ -1,8 +1,7 @@
 <@AbsoluteAddr 7866388>
 <@PointerIdx0>
 <Char: 0 0><0xF1: 0>Que saco...<LF>
-Tá todo mundo ocupado
-<LF>
+Tá todo mundo ocupado<LF>
 demais pra ir.<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
@@ -23,7 +22,7 @@ certo...<Button><CR>
 <Char: 0 64><0xF1: 0>Hm?<Button><EB>
 !*********************!
 <@PointerIdx6>
-<Char: 1 241> <0xFA: 12>Pi-pi-pi!!<0xFA: 8><Button><EB>
+<Char: 1 241 0><0xFA: 12>Pi-pi-pi!!<0xFA: 8><Button><EB>
 !*********************!
 <@PointerIdx7>
 <Char: 0 64><0xF1: 0>Chegou e-mail. Quer ler<LF>
@@ -33,7 +32,7 @@ ele agora?<Button><CR>
 <Char: 0 0><0xF1: 0>Pode ser.<Button><CR>
 !---------------------!
 <Jmp: 0 9><@PointerIdx9>
-<Char: 1 241>Atenção, portadores da<LF>
+<Char: 1 241 37>tenção, portadores da<LF>
 <ItemTbl: 0 58 0>!<Button><CR>
 !---------------------!
 O Centro está à procura<LF>
@@ -60,7 +59,7 @@ e tudo a ganhar!<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
 <Char: 0 0><0xF1: 0>Bom, o plano de hoje foi<LF>
-por água abaixo, então.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0><LF>
+por água abaixo, então.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0><LF>
 Vamos lá tentar!<Button><CR>
 !---------------------!
 <Jmp: 0 13><@PointerIdx13>
@@ -73,4 +72,3 @@ ideia do acampamento!<Button><CR>
 <Jmp: 0 14><@PointerIdx14>
 <Char: 0 0><0xF1: 0>É, vai dar tudo certo!<Button><EB>
 !*********************!
-
