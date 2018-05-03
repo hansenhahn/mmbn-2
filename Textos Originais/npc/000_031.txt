@@ -264,9 +264,7 @@ You buy?<LF>
 Come back again.<Button><EB>
 !*********************!
 <@PointerIdx47>
-<LF>
-2  <0xff><0xff>T<LF>
-2  <0xff><0xff><0xff><Char: 0 50><0xF1: 0>You buy "<ItemTbl: 0 27 0>!"<LF>
+<0xF6: 51 232 3 0 0 255 255 56><0xF6: 49 232 3 0 0 255 255 255><Char: 0 50><0xF1: 0>You buy "<ItemTbl: 0 27 0>!"<LF>
 Merci beaucoup boy!<Button><CR>
 !---------------------!
 I have more souven-<LF>
@@ -298,9 +296,7 @@ You buy?<LF>
 Come back again.<Button><EB>
 !*********************!
 <@PointerIdx50>
-<LF>
-2  <0xff><0xff>T<LF>
-2  <0xff><0xff><0xff><Char: 0 50><0xF1: 0>Hahaaa!<Button><CR>
+<0xF6: 51 232 3 0 0 255 255 56><0xF6: 49 232 3 0 0 255 255 255><Char: 0 50><0xF1: 0>Hahaaa!<Button><CR>
 !---------------------!
 You buy "<ItemTbl: 0 28 0>!"<LF>
 You generous,very<LF>
@@ -335,9 +331,7 @@ You buy?<LF>
 Come back again.<Button><EB>
 !*********************!
 <@PointerIdx53>
-<LF>
-2  <0xff><0xff>T<LF>
-2  <0xff><0xff><0xff><Char: 0 50><0xF1: 0>You bought<LF>
+<0xF6: 51 232 3 0 0 255 255 56><0xF6: 49 232 3 0 0 255 255 255><Char: 0 50><0xF1: 0>You bought<LF>
 "<ItemTbl: 0 29 0>!"<Button><CR>
 !---------------------!
 I now all sold out!<Button><CR>
@@ -737,7 +731,7 @@ this old man's<LF>
 request.<Button><EB>
 !*********************!
 <@PointerIdx197>
-Í k0<0xff><0xff><0xc9><0xF2: 0 14 1>Í k0<Char: 0 48><0xF1: 0>You will? Thanks! I<LF>
+<0xF6: 20 119 0 21 1 255 255 201><0xF2: 0 14 1><0xF6: 17 119 0 21 1><Char: 0 48><0xF1: 0>You will? Thanks! I<LF>
 wasn't kiddin' when<LF>
 I said...<Button><CR>
 !---------------------!

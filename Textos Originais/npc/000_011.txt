@@ -182,7 +182,7 @@ Ribitta. Listen:<Button><CR>
 !---------------------!
 Cute <Dly: 1 10 0>Cute <Dly: 1 20 0>Ribi<Dly: 1 20 0>tta!<Dly: 1 20 0><LF>
 R!<Dly: 1 10 0>I!<Dly: 1 10 0>B!<Dly: 1 10 0>I!<Dly: 1 10 0>T!<Dly: 1 20 0>TA!<Dly: 1 30 0><LF>
-<0xec> 7Ribitta <Dly: 1 30 0><0xec> 3...<Dly: 1 20 0>RIBITTA!<Button><CR>
+<0xEC: 0 8>Ribitta <Dly: 1 30 0><0xEC: 0 4>...<Dly: 1 20 0>RIBITTA!<Button><CR>
 !---------------------!
 What do you think?<Button><EB>
 !*********************!

@@ -64,7 +64,7 @@ Don't back down now!<Button><CR>
 kiddo,but I gotta<LF>
 have those chips!!<Button><CR>
 !---------------------!
-<0xec> 0Gimmeeee!!!!<0xec> 1<Button><CR>
+<0xEC: 0 1>Gimmeeee!!!!<0xEC: 0 2><Button><CR>
 !---------------------!
 <Jmp: 0 15><@PointerIdx15>
 <Char: 0 0><0xF1: 0>No! No way!<LF>

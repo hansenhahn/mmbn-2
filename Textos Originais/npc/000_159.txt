@@ -305,7 +305,7 @@ in the mystery data<LF>
 was deleted!<Button><CR>
 !---------------------!
 <Jmp: 0 234><@PointerIdx234>
-<0xF2: 0 35 6><Jmp: 131 32><0x40> v<Button><0xec> <Char: 242 4><0x60>7<@PointerIdx235>
+<0xF2: 0 35 6><Jmp: 131 32><0x40> v<Button><0xEC: 0 237><0xF2: 4 96 8><@PointerIdx235>
 <0xF1: 0>It was a virus<LF>
 in disguise!!<Button><CR>
 !---------------------!

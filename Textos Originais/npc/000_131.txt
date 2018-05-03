@@ -399,7 +399,7 @@ with a "<ItemTbl: 0 71 1> <ItemTbl: 0 6 3>!!"<Button><CR>
 Please?<Button><EB>
 !*********************!
 <@PointerIdx193>
-<0x47> 50<0xff><0xff><0xc5><0xF2: 0 138 12><0xF2: 4 82 0><0x47> 50<Char: 0 70><Char: 2 1><0xF1: 0>So you'll get me a<LF>
+<0xF6: 20 71 0 6 1 255 255 197><0xF2: 0 138 12><0xF2: 4 82 0><0xF6: 17 71 0 6 1><Char: 0 70><Char: 2 1><0xF1: 0>So you'll get me a<LF>
 "<ItemTbl: 0 71 1> <ItemTbl: 0 6 3>?"<Button><CR>
 !---------------------!
 All right!!<Button><CR>

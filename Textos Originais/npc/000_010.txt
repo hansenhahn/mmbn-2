@@ -253,7 +253,7 @@ F-Fine then...<LF>
 I figured as much.<Button><EB>
 !*********************!
 <@PointerIdx191>
-.<0xc3>  <0xff><0xff><0xc4>.<0xc3>  <0xff><0xff><0xff><0xF2: 0 143 12><0xF2: 4 82 0><Char: 0 46><0xF1: 0>You'll loan me the<LF>
+<0xF6: 51 80 195 0 0 255 255 196><0xF6: 49 80 195 0 0 255 255 255><0xF2: 0 143 12><0xF2: 4 82 0><Char: 0 46><0xF1: 0>You'll loan me the<LF>
 money? Thanks!!<Button><CR>
 !---------------------!
 Just make a bank<LF>

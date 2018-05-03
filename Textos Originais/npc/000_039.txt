@@ -47,7 +47,7 @@ I hear there be<LF>
 ghosts in these<LF>
 parts. Yikes!<Button><CR>
 !---------------------!
-<0xec> 0God protect me!<LF>
+<0xEC: 0 1>God protect me!<LF>
 Please protect me!<Button><EB>
 !*********************!
 <@PointerIdx21>

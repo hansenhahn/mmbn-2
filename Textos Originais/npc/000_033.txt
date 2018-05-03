@@ -345,7 +345,7 @@ tired.<Button><EB>
 !*********************!
 <@PointerIdx234>
 <@PointerIdx235>
-<0xF2: 0 64 1><0xF1: 0>rustle,rustle<0xec> 9...<0xec> 1<Button><CR>
+<0xF2: 0 64 1><0xF1: 0>rustle,rustle<0xEC: 0 10>...<0xEC: 0 2><Button><CR>
 !---------------------!
 Lan Opened the<LF>
 Refrigerator.<Button><CR>

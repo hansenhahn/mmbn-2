@@ -108,7 +108,7 @@ I won't tell you<LF>
 then.<Button><EB>
 !*********************!
 <@PointerIdx42>
-<0x42> 00<0xff><0xff>G<0xF2: 0 129 2><0x42> 00<Char: 0 71><0xF1: 0>You're a clever one!<LF>
+<0xF6: 20 66 0 1 1 255 255 43><0xF2: 0 129 2><0xF6: 17 66 0 1 1><Char: 0 71><0xF1: 0>You're a clever one!<LF>
 You scratched my<LF>
 back,so now...<Button><CR>
 !---------------------!

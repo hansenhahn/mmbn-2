@@ -604,7 +604,7 @@ Please talk to me<LF>
 again sometime...<Button><EB>
 !*********************!
 <@PointerIdx191>
-" o0<0xff><0xff><0xc3><0xF2: 0 8 1>" o0<Char: 0 71><0xF1: 0>Are you sure you<LF>
+<0xF6: 20 84 0 25 1 255 255 195><0xF2: 0 8 1><0xF6: 17 84 0 25 1><Char: 0 71><0xF1: 0>Are you sure you<LF>
 want to trade?<Button><CR>
 !---------------------!
 I'm so excited!<LF>

@@ -32,7 +32,7 @@ and quick!<LF>
 <0xFA: 16><Char: 0 0><0xF1: 0>MegaMaaan!<Dly: 1 60 0><EB>
 !*********************!
 <@PointerIdx5>
-<Char: 0 0><0xF1: 0><0xec> e...<0xec> 1Huh? <Dly: 1 15 0>Wasn't the<LF>
+<Char: 0 0><0xF1: 0><0xEC: 0 15>...<0xEC: 0 2>Huh? <Dly: 1 15 0>Wasn't the<LF>
 dam...<Dly: 1 15 0>supposed to...<Dly: 1 15 0><LF>
 blow up?<Button><EB>
 !*********************!

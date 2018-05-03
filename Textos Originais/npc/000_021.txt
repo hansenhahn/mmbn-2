@@ -418,7 +418,7 @@ What do you say?<LF>
 Aw,you're no fun<Button><EB>
 !*********************!
 <@PointerIdx191>
-<0x99> p0<0xff><0xff><0xc3><0xF2: 0 2 1><0x99> p0<Char: 0 26><0xF1: 0>Really? You mean it?<LF>
+<0xF6: 20 153 0 26 1 255 255 195><0xF2: 0 2 1><0xF6: 17 153 0 26 1><Char: 0 26><0xF1: 0>Really? You mean it?<LF>
 All right! People<LF>
 will envy me!<Button><CR>
 !---------------------!

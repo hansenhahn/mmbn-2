@@ -479,7 +479,7 @@ Aw,man! What am I<LF>
 gonna do?<Button><EB>
 !*********************!
 <@PointerIdx191>
-<0xd4> h0<0xff><0xff><0xc3><0xd5> h0<0xff><0xff><0xc3><0xd6> h0<0xff><0xff><0xc3><0xF2: 0 20 1><0xd4> h0<0xd5> h0<0xd6> h0<Char: 0 52><0xF1: 0>Alright! Thanks!<LF>
+<0xF6: 20 212 0 18 1 255 255 195><0xF6: 20 213 0 18 1 255 255 195><0xF6: 20 214 0 18 1 255 255 195><0xF2: 0 20 1><0xF6: 17 212 0 18 1><0xF6: 17 213 0 18 1><0xF6: 17 214 0 18 1><Char: 0 52><0xF1: 0>Alright! Thanks!<LF>
 Now I can go home<LF>
 with my head high!<Button><CR>
 !---------------------!

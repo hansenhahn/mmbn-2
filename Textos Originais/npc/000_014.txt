@@ -394,7 +394,7 @@ Oh,I see.<LF>
 That's too bad.<Button><EB>
 !*********************!
 <@PointerIdx191>
-õ c0<0xff><0xff><0xc3><0xF2: 0 6 1>õ c0<Char: 0 34><0xF1: 0>Oh,you will?<LF>
+<0xF6: 20 138 0 13 1 255 255 195><0xF2: 0 6 1><0xF6: 17 138 0 13 1><Char: 0 34><0xF1: 0>Oh,you will?<LF>
 I'm so glad!<Button><CR>
 !---------------------!
 This is my chip.<LF>

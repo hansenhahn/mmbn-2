@@ -1,14 +1,14 @@
 <@PointerIdx0>
-<Char: 0 66><0xF1: 0><0xec> 3Zees eez zaa<LF>
+<Char: 0 66><0xF1: 0><0xEC: 0 4>Zees eez zaa<LF>
 NeeetSssquarrre<LF>
 eentraanssssss!<Button><CR>
 !---------------------!
 Neetoopiaaan prooo-<LF>
 graams taaalk liike<LF>
-zeesss!<0xec> 1<Button><EB>
+zeesss!<0xEC: 0 2><Button><EB>
 !*********************!
 <@PointerIdx1>
-<Char: 0 66><0xF1: 0><0xec> 0Just kidding.<Dly: 1 30 0><Button><EB>
+<Char: 0 66><0xF1: 0><0xEC: 0 1>Just kidding.<Dly: 1 30 0><Button><EB>
 !*********************!
 <@PointerIdx2>
 <Char: 0 70><Char: 2 1><0xF1: 0>Netopia 3 connects<LF>

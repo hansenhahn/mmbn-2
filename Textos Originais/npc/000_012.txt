@@ -315,7 +315,7 @@ me know if you<LF>
 change your mind.<Button><EB>
 !*********************!
 <@PointerIdx191>
-<0x6b> h0<0xff><0xff><0xc3><0xF2: 0 4 1><0x6b> h0<Char: 0 8><0xF1: 0>Eh? It's really OK?<LF>
+<0xF6: 20 107 0 18 1 255 255 195><0xF2: 0 4 1><0xF6: 17 107 0 18 1><Char: 0 8><0xF1: 0>Eh? It's really OK?<LF>
 Wow,thanks a lot!<Button><CR>
 !---------------------!
 Here's my part of<LF>

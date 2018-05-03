@@ -449,7 +449,7 @@ romances are tough<LF>
 enough!<Button><EB>
 !*********************!
 <@PointerIdx191>
-<0xa5>  0<0xff><0xff><0xc3><0xa6> g0<0xff><0xff><0xc3><0xa7> h0<0xff><0xff><0xc3><0xa8> a0<0xff><0xff><0xc3><0xF2: 0 16 1><0xa5>  0<0xa6> g0<0xa7> h0<0xa8> a0<Char: 0 9><0xF1: 0>You'll trade me?<LF>
+<0xF6: 20 165 0 0 1 255 255 195><0xF6: 20 166 0 17 1 255 255 195><0xF6: 20 167 0 18 1 255 255 195><0xF6: 20 168 0 11 1 255 255 195><0xF2: 0 16 1><0xF6: 17 165 0 0 1><0xF6: 17 166 0 17 1><0xF6: 17 167 0 18 1><0xF6: 17 168 0 11 1><Char: 0 9><0xF1: 0>You'll trade me?<LF>
 Wow!<LF>
 I'm so happy!<Button><CR>
 !---------------------!
@@ -585,7 +585,7 @@ here.<Button><EB>
 <@PointerIdx229>
 <@PointerIdx230>
 <0xF2: 0 66 1><0xF1: 0>Something is between<LF>
-the postcards<0xec> 9...<0xec> 1<Button><CR>
+the postcards<0xEC: 0 10>...<0xEC: 0 2><Button><CR>
 !---------------------!
 <0xF8: 4 24><0xF6: 0 99 1>Lan got a PowerUp:<LF>
 "<ItemTbl: 0 99 0>!!"<0xF8: 12><0xF8: 16><Button><CR>

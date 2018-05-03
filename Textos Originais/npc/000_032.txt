@@ -85,10 +85,10 @@ too much to the<LF>
 stranger...<Button><EB>
 !*********************!
 <@PointerIdx8>
-<Char: 0 50><0xF1: 0><0xec> 3HE-HO! HO-HO!<Button><EB>
+<Char: 0 50><0xF1: 0><0xEC: 0 4>HE-HO! HO-HO!<Button><EB>
 !*********************!
 <@PointerIdx9>
-<Char: 0 51><0xF1: 0><0xec> 3YO-HO! LO-HO!<Button><EB>
+<Char: 0 51><0xF1: 0><0xEC: 0 4>YO-HO! LO-HO!<Button><EB>
 !*********************!
 <@PointerIdx10>
 <0xF3: 4 64 72 118 255><0xF3: 4 42 42 63 255><0xF3: 0 30 2 39 255><0xF3: 0 91 2 46 255><0xF3: 4 40 40 45 255><0xF3: 0 68 0 39 255><Char: 0 15><0xF1: 0>What's <0x49>Hic<0x49>-up?<Button><CR>
@@ -295,10 +295,10 @@ ped,fork it over<LF>
 now,kid!<Button><EB>
 !*********************!
 <@PointerIdx54>
-<0x6f> p0<0xff><0xff>Q<Char: 0 52><0xF1: 0>OK,fork it over!<Button><CR>
+<0xF6: 20 111 0 26 1 255 255 53><Char: 0 52><0xF1: 0>OK,fork it over!<Button><CR>
 !---------------------!
 <Jmp: 0 55><@PointerIdx55>
-<0x6f> p0<Char: 1 241 0>Lan gave<LF>
+<0xF6: 17 111 0 26 1><Char: 1 241 0>Lan gave<LF>
 "<ItemTbl: 0 111 1> <ItemTbl: 0 26 3>" to Jim!<Button><CR>
 !---------------------!
 <Jmp: 0 56><@PointerIdx56>
@@ -691,7 +691,7 @@ If not,then trade<LF>
 me,pleeeaaaase!<Button><EB>
 !*********************!
 <@PointerIdx191>
-<0x9d> 20<0xff><0xff><0xc3><0xF2: 0 12 1><0x9d> 20<Char: 0 49><0xF1: 0>OK? Oh yeah baby!<Button><CR>
+<0xF6: 20 157 0 3 1 255 255 195><0xF2: 0 12 1><0xF6: 17 157 0 3 1><Char: 0 49><0xF1: 0>OK? Oh yeah baby!<Button><CR>
 !---------------------!
 Electopians are so<LF>
 generooouuuus!<Button><CR>

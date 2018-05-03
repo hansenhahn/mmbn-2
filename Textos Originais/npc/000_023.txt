@@ -112,14 +112,14 @@ now,but I used to be<LF>
 a lumberjack.<Button><EB>
 !*********************!
 <@PointerIdx18>
-<Char: 0 13><0xF1: 0><0xec> 3You want firewood?<Dly: 1 30 0><LF>
+<Char: 0 13><0xF1: 0><0xEC: 0 4>You want firewood?<Dly: 1 30 0><LF>
 Chop chop<Dly: 1 30 0>Chop chop!<Dly: 1 30 0><LF>
-<0xec> 0There!!<Button><CR>
+<0xEC: 0 1>There!!<Button><CR>
 !---------------------!
 <Jmp: 0 19><@PointerIdx19>
 <Char: 1 241 0>Before your eyes,a<LF>
 pile of kindling<LF>
-rises up high!<0xec> 1<Button><CR>
+rises up high!<0xEC: 0 2><Button><CR>
 !---------------------!
 <0xF8: 0><0xF8: 4 24><0xF6: 0 12 1>Lan got:<LF>
 "<ItemTbl: 0 12 0>!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
@@ -158,8 +158,8 @@ But I like going<LF>
 camping with sis.<Button><EB>
 !*********************!
 <@PointerIdx24>
-<Char: 0 10><0xF1: 0><0xec> 3Bonk Bonk Bonk<LF>
-...<0xec> 1<Button><CR>
+<Char: 0 10><0xF1: 0><0xEC: 0 4>Bonk Bonk Bonk<LF>
+...<0xEC: 0 2><Button><CR>
 !---------------------!
 What am I doing,<LF>
 you ask?<Button><CR>

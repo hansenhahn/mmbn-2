@@ -32,7 +32,7 @@ Come back when you<LF>
 have the cash.<Button><EB>
 !*********************!
 <@PointerIdx2>
-fC  <0xff><0xff>3fC  <0xff><0xff><0xff><0xF2: 0 126 2><Char: 1 241 0>MegaMan paid the<LF>
+<0xF6: 51 16 39 0 0 255 255 4><0xF6: 49 16 39 0 0 255 255 255><0xF2: 0 126 2><Char: 1 241 0>MegaMan paid the<LF>
 10000 zennys!<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>

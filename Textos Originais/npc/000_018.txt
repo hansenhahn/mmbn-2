@@ -313,7 +313,7 @@ If you change your<LF>
 mind,come see me.<Button><EB>
 !*********************!
 <@PointerIdx191>
-i p0<0xff><0xff><0xc3><0xF2: 0 22 1>i p0<Char: 0 51><0xF1: 0>You'll give me<LF>
+<0xF6: 20 19 0 26 1 255 255 195><0xF2: 0 22 1><0xF6: 17 19 0 26 1><Char: 0 51><0xF1: 0>You'll give me<LF>
 "<ItemTbl: 0 19 1> <ItemTbl: 0 26 3>?"<LF>
 Thank you sweety!<Button><CR>
 !---------------------!

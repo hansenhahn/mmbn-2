@@ -688,7 +688,7 @@ line the runways.<Button><EB>
 <@PointerIdx230>
 <0xF2: 0 67 1><0xF1: 0>Something is lying<LF>
 by the curtain.<LF>
-<0xec> 9...<0xec> 1<Button><CR>
+<0xEC: 0 10>...<0xEC: 0 2><Button><CR>
 !---------------------!
 <0xF8: 4 24><0xF6: 0 96 1>Lan got a PowerUp:<LF>
 "<ItemTbl: 0 96 0>!!"<0xF8: 12><0xF8: 16><Button><EB>

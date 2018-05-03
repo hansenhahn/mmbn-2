@@ -1264,7 +1264,7 @@ tried. I'll ask<LF>
 around. Thanks!<Button><EB>
 !*********************!
 <@PointerIdx191>
-N 80<0xff><0xff><0xc3><0xF2: 0 0 1>N 80<Char: 0 10><0xF1: 0>Now that's what<LF>
+<0xF6: 20 50 0 9 1 255 255 195><0xF2: 0 0 1><0xF6: 17 50 0 9 1><Char: 0 10><0xF1: 0>Now that's what<LF>
 friends are for!<LF>
 Here's yours...<Button><CR>
 !---------------------!

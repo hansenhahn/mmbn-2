@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7933440>
 <@PointerIdx0>
-<Char: 0 0><0xF1: 0>One<0xec> j...<0xec> 1down!<Button><CR>
+<Char: 0 0><0xF1: 0>One<0xEC: 0 20>...<0xEC: 0 2>down!<Button><CR>
 !---------------------!
 Those Gospel jerks!<LF>
 Where are they gonna<LF>

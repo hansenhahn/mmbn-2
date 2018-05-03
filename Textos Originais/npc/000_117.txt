@@ -28,7 +28,7 @@ We were brought and<LF>
 deserted here,deep<LF>
 in the mountains.<Button><CR>
 !---------------------!
-<0xec> 9......<0xec> 1And<LF>
+<0xEC: 0 10>......<0xEC: 0 2>And<LF>
 the bear still has<LF>
 a virus.<Dly: 1 30 0>There it is!<Button><CR>
 !---------------------!

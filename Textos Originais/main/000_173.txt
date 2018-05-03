@@ -468,5 +468,5 @@ MegaMan!?<Button><CR>
 !---------------------!
 <Jmp: 0 102><@PointerIdx102>
 <Char: 0 0><0xF1: 0>Let's go! <Dly: 1 30 0>Jack in!!<Dly: 0 10 0><LF>
-MegaMan,<Dly: 0 10 0>execute!!<0xec> 1<Button><EB>
+MegaMan,<Dly: 0 10 0>execute!!<0xEC: 0 2><Button><EB>
 !*********************!

@@ -206,7 +206,7 @@ been through the<LF>
 Immigration check.<Button><EB>
 !*********************!
 <@PointerIdx37>
-    <0xff>C<0xff><0xF2: 12 27 7><Jmp: 0 39><@PointerIdx38>
+<0xF6: 51 0 0 0 0 255 39 255><0xF2: 12 27 7><Jmp: 0 39><@PointerIdx38>
 <@PointerIdx39>
 <0xF1: 0><0xF2: 12 26 7>You got mail...<Button><EB>
 !*********************!
@@ -669,7 +669,7 @@ chip,no?<Button><CR>
 Come on,boy.<Button><EB>
 !*********************!
 <@PointerIdx191>
-ò c0<0xff><0xff><0xc3>ò c0<Char: 0 49><0xF1: 0>You'll giving it to<LF>
+<0xF6: 20 136 0 13 1 255 255 195><0xF6: 17 136 0 13 1><Char: 0 49><0xF1: 0>You'll giving it to<LF>
 me? You can't get<LF>
 it back!<Button><CR>
 !---------------------!

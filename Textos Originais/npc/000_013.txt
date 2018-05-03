@@ -1075,7 +1075,7 @@ through with it and<LF>
 swap chips!<Button><EB>
 !*********************!
 <@PointerIdx191>
-p 40<0xff><0xff><0xc3><0xF2: 4 82 0>p 40<Char: 0 14><0xF1: 0>You'll do it? Oh,<LF>
+<0xF6: 20 26 0 5 1 255 255 195><0xF2: 4 82 0><0xF6: 17 26 0 5 1><Char: 0 14><0xF1: 0>You'll do it? Oh,<LF>
 yer a darlin'!<Button><CR>
 !---------------------!
 Here you go,as<LF>

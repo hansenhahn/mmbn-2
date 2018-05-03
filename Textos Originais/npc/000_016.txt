@@ -753,7 +753,7 @@ It'll do you good".<Button><CR>
 <EB>
 !*********************!
 <@PointerIdx242>
-<0xF2: 0 63 1><0xF1: 0>Rustle,rustle<0xec> 9...<0xec> 1<Button><CR>
+<0xF2: 0 63 1><0xF1: 0>Rustle,rustle<0xEC: 0 10>...<0xEC: 0 2><Button><CR>
 !---------------------!
 Lan searches<LF>
 through his pockets.<Button><CR>
