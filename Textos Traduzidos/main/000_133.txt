@@ -1,0 +1,23 @@
+<@AbsoluteAddr 7937532>
+<@PointerIdx0>
+<Char: 0 58><0xF1: 0>Senhores passageiros.<LF>
+Após uma longa viagem,<Button><CR>
+!---------------------!
+chegamos em nosso
+<LF>
+destino: o Aeroporto<LF>
+Den.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>E foi tudo graças a um<LF>
+menino aí, um tal de Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>E um robô azul aí!<LF>
+Chegamos! Vamos logo<LF>
+pra ACDC e ir pra casa.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Gosto desse plano.<Button><EB>
+!*********************!
+

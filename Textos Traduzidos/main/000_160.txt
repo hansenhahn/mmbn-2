@@ -1,0 +1,13 @@
+<@AbsoluteAddr 7957476>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Parece que é aqui<LF>
+o lugar...<Button><CR>
+!---------------------!
+A gente tem que achar e<LF>
+deletar o programa de<LF>
+radiação! OK?<Button><CR>
+!---------------------!
+<0xF2: 0 13 2><Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Claro!!<Button><EB>
+!*********************!
+

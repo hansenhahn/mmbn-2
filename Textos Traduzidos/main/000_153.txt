@@ -1,0 +1,177 @@
+<@AbsoluteAddr 7953436>
+<@PointerIdx0>
+<0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Que droga! Não tá<LF>
+funcionando!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>Imaginei... é por causa<LF>
+de toda essa radiação.<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 0><0xF1: 0>Hngh! Vai! Funciona!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 64><0xF1: 0>Isso não vai...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 1 241 0><0xFA: 0 193 0>bing!<Button><CR>
+!---------------------!
+<0xF2: 0 14 2><Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Ah! Olha só! Tá<LF>
+funcionando!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<0xFA: 4 14 0><Char: 0 64><0xF1: 0>Er, Lan? Eu tô feliz<LF>
+por isso, mas a gente<LF>
+tem companhia!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Devem ser da Gospel!<LF>
+Rápido! A gente tem que
+<LF>
+se esconder!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 1 241 0>Ô, Lan! Espera aí!<Dly: 0 10 0><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>Ah, tá, até parece!<Dly: 0 10 0><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 0><0xF1: 0>Espera aí... essa voz!<Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 2><0xF1: 0>Pô, cara! Não é legal<LF>
+deixar o seu melhor<LF>
+amigo pra trás!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<0xFA: 4 16 0><Char: 0 0><0xF1: 0>Dex!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 1><0xF1: 0>Ei, não vai esquecer
+<LF>
+da gente também!<Button><0xF2: 0 15 2><EB>
+!*********************!
+<@PointerIdx15>
+<Char: 0 0><0xF1: 0>Caramba! Pessoal...<LF>
+O que é que vocês tão
+<LF>
+fazendo aqui!?<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 7><0xF1: 0>Não é óbvio? Nós<LF>
+também somos<LF>
+NetLutadores Municipais!<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 0 0><0xF1: 0>Sua bobona! E a<LF>
+radiação?<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 7><0xF1: 0>"Bobona"!? O Chaud<LF>
+nunca diria uma coisa
+<LF>
+essas pra uma dama!<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 0><0xF1: 0>O quê!? Ah, vai, eu
+<LF>tava preocupado com<LF>
+vocês...<Button><CR>
+!---------------------!
+<Jmp: 0 20><@PointerIdx20>
+<Char: 0 1><0xF1: 0>Ô, casalzinho chato! Já
+<LF>
+vi que eu terei que ser<LF>
+a voz da razão aqui.<Button><CR>
+!---------------------!
+Estamos todos vestindo<LF>
+"RoupMag"s especiais,<LF>
+feitas na Netopia. Viu?<Button><CR>
+!---------------------!
+O meu pai conhece o<LF>
+presidente da Netopia,<LF>
+é claro, daí... sabe, né?<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 0 0><0xF1: 0>Sério isso!? Que legal!<Dly: 1 30 0><LF>
+E aí, o que é que tem lá<LF>
+em cima?<Button><CR>
+!---------------------!
+<Jmp: 0 22><@PointerIdx22>
+<Char: 0 2><0xF1: 0>Cê não vai acreditar:<LF>
+este prédio na verdade
+<LF>
+é um servidor gigante!<Button><CR>
+!---------------------!
+<Jmp: 0 23><@PointerIdx23>
+<Char: 0 7><0xF1: 0>Tinham servidores<LF>
+brotando de todo canto<LF>
+lá no segundo andar!<Button><CR>
+!---------------------!
+Não conseguimos passar<LF>
+dali.<Button><CR>
+!---------------------!
+<Jmp: 0 24><@PointerIdx24>
+<Char: 0 0><0xF1: 0>Servidores... brotando?<LF>
+Servidores não são...<LF>
+tipo... máquinas?<Button><CR>
+!---------------------!
+<Jmp: 0 25><@PointerIdx25>
+<Char: 0 1><0xF1: 0>Ela tá falando a verdade!<LF>
+Esses servidores tavam<LF>
+saindo do chão!<Button><CR>
+!---------------------!
+Tá, mas enfim: a gente<LF>
+tem que se livrar da<LF>
+radiação de Rede...<Button><CR>
+!---------------------!
+Só assim a gente vai<LF>
+poder acessar o último<LF>
+andar...<Button><CR>
+!---------------------!
+<Jmp: 0 26><@PointerIdx26>
+<Char: 0 2><0xF1: 0>Lan... A gente fez tudo<LF>
+que deu, então...<Dly: 1 30 0> agck!<Button><0xF2: 0 13 2><EB>
+!*********************!
+<@PointerIdx27>
+<Char: 0 0><0xF1: 0>Dex!? O que foi?<Button><CR>
+!---------------------!
+<Jmp: 0 28><@PointerIdx28>
+<Char: 0 7><0xF1: 0>O Dex se conectou por<LF>
+aqui mais vezes do que<LF>
+a gente, e a radiação...<Button><CR>
+!---------------------!
+<Jmp: 0 29><@PointerIdx29>
+<Char: 0 1><0xF1: 0>Disse que "precisava, ou<LF>
+não ia ter moral pra<LF>
+mostrar a cara".<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>aff.<Button><CR>
+!---------------------!
+<Jmp: 0 30><@PointerIdx30>
+<Char: 0 0><0xF1: 0>Dex... e Mayl, Yay...<LF>
+muito obrigado! Agora<LF>
+achem um lugar seguro!<Button><CR>
+!---------------------!
+Podem deixar o resto<LF>
+disso aqui comigo!<Button><CR>
+!---------------------!
+<Jmp: 0 31><@PointerIdx31>
+<Char: 0 7><0xF1: 0>Obrigada, Lan!<Button><EB>
+!*********************!
+<@PointerIdx32>
+<Char: 0 0><0xF1: 0>MegaMan! Vamos<LF>
+arrebentar!<Button><CR>
+!---------------------!
+<Jmp: 0 33><@PointerIdx33>
+<Char: 0 64><0xF1: 0>Pode crer! Pelo Dex, pela<LF>
+Mayl, e pela Yai! Vamos<LF>
+achar um jeito de subir!<Button><CR>
+!---------------------!
+E se a gente não achar<LF>
+um caminho, é só a gente<LF>
+construir um!<Button><EB>
+!*********************!
+

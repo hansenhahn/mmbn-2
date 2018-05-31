@@ -1,0 +1,12 @@
+<@AbsoluteAddr 7881868>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Vamos lá resolver os<LF>
+três problemas e seguir<LF>
+pro teste!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Que tipo de pedidos será<LF>
+que tem lá no quadro?<LF>
+Vamos nessa, Lan!<Button><EB>
+!*********************!
+

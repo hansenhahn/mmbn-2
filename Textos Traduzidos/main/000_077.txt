@@ -1,0 +1,106 @@
+<@AbsoluteAddr 7895304>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Iniciar programa de<LF>
+desbloqueio da<LF>
+porta!<Button><CR>
+!---------------------!
+Pronto, a passagem já<LF>
+deve estar liberada<LF>
+agoar.<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 1 241 0>Não posso deixá-los<LF>
+seguirem antes de nós...<Button><CR>
+!---------------------!
+Fiquem de prontidão<LF>
+e aguardem nossa<LF>
+chegada!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 64><0xF1: 0>Que droga! A gente não<LF>
+tem tempo pra isso!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 73><0xF1: 0>Alto lá!<Dly: 0 60 0><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 73><0xF1: 0>NÓS somos os seus<LF>
+oponentes!!<Button><CR>
+!---------------------!
+MegaMan! Deixe isto com<LF>
+a gente! Guarde suas<LF>
+energias para depois!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0><Char: 3 0>Cloque<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 73><0xF1: 0>Eles já saíram?<Button><CR>
+!---------------------!
+Urrggh!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 70><Char: 2 1><0xF1: 0>O senhor está bem?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 70><0xF1: 0>O senhor está exausto<LF>
+por causa da luta de<LF>
+ainda agora...<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 73><0xF1: 0>Não se preocupem<LF>
+comigo...<Button><CR>
+!---------------------!
+Além do quê...<LF>
+Esse Navi...<LF>
+é forte demais...<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 70><Char: 2 1><0xF1: 0>Provavelmente não o<LF>
+venceremos se lutarmos<LF>
+como sempre lutamos....<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 70><0xF1: 0>Só há um jeito de<LF>
+derrotá-lo...<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 73><0xF1: 0>É nossa única chance.<Button><CR>
+!---------------------!
+Se morrermos pelo nobre<LF>
+computador matriz, será<LF>
+uma morte honrada!!<Button><CR>
+!---------------------!
+Vamos partir com estilo!!<0xFA: 4 16 0><Button><CR>
+!---------------------!
+Ativar modo de energia<LF>
+máxima!!<Button><CR>
+!---------------------!
+<0xF2: 4 114 2><Jmp: 0 13><@PointerIdx13>
+<Char: 0 36><0xF1: 0>Modo de energia máxima...<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 37><0xF1: 0>Não pode ser! Vocês<LF>
+planejam...!?<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 39><0xF1: 0>Sobrecarregar suas<LF>
+energias em um ataque<LF>
+suicida!?<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 73><0xF1: 0>Foi uma aventura sem<LF>
+igual, velhote!<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 0 70><Char: 2 1><0xF1: 0>Deixem o resto com<LF>
+Lan e MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 70><0xF1: 0>Adeus!!<Button><0xF2: 0 114 2><EB>
+!*********************!
+<@PointerIdx19>
+<Char: 0 36><0xF1: 0>Esses loucos<LF>
+imprudentes...<Button><EB>
+!*********************!
+

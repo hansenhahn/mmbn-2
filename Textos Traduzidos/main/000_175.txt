@@ -1,0 +1,154 @@
+<@AbsoluteAddr 7978120>
+<@PointerIdx0>
+<0xF6: 3 62 1 7 7 255><0xF3: 0 225 0 9 255><0xF3: 0 226 0 7 255><0xF3: 0 227 0 5 255><0xF3: 0 234 0 3 255><0xF3: 0 233 0 2 255><Char: 0 70><0xF1: 0>Eu sou o examinador da<LF>
+prova da <ItemTbl: 0 62 0>.<Button><CR>
+!---------------------!
+Veio fazer a prova?<LF>Ela é composta por<LF>
+doistestes.<Button><CR>
+!---------------------!
+Se você passar,
+<LF>
+receberá sua<LF>
+<ItemTbl: 0 62 0>. Pronto?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<0xF2: 0 233 0><Char: 0 70><0xF1: 0>Para o primeiro teste,<LF>
+você executará uma<LF>
+missão.<Button><CR>
+!---------------------!
+Sob influência da Gospel,<LF>
+4 Navis formaram uma<LF>
+gangue:<Button><CR>
+!---------------------!
+os "Navis de Preto".<Button><CR>
+!---------------------!
+Só têm 4 membros no<LF>
+total, mas são todos<LF>
+criminosos renomados.<Button><CR>
+!---------------------!
+Se não forem eliminados<LF>
+logo agora, enquanto<LF>
+ainda são poucos,<Button><CR>
+!---------------------!
+podem vir a se tornar<LF>
+uma grande organização<LF>
+criminosa.<Button><CR>
+!---------------------!
+E você será o<LF>
+responsável por destruir<LF>
+os Navis de Preto.<Button><CR>
+!---------------------!
+Os membros da gangue<LF>
+estão espalhados<LF>
+Rede afora.<Button><CR>
+!---------------------!
+Obviamente, são todos<LF>
+Navis pretos, e todos<LF>
+têm alta cara de mau.<Button><CR>
+!---------------------!
+Um dos membros dela<LF>
+foi localizado na área<LF>
+de Saborya.<Button><CR>
+!---------------------!
+Este é o Teste 1.<LF>
+Quer que eu o repita?<LF>
+<Arrow: 17 0><Pos: 0 2>Quero <Arrow: 0 17><Pos: 0 2>Não precisa<CondJmp: 6 129 1 255 255>
+!---------------------!
+Pois bem, então.<LF>
+Boa sorte!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 70><0xF1: 0>Já derrotou todos os<LF>
+4 membros dos Navis<LF>
+de Preto?<Button><CR>
+!---------------------!
+Ainda não?<Button><CR>
+!---------------------!
+Bom, boa sorte na<LF>
+caçada.<Button><CR>
+!---------------------!
+Ou quer que eu repita<LF>
+o enunciado?<LF>
+<Arrow: 17 0><Pos: 0 2>Please <Arrow: 0 17><Pos: 0 2>That's OK<CondJmp: 6 129 1 255 255>
+!---------------------!
+Pois bem, então.<LF>
+Boa sorte!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<0xF2: 0 227 0><Char: 0 70><0xF1: 0>Meus parabéns!<LF>
+Bom trabalho!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 70><0xF1: 0>Agora vamos ao Teste 2!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 70><0xF1: 0>O Teste 2 é uma<LF>
+batalha de sobrevivência.<Button><CR>
+!---------------------!
+Para passar, delete os<LF>
+20 grupos de vírus<LF>
+que o desafiarão.<Button><CR>
+!---------------------!
+Não se pode recuperar<LF>
+HP durante as lutas,
+<LF>
+então tome cuidado.<LF>
+<Button><CR>
+!---------------------!
+Recuperarei o seu<LF>
+HP antes e depois<LF>
+do teste.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 70><0xF1: 0>E então? Pronto?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Pronto!<LF>
+<Arrow: 17 2><Pos: 0 2>Tento depois<LF>
+<Arrow: 34 16><Pos: 0 2>Explique de novo<CondJmp: 7 192 12 255 5>
+!---------------------!
+<0xff>Tudo bem. Por favor,<LF>
+venha e fale comigo<LF>
+de novo.<Button><EB>
+!*********************!
+<@PointerIdx7>
+<0xF2: 4 226 0><Char: 0 70><0xF1: 0>Que pena...<Dly: 1 30 0><LF>
+Quer tentar de novo?<LF>
+<Arrow: 17 0><Pos: 0 2>Quero! <Arrow: 0 17><Pos: 0 2>Outra hora.<CondJmp: 6 128 12 255 255>
+!---------------------!
+Tudo bem. Por favor,<LF>
+venha e fale comigo<LF>
+de novo.<Button><EB>
+!*********************!
+<@PointerIdx8>
+<Char: 0 70><0xF1: 0>Veio tentar fazer o<LF>
+Teste 2 de novo,
+<LF>
+certo?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx9>
+<Char: 0 70><0xF1: 0>Fantástico! Você<LF>
+passou na prova com<LF>
+maestria!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 62 1>MegaMan recebeu:<LF>
+"<ItemTbl: 0 62 0>!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><0xF2: 0 230 0><CR>
+!---------------------!
+<Char: 0 70>Também lhe darei isso
+<LF>
+aqui como bônus!<Button><CR>
+!---------------------!
+<Char: 1 248 0><0xF8: 4 24><0xF6: 0 98 1>MegaMan recebeu um<LF>
+PowerUp:<LF>
+"<ItemTbl: 0 98 0>!!"<Button><0xF8: 12><0xF8: 8><CR>
+!---------------------!
+Memória padrão<LF>
+aumentada em 1 MB!!<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 70><0xF1: 0>Ótimo trabalho!<Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 70><0xF1: 0><0xF2: 0 227 0><0xF1: 1><0xF2: 0 228 0><0xF2: 4 231 0><EB>
+!*********************!
+

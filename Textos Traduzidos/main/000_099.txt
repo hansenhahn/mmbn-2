@@ -1,0 +1,39 @@
+<@AbsoluteAddr 7915644>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Onde é que a gente foi<LF>
+se meter!? É treta!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>O teto vai esmagar a<LF>
+gente!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 54><0xF1: 0>Aaaaahh!!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Princesa!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 54><0xF1: 0>É uma armadilha! E<LF>
+acho que é a mesma<LF>
+que pegou o Sr. Johnson!!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Aquela porta! <Dly: 1 30 0>Conecte no<LF>
+painel dela. Talvez assim<LF>
+a gente possa abri-la!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 54><0xF1: 0>Não dá...<Dly: 1 30 0> meu KnightMan<LF>
+está muito ferido após<LF>
+desarmar uma armadilha.<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Lan! Pode deixar comigo!<LF>
+Rápido, me conecta lá!!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Corre, MegaMan, senão<LF>
+a gente vai virar purê!<Button><EB>
+!*********************!
+

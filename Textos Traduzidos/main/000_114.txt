@@ -1,0 +1,33 @@
+<@AbsoluteAddr 7926932>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Uff... já chega!<LF>
+Eu tô até aqui de comida!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Caramba, Lan. Você<LF>
+tava com fome mesmo,<LF>
+hein?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>A comida desse avião é<LF>
+muito melhor do que eu<LF>
+esperava...<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 1 241 0>10 minutos depois...<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 0><0xF1: 0>Uuhh-âhghh...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Algum problema, Lan?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>A m-minha barriga...<LF>
+Ai que dor...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>É o que você ganha por<LF>
+comer feito condenado!<Button><EB>
+!*********************!
+

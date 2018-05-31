@@ -1,0 +1,152 @@
+<@AbsoluteAddr 7939704>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Papai, ajuda aqui!!<LF>
+A Roll desapareceu<LF>
+enquanto tava na Rede!<Button><CR>
+!---------------------!
+E além disso começaram<LF>
+a cair esses blocos de<LF>
+gelo esquisitos por lá...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 23><0xF1: 0>A Roll desapareceu...<LF>
+Esse gelo deve ser a<LF>
+causa disso...<Button><CR>
+!---------------------!
+Eu analisei a Rede ainda<LF>
+agora e descobri uma<LF>
+coisa terrível.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>"Coisa terrível"?<LF>
+Como assim?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 23><0xF1: 0>Estão ocorrendo todo<LF>
+tipo de desastres<LF>
+naturais no mundo agora.<Button><CR>
+!---------------------!
+Isso é confidencial, mas<LF>
+mas os fenômenos<LF>
+geológicos de cada nação<Button><CR>
+!---------------------!
+são controlados por um<LF>
+"Sistema Ambiental" que<LF>
+previne<Button><CR>
+!---------------------!
+desastres naturais.<Button><CR>
+!---------------------!
+Mas esse gelo... é um<LF>
+vírus especial que<LF>
+congelou<Button><CR>
+!---------------------!
+a Rede, e também o<LF>
+Sistema Ambiental.<Button><CR>
+!---------------------!
+<0xFA: 4 13 0><Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Um vírus? Aquele gelo?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 23><0xF1: 0>Muitos dos nossos Navis<LF>
+Oficiais foram abatidos<LF>
+durante a remoção deles.<Button><CR>
+!---------------------!
+Esse é o nível de perigo<LF>
+que esse vírus<LF>
+representa.<Button><CR>
+!---------------------!
+O vírus gelo tem quatro<LF>
+variantes: branco,<LF>
+vemelho, azul e amarelo.<Button><CR>
+!---------------------!
+É preciso programas-<LF>
+cura especiais para<LF>
+remover o gelo.<Button><CR>
+!---------------------!
+A única que conseguimos<LF>
+criar por enquanto...<Button><CR>
+!---------------------!
+é a"<ItemTbl: 0 35 0>",<LF>
+que quebra o gelo
+<LF>
+vermelho.<Button><CR>
+!---------------------!
+Mas precisamos de<LF>
+dados-amostra de gelo<LF>
+vermelho para fazê-la!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Uma amostra?<LF>
+Tipo isso aqui?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 1 241 0><0xF6: 1 34 1>Lan deu ao pai:<LF>
+"<ItemTbl: 0 34 0>!!"<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 23><0xF1: 0>Com isso eu posso fazer<LF>
+a "<ItemTbl: 0 35 0>".<LF>
+Me deem só um segundo.<Button><CR>
+!---------------------!
+<0xF2: 0 8 2><Char: 3 0><0xFA: 12><0xFA: 0 10 1>clique-clique<0xFA: 8><Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 23><0xF1: 0>Pronto!! A <Button><0xF2: 4 8 2><Jmp: 0 10><@PointerIdx10>
+<Char: 0 23><0xF1: 0>"<ItemTbl: 0 35 0>"<LF>
+está terminada!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 1 241 0><0xFA: 0 133 0><0xF8: 4 24>Lan recebeu:<LF>
+"<ItemTbl: 0 35 0>!!"<0xF8: 12><0xF8: 4 1><Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 23><0xF1: 0>E se vocês não<LF>
+removerem rápido todo<LF>
+o gelo na Rede...<Button><CR>
+!---------------------!
+A força da natureza,<LF>
+que vem sido suprimida<LF>
+por programas<Button><CR>
+!---------------------!
+há décadas, será<LF>
+liberada de uma vez,<LF>
+destruindo o nosso mundo!<Button><CR>
+!---------------------!
+Tenho que ir consertar<LF>
+o Sistema Ambiental.<Button><CR>
+!---------------------!
+Posso demorar um pouco<LF>
+para voltar.<Button><CR>
+!---------------------!
+Deixo os vírus-gelo<LF>
+com vocês.<Button><CR>
+!---------------------!
+Estou deixando uma<LF>
+tarefa muito importante<LF>
+nas suas mãos...<Button><CR>
+!---------------------!
+Mas acredito sim que,<LF>
+juntos, conseguiremos<LF>
+lidar com essa crise.<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 0><0xF1: 0>Deixa comigo, papai!<LF>
+A gente vai proteger<LF>
+o mundo, juntos!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 23><0xF1: 0>É isso aí, filhão!<Button><CR>
+!---------------------!
+Bom, vou lá conferir o<LF>
+Sistema Ambiental.<Button><CR>
+!---------------------!
+Boa sorte, Lan.<LF>
+E boa sorte, MegaMan!<Button><0xF2: 0 8 2><EB>
+!*********************!
+<@PointerIdx15>
+<Char: 0 64><0xF1: 0>Lan, vamos rápido!<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 0><0xF1: 0>Vamos!<Button><EB>
+!*********************!
+

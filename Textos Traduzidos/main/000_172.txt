@@ -1,0 +1,24 @@
+<@AbsoluteAddr 7972216>
+<@PointerIdx0>
+<0xF1: 0>E assim,<Dly: 1 30 0> finalmente,<Dly: 1 30 0><LF>
+a paz voltou ao mundo.<Button><CR>
+!---------------------!
+A Gospel foi dissolvida, e<LF>
+junto com ela, o medo dos<LF>
+netcrimes...<Button><CR>
+!---------------------!
+O menino foi preso, e<LF>
+está sendo interrogado<LF>
+diariamente...<Button><CR>
+!---------------------!
+...mas eu contei pro papai<LF>
+sobre o que a gente leu<LF>
+no diário...<Button><CR>
+!---------------------!
+...então acho que vão<LF>
+pegar mais leve com ele.<Button><CR>
+!---------------------!
+...Ah, já a gente?<Dly: 1 30 0><LF>
+Bom.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><EB>
+!*********************!
+

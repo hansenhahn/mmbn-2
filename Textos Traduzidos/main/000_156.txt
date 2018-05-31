@@ -1,0 +1,40 @@
+<@AbsoluteAddr 7956164>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>É isso aí! Beleza!!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Mandou bem, MegaMan...<Dly: 1 30 0><LF>
+o resto é com você!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 64><0xF1: 0>O resto<Dly: 1 30 0>...<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<0xF2: 0 8 2><Char: 1 241 0>MegaMan inseriu:<LF>
+"<ItemTbl: 0 51 0>" no<LF>
+programa central!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 64><0xF1: 0>Esse aqui... não é o<LF>
+mesmo lugar em que a<LF>
+gente tava?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Não parece que a gente<LF>
+acessou a Rede do<LF>
+último andar.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>O programa tá rodando<LF>
+normalmente. Será que<LF>
+mudou alguma coisa?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Talvez o elevador!<LF>
+Beleza, MegaMan, vamos<LF>
+desconectar um pouco!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 64><0xF1: 0>Entendido!!<Button><EB>
+!*********************!
+

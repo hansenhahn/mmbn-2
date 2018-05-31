@@ -1,0 +1,15 @@
+<@AbsoluteAddr 7891332>
+<@PointerIdx0>
+<Char: 0 70><0xF1: 0>Tolo! Como ousa encostar<LF>
+em nosso tesouro<LF>
+nacional!?<Button><CR>
+!---------------------!
+Isso é imperdoável!<LF>
+Merece uma boa infecção<LF>
+de vírus!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Lan, tem alguma coisa<LF>
+vindo!!<Button><EB>
+!*********************!
+

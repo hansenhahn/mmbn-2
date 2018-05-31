@@ -1,0 +1,75 @@
+<@AbsoluteAddr 7945820>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Mãe! Já tá tudo bem<LF>
+agora!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 11><0xF1: 0><Char: 3 0>......<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Mãe...? O... o que foi...?<LF>
+<Char: 3 0>(Ela tá zangada<LF>
+comigo?)<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 11><0xF1: 0>O seu pai ligou.<LF>
+Já estou sabendo de<LF>
+tudo.<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>A-Ah, é que eu... nós...<LF>
+Desculpa por te deixar<LF>
+preocupada, mamãe.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 11><0xF1: 0>Vocês dois têm mesmo<LF>
+um talento nato pra<LF>
+preocupar os pais.<Button><CR>
+!---------------------!
+......<LF>
+Lan! MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>S-Sim!?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>S-Sim!?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 11><0xF1: 0>Bem-vindos de volta.<LF>
+Estou orgulhosa de<LF>
+vocês.<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 0><0xF1: 0>Mamãe!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 11><0xF1: 0>O genes não enganam.<LF>
+São iguaizinhos ao pai e<LF>
+ao avô...<Button><CR>
+!---------------------!
+Têm aquele forte<LF>
+senso de justiça, e<LF>
+agem sem pensar.<Button><CR>
+!---------------------!
+Realmente está no<LF>
+sangue...<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 0><0xF1: 0>Que foi, mãe?<LF>
+Eu sujei a minha<LF>
+bandana?<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 11><0xF1: 0>Ah... você é idêntico <LF>
+ao seu pai quando<LF>
+era mais novo.<Button><CR>
+!---------------------!
+Deve estar exausto.<LF>
+Que tal descansar um<LF>
+pouco, filho?<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 0><0xF1: 0>Tá bom.<Button><EB>
+!*********************!
+

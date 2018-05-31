@@ -1,0 +1,15 @@
+<@AbsoluteAddr 7891208>
+<@PointerIdx0>
+<Char: 0 70><0xF1: 0>Largue a nossa jóia
+<LF>
+da coroa agora mesmo!<LF>
+Senão...<Button><CR>
+!---------------------!
+Haverá uma execução<LF>
+via vírus!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Lan, tem alguma coisa<LF>
+vindo pra cá!!<Button><EB>
+!*********************!
+

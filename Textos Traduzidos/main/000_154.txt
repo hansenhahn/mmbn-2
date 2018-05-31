@@ -1,0 +1,27 @@
+<@AbsoluteAddr 7955372>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Caramba! O quê que é
+<LF>
+aquilo? É o que tá no<LF>
+topo do prédio?<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 64><0xF1: 0>É o que parece...<Button><CR>
+!---------------------!
+A radiação está<LF>
+distorcendo e fundindo<LF>
+o seu mundo com o meu!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Nossa... o papai ia
+<LF>
+adorar estudar isso...<Button><CR>
+!---------------------!
+Mas enfim, vamos<LF>
+consertar a Rede e<LF>
+chegar no último andar!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Entendido!<Button><EB>
+!*********************!
+

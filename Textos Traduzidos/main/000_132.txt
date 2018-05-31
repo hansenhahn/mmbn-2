@@ -1,0 +1,75 @@
+<@AbsoluteAddr 7936836>
+<@PointerIdx0>
+<Char: 0 88><0xF1: 0>Sr. Gauss...<LF>
+Mil perdões por...<Button><CR>
+!---------------------!
+Que Deus abençõe
+<LF>
+a Gospel!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 61><0xF1: 0>O quê!? MagnetMan<LF>
+foi...!<Button><CR>
+!---------------------!
+Você! Você arruinou<LF>
+os meus planos de tomar<LF>
+este avião!!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 62><0xF1: 0>"Tomar este avião?"<LF>
+Então é você que está<LF>
+por trás disso tudo?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 61><0xF1: 0>Infernos!!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 62><0xF1: 0>Você não vai se safar<LF>
+com essa!!<LF>
+Eu vou capturá-lo!!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 61><0xF1: 0>P-Pare já com isso!<LF>
+Por acaso não sabe<LF>
+quem eu sou?<Button><CR>
+!---------------------!
+Maldição!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 62><0xF1: 0>Pronto, detive ele. Agora<LF>
+é só entregá-lo para<LF>
+os Oficiais...<Button><CR>
+!---------------------!
+assim que aterrissarmos.<LF>
+Você, vem comigo!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 61><0xF1: 0>Ahh...!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Obrigado, senhor!!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 60><0xF1: 0>O programa do trem de<LF>
+pouso voltou ao normal.<LF>
+Está tudo desobstruído.<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 59><0xF1: 0>Perfeito! Hora de
+<LF>
+aterrissar essa máquina!<LF>
+Valeu, Lan!<Button><CR>
+!---------------------!
+Mas agora volte para<LF>
+o seu assento!<LF>
+Rapidinho, vai.<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 0><0xF1: 0>Beleza!<Button><CR>
+!---------------------!
+MegaMan, desconectar!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 64><0xF1: 0>Com prazer!<Button><EB>
+!*********************!
+

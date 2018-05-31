@@ -1,0 +1,27 @@
+<@AbsoluteAddr 7926548>
+<@PointerIdx0>
+<Char: 0 58><0xF1: 0>Senhores passageiros,<LF>
+pedimos desculpas pelo
+<LF>
+inconveniente.<Button><CR>
+!---------------------!
+Mas já estamos fora<LF>
+da área de turbulência.<Button><CR>
+!---------------------!
+Agora desligaremos
+<LF>
+o alerta de apertar<LF>
+cintos.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Parece que já acabou<LF>
+a turbulência.<Button><CR>
+!---------------------!
+Já tá quase na hora do<LF>
+almoço. Que tal a gente<LF>
+dar uma volta antes?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Pode ser.<Button><EB>
+!*********************!
+

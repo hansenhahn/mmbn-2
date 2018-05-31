@@ -330,7 +330,7 @@ def Insert_NPC(src, dst):
             pointer_idx = []
         
             for j, line in enumerate(fd):
-                try:
+                #try:
                     line = line.strip('\r\n')
                     if not line:
                         continue
@@ -369,10 +369,10 @@ def Insert_NPC(src, dst):
                                         for arg in argv:
                                             buffer.extend( struct.pack("B", int(arg)) )                            
                                     else:
-                                        buffer.extend( struct.pack("B", int(tag)) )                                        
-                except:
-                    print "<< Error"
-                    sys.exit()
+                                        buffer.extend( struct.pack("B", int(tag,16)) )                                        
+                # except:
+                    # print "<< Error"
+                    # sys.exit()
                     
             size = len(pointer_idx) * 2 + len(buffer)
             temp = mmap.mmap(-1, size)
@@ -549,13 +549,85 @@ def Extract_NPC(src, dst):
                     if b in table:
                         buffer.append( table[b] )
                     else:
-                        buffer.extend( "<"+str(hex(c))+">")
+                        buffer.extend( "<"+str(hex(c))+">")                    
                         
             data.close()
                 
             output = open(os.path.join(dst, "%03d_%03d.txt" %(i,j)), "w")
             buffer.tofile(output)
             output.close()
+  
+def Extract_Menu(src, dst):
+    table = normal_table('mmbn2.tbl')
+    
+    with open(src, "rb") as data:
+
+        # Não preciso disso aqui na verdade...
+        # main_pointers = []
+        # fd.seek( 0x2282c )
+        # print ">> Buffering pointer to pointers..."
+        # while fd.tell() < 0x228a8 :
+            # main_pointers.append(struct.unpack("<L", fd.read(4))[0] & 0xFFFFFF)
+            
+        text_pointers = [0x7d7bc8,]
+        # fd.seek( 0x228a8 )
+        # print ">> Buffering pointer to text..."
+        # while fd.tell() < 0x22b34 :
+            # text_pointers.append(struct.unpack("<L", fd.read(4))[0] & 0xFFFFFF)        
+        
+        i = 0
+        for j, pointer_2 in enumerate(text_pointers):
+            if pointer_2 == 0:
+                continue
+        
+            print ">> Extracting {0} {1} text".format(i,j)
+            #ret = lzss.uncompress( fd, pointer_2 )
+            
+            # data = mmap.mmap( -1, len(ret) )
+            # data.write(ret)
+            data.seek(pointer_2)
+    
+            # Bufferiza os ponteiros
+            entries = struct.unpack("<H" , data.read(2))[0]/ 2
+            
+            pointers = []
+            data.seek(pointer_2)
+            for _ in range(entries):
+                pointers.append(struct.unpack("<H", data.read(2))[0])
+            
+            buffer = array.array("c")
+            
+            
+            while True:            
+                p = data.tell() - pointer_2
+                if p in pointers:
+                    for k, ptr in enumerate( pointers ):
+                        if p == ptr:
+                            # Coloca labels no texto
+                            buffer.extend( "<@PointerIdx%d>\n" % k )   
+                                    
+                b = data.read(1)                   
+                c = struct.unpack("B", b)[0]     
+                
+                if c >= 0xE5: # É uma tag.. esse teste é o mesmo do jogo
+                    if c in tagsdict:
+                        tagsdict[c][1](data, buffer, tagsdict[c][0])                                            
+                    else:
+                        buffer.extend( "<"+str(hex(c))+">" )                                
+                else:            
+                    if b in table:
+                        buffer.append( table[b] )
+                    else:
+                        buffer.extend( "<"+str(hex(c))+">")                            
+                
+                if data.tell() == 0x7d8d8f:
+                    break
+                    
+            data.close()
+                
+            output = open(os.path.join(dst, "%03d_%03d.txt" %(i,j)), "w")
+            buffer.tofile(output)
+            output.close()  
             
 if __name__ == "__main__":
     import argparse
@@ -580,6 +652,7 @@ if __name__ == "__main__":
         print "Desempacotando arquivo"
         Extract_NPC( args.src , os.path.join(args.dst , "npc" ))
         Extract_Main( args.src , os.path.join(args.dst , "main" ) )
+        Extract_Menu( args.src , os.path.join(args.dst , "menu" ) )
         # Extract_NPC("../ROM Modificada/0468 - MegaMan Battle Network 2 (U)(Mode7).gba" , "../Textos Originais2/npc")
         # Extract_Main("../ROM Modificada/0468 - MegaMan Battle Network 2 (U)(Mode7).gba" , "../Textos Originais2/main")
         # Extract_NPC("../ROM Original/0468 - MegaMan Battle Network 2 (U)(Mode7).gba" , "../Textos Originais/npc")

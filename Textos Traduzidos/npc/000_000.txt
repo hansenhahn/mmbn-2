@@ -1,0 +1,1557 @@
+<@PointerIdx0>
+<0xF3: 4 16 17 75 255><0xF3: 4 7 7 30 255><0xF3: 4 4 5 26 255><Char: 0 26><0xF1: 0>Antigamente tinha uma<LF>
+loja aqui, mas ela<LF>
+fechou.<Button><EB>
+!*********************!
+<@PointerIdx1>
+<0xF3: 4 7 7 31 255><0xF3: 4 4 5 27 255><Char: 0 18><0xF1: 0>Aquela casa azul ali é<LF>
+onde mora o Lan.<Button><CR>
+!---------------------!
+Já a cor-de-rosa<LF>
+é onde mora a pequena<LF>
+Mayl, se não me engano.<Button><CR>
+!---------------------!
+Ei, eu sou vendedor!<LF>
+Faz parte do trabalho<LF>
+saber quem mora onde!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<0xF3: 4 7 7 32 255><0xF3: 4 4 5 23 255><Char: 0 14><0xF1: 0>Essa aí é a maior casa<LF>
+daqui de ACDC.<Button><CR>
+!---------------------!
+Talvez seja até a<LF>
+maior casa de<LF>
+toda a DenCity!<Button><CR>
+!---------------------!
+Ser rico deve ser bom,<LF>
+viu... mas não é pra<LF>
+mim!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<0xF3: 4 7 7 33 255><Char: 0 16><0xF1: 0>PETs são tão super<LF>
+da hora! Seria SUPER<LF>
+sacal viver sem eles!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 8><0xF1: 0>Saca só o meu<LF>
+diretório de chips!<LF>
+Tem uns bem legais!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 10><0xF1: 0>Poxa! Eu também<LF>
+queria mais chips!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<0xF3: 4 7 255 36 255><0xF3: 4 4 5 24 255><0xF3: 4 2 3 15 255><Char: 0 9><0xF1: 0>A Mayl e o Dex<LF>
+ainda não voltaram<LF>
+pra casa.<Button><EB>
+!*********************!
+<@PointerIdx7>
+<0xF3: 4 7 255 37 255><Char: 0 15><0xF1: 0>Você já ouviu falar<LF>
+de "caçar vírus"?<LF>
+<Arrow: 17 0><Pos: 0 2>Já <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 128 8 255 255>
+!---------------------!
+É quando você conecta<LF>
+o seu PET na Net pra<LF>
+lutar contra vírus.<Button><CR>
+!---------------------!
+Você usa o seu Navi<LF>
+para enfrentá-los e<LF>
+deleta eles!<Button><CR>
+!---------------------!
+Caçar vírus é<LF>
+importantíssimo.<Button><EB>
+!*********************!
+<@PointerIdx8>
+<0xF3: 4 4 7 25 255><Char: 0 15><0xF1: 0>Os melhores caça-vírus<LF>
+ganham licenças do<LF>
+Centro Oficial!<Button><CR>
+!---------------------!
+Para se inscrever pra<LF>
+prova de tirar licença,<LF>
+é só ir no Plaza, na Net.<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 38><0xF1: 0>Olá. Sou técnico da<LF>
+DenGas...<Button><CR>
+!---------------------!
+Tiveram algum problema<LF>
+com algum eletrodoméstico<LF>
+a gás por aqui?<Button><CR>
+!---------------------!
+O quê? Esta não é a<LF>
+casa da Srta. Yai? Já<LF>
+estamos a caminho!<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 38><0xF1: 0>É aqui...<Dly: 1 30 0><LF>
+Esta é a casa da Srta.<LF>
+Yai, com certeza.<Button><EB>
+!*********************!
+<@PointerIdx11>
+<0xF3: 4 7 255 38 255><Char: 0 19><0xF1: 0>Dá pra ligar seu PET em<LF>
+um eletrodoméstico. Cha-<LF>
+mamos isso de "conectar".<Button><CR>
+!---------------------!
+É a ação de "conectar"<LF>
+que manda o seu Navi<LF>
+pra Rede, entende?<Button><CR>
+!---------------------!
+Até nós velhinhos<LF>
+conseguimos. É só<LF>
+apertar o botão "R"!<Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 39><0xF1: 0>Para ver os seus chips,<LF>
+é só ir em "coleção"<LF>
+no menu do seu PET.<Button><CR>
+!---------------------!
+Os dados de todos<LF>
+os seus chips estão<LF>
+lá. Bem útil, né?<Button><CR>
+!---------------------!
+Eu, por exemplo, já<LF>
+tenho mais de 100 chips<LF>
+na minha coleção!<Button><EB>
+!*********************!
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<Char: 0 9><0xF1: 0>A Mayl e o Dex acabaram<LF>
+de chegar em casa.<Button><EB>
+!*********************!
+<@PointerIdx16>
+<Char: 0 38><0xF1: 0>Sabe o que isto quer<LF>
+dizer? Que terminamos o<LF>
+primeiro<Dly: 1 30 0> estágio!<Button><CR>
+!---------------------!
+Agora sigamos para o<LF>
+próximo estágio...<Button><EB>
+!*********************!
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<Char: 0 7><0xF1: 0>Lan, não! Eu também vou!<Dly: 1 30 0><LF>
+.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Tá bom...<Dly: 1 30 0><LF>
+Eu espero aqui, então.<Button><CR>
+!---------------------!
+Mas é bom você voltar<LF>
+assim que salvar eles,<LF>
+tá bom? ...Promete?<Button><EB>
+!*********************!
+<@PointerIdx21>
+<Char: 0 38><0xF1: 0>Está tudo indo de<LF>
+acordo com o plano!<Button><EB>
+!*********************!
+<@PointerIdx22>
+<Char: 0 8><0xF1: 0>A Mayl saiu correndo do<LF>
+nada. O que será que<LF>
+aconteceu?<Button><CR>
+!---------------------!
+Hã?! A Yai tá o quê?<LF>
+Essa não!<Button><EB>
+!*********************!
+<@PointerIdx23>
+<Char: 0 14><0xF1: 0>Essa casa ficou<LF>
+tão quieta de repente.<Button><CR>
+!---------------------!
+Sou só eu que estou com<LF>
+um mau pressentimento<LF>
+quanto a isso?<Button><EB>
+!*********************!
+<@PointerIdx24>
+<Char: 0 9><0xF1: 0>Que foi, Lan?<LF>
+Parece tão preocupado.<Button><EB>
+!*********************!
+<@PointerIdx25>
+<Char: 0 15><0xF1: 0>Os melhores "caça-vírus"<LF>
+ganham licenças do<LF>
+Centro Oficial!<Button><CR>
+!---------------------!
+O quê? Você já arranjou<LF>
+uma <ItemTbl: 0 58 0>?<LF>
+Puxa! Que legal!<Button><EB>
+!*********************!
+<@PointerIdx26>
+<Char: 0 26><0xF1: 0>Sou só eu, ou essa casa<LF>
+gigantona aí tá com um<LF>
+cheirinho estraho?<Button><EB>
+!*********************!
+<@PointerIdx27>
+<Char: 0 18><0xF1: 0>Huff... Ufa!<Button><CR>
+!---------------------!
+Ai, eu tô velho demais<LF>
+pra andar isso tudo.<LF>
+Chega fiquei tonto!<Button><EB>
+!*********************!
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<Char: 0 26><0xF1: 0>Você conhecia o dono<LF>
+da loja que tinha aqui,<LF>
+não conhecia?<Button><EB>
+!*********************!
+<@PointerIdx31>
+<Char: 0 18><0xF1: 0>É bom lembrar de onde<LF>
+os seus amigos moram.<Button><CR>
+!---------------------!
+Ás vezes isso permite<LF>
+achar atalhos na Rede,<LF>
+entende?<Button><CR>
+!---------------------!
+Mas primeiro os seus<LF>
+amigos têm que te dar<LF>
+as senhas deles!<Button><EB>
+!*********************!
+<@PointerIdx32>
+<Char: 0 14><0xF1: 0>Essa casa anda muito<LF>
+quieta ultimamente.<LF>
+Suspeito!<Button><CR>
+!---------------------!
+...<Dly: 1 30 0>Minha nossa! Aconteceu<LF>
+mesmo tudo isso aí?<LF>
+E você a salvou?<Button><CR>
+!---------------------!
+Fiquei admirada.<LF>
+Bom trabalho!<Button><EB>
+!*********************!
+<@PointerIdx33>
+<Char: 0 16><0xF1: 0>O PET também serve pra<LF>
+fazer compras e marcar<LF>
+coisas com a galeríssima!<Button><EB>
+!*********************!
+<@PointerIdx34>
+<Char: 0 8><0xF1: 0>Eu tive que sair de lá.<LF>
+Aquele menino não<LF>
+parava de pedir chips!<Button><EB>
+!*********************!
+<@PointerIdx35>
+<Char: 0 10><0xF1: 0>Você viu aquele menino<LF>
+cheio dos chips por aí?<Button><CR>
+!---------------------!
+Buáááá! Cadê meus<LF>
+chiips!?<Button><EB>
+!*********************!
+<@PointerIdx36>
+<Char: 0 9><0xF1: 0>Oi, tudo em cima?<LF>
+Você parece bem mais<LF>
+pra cima do que antes.<Button><EB>
+!*********************!
+<@PointerIdx37>
+<Char: 0 15><0xF1: 0>Como anda a vida?<LF>
+Caçando muito vírus<LF>
+esses dias?<Button><CR>
+!---------------------!
+Sabe como é, eu também<LF>
+sou um super caça-<LF>
+vírus. Exemplar, até!<Button><CR>
+!---------------------!
+Mas não consigo lidar<LF>
+com aquele Mettaur.<Button><CR>
+!---------------------!
+Por isso sempre tenho<LF>
+um TiraQdo1 no meu<LF>
+diretório principal!<Button><CR>
+!---------------------!
+Quando um vírus te der<LF>
+trabalho, ache um chip<LF>
+que ajude a vencê-lo!<Button><EB>
+!*********************!
+<@PointerIdx38>
+<Char: 0 19><0xF1: 0>Você sabia que dá pra<LF>
+se conectar até naquela<LF>
+casinha de cachorro?<Button><CR>
+!---------------------!
+Fique atento!<LF>
+Existem entradas de<LF>
+conexão por toda parte.<Button><CR>
+!---------------------!
+Como... aqui! Conectaaar!<LF>
+.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Hmm... talvez não<LF>
+aqui...<Button><EB>
+!*********************!
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<0xF3: 4 32 33 150 255><0xF3: 4 10 15 63 255><0xF3: 0 90 2 56 255><Char: 0 9><0xF1: 0>A Mayl saiu pra algum<LF>
+lugar com todos os seus<LF>
+livros de escola...<Button><EB>
+!*********************!
+<@PointerIdx46>
+<Char: 0 8><0xF1: 0>Lan, já ouviu falar dos<LF>
+NetLutadores Oficiais?<LF>
+<Arrow: 17 0><Pos: 0 2>Já <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 128 47 255 255>
+!---------------------!
+NetLutadores Oficiais<LF>
+são aqueles que lutam<LF>
+licenciados pelo governo!<Button><CR>
+!---------------------!
+Eles têm a autoridade<LF>
+oficial de lutar contra<LF>
+netcriminosos!<Button><CR>
+!---------------------!
+E vão aonde quiserem,<LF>
+e acessam lugares que<LF>
+o público não pode!<Button><CR>
+!---------------------!
+Deve ser tão legal<LF>
+ser um NetLutador<LF>
+Oficial...<Button><EB>
+!*********************!
+<@PointerIdx47>
+<Char: 0 8><0xF1: 0>Mas você sabe dos Net-<LF>
+Lutadores Municipais, né?<LF>
+<Arrow: 17 0><Pos: 0 2>Sei <Arrow: 0 17><Pos: 0 2>Sei não<CondJmp: 6 128 48 255 255>
+!---------------------!
+NetLutadores Municipais<LF>
+também podem NetLutar<LF>
+pra combater o crime...<Button><CR>
+!---------------------!
+Mas não têm nem um<LF>
+terço dos privilégios<LF>
+que os Oficiais têm.<Button><EB>
+!*********************!
+<@PointerIdx48>
+<Char: 0 8><0xF1: 0>Pra ser um NetLutador<LF>
+Municipal, é só ter uma<LF>
+LicençaB ou maior.<Button><EB>
+!*********************!
+<@PointerIdx49>
+<Char: 0 39><0xF1: 0>Eu sou um NetLutador<LF>
+Oficial!<Button><CR>
+!---------------------!
+Fazer rondas para<LF>
+prevenir netcrimes é<LF>
+parte do meu trabalho!<Button><EB>
+!*********************!
+<@PointerIdx50>
+<Char: 0 18><0xF1: 0>Este país é muito<LF>
+pacífico, disso não há<LF>
+dúvidas...<Button><CR>
+!---------------------!
+Mas as netmáfias andam<LF>
+fazendo tanto mal<LF>
+no exterior...<Button><CR>
+!---------------------!
+Dizem até que eles são<LF>
+piores do que a WWW era!<Button><CR>
+!---------------------!
+O que faríamos se elas<LF>
+resolvessem vir pra cá?<Button><EB>
+!*********************!
+<@PointerIdx51>
+<Char: 0 13><0xF1: 0>É difícil pra velhos<LF>
+corocas que nem eu<LF>
+aprenderem a usar PETs.<Button><CR>
+!---------------------!
+Mas agora eu não<LF>
+imagino a minha vida<LF>
+sem o meu!<Button><CR>
+!---------------------!
+...Tá vendo? Dá até pra<LF>
+eu marcar as consultas<LF>
+de amanhã!<Button><EB>
+!*********************!
+<@PointerIdx52>
+<Char: 0 17><0xF1: 0>Cuida bem do meu<LF>
+Defê!<Button><EB>
+!*********************!
+<@PointerIdx53>
+<Char: 0 26><0xF1: 0>Eu troco pelo meu<LF>
+Tiro-V!<Button><EB>
+!*********************!
+<@PointerIdx54>
+<Char: 0 3><0xF1: 0>Sabia que eu venho<LF>
+pra escola durante as<LF>
+férias também?<Button><CR>
+!---------------------!
+E já que estamos aqui,<LF>
+eu vou ensiná-lo sobre<LF>
+aumento de níveis!<Button><CR>
+!---------------------!
+Para aumentar o nível<LF>
+do seu Navi, é preciso<LF>
+um programa "PowerUp".<Button><CR>
+!---------------------!
+O PowerUp "HPMemory"<LF>
+aumenta o HP máximo<LF>
+do seu Navi!<Button><CR>
+!---------------------!
+E o PowerUp, bem,<LF>
+"PowerUP" aumenta a
+<LF>força das armas dele.<Button><CR>
+!---------------------!
+Selecione o que você<LF>
+quer melhorar no<LF>
+menu, em <0x63>"MegaMan".<Button><CR>
+!---------------------!
+PowerUps são achados<LF>
+dentro de cristais de<LF>
+dados misteriosos<Button><CR>
+!---------------------!
+e em netlojas de<LF>
+várias áreas.<Button><EB>
+!*********************!
+<@PointerIdx55>
+<Char: 0 20><0xF1: 0>Use a Metrolinha caso<LF>
+queira sair da área<LF>
+ACDC.<Button><CR>
+!---------------------!
+Que tal dar uma voltinha<LF>
+em Porto das Águas?<Button><EB>
+!*********************!
+<@PointerIdx56>
+<Char: 0 9><0xF1: 0>A Mayl chegou em casa<LF>
+ainda agorinha.<Button><EB>
+!*********************!
+<@PointerIdx57>
+<0xF3: 0 78 2 58 255><Char: 0 10><0xF1: 0>Você vai sair pra<LF>
+acampar? <Dly: 1 15 0>Que legal!<LF>
+Eu bem que queria...<Button><EB>
+!*********************!
+<@PointerIdx58>
+<Char: 0 10><0xF1: 0>A prova de NetLutador<LF>
+Municipail! Caramba!<LF>
+Que demais!<Button><EB>
+!*********************!
+<@PointerIdx59>
+<Char: 0 64><0xF1: 0><0xF2: 12 6 7>Lan, chegou e-mail!<Button><EB>
+!*********************!
+<@PointerIdx60>
+<Char: 0 7><0xF1: 0>Ah! Tá atrasado!<Button><CR>
+!---------------------!
+Vamos acampar no Vale<LF>
+Okuden. Iremos pra lá<LF>
+de ônibus.<Button><0xF2: 0 102 2><0xF2: 0 149 2><0xF2: 4 150 2><0xF2: 4 151 2><EB>
+!*********************!
+<@PointerIdx61>
+<Char: 0 2><0xF1: 0>Até que enfim cê chegou,<LF>
+hein, Lan? A gente tá<LF>
+esperando há uma hora...<Button><CR>
+!---------------------!
+Mas o que importa é que<LF>
+cê chegou. E sabe o que<LF>
+isso quer dizer?<Button><CR>
+!---------------------!
+Que é hora do<LF>
+acampamento, cambada!!<LF>
+Urrrúúú! Simbora!!<Button><0xF2: 0 103 2><0xF2: 0 150 2><0xF2: 4 149 2><0xF2: 4 151 2><EB>
+!*********************!
+<@PointerIdx62>
+<Char: 0 1><0xF1: 0>O que me incomoda em<LF>
+acampamentos é toda<LF>
+aquela terra...!<Button><CR>
+!---------------------!
+Mas devo admitir que<LF>
+são divertidos, apesar<LF>
+de maltrapilhos.<Button><0xF2: 0 104 2><0xF2: 0 151 2><0xF2: 4 149 2><0xF2: 4 150 2><EB>
+!*********************!
+<@PointerIdx63>
+<Char: 0 9><0xF1: 0>Você vai sair pra<LF>
+acampar com a Mayl<LF>
+e com os outros...?<Button><CR>
+!---------------------!
+Poxa, que legal...<Button><EB>
+!*********************!
+<@PointerIdx64>
+<Char: 0 10><0xF1: 0>Hah hah hah haaaah!<Button><CR>
+!---------------------!
+Eu sou um netmafioso!<LF>
+E vou espalhar vírus<LF>
+pelo mundo tooodoooo!<Button><EB>
+!*********************!
+<@PointerIdx65>
+<Char: 0 26><0xF1: 0>Essa nãão! A netmáfia!<LF>
+Eu tô com meeedooo!<LF>
+Buááááá!<Button><EB>
+!*********************!
+<@PointerIdx66>
+<Char: 0 39><0xF1: 0>Tudo bem quando é só<LF>
+brincadeira, meninos...<Button><CR>
+!---------------------!
+Mas entrar em uma<LF>
+netmáfia é muito errado!<LF>
+Repitam comigo.<Button><EB>
+!*********************!
+<@PointerIdx67>
+<Char: 0 3><0xF1: 0>O quê?<LF>
+Quer que eu acompanhe<LF>
+vocês no acampamento?<Button><CR>
+!---------------------!
+Se não fosse por esta<LF>
+roupa, eu adoraria!<LF>
+Obrigada mesmo assim!<Button><EB>
+!*********************!
+<@PointerIdx68>
+<0xF3: 4 32 33 156 255><Char: 0 14><0xF1: 0>Como é que é, menino?<LF>
+Você vai acampar?<LF>
+Uma ótima ideia!<Button><CR>
+!---------------------!
+Bem que eu sempre digo<LF>
+que crianças hoje em dia<LF>
+não se exercitam mais!<Button><CR>
+!---------------------!
+Mas ainda assim, leve o<LF>
+seu PET. Para caso de<LF>
+emergência!<Button><EB>
+!*********************!
+<@PointerIdx69>
+<Char: 0 15><0xF1: 0>Se-nhor! Tá tão quente<LF>
+hoje que eu vou acabar<LF>
+ficando doente!<Button><CR>
+!---------------------!
+Acho que vou ficar em<LF>
+casa e navegar na<LF>
+Rede mesmo...<Button><EB>
+!*********************!
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<Char: 0 26><0xF1: 0>Onde será que foi<LF>
+parar o dono dessa<LF>
+loja?<Button><CR>
+!---------------------!
+Tomara que ele volte<LF>
+logo...<Button><EB>
+!*********************!
+<@PointerIdx76>
+<Char: 0 18><0xF1: 0>Trabalho de campo fica<LF>
+bem mais puxado nesse<LF>
+calor infernal.<Button><CR>
+!---------------------!
+Só aguentar em pé<LF>
+já é uma luta!<Button><CR>
+!---------------------!
+Hã? Você vai pra<LF>
+Saborya? Esse sim é um<LF>
+país quente!<Button><CR>
+!---------------------!
+Ah, você vai acessar<LF>
+a REDE de lá. Deixa<LF>
+pra lá, então.<Button><EB>
+!*********************!
+<@PointerIdx77>
+<Char: 0 14><0xF1: 0>Comecei a economizar<LF>
+dinheiro esses dias.<Button><CR>
+!---------------------!
+Um dia, vou comprar um<LF>
+casarão que nem esse<LF>
+pra mim.<Button><CR>
+!---------------------!
+Eu sei que é um sonho,<LF>
+mas de grão em grão<LF>
+a galinha enche o papo.<Button><EB>
+!*********************!
+<@PointerIdx78>
+<Char: 0 16><0xF1: 0>Gen-te! Tipo, eu tava<LF>
+lá pela Rede, e do nada<LF>
+arranjei um contato!<Button><CR>
+!---------------------!
+Ai, conhecer pessoas<LF>
+pela Rede é tão...<LF>
+romântico!<Button><CR>
+!---------------------!
+E você, tem algum<LF>
+amiguinho virtual?<LF>
+Sei lá, de outro país?<Button><EB>
+!*********************!
+<@PointerIdx79>
+<Char: 0 8><0xF1: 0>Nem vem!<Button><EB>
+!*********************!
+<@PointerIdx80>
+<Char: 0 10><0xF1: 0>Ah, vaaai... me dá esse<LF>
+chip, por favooooor!<LF>
+Eu faço qualquer coisa!<Button><EB>
+!*********************!
+<@PointerIdx81>
+<Char: 0 9><0xF1: 0>Oi, Lan! Já decidiu qual<LF>
+vai ser o seu tópico da<LF>
+pesquisa de férias?<Button><CR>
+!---------------------!
+Eu não consigo decidir<LF>
+o que pesquisar...<Button><EB>
+!*********************!
+<@PointerIdx82>
+<0xF3: 4 18 21 100 255><Char: 0 15><0xF1: 0>Adivinha só!<Button><CR>
+!---------------------!
+Uhum, eu me casei<LF>
+semana passada...<Button><CR>
+!---------------------!
+Fizemos a cerimônio no<LF>
+exterior, lá em Netopia!<Button><EB>
+!*********************!
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<0xF3: 0 16 2 92 255><0xF3: 0 13 2 91 255><0xF2: 0 13 2><Char: 0 22><0xF1: 0>Opa! Você viu o meu<LF>
+pedido?<Button><CR>
+!---------------------!
+Pois bem, vou explicar<LF>
+o problema a você...<Button><CR>
+!---------------------!
+Mas tem de prometer<LF>
+não contar pra<LF>
+NINGUÉM, ouviu?<Button><CR>
+!---------------------!
+Eu estava testando uns<LF>
+Navis experimentais, e...<LF>
+eles fugiram.<Button><CR>
+!---------------------!
+São 3 deles, e estão<LF>
+espalhados pelas redes<LF>
+daqui de ACDC...<Button><CR>
+!---------------------!
+Eu sei que ainda não<LF>
+chegaram na grande<LF>
+Rede, estão por aqui...<Button><CR>
+!---------------------!
+Bom, quero que você<LF>
+encontre e delete<LF>
+esses 3!<Button><CR>
+!---------------------!
+Mas tome cuidado! Eles<LF>
+produzem vírus quando<LF>
+são ameaçados.<Button><CR>
+!---------------------!
+Será preciso derrotar os<LF>
+vírus antes de poder<LF>
+deletá-los.<Button><CR>
+!---------------------!
+E é isso! Boa sorte!<Button><EB>
+!*********************!
+<@PointerIdx91>
+<Char: 0 22><0xF1: 0>Vou explicar a você<LF>
+o meu pedido mais uma<LF>
+vez.<Button><CR>
+!---------------------!
+Eu estava testando uns<LF>
+Navis experimentais, e...<LF>
+eles fugiram.<Button><CR>
+!---------------------!
+São 3 deles, e estão<LF>
+espalhados pelas redes<LF>
+daqui de ACDC...<Button><CR>
+!---------------------!
+Eu sei que ainda não<LF>
+chegaram na grande<LF>
+Rede, estão por aqui...<Button><CR>
+!---------------------!
+Bom, quero que você<LF>
+encontre e delete<LF>
+esses 3!<Button><CR>
+!---------------------!
+Mas tome cuidado! Eles<LF>
+produzem vírus quando<LF>
+são ameaçados.<Button><CR>
+!---------------------!
+Estão por aqui por perto,<LF>
+em nosso bairro.<LF>
+Encontre-os, rápido!<Button><EB>
+!*********************!
+<@PointerIdx92>
+<0xF3: 0 128 12 103 255><0xF2: 0 128 12><0xF2: 4 82 0><Char: 0 22><0xF1: 0>Meus parabéns!<Button><CR>
+!---------------------!
+Você passou na minha<LF>
+prova com maestria!<LF>
+Excelente trabalho.<Button><CR>
+!---------------------!
+Eu sou o examinador-<LF>
+chefe daqui de ACDC.<Button><CR>
+!---------------------!
+Você mostrou umas<LF>
+técnicas anti-vírus<LF>
+dignas de admiração!<Button><CR>
+!---------------------!
+Se treinar bastante,<LF>
+com certeza dará um<LF>
+bom NetLutador Oficial!<Button><CR>
+!---------------------!
+<Jmp: 0 101><@PointerIdx93>
+<0xF3: 4 21 21 115 255><0xF3: 4 20 20 105 255><Char: 0 26><0xF1: 0>Quando eu cresceu, eu<LF>
+vou ser NetLutador<LF>
+Oficial!<Button><CR>
+!---------------------!
+Mas tem que passar em<LF>
+uma prova pra virar<LF>
+NetLutador, né?<Button><CR>
+!---------------------!
+Eu odeio fazer prova!<Button><EB>
+!*********************!
+<@PointerIdx94>
+<0xF3: 4 21 21 116 255><0xF3: 4 19 20 106 255><Char: 0 18><0xF1: 0>Um monte das casas<LF>
+ficam vazias na época<LF>
+de férias...<Button><CR>
+!---------------------!
+Assim não dá para eu<LF>
+fazer meu trabalho!<Button><CR>
+!---------------------!
+Calor da desgraça!<LF>
+Eu preciso ir pra um lugar<LF>
+mais fresco urgente.<Button><EB>
+!*********************!
+<@PointerIdx95>
+<0xF3: 4 21 21 117 255><0xF3: 4 19 20 107 255><Char: 0 14><0xF1: 0>Hm? Quer saber por que<LF>
+eu venho aqui todo dia?<Button><CR>
+!---------------------!
+Pra catar zennys que<LF>
+as pessoas possam ter<LF>
+deixado cair!!<Button><CR>
+!---------------------!
+.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>Hahaha! É brincadeira,<LF>
+menino.<Button><CR>
+!---------------------!
+O que eu venho faz é<LF>
+olhar pra essa casa<LF>
+e sonhar... e sonhar...<Button><EB>
+!*********************!
+<@PointerIdx96>
+<0xF3: 4 21 21 118 255><0xF3: 4 19 20 108 255><Char: 0 16><0xF1: 0>Ai! Tipo, eu conheci o meu<LF>
+netmigo offline! E foi,<LF>
+ai, TUDO de bom!<Button><CR>
+!---------------------!
+Preciso fazer ainda mais<LF>
+netmigos e netmigas!<Button><EB>
+!*********************!
+<@PointerIdx97>
+<0xF3: 4 21 21 119 255><0xF3: 4 19 20 109 255><Char: 0 8><0xF1: 0>Há-há!<LF>
+Quer um, quer?<LF>
+Então vem pegar...!<Button><EB>
+!*********************!
+<@PointerIdx98>
+<0xF3: 4 21 21 120 255><0xF3: 4 19 20 110 255><Char: 0 10><0xF1: 0>Aaahhhh, vai...<Button><CR>
+!---------------------!
+Não pode me dar só um<LF>
+chipzinho? Por favoooor?<Button><EB>
+!*********************!
+<@PointerIdx99>
+<0xF3: 4 21 21 121 255><0xF3: 4 19 20 111 255><Char: 0 9><0xF1: 0>Tem uma larva de<LF>
+borboleta em cima
+<LF>
+dessa flor aqui.<Button><CR>
+!---------------------!
+Acho que vou fazer um<LF>
+estudo dela pro meu<LF>
+projeto de férias.<Button><EB>
+!*********************!
+<@PointerIdx100>
+<0xF3: 4 21 21 122 255><0xF3: 4 19 20 112 255><Char: 0 15><0xF1: 0>Meu amigo! Casar em<LF>
+Netopia é uma coisa<LF>
+sem igual, viu!?<Button><CR>
+!---------------------!
+Foi inesquecível, e eu<LF>
+nunca vou esquecer!<LF>
+Eu adoro redundâncias!<Button><EB>
+!*********************!
+<@PointerIdx101>
+<Char: 0 22><0xF1: 0>Toma, isso é pra você.<LF>
+Sei que está destinado<LF>
+a grandes coisas!<Button><CR>
+!---------------------!
+<Jmp: 0 102><@PointerIdx102>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 0 98 1>Lan recebeu um<LF>
+PowerUp:<LF>
+"<ItemTbl: 0 98 0>!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+Memória padrão<LF>
+aumentada em 1 MB!!<Button><EB>
+!*********************!
+<@PointerIdx103>
+<Char: 0 22><0xF1: 0>Não se satisfaça só
+<LF>
+com a medalha de prata!<Button><CR>
+!---------------------!
+Continue lutando até se<LF>
+tornar o número um!<LF>
+Promete?<Button><EB>
+!*********************!
+<@PointerIdx104>
+<@PointerIdx105>
+<Char: 0 26><0xF1: 0>Caramba! Você tem uma<LF>
+<ItemTbl: 0 60 0>?<LF>
+Que demais!<Button><CR>
+!---------------------!
+Mostra pra mim, mostra!<Button><EB>
+!*********************!
+<@PointerIdx106>
+<Char: 0 18><0xF1: 0>Esse meu trabalho me<LF>
+leva pra todo tipo de<LF>
+lugar, rapazinho.<Button><CR>
+!---------------------!
+Hoje em dia onde quer
+<LF>
+que se vá, as pessoas<LF>
+querem chips.<Button><CR>
+!---------------------!
+O que não tem nada a<LF>
+ver com o meu trabalho,<LF>
+mas eu não entendo...<Button><CR>
+!---------------------!
+Enfim, que onda de calor<LF>
+essa aqui, hein?<LF>
+Cruz credo!<Button><EB>
+!*********************!
+<@PointerIdx107>
+<Char: 0 14><0xF1: 0>Talvez eu devesse<LF>
+tirar licença de<LF>
+NetLutadora.<Button><CR>
+!---------------------!
+Se eu completar várias<LF>
+missões, ficarei riiikah!<Button><CR>
+!---------------------!
+Ouvi dizer que têm um<LF>
+monte de missões lá<LF>
+naquele quadro.<Button><CR>
+!---------------------!
+Talvez eu devesse dar<LF>
+uma conferida nele<LF>
+qualquer dia desses...<Button><EB>
+!*********************!
+<@PointerIdx108>
+<Char: 0 16><0xF1: 0>Dá pra, tipo, acessar a
+<LF>
+Rede através de<LF>
+homepages, sabia? Juro.<Button><CR>
+!---------------------!
+É só se conectar em<LF>
+uma página perto da<LF>
+área pra onde quer ir.<Button><CR>
+!---------------------!
+Aí você é praticamente,<LF>
+sei lá, teletransportado<LF>
+pra lá!<Button><CR>
+!---------------------!
+E assim dá pra conhecer<LF>
+mais netmigos e migas!<LF>
+É mágico!<Button><EB>
+!*********************!
+<@PointerIdx109>
+<Char: 0 8><0xF1: 0>Vamos lá, quero ver!<LF>
+Ninguém me peeegaaa!<Button><CR>
+!---------------------!
+Eu aguento correr<LF>
+assim por horas,<LF>
+por sinal!<Button><EB>
+!*********************!
+<@PointerIdx110>
+<Char: 0 10><0xF1: 0>Por favor, só um chip!<LF>
+Por favor? Por favor?<LF>
+Por favooor! Por favor!<Button><CR>
+!---------------------!
+chuif... snif...<LF>
+Buuáááááááá!!<Button><EB>
+!*********************!
+<@PointerIdx111>
+<Char: 0 9><0xF1: 0>A larva de borboleta<LF>
+tá virando uma pupa<LF>
+agora!<Button><CR>
+!---------------------!
+Espero que vire<LF>
+borboleta logo!<Button><EB>
+!*********************!
+<@PointerIdx112>
+<Char: 0 15><0xF1: 0>Aposto que você quer
+<LF>saber por que eu sempre<LF>
+ando desacompanhado!<Button><CR>
+!---------------------!
+É que a minha esposa<LF>
+adora a natureza. Por<LF>
+isso me deixa aqui fora...<Button><CR>
+!---------------------!
+É solitário, mas eu amo<LF>
+ela desse jeitinho mesmo!<Button><EB>
+!*********************!
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<Char: 0 26><0xF1: 0>Eu tô treinando pra<LF>
+virar NetLutador Oficial!<Button><CR>
+!---------------------!
+Um, dois! Um, dois!<Button><EB>
+!*********************!
+<@PointerIdx116>
+<Char: 0 18><0xF1: 0>Uuuughhhh... eu acho
+<LF>
+que estou passando mal.<LF>
+Quanto sol...<Button><CR>
+!---------------------!
+Preciso ir atrás de<LF>
+sombra... soombraaa...<Button><EB>
+!*********************!
+<@PointerIdx117>
+<Char: 0 14><0xF1: 0>Eu tentei fazer a prova<LF>
+de NetLutadora um dia<LF>
+desses...<Button><CR>
+!---------------------!
+Mas parece que era<LF>
+areia demais pro meu<LF>
+caminhãozinho.<Button><CR>
+!---------------------!
+Onde é que estava<LF>
+aquela <ItemTbl: 0 1 0>,<LF>
+afinal de contas?<Button><EB>
+!*********************!
+<@PointerIdx118>
+<Char: 0 16><0xF1: 0>Hã? Se eu conheço o<LF>
+Plaza de Saborya?<Button><CR>
+!---------------------!
+Ah, tipo, ir lá, tipo, IR<LF>
+mesmo, eu não fui.<Button><CR>
+!---------------------!
+Só sei que é, tipo, super<LF>
+famosa pela tecnologia<LF>
+de segurança? Né?<Button><CR>
+!---------------------!
+Até que dá vontade de<LF>
+visitar, sabia? Mas... eu<LF>
+não tenho licença, falei.<Button><EB>
+!*********************!
+<@PointerIdx119>
+<Char: 0 8><0xF1: 0>Aarf, aarf, arr...<LF>
+Você não... me pega...!<Button><EB>
+!*********************!
+<@PointerIdx120>
+<Char: 0 10><0xF1: 0>E-espera...<LF>
+Huff!<Button><CR>
+!---------------------!
+Só... um chip...<Button><EB>
+!*********************!
+<@PointerIdx121>
+<Char: 0 9><0xF1: 0>A larva de borboleta<LF>
+agora está em seu<LF>
+estágio de pupa!<Button><CR>
+!---------------------!
+Eu sei, não é lá muito<LF>
+emocionante. Ela nem<LF>
+se mexe.<Button><EB>
+!*********************!
+<@PointerIdx122>
+<Char: 0 15><0xF1: 0>Ah... como é bom ser<LF>
+criança e correr por<LF>
+horas sem preocupações!<Button><CR>
+!---------------------!
+Mas eu me preocupo com<LF>
+esses dois. Parece até<LF>
+que estão nisso há dias.<Button><EB>
+!*********************!
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<0xF3: 4 24 31 135 255><Char: 0 26><0xF1: 0>Eu tenho deletar tudo<LF>
+isso de vírus pra ganhar<LF>
+um chip novo? Poxa...<Button><EB>
+!*********************!
+<@PointerIdx126>
+<0xF3: 4 24 31 136 255><Char: 0 18><0xF1: 0>Hiuf... achei um lugar<LF>
+bem fresquinho pra me<LF>
+proteger do calor!<Button><CR>
+!---------------------!
+Quer um pouco dessa<LF>
+sombra também?<Button><CR>
+!---------------------!
+Como é que é? Esta é a<LF>
+casa de um amigo seu?<LF>
+Putz grila.<Button><EB>
+!*********************!
+<@PointerIdx127>
+<0xF3: 4 28 31 146 255><0xF3: 4 27 27 144 255><0xF3: 4 26 26 143 255><0xF3: 4 24 25 137 255><Char: 0 16><0xF1: 0>Você viu esse bando de<LF>
+Navis Oficiais andando<LF>
+pela rede esses dias?<Button><CR>
+!---------------------!
+Sei lá, eles tão, tipo,<LF>
+por tudo que é canto!<LF>
+Ju-ro!<Button><CR>
+!---------------------!
+Ai, será que aconteceu<LF>
+uma coisa, tipo, mega<LF>
+grave?<Button><CR>
+!---------------------!
+Eu tentei perguntar pra<LF>
+eles, mas eles só<LF>
+respondem "ai, não!"<Button><CR>
+!---------------------!
+Dá um pouquinho de<LF>
+medo, sabe?<Button><EB>
+!*********************!
+<@PointerIdx128>
+<0xF3: 4 24 31 138 255><Char: 0 9><0xF1: 0>Como está indo o seu<LF>
+dever de casa de<LF>
+férias?<Button><CR>
+!---------------------!
+O meu tá devagar...<LF>
+Não cheguei a fazer<LF>
+nenhuma página ainda...<Button><EB>
+!*********************!
+<@PointerIdx129>
+<0xF3: 4 28 31 147 255><0xF3: 4 27 27 145 255><0xF3: 4 24 26 139 255><Char: 0 15><0xF1: 0>Os meninos que brincavam<LF>
+aqui tiveram uma briga<LF>
+e foram embora.<Button><EB>
+!*********************!
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<Char: 0 26><0xF1: 0>Noossa! Você é um<LF>
+NetLutador Municipal?<LF>
+No duro?<Button><CR>
+!---------------------!
+Isso é TÃO legal!<Button><EB>
+!*********************!
+<@PointerIdx136>
+<Char: 0 18><0xF1: 0>Bom, não me arrependo<LF>
+de passar esse tempo<LF>
+me refrescando.<Button><EB>
+!*********************!
+<@PointerIdx137>
+<Char: 0 16><0xF1: 0>Gente. Tipo, eu tava lá,<LF>
+falando com esse Navi<LF>
+Oficial lá na rede...<Button><CR>
+!---------------------!
+E ele ficou tipo,<LF>
+"desconecte-se agora!!!"<Button><CR>
+!---------------------!
+Eu sabia. Aconteceu sim<LF>
+uma coisa mega grave<LF>
+por lá...<Button><EB>
+!*********************!
+<@PointerIdx138>
+<Char: 0 9><0xF1: 0>Será que a Yai me<LF>
+deixaria checar o<LF>
+dever de casa dela...?<Button><CR>
+!---------------------!
+Eu sei, eu sei.<LF>
+Era pra eu fazer isso<LF>
+sem ajuda...<Button><CR>
+!---------------------!
+Acho que nem sempre<LF>
+dá pra "confiar no seu<LF>
+próximo"...<Button><EB>
+!*********************!
+<@PointerIdx139>
+<0xF3: 0 93 2 142 255><0xF6: 3 18 1 141 141 255><Char: 0 15><0xF1: 0>Hã? "A garota que<LF>
+sempre anda comigo"?<Button><CR>
+!---------------------!
+Você quer dizer, a minha<LF>
+esposa?<Button><CR>
+!---------------------!
+Ahh... ela tá lá no Vale<LF>
+Okuden. Apesar de<LF>
+sermos recém-casados,<Button><CR>
+!---------------------!
+ela vive indo pra esses<LF>
+lugares sozinha.<Button><CR>
+!---------------------!
+Aliás, pode entregar<LF>
+isso aqui pra ela?<Button><CR>
+!---------------------!
+É a bateria do PET dela.<Button><CR>
+!---------------------!
+Ia ser bem ruim se ele<LF>
+descarregasse lá no<LF>
+meio das montanhas!<Button><CR>
+!---------------------!
+Valeu, garoto.<Button><CR>
+!---------------------!
+<Jmp: 0 140><@PointerIdx140>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 0 18 1>Lan recebeu:<LF>
+"<ItemTbl: 0 18 0>!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
+!*********************!
+<@PointerIdx141>
+<Char: 0 15><0xF1: 0>Como eu disse, ela<LF>
+está no Vale Okuden, na<LF>
+área de acampamento.<Button><CR>
+!---------------------!
+Obrigado mesmo,<LF>
+rapazinho!<Button><EB>
+!*********************!
+<@PointerIdx142>
+<Char: 0 15><0xF1: 0>E aí, viu só a minha<LF>
+mulher? Ela é linda, é<LF>
+ou não é?<Button><EB>
+!*********************!
+<@PointerIdx143>
+<Char: 0 16><0xF1: 0>Ai, gente. Tipo, eu<LF>
+tava lá, surfando na<LF>
+Rede, mó vibe legal...<Button><CR>
+!---------------------!
+Quando eu vi um Navi<LF>
+SUPER
+mau-encarado<LF>
+entrando no Plaza!<Button><EB>
+!*********************!
+<@PointerIdx144>
+<Char: 0 16><0xF1: 0>E lembrando, eu tava só<LF>
+lá, super de boa,<LF>
+andando pela Rede, tá?<Button><CR>
+!---------------------!
+E adivinha? Os Navis<LF>
+Oficias não tavam lá!<LF>
+Em canto NE-NHUM!<Button><CR>
+!---------------------!
+Acho que já resolveram<LF>
+o problema que tinham<LF>
+pra resolver... né...?<Button><EB>
+!*********************!
+<@PointerIdx145>
+<Char: 0 15><0xF1: 0>Tava ficando meio chato<LF>
+ficar aqui sozinho, daí eu<LF>
+entrei na Rede.<Button><CR>
+!---------------------!
+E, pra minha "sorte",<LF>
+ela tava vazia, vazia!<LF>
+Solidão, me persegues...<Button><EB>
+!*********************!
+<@PointerIdx146>
+<Char: 0 16><0xF1: 0>Tipo, eu não achei<LF>
+NENHUM Navi na Rede!<LF>
+Nenhum! Zerinho!<Button><CR>
+!---------------------!
+Quero dizer, acho que<LF>
+isso acontece de vez em<LF>
+nunca. Mas mesmo assim!<Button><EB>
+!*********************!
+<@PointerIdx147>
+<Char: 0 15><0xF1: 0>Cara, que tédio!<Button><EB>
+!*********************!
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<Char: 0 9><0xF1: 0>A Mayl saiu de novo<LF>
+hoje...<Button><CR>
+!---------------------!
+Que pena...<Button><EB>
+!*********************!
+<@PointerIdx151>
+<Char: 0 15><0xF1: 0>O quê? Você vai pra<LF>
+Netopia sozinho?<LF>
+Com essa idade?<Button><CR>
+!---------------------!
+Bom, divirta-se, mas<LF>
+tome cuidado! Viajar<LF>
+pode ser perigoso!<Button><EB>
+!*********************!
+<@PointerIdx152>
+<Char: 0 8><0xF1: 0>Caramba! Lan! É sério<LF>
+que você vai pro<LF>
+exterior!? Pra Netopia!?<Button><CR>
+!---------------------!
+Caaaaaraa! Isso é<LF>
+tão, tão, TÃO legal!<Button><EB>
+!*********************!
+<@PointerIdx153>
+<Char: 0 18><0xF1: 0>Eu já fui na Netopia uma<LF>
+vez. Conheci um cara<LF>
+lá...<Button><CR>
+!---------------------!
+E foi estranho porque<LF>
+ele se parecia com o<LF>
+dono da loja que fechou.<Button><CR>
+!---------------------!
+Qual era o nome dele<LF>
+mesmo? Hmm...<LF>
+Higsby, eu acho?<Button><EB>
+!*********************!
+<@PointerIdx154>
+<Char: 0 13><0xF1: 0>Ah, Netopia! O país<LF>
+que mistura tradição<LF>
+e modernidade!<Button><CR>
+!---------------------!
+Divirta-se muito lá,<LF>
+ouviu, meu fio?<LF>
+Ha he heh.<Button><EB>
+!*********************!
+<@PointerIdx155>
+<Char: 0 16><0xF1: 0>A Netopia é onde tem,<LF>
+tipo, as "brands" mais<LF>
+top do mundo!<Button><EB>
+!*********************!
+<@PointerIdx156>
+<Char: 0 14><0xF1: 0>A nossa região parece<LF>
+tão tranquila...<Button><CR>
+!---------------------!
+...mas depois que eu<LF>
+soube que a netmáfia<LF>
+ocupou o Centro...<Button><CR>
+!---------------------!
+Fico com um frio na<LF>
+espinha só de pensar<LF>
+no que vem agora...<Button><EB>
+!*********************!
+<@PointerIdx157>
+<Char: 0 17><0xF1: 0>Sabia que um dia desses<LF>
+eu venci um Mettaur<LF>
+sozinha!?<Button><CR>
+!---------------------!
+Não preciso mais da<LF>
+ajuda do papai e da<LF>
+mamãe!<Button><EB>
+!*********************!
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<0xF3: 8 16 255 182><Char: 0 22><0xF1: 0>Talvez eu tenha um<LF>
+subchip que lhe<LF>
+interesse. Quer ver?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Quero <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 0 255 181 255>
+!---------------------!
+<0xFB: 20 16><@PointerIdx181>
+<CR>
+!---------------------!
+Eu sempre digo:<LF>
+"melhor precaver do<LF>
+que remediar"!<Button><EB>
+!*********************!
+<@PointerIdx182>
+<Char: 0 22><0xF1: 0>Ah... na verdade esse<LF>
+eu não tenho no<LF>
+momento.<Button><EB>
+!*********************!
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 0 1 196 255><0xF3: 0 255 0 194 255><0xF2: 0 255 0><Char: 0 10><0xF1: 0>Fala aí, Lan!<LF>
+Sem querer se chato<LF>
+mas já sendo...<Button><CR>
+!---------------------!
+Você tem algum<LF>
+"<ItemTbl: 0 50 1> <ItemTbl: 0 9 3>"<LF>
+por aí?<Button><CR>
+!---------------------!
+Se tiver, eu troco pelo<LF>
+meu"<ItemTbl: 0 7 1> <ItemTbl: 0 26 3>"!<LF>
+É um bom negócio!<Button><CR>
+!---------------------!
+E daria um presente<LF>
+ótimo pro meu querido,<LF>
+e 100% real, irmão.<Button><CR>
+!---------------------!
+E aí, que tal?<LF>
+<Arrow: 17 0><Pos: 0 2>Tá bom <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 128 191 255 255>
+!---------------------!
+Bom, valeu a tentativa.<LF>
+Eu vou perguntar pra<LF>
+mais gente. Valeu!<Button><EB>
+!*********************!
+<@PointerIdx191>
+N 80<0xff><0xff><0xc3><0xF2: 0 0 1>N 80<Char: 0 10><0xF1: 0>Você tem um<LF>
+coração! Ah, ainda bem.<LF>
+Toma aqui...<Button><CR>
+!---------------------!
+<Jmp: 0 192><@PointerIdx192>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 16 7 0 26 1>Lan recebeu o chip<LF>
+"<ItemTbl: 0 7 1> <ItemTbl: 0 26 3>!!"<0xF8: 12><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 193><@PointerIdx193>
+<Char: 0 10><0xF1: 0>Muito obrigado mesmo!<LF>
+O meu... irmão... vai<LF>
+adorar isso!<Button><EB>
+!*********************!
+<@PointerIdx194>
+<Char: 0 10><0xF1: 0>Fala aí, Lan! Eu não tô<LF>
+conseguindo achar um<LF>
+"<ItemTbl: 0 50 1> <ItemTbl: 0 9 3>".<Button><CR>
+!---------------------!
+Troca comigo?<LF>
+Eu te dou esse<LF>
+"<ItemTbl: 0 7 1> <ItemTbl: 0 26 3>" em troca!<Button><CR>
+!---------------------!
+Vai, troca o seu<LF>
+"<ItemTbl: 0 50 1> <ItemTbl: 0 9 3>" comigo!<LF>
+Por favor?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>TÁ! <Arrow: 0 17><Pos: 0 2>NÃO!<CondJmp: 6 128 191 255 255>
+!---------------------!
+Ah, cruel é o destino<LF>
+que sempre me frustra.<LF>
+Continarei procurando...<Button><EB>
+!*********************!
+<@PointerIdx195>
+<Char: 0 10><0xF1: 0>Aí, Lan... você por acaso<LF>
+tem um<LF>
+"<ItemTbl: 0 50 1> <ItemTbl: 0 9 3>"?<Button><CR>
+!---------------------!
+Sei lá, no seu diretório<LF>
+talvez? Ou fora dele?<Button><CR>
+!---------------------!
+Não se esqueça de<LF>
+sempre colocar os<LF>
+chips na mochila,<Button><CR>
+!---------------------!
+senão não vai ter como<LF>
+saber quais tem ou não.<Button><EB>
+!*********************!
+<@PointerIdx196>
+<Char: 0 10><0xF1: 0>O meu querido irmão vai<LF>
+ficar tão feliz com isso!<LF>
+Valeu, Lan!<Button><EB>
+!*********************!
+<@PointerIdx197>
+<@PointerIdx198>
+<0xF3: 0 135 12 206 255><0xF3: 0 149 0 203 255><0xF3: 0 148 0 201 255><0xF2: 0 148 0><Char: 0 18><0xF1: 0>Fui eu quem postou o<LF>
+pedido... Mandaram<LF>
+VOCÊ pra ajudar?<Button><CR>
+!---------------------!
+<Char: 3 0><0x57>Espera...<LF>
+talvez ele não se dê<LF>
+conta de um menininho...<0x58><Button><CR>
+!---------------------!
+<Char: 3 1>Tá. Antes de mais nada,<LF>
+quero que veja esta<LF>
+esta foto.<Button><CR>
+!---------------------!
+<Jmp: 0 199><@PointerIdx199>
+<Char: 0 50><0xF1: 0><Char: 3 0>Dê uma boa olhada no<LF>
+rosto dele.<Button><CR>
+!---------------------!
+Encontre-o, e quando o<LF>
+fizer, pergunte o que<LF>
+ele está fazendo.<Button><CR>
+!---------------------!
+<Jmp: 0 200><@PointerIdx200>
+<Char: 0 18><0xF1: 0>Assim que tiver<LF>
+terminado, venha pra<LF>
+mim e relate como foi.<Button><EB>
+!*********************!
+<@PointerIdx201>
+<Char: 0 18><0xF1: 0>O quê? Já esqueceu<LF>
+de quem você está
+<LF>
+atrás?<Button><CR>
+!---------------------!
+<Jmp: 0 202><@PointerIdx202>
+<Char: 0 50><0xF1: 0><Char: 3 0>É esse sujeito aqui.<LF>
+Dê uma boa olhada no<LF>
+rosto dele dessa vez.<Button><EB>
+!*********************!
+<@PointerIdx203>
+<0xF2: 0 135 12><0xF2: 4 82 0><Char: 0 18><0xF1: 0>E aí, rapaz. Achou o<LF>
+homem?<Button><CR>
+!---------------------!
+Bom, ele é um homem<LF>
+procurado! Um criminoso<LF>
+muito perigoso!<Button><CR>
+!---------------------!
+Vou informar a polícia<LF>
+agora mesmo.<Button><CR>
+!---------------------!
+Obrigado por nos ajudar<LF>
+a achá-lo!<Button><CR>
+!---------------------!
+Aqui está sua<LF>
+recompensa.<Button><CR>
+!---------------------!
+<Jmp: 0 204><@PointerIdx204>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 16 62 0 24 1>Lan recebeu o chip<LF>
+"<ItemTbl: 0 62 1> <ItemTbl: 0 24 3>!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 205><@PointerIdx205>
+<Char: 0 18><0xF1: 0>Na verdade eu sou um<LF>
+investigador. Desculpe<LF>
+por ter mantido segredo.<Button><EB>
+!*********************!
+<@PointerIdx206>
+<Char: 0 18><0xF1: 0>Tirar esses marginal das<LF>
+rua né mole não...<Button><EB>
+!*********************!
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF3: 0 89 0 239 255><0xF1: 0>Uma cúpula de brincar<LF>
+de plástico. Perfeita<LF>
+para pique-escondes.<Button><CR>
+!---------------------!
+Há um brinquedo quebrado<LF>
+no chão, ao lado da<LF>
+cúpula recreativa.<Button><CR>
+!---------------------!
+Espera aí... parece que<LF>
+ele tem uma entrada<LF>
+de conexão...<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>O escorregador dá em<LF>
+uma caixa de areia. Logo,<LF>
+é seguro para brincar.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>Uma estátua de esquilo.<LF>
+Parece ser o mascote<LF>
+do parquinho.<Button><CR>
+!---------------------!
+Mas por que um esquilo<LF>
+em ACDC? É realmente
+<LF>
+um mistério...<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>Está trancada.<LF>
+Ninguém em casa.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<0xF1: 0>Já faz muito tempo que<LF>
+ninguém mora nessa<LF>
+casa.<Button><EB>
+!*********************!
+<@PointerIdx225>
+<0xF3: 4 1 1 240 255><0xF1: 0>É um sistema de<LF>
+segurança em forma de<LF>
+casinha de cachorro!<Button><CR>
+!---------------------!
+Quando um ladrão se<LF>
+aproxima, ele late<LF>
+como um cão feroz!<Button><CR>
+!---------------------!
+Parece que é possível<LF>
+se conectar nele. Para<LF>
+manutenções, talvez.<Button><EB>
+!*********************!
+<@PointerIdx226>
+<0xF1: 0>Tem um papel colado<LF>
+aqui...<Button><CR>
+!---------------------!
+Com uma coisa escrita...<Button><CR>
+!---------------------!
+"Fechado temporaria-<LF>
+mente por razões<LF>
+pessoais, é".<Button><EB>
+!*********************!
+<@PointerIdx227>
+<@PointerIdx228>
+<0xF3: 4 2 3 232 255><Char: 0 64><0xF1: 0>A casa da Mayl...<Dly: 1 30 0><LF>
+Mas ela não está na<LF>
+escola agora?<Button><EB>
+!*********************!
+<@PointerIdx229>
+<0xF3: 4 2 3 233 255><Char: 0 64><0xF1: 0>A casa do Dex...<Dly: 1 30 0><LF>
+Mas ela não está na<LF>
+escola agora?<Button><EB>
+!*********************!
+<@PointerIdx230>
+<0xF3: 4 2 3 234 255><0xF3: 4 8 9 235 255><Char: 0 64><0xF1: 0>A casa da Yai...<Dly: 1 30 0><LF>
+Mas ela não está na<LF>
+escola agora?<Button><EB>
+!*********************!
+<@PointerIdx231>
+<Char: 0 64><0xF1: 0>Essa é a entrada da<LF>
+Metrolinha, Lan...<Button><CR>
+!---------------------!
+Amanhã a gente sai pra<LF>
+brincar. Vamos ficar por<LF>
+aqui hoje.<Button><EB>
+!*********************!
+<@PointerIdx232>
+<Char: 0 64><0xF1: 0>A gente vai se encontrar<LF>
+na Rede, né? É só me<LF>
+conectar que eu vou...<Button><EB>
+!*********************!
+<@PointerIdx233>
+<Char: 0 64><0xF1: 0>A gente vai se encontrar<LF>
+na Rede, né? É só me<LF>
+conectar que eu vou...<Button><EB>
+!*********************!
+<@PointerIdx234>
+<Char: 0 64><0xF1: 0>Tá trancada...<Dly: 1 30 0><LF>
+Será que a Yai já voltou<LF>
+pra casa?<Button><EB>
+!*********************!
+<@PointerIdx235>
+<0xF1: 0>Tem um bilhete aqui...<Dly: 1 30 0><LF>
+"Saí para uma viagem ao<LF>
+redor do mundo."<Button><CR>
+!---------------------!
+<Jmp: 0 236><@PointerIdx236>
+<Char: 0 64><0xF1: 0>Hmm...<Dly: 1 30 0> Ao que parece<LF>
+ela não volta ainda<LF>
+hoje.<Button><0xF2: 0 79 2><EB>
+!*********************!
+<@PointerIdx237>
+<Char: 0 64><0xF1: 0>Lan, é pra gente se<LF>
+reunir na parada de<LF>
+ônibus... sabe?<Button><EB>
+!*********************!
+<@PointerIdx238>
+<0xF1: 0>A parada de ônibus.<Button><EB>
+!*********************!
+<@PointerIdx239>
+<0xF1: 0>Um brinquedo-cuia de<LF>
+plástico. Perfeito pra<LF>
+pique-escondes!<Button><EB>
+!*********************!
+<@PointerIdx240>
+<0xF1: 0>É um sistema de segu-<LF>
+rança em forma de<LF>
+casinha de cachorro!<Button><CR>
+!---------------------!
+Quando um ladrão chega<LF>
+perto, ele late como um<LF>
+cão feroz!<Button><CR>
+!---------------------!
+Parece estar em boas<LF>
+condições. Tem entrada<LF>
+pra se conectar.<Button><EB>
+!*********************!
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

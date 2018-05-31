@@ -1,0 +1,42 @@
+<@AbsoluteAddr 7911872>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Toma! E aí, gostou
+<LF>
+dessa? Ou quer mais?<Button><CR>
+!---------------------!
+Agora devolve o<LF>
+passaporte do Lan!<LF>
+Vamos!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 75><0xF1: 0>Tá bom, tá bom!<Dly: 1 30 0><LF>
+Só me deixem em paz,<LF>
+falou...?<Button><CR>
+!---------------------!
+Aqui, ó. Pode ficar.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 1 241 0><0xFA: 0 133 0><0xF8: 4 24>MegaMan recebeu:<LF>
+"<ItemTbl: 0 23 0>!!"<Button><0xF8: 12><0xF8: 16><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 75><0xF1: 0>Grrr! Eu não vou<LF>
+esquecer isso não,<LF>
+tá ligado?<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 64><0xF1: 0>Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Legal! Você conseguiu!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>Próximo passo:<LF>
+recuperar os chips da<LF>
+sua mochila!<Button><CR>
+!---------------------!
+Vamos falar de novo<LF>
+com aquele tal de Jim<LF>
+e dar uma procurada!<Button><EB>
+!*********************!
+

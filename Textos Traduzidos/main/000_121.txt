@@ -1,0 +1,58 @@
+<@AbsoluteAddr 7931020>
+<@PointerIdx0>
+<Char: 0 62><0xF1: 0>Atenção, todos! Há uma<LF>
+aranha perigosa entre<LF>
+vós.<Button><CR>
+!---------------------!
+Nós vamos capturá-la.<LF>
+Só façam o que pedirmos<LF>
+e, por favor, mexam-se!!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 50><0xF1: 0>Ele disse o quê!?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 48><0xF1: 0>É verdade isso?<LF>
+Ai, creindeuspai...<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 62><0xF1: 0>Agora só precisamos<LF>
+esperar.<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 62><0xF1: 0>Olhem!! Ali está ela.<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 62><0xF1: 0>Vai!!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 0><0xF1: 0><0xF8: 4 24>Conseguimos!!<Button><0xF8: 12><0xF8: 16><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 62><0xF1: 0>Missão completa!!<LF>
+Minhas desculpas pelo<LF>
+susto, pessoal!<Button><CR>
+!---------------------!
+E muito obrigado pela<LF>
+cooperação de todos!!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<0xF2: 0 7 2><Char: 0 0><0xF1: 0>Obrigado ao senhor,<LF>
+senhor!!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 62><0xF1: 0>Ah, isso foi mamão com<LF>
+açúcar. E açúcar de<LF>
+primeira classe!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>Agora que a gente<LF>
+pegou ela, vamos voltar<LF>
+pro nosso lugar!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 64><0xF1: 0>Melhor mesmo. Tem<LF>
+muito chão ainda até<LF>
+Electopia.<Button><EB>
+!*********************!
+

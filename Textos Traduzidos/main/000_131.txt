@@ -1,0 +1,154 @@
+<@AbsoluteAddr 7935092>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Então você é o<LF>
+criminoso por trás<LF>
+desse incidente!?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 88><0xF1: 0>É, acho que você me<LF>
+pegou.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>Por que você faria uma<LF>
+coisa dessas!?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 88><0xF1: 0>Eis aqui uma dica...<Button><CR>
+!---------------------!
+Eu vim pelo "programa<LF>
+Força de Altura" que<LF>
+está à bordo do avião.<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 61><0xF1: 0>Ha-ha-ha...<Button><CR>
+!---------------------!
+Já o peguei.<LF>
+O término do SuperNavi
+<LF>
+está tão perto!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Você não é o cara
+<LF>
+da Gauss S/A!?<Button><CR>
+!---------------------!
+Por que foi se envolver<LF>
+num negócio desses?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 61><0xF1: 0>Bom...<LF>
+Já que perguntou...<Button><CR>
+!---------------------!
+Quando menino, fui criado<LF>
+por uma família bem<LF>
+pobre.<Button><CR>
+!---------------------!
+Num barraco maltrapilho,<LF>
+com pouca comida e<LF>
+dinheiro com que contar.<Button><CR>
+!---------------------!
+O meu irmão, Jack,<LF>
+foi adotado por uma<LF>
+família rica.<Button><CR>
+!---------------------!
+E depois disso os meus<LF>
+pais adoeceram e,<LF>
+por fim, morreram...<Button><CR>
+!---------------------!
+Eu fiquei completamente<LF>
+sozinho...<Button><CR>
+!---------------------!
+E a sociedade não<LF>
+levantou nem um dedo<LF>
+para me ajudar.<Button><CR>
+!---------------------!
+Eu odiava as pessoas...<Button><CR>
+!---------------------!
+Detestava a sociedade.<Button><CR>
+!---------------------!
+Trabalhei sem parar para<LF>
+sobrepujar minha maior<LF>
+inimiga, a humanidade.<Button><CR>
+!---------------------!
+E depois disso, me<LF>
+devotei ao meu status<LF>
+social.<Button><CR>
+!---------------------!
+Ganhei poder sobre os<LF>
+outros, e a autoridade<LF>
+para dirigir a sociedade.<Button><CR>
+!---------------------!
+Contudo, tudo que<LF>
+acumulei em vida não era<LF>
+o que eu queria.<Button><CR>
+!---------------------!
+O que eu queria mesmo...<Button><CR>
+!---------------------!
+era uma nova ordem.<Button><CR>
+!---------------------!
+A sociedade é podre,
+<LF>
+até seu âmago.<Button><CR>
+!---------------------!
+E para reconstruir<LF>
+esta sociedade caída...<Button><CR>
+!---------------------!
+precisamos destruir<LF>
+tudo e começar do zero.<Button><CR>
+!---------------------!
+A Gospel prega ideiais<LF>
+semelhantes.<Button><CR>
+!---------------------!
+Eu entrei na empresa,<LF>
+subi rapidamente a<LF>
+escada de valor, e...<Button><CR>
+!---------------------!
+Me tornei o líder do<LF>
+projeto de desenvolvi-<LF>
+mento do "SuperNavi".<Button><CR>
+!---------------------!
+Quando o "SuperNavi"<LF>
+estiver completo...<Button><CR>
+!---------------------!
+Esta sociedade centrada<LF>
+na Rede também sofrerá<LF>
+uma revolução.<Button><CR>
+!---------------------!
+E tal também será<LF>
+minha vingança contra<LF>
+a sociedade.<Button><CR>
+!---------------------!
+Venho antecipando
+<LF>
+este dia há anos<Button><CR>
+!---------------------!
+E após minha vingança,<LF>
+o caos fará baterem as<LF>
+portas do mundo,<Button><CR>
+!---------------------!
+e a Gospel estará<LF>
+lá para conferir ordem.<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>A gente não vai deixar<LF>
+isso acontecer! MegaMan,<LF>
+prepare-se!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 64><0xF1: 0>Preparado!!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 61><0xF1: 0>MagnetMan, delete
+<LF>esse verme intrometido<LF>
+por mim.<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 88><0xF1: 0>Como quiser!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 0><0xF1: 0>Rotina de batalha...<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 64><0xF1: 0>Executar!<Button><EB>
+!*********************!
+

@@ -1,0 +1,196 @@
+<@AbsoluteAddr 7876196>
+<@PointerIdx0>
+<0xF3: 0 97 2 13 255><0xF3: 0 95 2 9 255><0xF6: 3 6 1 8 8 255><0xF3: 0 88 2 7 255><0xF3: 0 89 2 3 255><0xF3: 0 87 2 4 255><Char: 0 70><0xF1: 0>Eu sou o examinador<LF>
+do teste para a<LF>
+<ItemTbl: 0 59 0>.<Button><CR>
+!---------------------!
+Veio fazer a prova?<LF>
+Certo. Você terá de<LF>
+passar por 3 testes.<Button><CR>
+!---------------------!
+Se passar, ganhará<LF>
+sua <ItemTbl: 0 59 0>.<LF>
+Vamos ao Teste 1...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 70><0xF1: 0>O primeiro teste é uma<LF>
+batalha de sobrevivência.<Button><CR>
+!---------------------!
+Delete as cinco baterias<LF>
+seguidas de vírus<LF>
+para passar.<Button><CR>
+!---------------------!
+Não será permitido<LF>
+recuperação de HP<LF>
+durante elas. Cuidado!<Button><CR>
+!---------------------!
+Antes do primeiro teste,<LF>
+e após o término de cada<LF>
+um, eu curarei você.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 70><0xF1: 0>Preparado?<Button><CR>
+!---------------------!
+<Char: 1 241> <Arrow: 0 33><Pos: 0 2>Estou!<LF>
+<Arrow: 17 2><Pos: 0 2>Deixarei para depois<LF>
+<Arrow: 34 16><Pos: 0 2>Explique de novo<CondJmp: 7 192 22 255 1>
+!---------------------!
+<0xff><Char: 0 70><0xF1: 0>Tudo bem. Fale comigo<LF>
+de novo quando estiver<LF>
+pronto.<Button><EB>
+!*********************!
+<@PointerIdx3>
+<0xF2: 4 89 2><Char: 0 70><0xF1: 0>Que pena...<0xEA: 1 30 0> Quer tentar<LF>
+de novo?<LF>
+<Arrow: 17 0><Pos: 0 2>Quero! <Arrow: 0 17><Pos: 0 2>Outra hora<CondJmp: 6 128 22 255 255>
+!---------------------!
+Tudo bem. É só falar<LF>
+comigo de novo.<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 70><0xF1: 0>Você quer tentar o<LF>
+Teste 1 de novo,
+<LF>
+correto?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx5>
+<Char: 0 70><0xF1: 0>Meus parabéns!<LF>
+Você foi ótimo!<Button><CR>
+!---------------------!
+Agora, vamos ao<LF>
+Teste 2!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 70><0xF1: 0>O Teste 2 é para ver<LF>
+se você está apto a<LF>
+ajudar os necessitados.<Button><CR>
+!---------------------!
+Eu tenho aqui um informe<LF>
+de que "Um Navi na Área<LF>
+Den precisa de ajuda".<Button><CR>
+!---------------------!
+Quero que você encontre<LF>
+o Navi e dê-lhe a devida<LF>
+assistência.<Button><CR>
+!---------------------!
+Volte e fale comigo de<LF>
+novo assim que terminar<LF>
+a tarefa.<Button><CR>
+!---------------------!
+E esse é o Teste 2.<LF>
+Quer que eu repita?<LF>
+<Arrow: 17 0><Pos: 0 2>Quero <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 129 6 255 255>
+!---------------------!
+Então... boa sorte!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 70><0xF1: 0>Você ainda não terminou<LF>
+o teste. Ainda não tem<LF>
+provas disso...<Button><CR>
+!---------------------!
+Ou será que quer que<LF>
+eu repita o teste?<LF>
+<Arrow: 17 0><Pos: 0 2>Quero <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 129 6 255 255>
+!---------------------!
+Já que é assim...<LF>
+sebo nas canelas!<Button><EB>
+!*********************!
+<@PointerIdx8>
+<0xF2: 0 95 2><Char: 0 70><0xF1: 0>Ah! Você trouxe o<LF>
+"<ItemTbl: 0 6 0>".<LF>
+Você passou!<Button><CR>
+!---------------------!
+Passou no Teste 2.<LF>
+<0xEA: 1 15 0>Meu parabéns! Fez<LF>
+um ótimo trabalho!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 70><0xF1: 0>E agora, vamos ao<LF>
+Teste 3!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 70><0xF1: 0>O Teste 3 é outra<LF>
+batalha de sobrevivência.<Button><CR>
+!---------------------!
+Delete os vírus que<LF>
+aparecerão cinco vezes<LF>
+seguidas para passar.<Button><CR>
+!---------------------!
+Não é permitido<LF>
+recuperar HP durante<LF>
+elas, então tome cuidado!<Button><CR>
+!---------------------!
+Antes e depois de cada<LF>
+teste, eu recuperarei<LF>
+o seu HP.<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 70><0xF1: 0>Isso é tudo. Você está<LF>
+pronto?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Estou!<LF>
+<Arrow: 17 2><Pos: 0 2>Deixarei pra depois<LF>
+<Arrow: 34 16><Pos: 0 2>Explique de novo<CondJmp: 7 192 23 255 10>
+!---------------------!
+<0xff>Bom saber. Então,<LF>
+fale comigo de novo.<Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 70><0xF1: 0>Que pena...<0xEA: 1 30 0> Vai querer<LF>
+tentar de novo?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim! <Arrow: 0 17><Pos: 0 2>Outra hora<CondJmp: 6 128 23 255 255>
+!---------------------!
+Tudo bem. É só vir<LF>
+falar comigo de novo.<Button><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 0 70><0xF1: 0>Quer fazer o<LF>
+Teste 3 de novo,<LF>
+certo?<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx14>
+<Char: 0 70><0xF1: 0>Meus parabéns! Você<LF>
+passou em todos<LF>
+os testes!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 0 59 1>MegaMan recebeu:<LF>
+"<ItemTbl: 0 59 0>!!"<LF>
+<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 70><0xF1: 0>Pode me pedir detalhes<LF>
+sobre a "<ItemTbl: 0 59 0>"<LF>
+a qualquer hora.<Button><CR>
+!---------------------!
+E tome aqui, um presen-<LF>
+tinho a mais. Por favor,<LF>
+não se acanhe.<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 1 241> <0xF8: 0><0xF8: 4 24><0xF6: 0 98 1>MegaMan recebeu um<LF>
+PowerUp:<LF>
+"<ItemTbl: 0 98 0>!!"<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+Memória padrão<LF>
+aumentada em 1 MB!!<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 64><0xF1: 0><0xF8: 0><0xF8: 4 4>Eu consegui!!<Button><CR>
+!---------------------!
+<0xF8: 12><0xF8: 8><Jmp: 0 19><@PointerIdx19>
+<Char: 0 0><0xF1: 0>Mandou bem, MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 20><@PointerIdx20>
+<Char: 0 64><0xF1: 0>Pode crer!<0xEA: 1 30 0><LF>
+...<0xEA: 1 30 0>Mas demorou demais.<LF>
+Vamos pra casa?<Button><EB>
+!*********************!
+<@PointerIdx21>
+<@PointerIdx22>
+<0xF2: 0 87 2><0xF1: 1><0xF2: 0 86 2><0xF2: 4 15 2><EB>
+!*********************!
+<@PointerIdx23>
+<0xF1: 1><0xF2: 0 96 2><0xF2: 4 15 2><EB>
+!*********************!
+<@PointerIdx24>

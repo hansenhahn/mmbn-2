@@ -1,0 +1,24 @@
+<@AbsoluteAddr 7932260>
+<@PointerIdx0>
+<Char: 0 58><0xF1: 0>Há algum NetLutador<LF>
+à bordo?<Button><CR>
+!---------------------!
+Se sim, por favor,<LF>
+dirijam-se à cabine<LF>
+imediatamente.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Ouviu isso, Lan!?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Tem alguma coisa<LF>
+acontecendo aqui!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Vamos logo pra cabine<LF>
+do piloto!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>É pra já!<Button><EB>
+!*********************!
+

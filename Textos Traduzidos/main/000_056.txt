@@ -1,0 +1,17 @@
+<@AbsoluteAddr 7885492>
+<@PointerIdx0>
+<Char: 1 241> <0xf4> <0xFA: 12><0xFA: 0 10 1>tleque, tleque...<0xEA: 0 85 0><0xf4>0<0xFA: 8><Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 64><0xF1: 0>O barulho tá vindo de<LF>
+dentro dessa sala.<Button><CR>
+!---------------------!
+Lan... eu vou entrar!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Toma cuidado!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Pode deixar.<Button><EB>
+!*********************!
+

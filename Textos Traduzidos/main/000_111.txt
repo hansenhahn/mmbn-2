@@ -1,0 +1,42 @@
+<@AbsoluteAddr 7926056>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Com licença... eu posso<LF>
+ver a cabine do piloto?<LF>
+Por favor?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 59><0xF1: 0>Claro, garoto.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<0xF2: 0 7 2><Char: 0 0><0xF1: 0>Nossa! Que demais!<LF>
+Vocês têm uma vista<LF>
+tão legal daqui!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 59><0xF1: 0>Realmente. Eu lembro de<LF>
+quando vi minha primeira<LF>
+cabine quando menino...<Button><CR>
+!---------------------!
+Foi o que me fez<LF>
+escolher virar piloto!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Puxa. Então você tá<LF>
+vivendo o sonho...!<LF>
+Legal!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 59><0xF1: 0>Acho que tem uma turbu-<LF>
+lência à caminho. É melhor<LF>
+voltar pro seu assento.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Sim, senhor! Obrigado<LF>
+por me deixar entrar,<LF>
+senhor!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Vamos lá, Lan.<LF>
+De volta ao nosso lugar!<Button><EB>
+!*********************!
+

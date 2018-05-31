@@ -1,0 +1,75 @@
+<@AbsoluteAddr 7929976>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Eu vou contar a<LF>
+verdade pro senhor.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 62><0xF1: 0>Que "verdade", menino?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>(Blábláblá)...<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 62><0xF1: 0>O quê!?<LF>
+Uma aranha peluda de<LF>
+olhos vermelhos!?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Shhhh...<LF>
+Fala baixo!!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 62><0xF1: 0>Ah, sim. Desculpe aí.<Button><CR>
+!---------------------!
+Então você quer<LF>
+capturá-la... Bom, vamos<LF>
+armar uma armadilha!<Button><CR>
+!---------------------!
+Você terá que reunir os<LF>
+materiais necessários<LF>
+para fazê-la.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Que tipo de armadilha<LF>
+o senhor vai usar?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 62><0xF1: 0>Isso é surpresa.<Button><CR>
+!---------------------!
+São estes aqui os<LF>
+materiais necessários:<Button><CR>
+!---------------------!
+Uma caixa de qualquer<LF>
+tipo, uma vara e<LF>
+fios.<Button><CR>
+!---------------------!
+E um pouco de uísque.<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Uísque? Por quê?<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 62><0xF1: 0>Esse tipo de aranha<LF>
+gosta do cheiro de<LF>
+uísque bem caro.<Button><CR>
+!---------------------!
+É igual ao do feromônio<LF>
+que exalam durante o<LF>
+acasalamento, quando...<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>T-Tá bom, já entendi!<LF>
+Enfim...<Button><CR>
+!---------------------!
+Caixa, vara, fios e<LF>
+uísque. Beleza, sai já<LF>
+o pedido, doutor!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 62><0xF1: 0>Assim que reunir tudo,<LF>
+venha falar comigo<LF>
+de novo.<Button><CR>
+!---------------------!
+Está em suas mãos.<Button><EB>
+!*********************!
+

@@ -1,0 +1,40 @@
+<@AbsoluteAddr 7931600>
+<@PointerIdx0>
+<Char: 1 241 0>Algumas horas após<LF>
+a captura da aranha<LF>
+venenosa...<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 58><0xF1: 0>Atenção, senhores<LF>
+passageiros.<Button><CR>
+!---------------------!
+São 5 da manhã agora.<LF>
+O avião está dentro<LF>
+do tempo previsto...<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 58><0xF1: 0>Tempo previsto...<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 58><0xF1: 0>Pr... Previst...<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 58><0xF1: 0>Aaahhh!!<Button><CR>
+!---------------------!
+Passageiros!<LF>
+Apertem seus cintos<LF>
+e permaneçam sentados!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<0xF2: 0 7 2><Char: 0 0><0xF1: 0>O-O que aconteceu?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>Lan!<LF>
+O avião tá tremendo!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>E não para de tremer!<LF>
+O que é que tá<LF>
+acontecendo!?<Button><EB>
+!*********************!
+

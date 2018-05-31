@@ -1,0 +1,62 @@
+<@AbsoluteAddr 7917824>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Lan! Mais uma ligação!?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Eu sei! Alô?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 55><0xF1: 0>Urrhh... gurrhh...<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Raoul!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 55><0xF1: 0>L... Lan... Peço perdão...<LF>
+Eles m-me pegaram...<LF>
+Agora é com... você...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 1 241 0><0xFA: 12><0xFA: 0 4 1>tuuu <Dly: 0 57 0><0xFA: 0 4 1>tuuu <Dly: 0 57 0><0xFA: 0 4 1>tuuu <Dly: 0 58 0><Button><CR>
+!---------------------!
+<0xFA: 8><Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Até o Raoul...!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Lan, você não tá<LF>
+achando tudo isso<LF>
+meio estranho?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Hã? Estranho como?<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 64><0xF1: 0>Quero dizer, eles<LF>
+venceram TODO MUNDO!<Button><CR>
+!---------------------!
+Só restaram você e o<LF>
+Chaud...<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>Espera aí... Tá dizendo<LF>
+que o NetLutador espião<LF>
+da Gospel é...!?<Button><CR>
+!---------------------!
+Isso é loucura! O Chaud,<LF>
+do lado da Gospel? Não<LF>
+dá pra acreditar nisso!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 64><0xF1: 0>Eu também não quero<LF>
+acreditar, mas...<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>Aarrrnnngh!<LF>
+Eu não tô entendo é<LF>
+mais nada!<Button><CR>
+!---------------------!
+Tá. Primeiro a gente sai<LF>
+daqui, depois a gente vê<LF>
+essa história do Chaud!<Button><EB>
+!*********************!
+

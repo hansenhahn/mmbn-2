@@ -1,0 +1,51 @@
+<@AbsoluteAddr 7955640>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>É só a gente passar<LF>
+por isso aqui que a gente<LF>
+chega no último andar!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Beleza! Boa sorte!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>Epa!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 64><0xF1: 0>O que é que vocês<LF>
+tão fazendo aqui!?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 78><0xF1: 0>Deletar MegaMan.EXE!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 79><0xF1: 0>Deletar!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 80><0xF1: 0>Deletar...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Hmm... não acho que vá<LF>
+adiantar muito conversar<LF>
+com eles...<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 64><0xF1: 0>É, ao que parece eles<LF>
+tão sendo movidos por um<LF>
+programa automático...<Button><CR>
+!---------------------!
+Lan, acho que eu<LF>
+consigo vencê-los! Já<LF>
+peguei os dados deles!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 0><0xF1: 0>Então, vamos dar uma<LF>
+lição final nesses caras!<Button><CR>
+!---------------------!
+Hora de botar pra<LF>
+quebrar, MegaMan!<LF>
+Rotina tripla de batalha...<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 64><0xF1: 0>Executar!<Button><EB>
+!*********************!
+

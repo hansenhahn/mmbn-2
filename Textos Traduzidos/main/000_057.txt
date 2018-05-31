@@ -1,0 +1,109 @@
+<@AbsoluteAddr 7885656>
+<@PointerIdx0>
+<Char: 1 241> <0xf4> <0xFA: 12><0xFA: 0 10 1>tleque, tleque...<0xEA: 0 84 0><0xf4>0<0xFA: 8><Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 70><0xF1: 0>Saborya foi destruída<LF>
+por um Navi<LF>
+desconhecido.<Button><CR>
+!---------------------!
+Se não fizermos nada,<LF>
+os outros países também<LF>
+estarão em perigo...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>Com licença... o que foi
+<LF>
+que aconteceu aqui?<Button><0xF2: 0 68 2><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 70><0xF1: 0>&<0x49>%<0x60><0x61>!?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Dialeto Saboryano.<LF>
+Iniciando sistema de<LF>
+tradução!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 1 241> <0xFA: 12><0xFA: 0 26 1>bipe-bipe<Button><CR>
+!---------------------!
+<0xFA: 8><Jmp: 0 6><@PointerIdx6>
+<Char: 0 70><0xF1: 0>Quem vem lá!?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Eu me chamo MegaMan.<LF>
+Encontrei por acaso um<LF>
+balão vindo deste país.<Button><CR>
+!---------------------!
+Vim de Electopia até<LF>
+aqui para conhecer a<LF>
+pessoa que o mandou.<Button><CR>
+!---------------------!
+Mas e então, o que foi<LF>
+que aconteceu por aqui?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 70><0xF1: 0>Eu...<LF>
+Eu não sei...<Button><CR>
+!---------------------!
+Quando eu conectei, era<LF>
+tarde demais. YumPlaza<LF>
+estava assim, e...<Button><CR>
+!---------------------!
+nosso rei se foi...<LF>
+Espera... você disse que<LF>
+veio de Electopia?<Button><CR>
+!---------------------!
+Pouco antes do Rei<LF>
+morrer, o grupo que
+<LF>
+destruiu este lugar...<Button><CR>
+!---------------------!
+disse que seu próximo<LF>
+alvo seria Electopia!!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 0><0xF1: 0>Como é que é!?<0xFA: 16><Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 64><0xF1: 0>É melhor eu voltar pra<LF>
+Electopia, e rápido!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 80><0xF1: 0>Eu não vou deixar.<0xFA: 4 34 0><Button><0xFA: 0 222 0><0xF2: 0 75 2><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 64><0xF1: 0>Quem disse isso!?<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 80><0xF1: 0>O Vice-Comandante das<LF>
+Forças de Ocupação<LF>
+da Gospel,<Button><CR>
+!---------------------!
+<0xF2: 4 75 2><0xFA: 0 223 0>CutMan!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<0xF2: 0 75 2><Char: 0 80><0xF1: 0>Mas pra ser sincero,<LF>
+apesar do título, tudo<LF>
+que eu faço é caçar<Button><CR>
+!---------------------!
+sobreviventes nos países<LF>
+que o nosso Comandante<LF>
+conquista.<Button><CR>
+!---------------------!
+Ele deve estar a<LF>
+caminho de Electopia<LF>
+agora mesmo.<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 64><0xF1: 0>De novo essa Gospel!!<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 80><0xF1: 0>Já contei o bastante<LF>
+pra vocês, não acham?<Button><CR>
+!---------------------!
+Agora, é hora de<LF>
+exterminá-los.<LF>
+Nada pessoal.<Button><EB>
+!*********************!
+

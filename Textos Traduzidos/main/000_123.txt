@@ -1,0 +1,32 @@
+<@AbsoluteAddr 7931940>
+<@PointerIdx0>
+<Char: 0 60><0xF1: 0>Capitão!!<Button><CR>
+!---------------------!
+Alerta vermelho na<LF>
+asa direita!!<LF>
+Parece ser um bug!<Button><CR>
+!---------------------!
+O terminal não está
+<LF>
+aceitando receber<LF>
+nenhum dado daqui!!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 59><0xF1: 0>Avise o NetLutador<LF>
+à bordo!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 60><0xF1: 0>Infelizmente... foi ele que
+<LF>
+foi picado pela aranha<LF>
+venenosa naquela hora.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 59><0xF1: 0>Santa mãe do 
+Céu...!<Button><CR>
+!---------------------!
+Pergunte e veja se tem<LF>
+algum outro NetLutador<LF>
+à bordo!!<Button><EB>
+!*********************!
+

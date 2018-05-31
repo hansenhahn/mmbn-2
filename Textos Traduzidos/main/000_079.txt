@@ -1,0 +1,71 @@
+<@AbsoluteAddr 7896712>
+<@PointerIdx0>
+<Char: 0 81><0xF1: 0>Seus amigos chegaram...<LF>
+Ha ha ha...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>ProtoMan...!!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 74><0xF1: 0>Esse Navi deve ser o<LF>
+líder da unidade.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Eu te dou cobertura!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 74><0xF1: 0>Não se meta nisso!<LF>
+Esse inimigo é meu!<Button><CR>
+!---------------------!
+Peço desculpas, mas<LF>
+este campo de batalha<LF>
+não é seu!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 81><0xF1: 0>Para mim, qualquer um<LF>
+dos dois está ótimo.<LF>
+Venham logo lutar!<Button><CR>
+!---------------------!
+Ou posso me livrar<LF>
+dos dois ao mesmo<LF>
+tempo também.<Button><CR>
+!---------------------!
+Quanto silêncio. Um ninja<LF>
+costurou suas bocas?<LF>
+Ou será medo? Ha-ha...<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 74><0xF1: 0>Hmpf! Continue só<LF>
+com os insultos pra ver<LF>
+o que acontece!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 6><0xF1: 0>A barreira de segurança<LF>
+já foi desligada!<Button><CR>
+!---------------------!
+Lan, vasculhe o sistema<LF>
+central!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Ei, por que é que EU<LF>
+tenho que seguir as<LF>
+SUAS ordens!?<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 6><0xF1: 0>Vai logo!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 64><0xF1: 0>Lan, vamos deixar essa<LF>
+luta pro Chaud e pro<LF>
+ProtoMan!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 0><0xF1: 0>Tá bom, tá bom...<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 64><0xF1: 0>ProtoMan... não vai<LF>
+morrer aqui, hein...?<Button><CR>
+!---------------------!
+Lan! Desconectar!<Button><EB>
+!*********************!
+

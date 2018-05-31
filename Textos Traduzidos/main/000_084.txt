@@ -1,0 +1,111 @@
+<@AbsoluteAddr 7903788>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Aaaahh, cara...!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Algum problema?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>As férias mal começaram<LF>
+e já tão na metade!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>É, e você já fez tanta<LF>
+coisa... <Dly: 1 30 0>menos o seu<LF>
+dever de casa!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Também não precisa<LF>
+agredir, né, MegaMan?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Precisa sim! Só assim pra<LF>
+você fazer progresso.<LF>
+Dever de casa, já!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Faz a parte de matemá-<LF>
+tica, pelo menos? Moleza<LF>
+pra um Navi genial assim!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Não adianta apelar pro<LF>
+meu ego, Lan! Tem que<LF>
+fazer isso sozinho.<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Poxa...<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 64><0xF1: 0>...Tá bom, eu ajudo.<LF>
+Mas deixa eu conferir o<LF>
+seu e-mail primeiro.<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 64><0xF1: 0>Ah! Que demais!<LF>
+Um e-mail da "Central<LF>
+de NetLutadores"!<Button><CR>
+!---------------------!
+Vamos ler!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 1 241 0>Já devem saber dos<LF>
+ataques lançados contra<LF>
+Saborya e Electopia.<Button><CR>
+!---------------------!
+O grupo responsável por<LF>
+eles, a "Gospel", cresce<LF>
+mais a cada dia.<Button><CR>
+!---------------------!
+Contudo, obtivemos<LF>
+informações vitais<LF>
+acerca da Gospel.<Button><CR>
+!---------------------!
+Queremos compartilhá-las<LF>
+com NetLutadores para<LF>
+fazermos os devidos<Button><CR>
+!---------------------!
+preparativos. Por favor,<LF>
+se possível, compareçam<LF>
+ao nosso Encontro<Button><CR>
+!---------------------!
+Oficial de NetLutadores.<LF>
+Ele será sediado na<LF>
+Central Mundial de<Button><CR>
+!---------------------!
+NetLutadores, em<LF>
+Netopia.<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>Hmm... não sei, não.<LF>
+Parece ser um lance<LF>
+difícil...<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 64><0xF1: 0>Tem mais uma parte...<LF>
+Só um segundo...<Button><CR>
+!---------------------!
+O encontro será sediado<LF>
+na Central de NetLuta-<LF>
+dores... na Netopia!<Button><CR>
+!---------------------!
+Olha só! <Dly: 1 30 0>Tem uma<LF>
+passagem de avião<LF>
+anexada!<Button><EB>
+!*********************!
+<@PointerIdx14>
+<Char: 0 0><0xF1: 0>Opa! Um país
+<LF>
+estrangeiro? Netopia!?<LF>
+Só bora!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 64><0xF1: 0>É um programa legal,<LF>
+mas e o seu dever de<LF>
+casa?<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 0><0xF1: 0>Eu faço ele assim que<LF>
+voltar pra cá!<Button><EB>
+!*********************!
+

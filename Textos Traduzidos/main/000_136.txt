@@ -1,0 +1,62 @@
+<@AbsoluteAddr 7939076>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Esse último terremoto<LF>
+foi dos grandes.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Já faz tipo anos desde<LF>
+a última vez que teve<LF>
+um por aqui.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Pois é, me deu um susto<LF>
+danado.<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 64><0xF1: 0>Ah, Lan, chegou e-mail.<Button><CR>
+!---------------------!
+É da Mayl.<LF>
+Sobre o que será que é?<LF>
+Abrindo mensagem...<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 7><Char: 2 1><0xF1: 0><Char: 3 0>"Eu estava na rede
+<LF>
+quando aconteceu
+<LF>
+o terremoto...<Button><CR>
+!---------------------!
+"E não consegui tirar a<LF>
+Roll da Rede!<LF>
+O que é que eu faço!?<Button><CR>
+!---------------------!
+"Eu perdi todo contato<LF>
+com ela...<Button><CR>
+!---------------------!
+"Acho que ela está em<LF>
+alguma parte de<LF>
+Saborya...<Button><CR>
+!---------------------!
+"Se acontecesse alguma<LF>
+coisa com ela, eu..."<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Lan, deixa que eu vou!!<LF>
+Eu preciso encontrar<LF>
+a Roll!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Ei, espera...<Dly: 1 10 0><LF>
+Calma, MegaMan.<Button><CR>
+!---------------------!
+A Roll se perdeu em<LF>
+Saborya. Então...<Button><CR>
+!---------------------!
+Beleza, MegaMan!<LF>
+Vamos lá conferir a<LF>
+Rede!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>É isso aí! Vamos rápido!!<Button><EB>
+!*********************!
+

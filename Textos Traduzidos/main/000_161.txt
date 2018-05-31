@@ -1,0 +1,23 @@
+<@AbsoluteAddr 7957596>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Você achou o programa<LF>
+de controle de níveis<LF>
+de radiação!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>É!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 64><0xF1: 0>KnightMan!<Dly: 1 10 0><LF>
+MagnetMan!<Dly: 1 10 0><LF>
+E FreezeMan!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Esses caras de novo!<Dly: 1 15 0><LF>
+MegaMan?<Dly: 1 30 0> Tripla rotina<LF>
+de batalha...<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Executar!!<Button><EB>
+!*********************!
+

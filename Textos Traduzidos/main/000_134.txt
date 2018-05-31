@@ -1,0 +1,38 @@
+<@AbsoluteAddr 7937788>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Lan, olha!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Hã? Olhar o quê?<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 46><0xF1: 0>Vamos!!<LF>
+Por aqui, seu pilantra...<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 61><0xF1: 0>Me perdoem...<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 62><0xF1: 0>Andando, senhorzinho!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 61><0xF1: 0>Ahhh.<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 64><0xF1: 0>Coitado dele.<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>É.<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 64><0xF1: 0>Vamos lá, Lan. Bora
+<LF>
+voltar pra casa e ver<LF>
+o pessoal.<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 0><0xF1: 0>É, a gente tem que<LF>
+mostrar pra eles que<LF>
+a gente voltou.<Button><EB>
+!*********************!
+

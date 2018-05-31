@@ -1,0 +1,10 @@
+<@AbsoluteAddr 7890664>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Você leu o homem, Lan!<LF>
+Vamos direto daqui pra<LF>
+ACDC!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Vamos!<Button><EB>
+!*********************!
+

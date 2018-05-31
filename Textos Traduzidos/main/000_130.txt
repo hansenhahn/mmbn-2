@@ -1,0 +1,76 @@
+<@AbsoluteAddr 7934356>
+<@PointerIdx0>
+<Char: 0 59><0xF1: 0>Ganhamos 
+altitude!!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>E aí, já podemos relaxar,<LF>
+seguros da nossa não-<LF>
+horrível morte nos ares?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 60><0xF1: 0>Capitão, 5 minutos até<LF>
+a chegada no Aeroporto<LF>
+Den.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 59><0xF1: 0>Entendido. Prepare<LF>
+os protocolos de<LF>
+aterrissagem!!<Button><CR>
+!---------------------!
+Ainda não estamos em<LF>
+terra firme! Não se<LF>
+descuide!!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 60><0xF1: 0>Entendido!<LF>
+Capitão...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 59><0xF1: 0>Que foi?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<0xFA: 4 14 0><Char: 0 60><0xF1: 0>É o programa da rotina<LF>
+de aterrissagem!<LF>
+O trem de pouso não...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 59><0xF1: 0>O quê!?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Que trem!?<LF>
+A gente não não tá num
+<LF>
+avião?!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 59><0xF1: 0>As rodas, rapaz!<LF>
+Sem elas o avião<LF>
+se arrastará de barriga.<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>De barriga!?<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 60><0xF1: 0>Aterrissar sem rodas,<LF>
+só com o corpo do
+<LF>
+avião...<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 59><0xF1: 0>Se nós cairmos...<LF>
+Vamos pegar fogo<LF>
+e explodir...<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 0><0xF1: 0>MegaMan! Encontre o
+<LF>programa de controle<LF>
+do trem de aterrissagem!<Button><CR>
+!---------------------!
+Rápido, senão a gente<LF>
+já era!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 64><0xF1: 0>Pode deixar comigo!<Button><EB>
+!*********************!
+

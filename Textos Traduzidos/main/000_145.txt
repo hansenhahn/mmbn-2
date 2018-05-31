@@ -1,0 +1,76 @@
+<@AbsoluteAddr 7946536>
+<@PointerIdx0>
+<0xF6: 3 61 1 7 7 255><0xF3: 0 217 0 5 255><0xF3: 0 218 0 3 255><0xF3: 0 219 0 4 255><Char: 0 70><0xF1: 0>Eu sou o examinador<LF>
+da prova da<LF>
+<ItemTbl: 0 61 0>.<Button><CR>
+!---------------------!
+Veio aqui fazer a<LF>
+prova?<Button><CR>
+!---------------------!
+Se passar, receberá<LF>
+uma <ItemTbl: 0 61 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 70><0xF1: 0>Esta é uma prova<LF>
+de batalha de<LF>
+sobrevivência.<Button><CR>
+!---------------------!
+Para passar, delete as<LF>
+10 séries de vírus que<LF>
+virão em sequência.<Button><CR>
+!---------------------!
+Não se pode recuperar<LF>
+HP durante a luta, então<LF>
+tome cuidado.<Button><CR>
+!---------------------!
+Irei recuperar o seu<LF>
+HP antes e depois<LF>
+do desafio.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 70><0xF1: 0>E então? Pronto?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Pronto!<LF>
+<Arrow: 17 2><Pos: 0 2>Tento outra hora<LF>
+<Arrow: 34 16><Pos: 0 2>Explique de novo<CondJmp: 7 192 8 255 1>
+!---------------------!
+<0xff>Certo, então. Por favor,<LF>
+fale comigo novamente.<Button><EB>
+!*********************!
+<@PointerIdx3>
+<0xF2: 4 218 0><Char: 0 70><0xF1: 0>Que pena...<Dly: 1 30 0><LF>
+Vai tentar de novo?<LF>
+<Arrow: 17 0><Pos: 0 2>Vou! <Arrow: 0 17><Pos: 0 2>Outra hora.<CondJmp: 6 128 8 255 255>
+!---------------------!
+Tudo bem. Venha falar<LF>
+comigo de novo.<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 70><0xF1: 0>Você vai tentar mais<LF>
+uma vez, certo?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx5>
+<Char: 0 70><0xF1: 0>Fantástico! Você passou<LF>
+na prova com maestria!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 61 1>MegaMan recebeu:<LF>
+"<ItemTbl: 0 61 0>!!"<Button><0xF8: 12><0xF8: 16><0xF8: 8><0xF2: 0 222 0><CR>
+!---------------------!
+<Char: 0 70>Também vou te dar isso<LF>
+aqui de bônus!<Button><CR>
+!---------------------!
+<Char: 1 248 0><0xF8: 4 24><0xF6: 0 98 1>MegaMan recebeu um<LF>
+PowerUp:<LF>
+"<ItemTbl: 0 98 0>!!"<Button><0xF8: 12><0xF8: 8><CR>
+!---------------------!
+Memória padrão<LF>
+aumentada em 1 MB!!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 70><0xF1: 0>Excelente trabalho!<Button><EB>
+!*********************!
+<@PointerIdx8>
+<0xF2: 0 219 0><0xF1: 1><0xF2: 0 220 0><0xF2: 4 223 0><EB>
+!*********************!
+

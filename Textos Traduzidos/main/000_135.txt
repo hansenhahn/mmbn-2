@@ -1,0 +1,86 @@
+<@AbsoluteAddr 7938100>
+<@PointerIdx0>
+<Char: 1 241 0>Várias horas após<LF>
+o incidente...<Dly: 0 120 0><Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 22><0xF1: 0>Esse atentado só mostra<LF>
+como a intensidade da<LF>
+Gospel está aumentando.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 23><0xF1: 0>Temos que achar o QG<LF>
+da Gospel e acabar com<LF>
+ela, e rápido.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 22><0xF1: 0>Dr. Hikari, o senhor<LF>
+está trancado há tanto<LF>
+tempo no seu laboratório!<Button><CR>
+!---------------------!
+Precisa fazer uma pausa<LF>
+de vez em quando, ou<LF>
+vai ficar sobrecarregado.<Button><CR>
+!---------------------!
+Faz bastante tempo que<LF>
+você não vê o seu filho,<LF>
+não?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 23><0xF1: 0>Prometo que vou tirar<LF>
+um tempo pra relexar<LF>
+depois que isso acabar.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 22><0xF1: 0>É uma boa ideia...<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 22><0xF1: 0>Terremoto!!<LF>
+E é dos grandes!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 23><0xF1: 0>Você está bem?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 22><0xF1: 0>Só estou surpreso.<LF>
+Fazia tempo que não<LF>
+acontecia.<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 23><0xF1: 0>Que estranho...<Button><CR>
+!---------------------!
+Terremotos são<LF>
+controlados pelo nosso<LF>
+Sistema Ambiental.<Button><EB>
+!*********************!
+<@PointerIdx10>
+<0xF2: 0 7 2><Char: 0 22><0xF1: 0>Um alerta de emergência!!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 23><0xF1: 0>Alerta do quê?<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 22><0xF1: 0>Desastres em grande<LF>
+escala ocorrendo em<LF>
+Saborya e Netopia.<Button><CR>
+!---------------------!
+Enchentes em Saborya<LF>
+e forte radiação ultra-
+<LF>
+violeta na Netopia!!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 23><0xF1: 0>Mas como...?<LF>
+Que estranho...!!<LF>
+Isso não está certo!!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 22><0xF1: 0>Os desastres estão<LF>
+piorando!<Button><EB>
+!*********************!
+<@PointerIdx15>
+<Char: 0 23><0xF1: 0>O quê!?<LF>
+Mas o que é que está<LF>
+havendo aqui?<Button><EB>
+!*********************!
+

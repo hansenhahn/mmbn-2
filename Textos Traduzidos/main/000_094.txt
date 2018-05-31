@@ -1,0 +1,20 @@
+<@AbsoluteAddr 7912292>
+<@PointerIdx0>
+<0xF1: 0>No dia seguinte...<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 0><0xF1: 0>Bom dia, MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>Bom dia, Lan!<LF>
+Tô vendo que você
+<LF>
+acordou cedo hoje!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>He-he!<Button><CR>
+!---------------------!
+Vamos lá pra reunião de<LF>
+NetLutadores Oficiais!<Button><EB>
+!*********************!
+

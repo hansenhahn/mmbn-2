@@ -1,0 +1,47 @@
+<@AbsoluteAddr 7941496>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>A gente tem que voltar<LF>
+pra Rede, e rápido!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>É! Não temos tempo a
+<LF>
+perder!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Uhum! Vamos nessa!!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 0><0xF1: 0>Uuôôu! Mais outro
+<LF>
+terremoto!!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 64><0xF1: 0>Lan, e-mail!<LF>
+Deixa que eu leio.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 1 241 0>Os desastres naturais<LF>
+mundo afora estão cada<LF>
+vez mais fortes..<Button><CR>
+!---------------------!
+Tremores intermitentes<LF>
+estão assolando<LF>
+Electopia,<Button><CR>
+!---------------------!
+e uma ordem de
+<LF>
+evacuação será<LF>
+executada.<Button><CR>
+!---------------------!
+Espera-se que os
+<LF>
+desastre fiquem ainda<LF>
+piores.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>A gente tá ficando sem<LF>
+tempo!<LF>
+Vamos logo!<Button><EB>
+!*********************!
+

@@ -1,0 +1,10 @@
+<@AbsoluteAddr 7891484>
+<@PointerIdx0>
+<Char: 0 70><0xF1: 0>Devolva nossa jóia da<LF>
+coroa, ladrão!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Lan, tem alguma coisa<LF>
+vindo pra cá!!<Button><EB>
+!*********************!
+

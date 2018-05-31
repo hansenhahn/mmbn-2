@@ -1,0 +1,69 @@
+<@AbsoluteAddr 7920012>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Princesa Pride!?<Button><CR>
+!---------------------!
+Então VOCÊ era o<LF>
+NetLutador... er,<LF>
+NetLutadora da Gospel!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 54><0xF1: 0>Ha ha.. de fato. Sou<LF>
+um dos membros de mais<LF>
+alta patente da Gospel...<Button><CR>
+!---------------------!
+Sob ordens de meu<LF>
+chefe, me infiltrei na<LF>
+organização de vocês.<Button><CR>
+!---------------------!
+Mas tudo que aprendi foi<LF>
+que NetLutadores Oficiais<LF>
+não são ameaça.<Button><CR>
+!---------------------!
+Tão ingênuos...<LF>
+...E no fim, enviaram<LF>
+justo VOCÊ. Ridículo.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>O que você quer dizer<LF>
+com isso!?<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 54><0xF1: 0>Eu imaginava que aquele<LF>
+outro garoto, o Chaud,<LF>
+viesse me enfrentar...<Button><CR>
+!---------------------!
+Logo, imaginava que teria<LF>
+um obstáculo petulante<LF>
+mais desafiador aqui.<Button><CR>
+!---------------------!
+...Pois bem, diga-me.<LF>
+Como pretende me<LF>
+derrotar?<Button><CR>
+!---------------------!
+O chão à sua frente logo<LF>
+irá cair, como daquela
+<LF>
+outra vez...<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 0><0xF1: 0>Eu não caio nessa de<LF>
+novo!!<Dly: 1 15 0> Não com o meu<LF>
+dispositivo wireless!!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 54><0xF1: 0>Ha ha ha... Não teria<LF>
+graça se você não<LF>
+resistisse!<Button><CR>
+!---------------------!
+O KnightMan está ficando<LF>
+impaciente. "MegaMan",<LF>
+não? Estamos esperando!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 0><0xF1: 0>Vamos nessa, MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Tirou as palavras da<LF>
+minha boca!<Button><EB>
+!*********************!
+

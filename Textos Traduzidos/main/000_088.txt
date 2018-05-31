@@ -1,0 +1,77 @@
+<@AbsoluteAddr 7906940>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Bom, a Netopia tá bem<LF>
+ali! Como será que é o<LF>
+centro da cidade?<Button><CR>
+!---------------------!
+E aliás... como é que a<LF>
+gente chega lá?<LF>
+Você sabe, MegaMan?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Hmm... deve ter um<LF>
+ônibus por aqui que a<LF>
+gente possa pegar...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Certo!<LF>
+Então, vamos atrás<LF>
+do ônibus!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 50><Char: 2 1><0xF1: 0>E aê, parça?<LF>
+Comé que vai a vida?<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 0><0xF1: 0>Hã? Oi?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 50><Char: 2 1><0xF1: 0>Pronde é que cê tá<LF>
+indo?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Er, pro centro da cidade.<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 50><Char: 2 1><0xF1: 0>Ô, rapaz! É pra lá que<LF>
+eu vou também!<Button><CR>
+!---------------------!
+Cê tá com muita sorte,<LF>
+leque. Quer carona?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Eu... er, a gente tava<LF>
+pensando em pegar um<LF>
+ônibus...<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 50><Char: 2 1><0xF1: 0>Um ônibus!? Nem! A minha<LF>
+carona não cobra nem<LF>
+um zenny sequer!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>Humm... MegaMan, o que<LF>
+é que você acha? Isso<LF>
+tudo é meio suspeito.<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 64><0xF1: 0>Talvez... mas talvez<LF>
+ele seja só gentil<LF>
+mesmo.<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 50><Char: 2 1><0xF1: 0>Relaxa, criança! É só<LF>
+deixar essas estradas<LF>
+comigo!<Button><CR>
+!---------------------!
+Falou, então!<LF>
+Canta, pneu!<Button><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 1 241 0><0xFA: 12><0xFA: 0 162 0>bleque!<Dly: 0 30 0> <0xFA: 0 31 1>poche!<Dly: 0 30 0><0xFA: 8><Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 50><Char: 2 1><0xF1: 0>Transporte caridário<LF>
+pra cidade, saindo!<Button><EB>
+!*********************!
+

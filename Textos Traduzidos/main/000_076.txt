@@ -1,0 +1,113 @@
+<@AbsoluteAddr 7894096>
+<@PointerIdx0>
+<Char: 0 36><0xF1: 0>O sistema de segurança<LF>
+levou um trato e<LF>
+tanto...<Button><CR>
+!---------------------!
+Temos que inserir a<LF>
+senha certa para abrir<LF>
+essas passagens....<Button><CR>
+!---------------------!
+<0xF2: 0 114 2>O quê? O filho do Hikari?<LF>
+<0xF2: 0 115 2><0xF2: 0 116 2>Mas o que você está<LF>
+fazendo aqui?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Por favor, me deixem<LF>
+ajudar vocês.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 36><0xF1: 0>É tranquilizador tê-lo<LF>
+ao nosso lado,<Button><CR>
+!---------------------!
+mas deixe as lutas<LF>
+com os adultos aqui!<Button><CR>
+!---------------------!
+Prepare-se pra ver o<LF>
+poder dos NetLutadores<LF>
+Oficiais!!!<Button><CR>
+!---------------------!
+Vamos lá, pessoal!<LF>
+Hora de entrar!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 37><0xF1: 0>Certo!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 39><0xF1: 0>Vamos nessa, tiozão!<Button><CR>
+!---------------------!
+<0xF2: 4 114 2><0xF2: 4 115 2><0xF2: 4 116 2><Jmp: 0 5><@PointerIdx5>
+<Char: 0 36><0xF1: 0>Conectar!!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<0xF2: 4 114 2><0xF2: 4 115 2><0xF2: 4 116 2><Char: 0 36><0xF1: 0>Avancem!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 37><0xF1: 0>Er...<LF>
+A senha deste servidor<LF>
+é...<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 39><0xF1: 0>Raio Laser O-fi-ci-al!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 36><0xF1: 0>Bom trabalho. Só mais<LF>
+um pouco!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 37><0xF1: 0>Certo!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 39><0xF1: 0>Positivo, tiozão!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 36><0xF1: 0>Hã!? Mas o que é isso...!?<LF>
+Um vírus! Os dois, me<LF>
+ajudem aqui!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 37><0xF1: 0>Certo!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 39><0xF1: 0>Entendido, tiozão!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 1 241 0><0xFA: 12><0xFA: 0 19 1>Paf!<Dly: 0 16 0> <0xFA: 0 20 1>Soc!<Dly: 0 15 0> <0xFA: 0 21 1>Blam!<Dly: 0 14 0><Button><CR>
+!---------------------!
+<0xFA: 8><Jmp: 0 16><@PointerIdx16>
+<Char: 0 37><0xF1: 0>Se as coisas continuarem<LF>
+assim...!<LF>
+Use aquilo!! Aquilo!<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 1 241 0><0xFA: 12><0xFA: 0 22 1>Poft!<Dly: 0 19 0> <0xFA: 0 19 1>Pap!<Button><CR>
+!---------------------!
+<0xFA: 8><Jmp: 0 18><@PointerIdx18>
+<Char: 0 39><0xF1: 0>Hora da minha arma
+<LF>
+secreta! Canhão Perigo<LF>
+Barbarossa Oficiaaaaal!<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 1 241 0><0xFA: 12><0xFA: 0 237 0>Buuum!<Button><CR>
+!---------------------!
+<0xFA: 8><Jmp: 0 20><@PointerIdx20>
+<0xF2: 0 114 2><0xF2: 0 115 2><0xF2: 0 116 2><Char: 0 36><0xF1: 0>Deleção concluída!<Button><0xF2: 4 114 2><0xF2: 4 115 2><0xF2: 4 116 2><EB>
+!*********************!
+<@PointerIdx21>
+<0xF2: 0 114 2><0xF2: 0 115 2><0xF2: 0 116 2><Char: 0 36><0xF1: 0>Viu só? O que acha das<LF>
+habilidades da gente<LF>
+grande aqui?<Button><CR>
+!---------------------!
+<Jmp: 0 22><@PointerIdx22>
+<Char: 0 0>Dignas de Oficiais!<Button><CR>
+!---------------------!
+<Jmp: 0 23><@PointerIdx23>
+<Char: 0 36><0xF1: 0>A passagem está se<LF>
+abrindo!<Button><0xF2: 4 114 2><0xF2: 4 115 2><0xF2: 4 116 2><EB>
+!*********************!
+<@PointerIdx24>
+<Char: 0 36><0xF1: 0>Nós vamos na frente.<LF>
+Siga-nos.<Button><EB>
+!*********************!
+

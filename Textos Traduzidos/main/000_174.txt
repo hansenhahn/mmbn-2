@@ -1,0 +1,31 @@
+<@AbsoluteAddr 7977792>
+<@PointerIdx0>
+<0xF1: 0>Criatura insolente...<Dly: 1 30 0><LF>
+Enfrente o meu<LF>
+julgamento...!<Button><0xF2: 0 79 2><0xF2: 0 82 2><EB>
+!*********************!
+<@PointerIdx1>
+<@PointerIdx2>
+<Char: 1 241 0>Hm... ainda havia<LF>
+mais um verme por aqui...<Button><EB>
+!*********************!
+<@PointerIdx3>
+<0xF2: 0 80 2><Char: 0 90><0xF1: 0>Aquele humano<LF>
+<Dly: 1 30 0>repugnante!<Button><CR>
+!---------------------!
+Pouco me importa o que<LF>
+ele faz ao manipular<LF>
+crianças...<Button><CR>
+!---------------------!
+Mas fazer cópias de<LF>
+MIM!? <Dly: 1 15 0><0x49>Não,<0x49> é simplesmente<LF>
+imperdoável.<Button><CR>
+!---------------------!
+Humanos...<Dly: 1 15 0><LF>
+Essa raça não merece<LF>
+existir.<Button><CR>
+!---------------------!
+Um dia, sofrerão<LF>
+meu julgamento...<Button><0xF2: 0 81 2><EB>
+!*********************!
+

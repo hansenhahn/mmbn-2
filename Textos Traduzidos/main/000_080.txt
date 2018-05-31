@@ -1,0 +1,169 @@
+<@AbsoluteAddr 7897464>
+<@PointerIdx0>
+<Char: 0 81><0xF1: 0>Olha só. Meus parabéns<LF>
+por ter chegado até
+<LF>
+aqui...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>O quê...!? Era pra ele
+<LF>
+estar lutando contra o<LF>
+ProtoMan...!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 81><0xF1: 0>Humpf...<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Ou seja... o ShadowMan<LF>
+que tá lutando contra o<LF>
+ProtoMan é falso!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 81><0xF1: 0>Demorou demais pra<LF>
+perceber, garoto.<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 23><0xF1: 0>Lan! Eu terminei!<LF>
+Fiz um battlechip<LF>
+anti-ShadowMan!<Button><CR>
+!---------------------!
+O "Canhão Supremo".<Button><CR>
+!---------------------!
+Com a força desse chip,<LF>
+talvez consigam derrotar<LF>
+o ShadowMan...<Button><CR>
+!---------------------!
+Mas só pode ser dispara-<LF>
+do uma vez. Não deu<LF>
+tempo de aperfeiçoá-lo.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0><Button><CR>
+!---------------------!
+Desculpa, filho.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Um disparo é mais que<LF>
+suficiente! Tenha fé...<LF>
+em mim e no MegaMan!<Button><CR>
+!---------------------!
+<0xF2: 0 79 2>Instalar<LF>
+"Canhão Supremo"!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 0><0xF1: 0>MegaMan, a gente só<LF>
+tem uma chance de<LF>
+acertar!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 64><0xF1: 0>Vamos nessa!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 81><0xF1: 0>...Ha-ha. Vai mesmo usar<LF>
+essa arma contra mim?<Button><CR>
+!---------------------!
+Sabe o preço que vai<LF>
+pagar se errar o alvo,<LF>
+não sabe?<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 64><0xF1: 0>Se a gente errar...<LF>
+O computador matriz vai<LF>
+ser destruído...<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 0><0xF1: 0>Mas... é a nossa única<LF>
+esperança!<LF>
+Se bem que...<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 81><0xF1: 0>Fedelho...<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 0><0xF1: 0>Que droga! O que é que<LF>
+a gente faz!?<Button><EB>
+!*********************!
+<@PointerIdx14>
+<Char: 1 241 0>Shiin!<Button><EB>
+!*********************!
+<@PointerIdx15>
+<Char: 0 81><0xF1: 0>O quê!?<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 74><0xF1: 0>Atire agora!<LF>
+MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 0 64><0xF1: 0>P-ProtoMan...!<Button><CR>
+!---------------------!
+E-Eu... Não, eu não<LF>
+posso atirar!<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 74><0xF1: 0>Quer que Electopia tenha<LF>
+o mesmo destino de<LF>
+Saborya?<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 81><0xF1: 0>......<Button><CR>
+!---------------------!
+Você eliminou o meu<LF>
+clone de sombra... Mas<LF>
+não saiu ileso, pelo visto.<Button><CR>
+!---------------------!
+<Jmp: 0 20><@PointerIdx20>
+<Char: 0 74><0xF1: 0>Ack...!!<LF>
+MegaMan...!<Button><CR>
+!---------------------!
+Rápido!<LF>
+Minhas forças estão<LF>
+quase esgotadas!<Button><CR>
+!---------------------!
+Eu já fiz um backup.<LF>
+Mesmo se for deletado,<LF>
+há como me restaurar....<Button><CR>
+!---------------------!
+Vamos! Atire, MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 0 64><0xF1: 0>Eu juro que repará-lo<LF>
+com o backup será a pri-<LF>
+meira coisa que faremos!<Button><CR>
+!---------------------!
+<Jmp: 0 22><@PointerIdx22>
+<Char: 0 81><0xF1: 0>......<Button><EB>
+!*********************!
+<@PointerIdx23>
+<Char: 1 241 0>Fuuum<Button><EB>
+!*********************!
+<@PointerIdx24>
+<Char: 1 241 0>Cabuuuuuuum!!<Button><EB>
+!*********************!
+<@PointerIdx25>
+<Char: 0 74><0xF1: 0>Esses capangas dele...<LF>
+Usados como... escudos...<Button><CR>
+!---------------------!
+Urgh!<Button><CR>
+!---------------------!
+<0xF2: 4 124 2><Jmp: 0 26><@PointerIdx26>
+<0xFA: 4 34 0><Char: 0 64><0xF1: 0>Chaud! Por favor,<LF>
+desconete o ProtoMan<LF>
+o quanto antes!<Button><CR>
+!---------------------!
+<Jmp: 0 27><@PointerIdx27>
+<Char: 0 6><0xF1: 0>ProtoMan!<Button><EB>
+!*********************!
+<@PointerIdx28>
+<Char: 0 81><0xF1: 0>Tão perto, e ainda assim,<LF>
+tão longe...<Button><CR>
+!---------------------!
+<Jmp: 0 29><@PointerIdx29>
+<Char: 0 64><0xF1: 0>Droga!<Button><CR>
+!---------------------!
+<Jmp: 0 30><@PointerIdx30>
+<Char: 0 81><0xF1: 0>O que foi? Não vai<LF>
+atacar? Nesse caso,<LF>
+ataco eu.<Button><CR>
+!---------------------!
+Travemos uma boa<LF>
+luta.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0> sem mais truques!<Button><EB>
+!*********************!
+

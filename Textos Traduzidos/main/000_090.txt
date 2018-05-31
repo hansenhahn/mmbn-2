@@ -1,0 +1,57 @@
+<@AbsoluteAddr 7908832>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Ahhh... O hotel!<LF>
+Até que enfim!<Dly: 1 30 0> Mas sabe,<LF>
+só tem um probleminha...<Button><CR>
+!---------------------!
+Aaaahhhh! Que tipo de<LF>
+país é esse!?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>É, foi uma viagem bem<LF>
+sofrida até agora...<Button><CR>
+!---------------------!
+Acho que, realmente, é<LF>
+perigoso crianças<LF>
+viajando sozinha...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>A culpa é sua,<LF>
+MegaMan!<Button><CR>
+!---------------------!
+Foi você que disse que<LF>
+talvez aquele cara<LF>
+fosse "gentil"!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Mas você só entrou no<LF>
+carro porque concordou<LF>
+comigo, não foi?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Não estaria tão calmo<LF>
+com tudo isso se<LF>
+estivesse aqui fora!<Button><CR>
+!---------------------!
+Mas desde que esteja<LF>
+seguro dentro do PET,<LF>
+você nem liga, né?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Aí, Lan! Nessa você<LF>
+pegou pesado!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Eu não tô afim de pegar<LF>
+leve!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Tá bom, então! Se quer<LF>
+ser antipático, pode ser<LF>
+sozinho! Eu tô fora!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Ótimo! Já vai tarde!<LF>
+MegaBabaca!<Button><EB>
+!*********************!
+

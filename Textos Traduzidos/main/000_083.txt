@@ -1,0 +1,116 @@
+<@AbsoluteAddr 7902384>
+<@PointerIdx0>
+<Char: 0 10><0xFA: 24 249 0><0xF1: 0>Vejo que aquele Dark<LF>
+Miyagi não passava de<LF>
+um mercenário comum.<Button><CR>
+!---------------------!
+Um animal voraz, mas<LF>
+sem propósito! E ele<LF>
+nos desapontou...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 18><Char: 2 1><0xF1: 0>É verdade, mestre!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 10><0xF1: 0>Mas estou surpreso dos<LF>
+Oficiais terem chegado<LF>
+tão longe.<Button><CR>
+!---------------------!
+Diria que as informações<LF>
+que você me deu não<LF>
+eram muito precisas.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 18><Char: 2 1><0xF1: 0>P-Perdão, mestre! Fica-<LF>
+mos monitorando Eugene<LF>
+Chaud e Lan Hikari,<Button><CR>
+!---------------------!
+mas os níveis de<LF>
+aprimoramento deles foi<LF>
+muito maior do que...<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 10><0xF1: 0>Já esqueceram qual é<LF>
+a Segunda Lei da Gospel?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 18><Char: 2 1><0xF1: 0>Não, mestre! "Morte<LF>
+àqueles que dão<LF>
+desculpas esfarrapadas"!<Button><CR>
+!---------------------!
+E-E eu sei disso,<LF>
+Grande Administrador!<LF>
+Mas...<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 10><0xF1: 0>Também deve saber que<LF>
+não há como fugir da<LF>
+Gospel...<Button><CR>
+!---------------------!
+Mas se quiser, pode ver<LF>
+o quão longe suas<LF>
+pernas o levam...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 18><Char: 2 1><0xF1: 0>E-eu imploro!<LF>
+Me perdoe!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 1 241 0><0xFA: 12><0xFA: 0 28 1>bzzzt... pieu!<Button><CR>
+!---------------------!
+<0xFA: 8><0xFA: 24 249 0><Jmp: 0 9><@PointerIdx9>
+<0xF1: 0><0xFA: 12><0xFA: 0 10 1>teque teque teque<Dly: 0 88 0><LF>
+<0xFA: 8>...seu cadastro excluído...<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 10><0xF1: 0>Hmpf. Estou cercado de<LF>
+idiotas...<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 1 241 0><0xFA: 12><0xFA: 0 10 1>teque teque teque...<Dly: 0 88 0><LF>
+<0xFA: 8>...acesso garantido ao<LF>
+salão.<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 64><0xF1: 0>Boa noite.<LF>
+Perdoe o atraso.<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 10><0xF1: 0>Como está o nosso<LF>
+"projeto"?<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 64><0xF1: 0>Tudo andando conforme<LF>
+planejado.<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 10><0xF1: 0>E os dados necessários<LF>
+pra ele? Já os<LF>
+conseguiu?<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 64><0xF1: 0>Não, mas estou certo<LF>
+de que a oportunidade<LF>
+ideal logo virá.<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 0 10><0xF1: 0>Quanta confiança.<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 64><0xF1: 0>E será um prazer me<LF>
+livrar de qualquer...<LF>
+interferência que surgir.<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 10><0xF1: 0>Você é bem perspicaz...<Button><CR>
+!---------------------!
+<Jmp: 0 20><@PointerIdx20>
+<Char: 0 64><0xF1: 0>Fico honrado pelo seu<LF>
+elogio.<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 0 10><0xF1: 0>Eugene Chaud e Lan<LF>
+Hikari. Faça-os entender<LF>
+o erro de me desafiar!<Button><EB>
+!*********************!
+

@@ -1,0 +1,68 @@
+<@AbsoluteAddr 7882656>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Beleza! A gente<LF>
+conseguiu a LicençaA!!<Button><CR>
+!---------------------!
+Você foi demais,<LF>
+MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Agora a gente pode ir<LF>
+pra Saborya!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Já tô quase sentindo<LF>
+o gostinho da comida!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Você não tá esquecendo<LF>
+que isso é pro seu<LF>
+projeto, né?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Claro que eu nunca
+<LF>
+esqueceria do meu super<LF>
+importante projeto!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Além disso, não dá pra<LF>
+comer comida Saboryana<LF>
+através da Rede, Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Eu sei. Por isso a gente<LF>
+vai fazer amizade lá...<Button><CR>
+!---------------------!
+e esse amigo vai nos<LF>
+convidar pra visitar ele<LF>
+lá em Saborya! Dã!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Ahá! Então é POR ISSO<LF>
+que você tá tão animado<LF>
+com o projeto!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>A-Ah, eu também vou<LF>
+fazer minha pesquisa!<LF>
+Juro de pés juntos!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 64><0xF1: 0>"Também" vai fazer?<LF>
+O certo não seria "vou<LF>
+fazer ela primeiro"?<Button><CR>
+!---------------------!
+Ah, deixa pra lá. Não<LF>
+posso dizer que te culpo<LF>
+por se sentir assim.<Button><CR>
+!---------------------!
+Enfim, o teste acabou.<LF>
+Vamos logo embora daqui!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>É! Agora não tem nada<LF>
+barrando a gente de<LF>
+Saborya!<Button><EB>
+!*********************!
+

@@ -1,0 +1,79 @@
+<@AbsoluteAddr 7920740>
+<@PointerIdx0>
+<Char: 0 87><0xF1: 0>Hrrm...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Então você é o<LF>
+KnightMan!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 87><0xF1: 0>Não tenho nada contra<LF>
+vós, mas receio que<LF>
+terás de morrer aqui.<Button><CR>
+!---------------------!
+Proteger Sua Alteza,<LF>
+a Princesa, é meu<LF>
+dever sagrado.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Isso não é motivo pra<LF>
+vocês ficarem fazendo<LF>
+maldades!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 87><0xF1: 0>...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 54><0xF1: 0>KnightMan! Não ouse<LF>
+hesitar! Já esqueceu o<LF>
+que o chefe nos disse?<Button><CR>
+!---------------------!
+Estamos eliminando esses<LF>
+NetLutadores pelo bem<LF>
+da Dolcerya!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>"Pelo bem"? <Dly: 1 30 0>Não tem nada<LF>
+de "bom" no que vocês<LF>
+tão fazendo!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Pois é! Acham mesmo que<LF>
+agindo assim vão fazer<LF>
+as pessoas felizes?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 87><0xF1: 0>...Sua Alteza?<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 54><0xF1: 0>O que está esperando,<LF>
+KnightMan!?<Button><CR>
+!---------------------!
+Apenas siga as ordens<LF>
+da sua princesa!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 87><0xF1: 0>As ordens da princesa<LF>
+são absolutas...<Dly: 1 30 0><LF>
+Sim, sem dúvidas...<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 64><0xF1: 0>Mas o seu coração<LF>
+ESTÁ com dúvidas...<LF>
+Não está?<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 87><0xF1: 0>...<Button><CR>
+!---------------------!
+MegaMan... duvidar da<LF>
+princesa não faz parte<LF>
+de minha programação...<Button><CR>
+!---------------------!
+Mesmo se ela estiver<LF>
+errada, devo protegê-la<Dly: 1 30 0><LF>
+Tal é meu juramento...<Button><CR>
+!---------------------!
+Assim sendo...<Dly: 1 30 0> está na<LF>
+hora de nosso duelo!<Button><EB>
+!*********************!
+

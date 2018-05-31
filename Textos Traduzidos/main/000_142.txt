@@ -1,0 +1,79 @@
+<@AbsoluteAddr 7943684>
+<@PointerIdx0>
+<Char: 0 89><0xF1: 0>Preciso lhe dar os<LF>
+parabéns por chegar<LF>
+até aqui, MegaMan.EXE.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>E quem é você!?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 89><0xF1: 0>O Comandante-Chefe
+<LF>
+da Gospel...<LF>
+FreezeMan.<Button><CR>
+!---------------------!
+Aquele que orquestrou o<LF>
+"Plano de Obliteração<LF>
+da Civilização".<Button><CR>
+!---------------------!
+Em breve um terremoto<LF>
+de 10 na escala Richter<LF>
+será registrado.<Button><CR>
+!---------------------!
+Que tal vir comigo para<LF>
+ver toda a destruição<LF>
+que ele causará?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Eu nunca vou deixar isso
+<LF>
+contecera! Entregue
+<LF>
+o "FragAzu" agora mesmo!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 89><0xF1: 0>Ha ha... não seja ridículo.<LF>
+Sabem que o gelo na<LF>
+Rede é parte de mim...<Button><CR>
+!---------------------!
+Mas talvez não saibam<LF>
+que o terceiro "FragAzu"<LF>
+SOU eu!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>O quê!?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Quer dizer então...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 89><0xF1: 0>Exato!<Button><CR>
+!---------------------!
+Terão de me vencer e<LF>
+me deletar se quiserem<LF>
+salvar o mundo.<Button><CR>
+!---------------------!
+Então se quiser mesmo<LF>
+impedir o apocalipse...<Button><CR>
+!---------------------!
+Me ataque com tudo<LF>
+que tiver!<LF>
+MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 64><0xF1: 0>Lan, a rotina de<LF>
+batalha é com você!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 0><0xF1: 0>Pode deixar! Nós dois<LF>
+vamos proteger o nosso<LF>
+país... e o mundo!<Button><CR>
+!---------------------!
+Pronto, MegaMan!?<LF>
+Rotina de batalha...<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 64><0xF1: 0>Executar!<Button><EB>
+!*********************!
+

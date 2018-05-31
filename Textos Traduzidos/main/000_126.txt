@@ -1,0 +1,42 @@
+<@AbsoluteAddr 7932784>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>MegaMan, encontre o<LF>
+programa 
+da asa direita.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Pode deixar!<LF>
+<0xF2: 0 7 2>...Urg... argh!!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 0><0xF1: 0>O que é que foi,<LF>
+MegaMan!?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>A força magnética<LF>
+de dentro do avião é
+<LF>
+das grandes!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 0><0xF1: 0>Tá tudo bem com você,<LF>
+MegaMan!?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<0xF2: 4 7 2><Char: 0 64><0xF1: 0>Tô... mas o meu corpo
+<LF>
+tá sendo pressionado<LF>
+pela força magnética.<Button><CR>
+!---------------------!
+Ela também pode estar
+<LF>
+afetando o avião.<Button><CR>
+!---------------------!
+Mas a gente não tem<LF>
+outra opção!<LF>
+Lan, cuide das rotinas!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Pode deixar!!<Button><EB>
+!*********************!
+

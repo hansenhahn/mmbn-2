@@ -1,0 +1,126 @@
+<@AbsoluteAddr 7883580>
+<@PointerIdx0>
+<Char: 0 83><0xF1: 0>Não! Como pôde um único<LF>
+Navi destruir todo o meu<LF>
+país!?<Button><CR>
+!---------------------!
+I.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>Isso é imperdoável!<LF>
+Minha punição cairá
+<LF>
+sobre você!<Button><CR>
+!---------------------!
+Não há como escapar!<LF>
+Prepare-se para o seu<LF>
+dia de julgamento final!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 81><0xF1: 0>......<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 83><0xF1: 0>Vão!! Atrás dele!!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 73><0xF1: 0>Certo, Majestade!!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 83><0xF1: 0>O-<0xEA: 1 20 0>O que você fez<LF>
+com os meus valentes<LF>
+soldados Saboryanos?<Button><CR>
+!---------------------!
+Não.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0><Button><CR>
+!---------------------!
+P-Por que fez isso?<LF>
+O que quer de nós?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 81><0xF1: 0>Hmpf... Bem, esse tal<LF>
+clube do gospel ou<LF>
+sei-lá-o-que me...<Button><CR>
+!---------------------!
+Não. Ao invés de explicar<LF>
+tudo isso, eu vou<LF>
+direto ao ponto.<Button><CR>
+!---------------------!
+"Por que" eu destruí o<LF>
+seu país?<LF>
+Simples!<Button><CR>
+!---------------------!
+Foi a pedido de um tal<LF>
+grupo Gospel. Esse foi
+<LF>
+o motivo.<Button><CR>
+!---------------------!
+Sem ressentimentos.<LF>
+É o meu trabalho, e eu<LF>
+sou bem eficiente...<Button><CR>
+!---------------------!
+Digamos que simplesmente<LF>
+não foi um dia de sorte<LF>
+para Saborya!<Button><CR>
+!---------------------!
+Com minhas desculpas!!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 83><0xF1: 0>Gos...pe...urgh!<0xEA: 0 90 0><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 1 241> <0xF2: 4 66 2>arrrgh!<Button><0xF2: 0 66 2><EB>
+!*********************!
+<@PointerIdx8>
+<Char: 0 81><0xF1: 0>Missão cumprida,<LF>
+Sr. Dark.<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 57><0xF1: 0>Bom trabalho. Agora<LF>
+tenho mais uma tarefa<LF>
+para você...<Button><CR>
+!---------------------!
+O seu próximo alvo é...<Button><CR>
+!---------------------!
+...entendido?<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 81><0xF1: 0>Com prazer, mestre...!<Button><0xFA: 0 222 0><0xF2: 4 66 2><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 70><0xF1: 0>Majestade! Majestade!<0xFA: 4 15 0><Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 83><0xF1: 0>Ah... V-Você vive!<LF>
+Conseguiu se proteger!<LF>
+argh! cof!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 70><0xF1: 0>Majestade! Não desper-<LF>
+dice suas forças. Deixe<LF>
+palavras para depois!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 83><0xF1: 0>Perdoe-me.<LF>
+Falhei como rei...<Button><CR>
+!---------------------!
+O Navi... ele voltará...<LF>
+a nos... atacar...<Button><CR>
+!---------------------!
+Ele trabalhava... para...<LF>
+.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0>a Gospel.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<Button><CR>
+!---------------------!
+Depressa... avise os...<LF>
+outros países...<Button><CR>
+!---------------------!
+Não podemos permitir
+<LF>que isso se.<0xEA: 1 20 0>..<0xEA: 1 20 0> repita<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 1 241> <0xF2: 4 67 2>aah...!<0xEA: 0 90 0><CR>
+!---------------------!
+<0xF2: 0 67 2><0xF2: 0 136 2><Jmp: 0 16><@PointerIdx16>
+<Char: 0 70><0xF1: 0>Majestade! Majestade!!<Button><CR>
+!---------------------!
+.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<Button><CR>
+!---------------------!
+Gos...pel...<Button><CR>
+!---------------------!
+Preciso avisar...<Button><EB>
+!*********************!
+

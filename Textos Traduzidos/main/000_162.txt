@@ -1,0 +1,30 @@
+<@AbsoluteAddr 7957816>
+<@PointerIdx0>
+<0xF8: 4 24><Char: 0 64><0xF1: 0>Conseguimos!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>N-Ngh...<Dly: 1 30 0> ugh...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<0xF8: 4 4><Char: 0 64><0xF1: 0>Lan!?<Dly: 1 30 0> Ah, não! Os níveis<LF>
+de radiação estão<LF>
+chegando aos 50 mil!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>R-relaxa, foi só a minha<LF>
+pressão baixa de sempre!
+<Dly: 1 30 0><LF>
+Acaba com o programa!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>...Tá bom!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 64><0xF1: 0>Pronto! Acho que agora<LF>
+a gente consegue ir pra<LF>
+próxima sala!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>...C-certo! Vamos nessa!<Button><EB>
+!*********************!
+

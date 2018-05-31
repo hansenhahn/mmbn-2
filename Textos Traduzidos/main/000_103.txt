@@ -1,0 +1,64 @@
+<@AbsoluteAddr 7918488>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Raoul! Raoul!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 55><0xF1: 0>Arrrhh... hargh...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>Ele ainda tá respirando!<LF>
+Vai ficar bem.<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 6><0xF1: 0>!!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 6><0xF1: 0>Hikari... eu não quis<LF>
+acreditar. Então é você<LF>
+o agente da Gospel...<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 0><0xF1: 0>O quê!? Chaud, você só<LF>
+pode tá brincando!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 6><0xF1: 0>Hmpf... se fazendo de<LF>
+inocente, é?<Button><CR>
+!---------------------!
+Não adianta. Este<LF>
+cenário é uma prova<LF>
+irrefutável...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Não é, não! Eu também<LF>
+acabei de chegar! <Dly: 1 30 0>...Achei<LF>
+que VOCÊ era da Gospel.<Button><CR>
+!---------------------!
+Mas então... quem foi<LF>
+que atacou o Raoul e<LF>
+os outros?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 6><0xF1: 0>Não diga besteira.<Button><CR>
+!---------------------!
+A questão é a seguinte:<LF>
+você está preso, em<LF>
+nome dos Oficiais.<Button><CR>
+!---------------------!
+Ouviremos suas desculpas<LF>
+inventadas mais tarde...<LF>
+mas antes disso...<Button><CR>
+!---------------------!
+Vamos deletar o Navi...<LF>
+não...<Dly: 1 30 0> vamos deletar 
+o<LF>
+VÍRUS MegaMan.EXE!<Button><CR>
+!---------------------!
+ProtoMan!<LF>
+Time for a little<LF>
+virus busting!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 74><0xF1: 0>...Sim, senhor!!<Button><EB>
+!*********************!
+

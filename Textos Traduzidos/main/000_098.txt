@@ -1,0 +1,35 @@
+<@AbsoluteAddr 7915288>
+<@PointerIdx0>
+<0xF1: 0>triim-triiim!<Dly: 0 60 0><Button><EB>
+!*********************!
+<@PointerIdx1>
+<0xFA: 4 14 0><Char: 0 49><0xF1: 0>Aqui é o Johnson...<Dly: 1 30 0><Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 51><0xF1: 0>O que foi!?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 49><0xF1: 0>Foi mal...<Dly: 1 30 0><LF>
+Eu fiquei preso<LF>
+numa... ar<Dly: 1 30 0>madilha!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Sr. Johnson!<LF>
+Eu vou aí te salvar!<LF>
+Você tá onde?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 49><0xF1: 0>E-Eu...<Dly: 1 30 0> já era, garoto...<LF>
+Melhor esque...<Dly: 1 30 0>cer de<LF>
+mim e...<Dly: 1 30 0> prosseguir...!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<0xFA: 16><Char: 1 241 0><0xFA: 12><0xF2: 0 87 2>Trrrrrrrrrr-trrrr!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<0xF2: 4 87 2><Char: 0 49><0xF1: 0><0xFA: 8>Aaaaggghhh...!!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Droga...!<Button><EB>
+!*********************!
+

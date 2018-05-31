@@ -1,0 +1,21 @@
+<@AbsoluteAddr 7928828>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>O que aconteceu!?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 53><0xF1: 0>U-Uma... aranha... ela<LF>
+me picou... aaagh!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 58><0xF1: 0>A-Ai, meu Deus!<LF>
+O-O que faremos agora?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>MegaMan! Descubra se<LF>
+tem algum médico à<LF>
+bordo do avião!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Deixa comigo!<Button><EB>
+!*********************!
+

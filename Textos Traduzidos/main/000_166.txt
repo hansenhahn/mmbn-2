@@ -1,0 +1,43 @@
+<@AbsoluteAddr 7963896>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Lan...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Eu sei... enfim a gente<LF>
+chegou até aqui.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>Para enfrentar...<Dly: 1 30 0><LF>
+Bass, o "SuperNavi"...<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 90><0xF1: 0>...<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 63><0xF1: 0>Agora, Bass!<Dly: 1 30 0><LF>
+Inicie o Projeto<LF>
+"Dominação Global!"<Button><CR>
+!---------------------!
+E como primeiro passo...<Dly: 1 30 0><LF>
+delete o Navi que se<LF>
+posta diante de você!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 90><0xF1: 0>...Com prazer.<Dly: 1 30 0><LF>
+...Lutar é o meu forte!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 0><0xF1: 0>Ele despertou...!<Dly: 1 30 0><LF>
+MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Pronto pra batalha!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Beleza! Vamos lá!<Dly: 1 30 0><LF>
+Rotina de batalha...<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 64><0xF1: 0>Executar!!<Button><EB>
+!*********************!
+

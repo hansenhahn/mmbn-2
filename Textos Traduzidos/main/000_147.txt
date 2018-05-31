@@ -1,0 +1,96 @@
+<@AbsoluteAddr 7947608>
+<@PointerIdx0>
+<Char: 0 36><0xF1: 0>...<LF>
+E esse é o fim do<LF>
+relatório do Chaud.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 37><0xF1: 0>Ele partiu para investigar<LF>
+o incidente a pedido<LF>
+da Netopia...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 22><0xF1: 0>E isso já faz 3 dias.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 23><0xF1: 0>Hmm...<Dly: 1 30 0> Talvez o caso
+<LF>
+seja mais complicado<LF>
+do que achávamos...<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 36><0xF1: 0>Mas não acham isso<LF>
+estranho? O filho do<LF>
+Dr. Hikari, o Lan,<Button><CR>
+!---------------------!
+destruiu o Plaza de<LF>
+Kotobuki...<Dly: 1 30 0> isto é, a<LF>
+base central da Gospel!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 53><0xF1: 0>E ainda assim netcrimes<LF>
+estão em níveis nunca<LF>
+antes vistos...<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 22><0xF1: 0>Dr. Hikari, será que há<LF>
+alguma coisa que estamos<LF>
+deixando passar?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 23><0xF1: 0>É possível... talvez<LF>
+devamos re-inspecionar<LF>
+o Plaza de Kotobuki...<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 53><0xF1: 0>Mas o nosso melhor<LF>
+NetLutador, o Chaud,<LF>
+ainda não voltou.<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 37><0xF1: 0>E os últimos incidentes<LF>
+pulverizaram nossos<LF>
+NetLutadores reservas!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 36><0xF1: 0>Poderíamos pedir a um<LF>
+NetLutador municipal que<LF>
+verificasse Kotobuki.<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 22><0xF1: 0>Ótima ideia! Por sinal,<LF>
+o filho do Dr. Hikari é<LF>
+NetLutador municipal...<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 23><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>É verdade, mas isto<LF>
+deverá ser perigoso<LF>
+demais para ele...<Button><CR>
+!---------------------!
+O Lan ainda é<LF>
+inexperiente...<Button><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 0 53><0xF1: 0>Mas Dr. Hikari...! Como o<LF>
+senhor mesmo disse, é<LF>
+uma emergência!<Button><CR>
+!---------------------!
+Pediremos a todos os<LF>
+NetLutadores municipais<LF>
+para que participem!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 23><0xF1: 0>É verdade...<Dly: 1 30 0> talvez eles<LF>
+colaborem conosco...<Button><CR>
+!---------------------!
+Tudo bem, então...<Dly: 1 30 0><LF>
+Vamos pedir auxílio aos<LF>
+NetLutadores Municipais.<Button><CR>
+!---------------------!
+Mas enquanto isso,<LF>
+de volta a seus postos!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 1 241 0>Sim, senhor!<Button><EB>
+!*********************!
+

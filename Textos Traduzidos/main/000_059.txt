@@ -1,0 +1,102 @@
+<@AbsoluteAddr 7887548>
+<@PointerIdx0>
+<Char: 1 241> Várias horas após<LF>
+a destruição de<LF>
+Saborya...<0xEA: 0 90 0><Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 22><0xF1: 0>Recebemos um telegrama<LF>
+de Saborya!<Button><CR>
+!---------------------!
+A Gospel diz que o Navi<LF>
+misterioso que os atacou<LF>
+pertencia a ela.<Button><CR>
+!---------------------!
+Eles.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0><LF>
+destruíram o SaboPlaza!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 36><0xF1: 0>O quê!?<Button><CR>
+!---------------------!
+Mas a segurança de<LF>
+Saborya era uma das<LF>
+melhores do mundo!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 6><0xF1: 0>Navis da Gospel com<LF>
+poder suficiente pra<LF>
+destruir o SaboPlaza...<Button><CR>
+!---------------------!
+Isso não é nada bom...<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 1 241> <0xf4> <0xFA: 12><0xFA: 0 10 1>clique...<0xEA: 0 88 0><0xFA: 0 26 1> bipe<0xf4>0<0xFA: 8><Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 22><0xF1: 0>Prosseguindo a leitura<LF>
+do telegrama vindo de<LF>
+Saborya...<Button><CR>
+!---------------------!
+O próximo alvo dos Navis<LF>
+que destruíram Saborya<LF>
+é.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>!!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 36><0xF1: 0>O que foi!?<LF>
+Por que não lê o final!?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<0xF2: 0 67 2><Char: 0 22><0xF1: 0>O próximo alvo dos Navis<LF>
+que destruíram Saborya<LF>
+é...!!<Button><CR>
+!---------------------!
+Electopia!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 36><0xF1: 0>O... o quê!?<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 6><0xF1: 0>...Se me dão licença.<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 36><0xF1: 0>Chaud! Aonde pensa que<LF>
+vai!?<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 6><0xF1: 0>Pra minha investigação.<LF>
+Não há tempo a perder.<LF>
+...<0xEA: 1 30 0>Não concorda?<Button><EB>
+!*********************!
+<@PointerIdx12>
+<0xF2: 0 79 2><Char: 0 23><0xF1: 0>Ouviram o Chaud. Temos<LF>
+que nos preparar pro<LF>
+ataque o quanto antes!<Button><CR>
+!---------------------!
+Eu irei fazer um potente<LF>
+programa de armamento<LF>
+para deter os Navis!<Button><CR>
+!---------------------!
+Entrem em contato com<LF>
+todos os NetLutadores<LF>
+Oficiais do país!<Button><CR>
+!---------------------!
+Executem medidas<LF>
+anti-hackers extremas!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<0xF2: 4 68 2><0xF2: 4 79 2><Char: 0 36><0xF1: 0>Liguem para todos os<LF>
+NetLutadores Oficiais<LF>
+do país! Agora!<Button><CR>
+!---------------------!
+Executem nossa primeira<LF>
+série de medidas<LF>
+preventivas!!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<0xF2: 4 67 2><Char: 0 22><0xF1: 0>Nossa primeira série de<LF>
+medidas preventivas...!!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 1 241> <0xf4> <0xFA: 12><0xFA: 0 10 1>clique-clique...<0xEA: 0 84 0><0xf4>0<Button><EB>
+!*********************!
+

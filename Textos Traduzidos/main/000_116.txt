@@ -1,0 +1,95 @@
+<@AbsoluteAddr 7927788>
+<@PointerIdx0>
+<Char: 0 62><0xF1: 0>Posso fazer alguma<LF>
+coisa por você,<LF>
+rapazinho?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Bom, eu tô atrás de<LF>
+alguém que entende<LF>
+de insetos...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 62><0xF1: 0>"Entender de insetos"?<LF>
+Não me insulte!<Button><CR>
+!---------------------!
+Eu sei tanto sobre eles<LF>
+que sou conhecido<LF>
+como o "inseclopédia"!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Ah! Nesse caso,<LF>
+só por curiosidade...<Button><CR>
+!---------------------!
+O senhor conhece uma<LF>
+aranha de patas grossas<LF>
+e pelo preto?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 62><0xF1: 0>Bom, tecnicamente<LF>
+aranhas não são insetos,<LF>
+mas conheço sim...<Button><CR>
+!---------------------!
+Só que são várias.<LF>
+Alguma outra<LF>
+característica?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Hm... Ah, é mesmo.<LF>
+Ela tinha olhos bem<LF>
+vermelhos.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 62><0xF1: 0>Ah! Essa é fácil!<LF>
+É uma aranha da<LF>
+Netopia.<Button><CR>
+!---------------------!
+A aranha peluda de<LF>
+olhos vermelhos.<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Aranha peluda de<LF>
+olhos vermelhos!?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 62><0xF1: 0>Exato. É um espécime<LF>
+bem raro...<Button><CR>
+!---------------------!
+Fácil de identificar pelo<LF>
+seu grosso pelo preto<LF>
+e seus olhos vermelhos.<Button><CR>
+!---------------------!
+Ah, e por seu veneno<LF>
+incrivelmente mortal!<Button><CR>
+!---------------------!
+Após ser picada, a<LF>
+vítima fica paralisada<LF>
+em poucas horas...<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 1 241 0>Aaaaiiihhhh!!<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 0><0xF1: 0>O que foi isso!?<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 64><0xF1: 0>Veio lá dos assentos<LF>
+nas últimas fileiras!<Button><CR>
+!---------------------!
+Lan! E se...!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>MegaMan! Vamos lá!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 64><0xF1: 0>Ótima ideia!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<0xF2: 0 7 2><Char: 0 0><0xF1: 0>Obrigado, moço!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 62><0xF1: 0>Disponha, rapazinho.<LF>
+Se o assunto for<LF>
+insetos, falo com prazer!<Button><EB>
+!*********************!
+

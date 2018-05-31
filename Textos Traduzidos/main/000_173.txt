@@ -1,0 +1,481 @@
+<@AbsoluteAddr 7972560>
+<@PointerIdx0>
+<Char: 0 2><0xF1: 0>Ô, Lan! Tá demorando aí<LF>
+por quê? <Dly: 1 30 0>Vem logo!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Vamos, Lan, a gente<LF>
+tem que correr!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 0><0xF1: 0>Eu sei...<Button><CR>
+!---------------------!
+...Tá bom, tá bom! Eu já<LF>
+vou!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 2><0xF1: 0>Ah, trouxe mais uns<LF>
+galhos pra gente. Legal.<Button><CR>
+!---------------------!
+Mesmo assim... atrasado<LF>
+Tem que aprender a<LF>
+seguir as ordens do líder!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Ah, vai encher outro!<LF>
+Eu trouxe os galhos<LF>
+pra você, não trouxe!?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 2><0xF1: 0>...Bom,<Dly: 1 30 0> É graças a você<LF>
+que a gente pode<LF>
+acampar de novo...<Button><CR>
+!---------------------!
+Obrigado, Lan!!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>E-Ei, pra que isso...?<Dly: 1 30 0><LF>
+Além disso, não foi só eu.<LF>
+Todo mundo ajudou!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 2><0xF1: 0>Laaaan! Como você<LF>
+éééé...<Dly: 1 30 0>! Buyoo yo yo!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>De novo com esse<LF>
+"buyôyô"...?<Dly: 1 30 0> Eu, hein!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 1><0xF1: 0>Lan! Ainda falta você<LF>
+pra gente começar!<Dly: 1 30 0><LF>
+Vem logo!<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 0><0xF1: 0>Tá bom! Me dá só um<LF>
+minuto, tá?<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 1 241 0>Fuish! Fuish! Fuish!<Dly: 0 60 0><Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 5><0xF1: 0>Oh! Isso é incrível, é!<LF>
+Você está pegando<LF>
+peixes aos montes!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<0xF8: 4 5><0xF2: 4 78 2><Char: 0 0><0xF1: 0>Eu te ensino, Sr. Higsby!<LF>
+Quer tentar?<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 5><0xF1: 0>Bom...<Dly: 1 30 0> é! Por que não?<Button><EB>
+!*********************!
+<@PointerIdx15>
+<Char: 1 241 0>Fuish! Fuish! Fuish!<Dly: 0 60 0><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 5><0xF1: 0>H-<Dly: 1 30 0>hã? <Dly: 1 30 0>Ai, é, ai, aaai...!<Dly: 1 30 0><LF>
+Aaaaaiiiiiiaaahhh!!!<Button><EB>
+!*********************!
+<@PointerIdx17>
+<Char: 1 241 0><0xFA: 12><0xFA: 0 248 0>TCHIBUM!<0xFA: 8><Button><EB>
+!*********************!
+<@PointerIdx18>
+<Char: 0 0><0xF1: 0>Hahahaha! <Dly: 1 30 0>...Foi mal!<LF>
+Eu tenho voltar pra Yai.<LF>
+'Té mais, Sr. Higsby!<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 5><0xF1: 0>É...<Button><EB>
+!*********************!
+<@PointerIdx20>
+<Char: 0 1><0xF1: 0>Lan! Onde foi que você<LF>
+se meteu!?<Dly: 1 30 0> Bom, eu te<LF>
+perdoo, mas só porque<Button><CR>
+!---------------------!
+você trouxe bastante<LF>
+comida. Agora contemplem<LF>
+minha mão de cozinheira!<Button><CR>
+!---------------------!
+Uma das muitas coisas<LF>
+que faz de moi uma<LF>
+donzela<Dly: 1 30 0> "pra<Dly: 1 30 0> ca<Dly: 1 30 0>sar"!<Button><EB>
+!*********************!
+<@PointerIdx21>
+<Char: 0 7><0xF1: 0>Ah, não! Lan! <Dly: 1 30 0>Eu esqueci<LF>
+a faca de novo!<Button><CR>
+!---------------------!
+<Jmp: 0 22><@PointerIdx22>
+<Char: 0 0><0xF1: 0>De novo? Você só pode<LF>
+tá brincando!<Button><EB>
+!*********************!
+<@PointerIdx23>
+<Char: 0 0><0xF1: 0>Você é pequenininha,<LF>
+então toma cuidado aí<LF>
+pra grelhar esse peixe.<Button><EB>
+!*********************!
+<@PointerIdx24>
+<Char: 0 1><0xF1: 0>Ei!<LF>
+Eu não sou pequena!!<LF>
+Ora, seu...<Dly: 1 30 0> Mhhmmmm!<Dly: 0 60 0><EB>
+!*********************!
+<@PointerIdx25>
+<Char: 0 11><0xF1: 0>Sim, Lan?<Dly: 1 30 0><LF>
+Ah,<Dly: 1 10 0> uma faca?<Dly: 1 10 0><LF>
+Certo, certo.<Button><EB>
+!*********************!
+<@PointerIdx26>
+<Char: 0 11><0xF1: 0>Mas nossa, faz <0x49>tanto<0x49><LF>
+tempo que o seu pai não<LF>
+acampa com a gente!<Button><CR>
+!---------------------!
+<Jmp: 0 27><@PointerIdx27>
+<0xF2: 0 58 2><Char: 0 23><0xF1: 0>Ha ha ha. É, eu andei<LF>
+muito ocupado...<Dly: 1 30 0><LF>
+Me desculpa, querida?<Button><CR>
+!---------------------!
+<Jmp: 0 28><@PointerIdx28>
+<Char: 0 11><0xF1: 0>Desculpo sim, querido.<Button><CR>
+!---------------------!
+Além disso, Yuichiro, eu<LF>
+sei muito bem como<LF>
+seu trabalho é puxado...<Button><CR>
+!---------------------!
+<Jmp: 0 29><@PointerIdx29>
+<Char: 0 23><0xF1: 0>Obrigado...<Dly: 1 30 0> Haruka.<Button><EB>
+!*********************!
+<@PointerIdx30>
+<Char: 0 0><0xF1: 0>Paa-aai!<Button><EB>
+!*********************!
+<@PointerIdx31>
+<Char: 0 23><0xF1: 0>Ah! Desculpa, Lan. Bom,<LF>
+já que estou livre agora,<LF>
+quer sair pra brincar?<Button><CR>
+!---------------------!
+<Jmp: 0 32><@PointerIdx32>
+<Char: 0 0><0xF1: 0>Quero!<Button><CR>
+!---------------------!
+<Jmp: 0 33><@PointerIdx33>
+<0xF2: 4 14 2><Char: 0 7><0xF1: 0>Laa-aan! Você vem ou<LF>
+não!?<Button><CR>
+!---------------------!
+<Jmp: 0 34><@PointerIdx34>
+<Char: 0 11><0xF1: 0>Ah! Ha ha, melhor ir logo,<LF>
+filho. Não se deve deixar<LF>
+uma garota esperando!<Button><CR>
+!---------------------!
+<Jmp: 0 35><@PointerIdx35>
+<Char: 0 23><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><EB>
+!*********************!
+<@PointerIdx36>
+<Char: 0 11><0xF1: 0>Não foi uma indireta pra<LF>
+você, Yuichiro!<Button><EB>
+!*********************!
+<@PointerIdx37>
+<Char: 0 23><0xF1: 0>Ah, é?<Button><CR>
+!---------------------!
+<Jmp: 0 38><@PointerIdx38>
+<Char: 0 11><0xF1: 0>Sim, <Dly: 1 30 0>é <Dly: 1 30 0>sim.<Button><CR>
+!---------------------!
+<Jmp: 0 39><@PointerIdx39>
+<Char: 0 23><0xF1: 0>Ah, meu bem...<Button><CR>
+!---------------------!
+<Jmp: 0 40><@PointerIdx40>
+<Char: 0 11><0xF1: 0>Ah, meu amor...<Button><0xF2: 0 60 2><EB>
+!*********************!
+<@PointerIdx41>
+<Char: 0 0><0xF1: 0>Ai, minha cabeça...<Button><CR>
+!---------------------!
+<Jmp: 0 42><@PointerIdx42>
+<Char: 0 64><0xF1: 0>A vergonha alheia<LF>
+causada por esses
+<LF>
+dois é colossal...<Button><CR>
+!---------------------!
+<Jmp: 0 43><@PointerIdx43>
+<Char: 0 0><0xF1: 0>Bom, vamos lá pro<LF>
+pessoal!<Button><EB>
+!*********************!
+<@PointerIdx44>
+<0xF2: 4 60 2><Char: 0 6><0xF1: 0>Hmph! Está atrasado.<Button><CR>
+!---------------------!
+<Jmp: 0 45><@PointerIdx45>
+<0xF8: 4 5><Char: 0 0><0xF1: 0>???<Button><CR>
+!---------------------!
+<Jmp: 0 46><@PointerIdx46>
+<0xF8: 4 3><0xF2: 4 14 2><Char: 0 7><0xF1: 0>Ah, oi, Lan. O Chaud já<LF>
+arranjou aquela faca<LF>
+pra mim.<Button><CR>
+!---------------------!
+Obrigada, Chaud!<Button><CR>
+!---------------------!
+<Jmp: 0 47><@PointerIdx47>
+<0xF2: 0 60 2><Char: 0 6><0xF1: 0>Disponha. Qualquer<LF>
+coisa por você.<Button><CR>
+!---------------------!
+<Jmp: 0 48><@PointerIdx48>
+<Char: 0 0><0xF1: 0>"Qualq"... Mayl! O que é<LF>
+que significa isso!?<Button><CR>
+!---------------------!
+<Jmp: 0 49><@PointerIdx49>
+<Char: 0 7><0xF1: 0>Dormiu no ponto, Lan!<LF>
+Diferente de você, o<LF>
+Chaud é atencioso!<Button><EB>
+!*********************!
+<@PointerIdx50>
+<Char: 0 7><0xF1: 0>...Mas eu tambem gosto<LF>
+da sua faca...<Dly: 1 30 0><LF>
+Qual das duas eu uso...?<Button><CR>
+!---------------------!
+<Jmp: 0 51><@PointerIdx51>
+<Char: 0 0><0xF1: 0>O-o-o q-q-quê...?<LF>
+Eu, hein...<Button><CR>
+!---------------------!
+<Jmp: 0 52><@PointerIdx52>
+<Char: 0 64><0xF1: 0>"Não há no céu fúria<LF>
+comparável à de uma<LF>
+mulher desprezada".<Button><CR>
+!---------------------!
+<Jmp: 0 53><@PointerIdx53>
+<Char: 0 0><0xF1: 0>Ah, eu não quero nem<LF>
+saber disso aí não...<Button><CR>
+!---------------------!
+<Jmp: 0 54><@PointerIdx54>
+<Char: 0 7><0xF1: 0>Aí, duplinha dos rivais!<LF>
+Estão atrapalhando<LF>
+a cozinheira! Xô, xô!<Button><EB>
+!*********************!
+<@PointerIdx55>
+<Char: 0 0><0xF1: 0>...<Button><CR>
+!---------------------!
+<Jmp: 0 56><@PointerIdx56>
+<Char: 0 6><0xF1: 0>...<Button><CR>
+!---------------------!
+<Jmp: 0 57><@PointerIdx57>
+<Char: 0 0><0xF1: 0>Chaud.<Button><CR>
+!---------------------!
+<Jmp: 0 58><@PointerIdx58>
+<Char: 0 6><0xF1: 0>...Sim?<Button><CR>
+!---------------------!
+<Jmp: 0 59><@PointerIdx59>
+<Char: 0 0><0xF1: 0>Eu odeio ter que
+<LF>
+admitir isso, mas...<Button><CR>
+!---------------------!
+Você me salvou um<LF>
+monte durante essa<LF>
+coisa toda...<Dly: 1 30 0> obrigado.<Button><CR>
+!---------------------!
+<Jmp: 0 60><@PointerIdx60>
+<Char: 0 6><0xF1: 0>Hmph...<Dly: 1 30 0> antes eu diria que<LF>
+dispenso agradecimentos<LF>
+vindos de VOCÊ, <Dly: 1 30 0>mas...<Button><CR>
+!---------------------!
+Você vem me forçando a<LF>
+reconhecê-lo como meu<LF>
+rival.<Dly: 1 30 0> Em várias áreas.<Button><CR>
+!---------------------!
+<Jmp: 0 61><@PointerIdx61>
+<Char: 0 0><0xF1: 0>Não sei se chego a<LF>
+tanto... <Dly: 1 30 0>He he...<Dly: 1 30 0><LF>
+"Rival"<Dly: 1 30 0>, é?<Button><CR>
+!---------------------!
+Beleza então! Eu não<LF>
+vou perder pra você!<LF>
+Nem eu nem o MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 62><@PointerIdx62>
+<Char: 0 64><0xF1: 0>É isso aí!<LF>
+E eu também não vou<LF>
+perder pro ProtoMan!<Button><CR>
+!---------------------!
+<Jmp: 0 63><@PointerIdx63>
+<Char: 0 74><0xF1: 0>...Eu apenas...<Dly: 1 30 0><LF>
+sigo ordens do Mestre<LF>
+Chaud...<Button><CR>
+!---------------------!
+<Jmp: 0 64><@PointerIdx64>
+<Char: 0 6><0xF1: 0>Vá embora. Quero parar<LF>
+de violar minha política de<LF>
+não conversar com civis.<Button><CR>
+!---------------------!
+<Jmp: 0 65><@PointerIdx65>
+<Char: 0 0><0xF1: 0>Affe. Tá bom, tá bom.<Dly: 1 30 0><LF>
+Mas antes disso...<Button><EB>
+!*********************!
+<@PointerIdx66>
+<Char: 0 6><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><EB>
+!*********************!
+<@PointerIdx67>
+<Char: 0 0><0xF1: 0>He he...<Dly: 1 30 0> té mais!<Button><EB>
+!*********************!
+<@PointerIdx68>
+<Char: 0 0><0xF1: 0>Hm? Por que é que o<LF>
+senhor tá aqui sozinho,<LF>
+papai?<Button><CR>
+!---------------------!
+<Jmp: 0 69><@PointerIdx69>
+<0xF2: 0 58 2><Char: 0 23><0xF1: 0>Eu...<Button><CR>
+!---------------------!
+<Jmp: 0 70><@PointerIdx70>
+<Char: 0 0><0xF1: 0>Não vai me dizer que é<LF>
+ligação do trabalho!<Button><CR>
+!---------------------!
+<Jmp: 0 71><@PointerIdx71>
+<Char: 0 23><0xF1: 0>Quase isso...<Dly: 1 30 0><LF>
+é sobre <0x49>ele<0x49>.<Button><CR>
+!---------------------!
+<Jmp: 0 72><@PointerIdx72>
+<Char: 0 0><0xF1: 0>O que tem ele?<Button><CR>
+!---------------------!
+<Jmp: 0 73><@PointerIdx73>
+<Char: 0 23><0xF1: 0>Bom, parece que tinha<LF>
+alguém agindo nos<LF>
+bastidores disso tudo.<Button><CR>
+!---------------------!
+<Jmp: 0 74><@PointerIdx74>
+<Char: 0 64><0xF1: 0>Como assim?<Button><CR>
+!---------------------!
+<Jmp: 0 75><@PointerIdx75>
+<Char: 0 23><0xF1: 0>Basicamente, parece que<LF>
+havia alguém manipulando<LF>
+ele.<Button><CR>
+!---------------------!
+Sempre que acessava a<LF>
+Rede, alguém influenciava<LF>
+o seu subconsciente.<Button><CR>
+!---------------------!
+Ele acredita ter sido ele<LF>
+mesmo quem criou a<LF>
+Gospel e o Projeto Bass,<Button><CR>
+!---------------------!
+mas é bem possível ele<LF>
+ter sido manipulado a<LF>
+fazê-los por um terceiro.<Button><CR>
+!---------------------!
+<Jmp: 0 76><@PointerIdx76>
+<Char: 0 0><0xF1: 0>Entendi...<Button><CR>
+!---------------------!
+<Jmp: 0 77><@PointerIdx77>
+<Char: 0 23><0xF1: 0>A paz voltou, mas o<LF>
+trabalho do seu pai aqui<LF>
+está longe de acabar.<Button><CR>
+!---------------------!
+<Jmp: 0 78><@PointerIdx78>
+<Char: 0 0><0xF1: 0>Eu sei...<Dly: 1 30 0> bom, se rolar<LF>
+alguma outra coisa, pode<LF>
+contar com a gente!<Button><CR>
+!---------------------!
+<Jmp: 0 79><@PointerIdx79>
+<Char: 0 64><0xF1: 0>É!<Button><CR>
+!---------------------!
+...Mas eu fico meio<LF>
+aliviado de saber que<LF>
+não foi tudo culpa dele.<Button><CR>
+!---------------------!
+<Jmp: 0 80><@PointerIdx80>
+<Char: 0 0><0xF1: 0>É...<Dly: 1 30 0> eu também.<Button><CR>
+!---------------------!
+<Jmp: 0 81><@PointerIdx81>
+<Char: 1 241 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 82><@PointerIdx82>
+<Char: 0 11><0xF1: 0>A comida tá quase<LF>
+pronta!<Dly: 1 30 0> Queriiiidooo?<Button><CR>
+!---------------------!
+<Jmp: 0 83><@PointerIdx83>
+<Char: 0 7><0xF1: 0>Laaan?<LF>
+Cadê vocêêê?<Button><CR>
+!---------------------!
+<Jmp: 0 84><@PointerIdx84>
+<Char: 0 23><0xF1: 0>Opa, melhor não<LF>
+deixá-las esperando,<LF>
+senão matam a gente!<Button><CR>
+!---------------------!
+<Jmp: 0 85><@PointerIdx85>
+<Char: 0 0><0xF1: 0>He he, verdade!<LF>
+Vamos lá!<Button><EB>
+!*********************!
+<@PointerIdx86>
+<Char: 1 241 0>Saúde!!<Button><CR>
+!---------------------!
+<Jmp: 0 87><@PointerIdx87>
+<Char: 0 0><0xF1: 0>Hora da bóia!!<Button><CR>
+!---------------------!
+<Jmp: 0 88><@PointerIdx88>
+<Char: 0 64><0xF1: 0>Isso é tão bom, né?<Dly: 1 30 0> Hoje<LF>
+podemos acampar sem<LF>
+compromisso! <Dly: 1 30 0>Não acha?<Button><CR>
+!---------------------!
+<Jmp: 0 89><@PointerIdx89>
+<Char: 0 0><0xF1: 0>Chomp nhac croc glup<LF>
+BROOORR!<Button><CR>
+!---------------------!
+<Jmp: 0 90><@PointerIdx90>
+<Char: 0 64><0xF1: 0>Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 91><@PointerIdx91>
+<Char: 0 3><0xF1: 0>Desculpa, gente!<Button><EB>
+!*********************!
+<@PointerIdx92>
+<Char: 0 3><0xF1: 0>Huff... puff...<LF>
+Cheguei super atrasada,<LF>
+não é mesmo?<Button><CR>
+!---------------------!
+Fiquei preparando a volta<LF>
+às aulas de amanhã e<LF>
+perdi a noção do tempo...<Button><CR>
+!---------------------!
+E então, todos<LF>
+terminaram seus<LF>
+trabalhos de férias?<Button><CR>
+!---------------------!
+<Jmp: 0 93><@PointerIdx93>
+<0xFA: 16><Char: 0 0><0xF1: 0>AAHHH!!!!!!<Button><CR>
+!---------------------!
+<Jmp: 0 94><@PointerIdx94>
+<Char: 0 64><0xF1: 0>AAHH!!!!!!<Button><EB>
+!*********************!
+<@PointerIdx95>
+<Char: 0 0><0xF1: 0>MegaMan, a nossa lição<LF>
+de casa...<Button><CR>
+!---------------------!
+<Jmp: 0 96><@PointerIdx96>
+<Char: 0 64><0xF1: 0>É verdade... foi tanta<LF>
+coisa que aconteceu<LF>
+que até eu...<Button><CR>
+!---------------------!
+<Jmp: 0 97><@PointerIdx97>
+<Char: 0 7><0xF1: 0>Lan, não vai me dizer<LF>
+que...<Button><EB>
+!*********************!
+<@PointerIdx98>
+<Char: 0 0><0xF1: 0>Ah, não!!! Cuidado!!<LF>
+A grelha tá pegando<LF>
+fogo por dentro!<Button><CR>
+!---------------------!
+<0xF2: 0 73 2><Jmp: 0 99><@PointerIdx99>
+<Char: 0 7><0xF1: 0>Não!!!!!<Dly: 1 30 0><Button><CR>
+!---------------------!
+<0xFA: 16>...Espera, é CLARO que<LF>
+tem fogo dentro da<LF>
+grelha! É uma grelha!!<Button><CR>
+!---------------------!
+Eu sabia, Lan! <Dly: 1 30 0>Você<LF>
+não fez o dever de<LF>
+casa!<Button><CR>
+!---------------------!
+<Jmp: 0 100><@PointerIdx100>
+<Char: 0 0><0xF1: 0>Desculpa, mas eu tô<LF>
+sem tempo agora!!<Dly: 1 30 0><LF>
+MegaMan!?<Button><CR>
+!---------------------!
+<Jmp: 0 101><@PointerIdx101>
+<0xF8: 4 4><Char: 0 64><0xF1: 0>Vamos nessa, Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 102><@PointerIdx102>
+<Char: 0 0><0xF1: 0>É pra já! <Dly: 1 30 0>Conectar!!<Dly: 0 10 0><LF>
+MegaMan.EXE,<Dly: 0 10 0><LF>
+transmissão!!<0xEC: 0 2><Button><EB>
+!*********************!
+

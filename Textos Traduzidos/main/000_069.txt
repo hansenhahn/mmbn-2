@@ -1,0 +1,14 @@
+<@AbsoluteAddr 7891568>
+<@PointerIdx0>
+<Char: 0 70><0xF1: 0>Ladrão.<LF>
+Este será o seu túmulo!<Button><CR>
+!---------------------!
+Queime no fogo da<LF>
+Undernet com as chamas<LF>
+destes vírus!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Lan, tem alguma coisa<LF>
+vindo!!<Button><EB>
+!*********************!
+

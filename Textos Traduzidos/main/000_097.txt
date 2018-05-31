@@ -1,0 +1,16 @@
+<@AbsoluteAddr 7915156>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Ah! Lan, cuidado!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 0><0xF1: 0>Eita!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 64><0xF1: 0>As armadilhas do<LF>
+castelo estão ativas!<Button><CR>
+!---------------------!
+Tem algum lugar aqui<LF>
+para nos conectarmos?<LF>
+Eu cuido disso!<Button><EB>
+!*********************!
+

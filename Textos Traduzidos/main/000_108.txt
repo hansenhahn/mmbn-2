@@ -1,0 +1,135 @@
+<@AbsoluteAddr 7922076>
+<@PointerIdx0>
+<Char: 0 53><0xF1: 0>Graças a você, a<LF>
+Organização está a<LF>
+salvo!<Button><CR>
+!---------------------!
+Seremos eternamente
+<LF>
+gratos!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Tá, mas e o Raoul!?<LF>
+Ele tá bem!?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 53><0xF1: 0>Já foi levado ao hospital.<LF>
+Ainda bem que não
+<LF>demoramos a achá-lo!<Button><CR>
+!---------------------!
+E já estamos resgatando<LF>
+os demais. Estão feridos,<LF>
+mas não correm risco.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>E a princesa?<LF>
+Ela... morreu?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 53><0xF1: 0>Também a encontramos<LF>
+e tiramos de lá. Está<LF>
+se recuperando agora...<Button><CR>
+!---------------------!
+Mas ela será interrogada<LF>
+no segundo em que<LF>
+receber alta!<Button><CR>
+!---------------------!
+Acho que vocês não<LF>
+a verão mais por um<LF>
+bom tempo.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 6><0xF1: 0>De acordo com as<LF>
+histórias que eu ouvi...<Button><CR>
+!---------------------!
+A Dolcerya foi um dos<LF>
+primeiros países a<LF>
+acessar a Rede.<Button><CR>
+!---------------------!
+Por isso um país tão<LF>
+pequeno assim virou uma<LF>
+superpotência tão rápido.<Button><CR>
+!---------------------!
+Mas não demorou até<LF>
+os países maiores<LF>
+alcançarem a Dolcerya.<Button><CR>
+!---------------------!
+A Dolcerya era uma<LF>
+pedra no sapato deles,<LF>
+e foi deixada para trás...<Button><CR>
+!---------------------!
+Talvez a princesa tenha<LF>
+se aliado à Gospel para<LF>
+se vingar...<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 0><0xF1: 0>Caramba... Eu nem fazia<LF>
+ideia dessas coisas...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 6><0xF1: 0>Claro que, com isso, não<LF>
+estou querendo dizer que<LF>
+ela fez a coisa certa.<Button><CR>
+!---------------------!
+Só reafirmando que o<LF>
+nosso verdadeiro inimigo<LF>
+é a netmáfia Gospel.<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>É!<Button><CR>
+!---------------------!
+Com o MegaMan e o<LF>
+ProtoMan lutando juntos,<LF>
+eles já eram!<Button><CR>
+!---------------------!
+A-Ah, foi mal...<LF>
+Quanto ao ProtoMan,<LF>
+eu...<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 6><0xF1: 0>Hmpf.<Button><CR>
+!---------------------!
+A sua memória é fraca<LF>
+mesmo, Hikari. Eu não<LF>
+sou como você...<Button><CR>
+!---------------------!
+Toda a programação do<LF>
+ProtoMan está gravada<LF>
+aqui, em meu cérebro...<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>É sério!? Quer dizer<LF>
+então que o ProtoMan<LF>
+ainda...!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 6><0xF1: 0>...Não vejo por que isso<LF>
+deixaria VOCÊ feliz.<Button><CR>
+!---------------------!
+Quero deixar bem claro<LF>
+que não pretendo me<LF>
+tornar seu aliado.<Button><CR>
+!---------------------!
+Na próxima vez que nos<LF>
+virmos, eu... o ProtoMan<LF>
+irá derrotar o MegaMan!<Button><CR>
+!---------------------!
+Até lá.<Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 0><0xF1: 0>Como esse Chaud é<LF>
+chato!<Button><CR>
+!---------------------!
+Mas deixa pra lá. São<LF>
+os caras da Gospel que<LF>
+merecem uma lição!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 64><0xF1: 0>Concordo! E eu garanto<LF>
+que vou acabar com eles!<LF>
+Vamos nessa, Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 0><0xF1: 0>Vamos!!!!<Button><EB>
+!*********************!
+

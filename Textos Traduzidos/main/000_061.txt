@@ -1,0 +1,113 @@
+<@AbsoluteAddr 7888904>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Papai! Tá rolando um<LF>
+problemão em Saborya!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 23><0xF1: 0>Lan...? Como ficou<LF>
+sabendo disso?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Um amigo por e-corres-<LF>
+pondência tava lá, no<LF>
+SaboPlaza!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 23><0xF1: 0>Então você já sabe que<LF>
+os Navis que o destruí-<LF>
+ram estão vindo pra cá?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Já.<LF>
+Tem alguma coisa que a<LF>
+gente possa fazer?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 23><0xF1: 0>Os Oficiais estão<LF>
+patrulhando a Rede.<LF>
+Deixe isso com eles.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Mas eu quero ajudar!<LF>
+Pode ser qualquer coisa!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 23><0xF1: 0>Entendo... bom, estou<LF>
+trabalhando em uma<LF>
+teoria agora.<Button><CR>
+!---------------------!
+Poderia ir pegar um<LF>
+programa de que preciso<LF>
+para terminar a teoria?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Tá onde, esse programa?<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 23><0xF1: 0>Eu não sei...<LF>
+Provavelmente na Rede,<Button><CR>
+!---------------------!
+mas não sei em qual<LF>
+área dela.<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>Beleza, pai!<LF>
+Pode deixar que eu acho<LF>
+esse programa!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 23><0xF1: 0>Lan... só me prometa.<LF>
+Se encontrarem aqueles<LF>
+Navis, vocês fogem.<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 64><0xF1: 0>...Mas...!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 23><0xF1: 0>Com as habilidades do<LF>
+MegaMan, é quase<LF>
+impossível vencê-los.<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 0><0xF1: 0>Mas... ficar fugindo assim<LF>
+é coisa de covarde!<LF>
+Não é coragem!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 23><0xF1: 0>O programa da minha<LF>
+pesquisa...<Button><CR>
+!---------------------!
+Ele irá melhorar as<LF>
+habilidades do MegaMan.<LF>
+Se conseguirmos terminar<Button><CR>
+!---------------------!
+de programá-lo e equipá-<LF>
+lo no MegaMan, ele ficará<LF>
+mais forte que nunca!<Button><CR>
+!---------------------!
+O programa se chama<LF>
+"<ItemTbl: 0 21 0>".<Button><CR>
+!---------------------!
+Tudo que eu sei sobre<LF>
+ele é o seu nome.<Button><CR>
+!---------------------!
+Use o fórum virtual<LF>
+do nosso Plaza para<LF>
+reunir informações.<Button><CR>
+!---------------------!
+Talvez encontrem alguma<LF>
+pista nele.<LF>
+Experimentem.<Button><CR>
+!---------------------!
+Sou eu quem deveria ir<LF>
+atrás disso, mas estou<LF>
+ocupado demais aqui.<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 0><0xF1: 0>Eu entendo, papai!<LF>
+É só deixar com a gente!<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 0 23><0xF1: 0>Está em suas mãos, Lan.<Button><EB>
+!*********************!
+

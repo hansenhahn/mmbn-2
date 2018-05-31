@@ -1,0 +1,28 @@
+<@AbsoluteAddr 7878484>
+<@PointerIdx0>
+<Char: 1 250>n<ItemTbl: 0 241 0>Hmm... primeiro o Arashi,<LF>
+e agora o Dave...<Button><CR>
+!---------------------!
+Bom, eles não passavam<LF>
+de membros de quinta.<LF>
+Não faz diferença.<Button><CR>
+!---------------------!
+Logo o mundo conhecerá<LF>
+o verdadeiro poder<LF>
+da Gospel!<Button><CR>
+!---------------------!
+.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0> Dark!<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<LF>
+Enfim é chegada a hora<LF>
+de você "brilhar"!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 1 241>Pague-me o bastante e<LF>
+eu farei qualquer coisa<LF>
+que me for pedida.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 1 241>Qualquer coisa.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0>? Até<LF>
+que enfim! Adoro esse<LF>
+nível de profissionalismo...!<Button><EB>
+!*********************!
+

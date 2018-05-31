@@ -1,0 +1,212 @@
+<@AbsoluteAddr 7964324>
+<@PointerIdx0>
+<Char: 0 40><0xF1: 0>Droga! Parece que a<LF>
+fusão-bug não chegou
+<LF>
+a ser concluída...<Button><CR>
+!---------------------!
+A energia do servidor
+<LF>
+deve ter sido<LF>
+insuficiente!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>...O quê!?<Dly: 1 30 0> Você é o...!?<Dly: 1 30 0><LF>
+M-mas você é da nossa<LF>
+idade!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 40><0xF1: 0>O-o que aconteceu com<LF>
+o meu cybertraje!?<Dly: 0 60 0><Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Aí!<Dly: 1 30 0> A gente já deletou<LF>
+aquele seu "Navi<LF>
+Supremo" lá...<Button><CR>
+!---------------------!
+Então pode já parar<LF>
+com essa história toda!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 40><0xF1: 0>Arrogante de repente...!<LF>
+Sabia que você só queria<LF>
+me fazer de idiota...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Fazer de...?<LF>
+Não, claro que eu não...<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 40><0xF1: 0>Cala a boca!<LF>
+A mim você não engana!<Button><CR>
+!---------------------!
+E tanto faz. Se me<LF>
+faltava energia de<LF>
+servidor...!!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 40><0xF1: 0>Reconfigurar...!<LF>
+Energia do servidor,<LF>
+100%!!<Button><EB>
+!*********************!
+<@PointerIdx8>
+<Char: 0 40><0xF1: 0>Aaarghhh!!!!!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 1><0xF1: 0>Aaiii! <Dly: 1 30 0>Senti um pinico<LF>
+de repente aqui...!<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 2><0xF1: 0>Aaai! Eu também senti!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 64><0xF1: 0>Lan, isso é mau!<LF>
+A radiação tá 50 mil<LF>
+vezes acima do normal!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>E-Ei! Já chega! Você tem<LF>
+quer parar de aumentar<LF>
+a energia do servidor!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 40><0xF1: 0>Cala a boca!<LF>
+Você não manda em mim!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 0><0xF1: 0>Larga de ser teimoso! Eu<LF>
+tô dizendo que também<LF>
+vai machucar você!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 40><0xF1: 0>C-C-Ca..<Dly: 1 30 0> calado!!!!<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 0><0xF1: 0>Por quê...<LF>
+Por que isso não entra<LF>
+na sua cabeça!?<Button><EB>
+!*********************!
+<@PointerIdx17>
+<Char: 0 0><0xF1: 0>Pessoal! Chaud! <Dly: 1 30 0>Vão!<LF>
+Sem os trajes, vocês<LF>
+vão acabar morrendo!<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 6><0xF1: 0>...<Dly: 1 30 0>O Hikari tem razão...<Button><EB>
+!*********************!
+<@PointerIdx19>
+<Char: 0 7><0xF1: 0>Nem pensar! E você,<LF>
+Lan? Você também tá<LF>
+correndo perigo!<Button><CR>
+!---------------------!
+Daqui eu não saio sem<LF>
+você!<LF>
+Eu também vou lutar!<Button><EB>
+!*********************!
+<@PointerIdx20>
+<Char: 0 0><0xF1: 0>Não! <Dly: 1 30 0>É perigoso demais!!<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 0 7><0xF1: 0>E é justamente por isso<LF>
+que eu não posso te<LF>
+largar aqui!<Button><CR>
+!---------------------!
+<Jmp: 0 22><@PointerIdx22>
+<Char: 0 2><0xF1: 0>Mayl, o Lan tá certo.<LF>
+A gente vai ter que<LF>
+confiar nele aqui!<Button><CR>
+!---------------------!
+<Jmp: 0 23><@PointerIdx23>
+<Char: 0 7><0xF1: 0>Confiar no Lan...<Button><CR>
+!---------------------!
+<Jmp: 0 24><@PointerIdx24>
+<Char: 0 0><0xF1: 0>Relaxa, gente!<LF>
+Depois eu alcanço vocês,<LF>
+prometo!<Button><CR>
+!---------------------!
+<Jmp: 0 25><@PointerIdx25>
+<Char: 0 7><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Promete mesmo?<Dly: 1 30 0><LF>
+Jura jurado?<Button><CR>
+!---------------------!
+<Jmp: 0 26><@PointerIdx26>
+<Char: 0 0><0xF1: 0>Aham!<LF>
+Juro de pés juntos!<Button><CR>
+!---------------------!
+<Jmp: 0 27><@PointerIdx27>
+<Char: 0 7><0xF1: 0>...Tá bom.<Dly: 1 30 0><Button><CR>
+!---------------------!
+Eu vou, Lan...<Dly: 1 30 0><LF>
+Mas deixo o meu<LF>
+coração aqui com você...<Dly: 1 30 0><Button><CR>
+!---------------------!
+...Chuif!<Button><CR>
+!---------------------!
+<Jmp: 0 28><@PointerIdx28>
+<Char: 0 0><0xF1: 0>Eu vou guardá-lo com<LF>
+carinho!<Dly: 1 30 0> E prometo que<LF>
+devolvo ele logo, logo!<Button><CR>
+!---------------------!
+<Jmp: 0 29><@PointerIdx29>
+<Char: 0 1><0xF1: 0>Ai, vocês dois...!<Dly: 1 30 0><LF>
+A minha cara deve estar<LF>
+que nem um pimentão!<Button><CR>
+!---------------------!
+<Jmp: 0 30><@PointerIdx30>
+<Char: 0 2><0xF1: 0>Beleza, gente!<LF>
+Vamos dar o fora daqui!<Button><EB>
+!*********************!
+<@PointerIdx31>
+<Char: 0 6><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Espero que saiba o<LF>
+que está fazendo...<LF>
+Espero mesmo...<Button><EB>
+!*********************!
+<@PointerIdx32>
+<Char: 0 40><0xF1: 0>Vamos láááá!!!<Button><EB>
+!*********************!
+<@PointerIdx33>
+<Char: 0 40><0xF1: 0>Energia do servidor, <Dly: 1 30 0><LF>
+120%!!<Dly: 1 30 0> Mais...<Dly: 1 30 0><LF>
+eu preciso de mais!!<Button><EB>
+!*********************!
+<@PointerIdx34>
+<Char: 0 0><0xF1: 0>Por que você quer<LF>
+dominar o mundo<LF>
+tanto assim!?<Button><CR>
+!---------------------!
+<Jmp: 0 35><@PointerIdx35>
+<Char: 0 40><0xF1: 0>Porque eu odeio tudo!<Dly: 1 30 0><LF>
+E porque já cansei de<LF>
+ser maltratado!<Button><CR>
+!---------------------!
+...<Dly: 1 30 0><LF>
+Energia do servidor,<LF>
+150%!!!<Button><CR>
+!---------------------!
+<Jmp: 0 36><@PointerIdx36>
+<Char: 0 0><0xF1: 0>O que é que você tá...<LF>
+Arrgghh!<Button><EB>
+!*********************!
+<@PointerIdx37>
+<Char: 0 0><0xF1: 0>O...<Dly: 1 30 0> o que é que...<LF>
+tá...<Dly: 1 30 0> aconte... cendo...!?<Button><CR>
+!---------------------!
+<Jmp: 0 38><@PointerIdx38>
+<Char: 0 64><0xF1: 0>A radiação está 100 mil<LF>
+vezes acima do normal!
+<LF>
+O seu traje vai ceder!<Button><CR>
+!---------------------!
+<Jmp: 0 39><@PointerIdx39>
+<Char: 0 0><0xF1: 0>Q...<Dly: 1 30 0> que...<Dly: 1 30 0> d-droga...!!!<LF>
+Pés...<Dly: 1 30 0> mexam...<Button><CR>
+!---------------------!
+<Jmp: 0 40><@PointerIdx40>
+<Char: 0 40><0xF1: 0>Energia do...<Dly: 1 30 0> servidor...<Dly: 1 30 0><LF>
+200%!!!<Button><EB>
+!*********************!
+<@PointerIdx41>
+<Char: 0 40><0xF1: 0>Prepare-se...<Dly: 1 30 0> pra<LF>
+enfrentar o...<Dly: 1 30 0><LF>
+o verdadeiro Bass<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button>!!<EB>
+!*********************!
+

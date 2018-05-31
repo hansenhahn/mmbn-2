@@ -1,0 +1,118 @@
+<@AbsoluteAddr 7909508>
+<@PointerIdx0>
+<Char: 0 5><0xF1: 0>Iu-hú! Mas se não é<LF>
+o pequeno Lan! É.<LF>
+Como vai?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Ah! Sr. Higsby!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<0xFA: 4 3 0><Char: 0 5><0xF1: 0>Há quanto tempo, não<LF>
+é? É.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Eu fiquei preocupado<LF>
+depois que a sua loja<LF>
+de chips fechou!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 5><0xF1: 0>Hehe! É.<LF>Bom, depoi de juntar um<LF>
+dinheiro, eu fui embora.<Button><CR>
+!---------------------!
+Estou em uma viagem ao<LF>
+redor do mundo em<LF>
+busca de chips raros!<Button><CR>
+!---------------------!
+E o meu NumberMan está<LF>
+fazendo sua parte,<LF>
+vasculhando a Rede!<Button><CR>
+!---------------------!
+Topa tudo por um chip<LF>
+raro. É.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Bom, acho tem certas<LF>
+coisas que não mudam<LF>
+nunca.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 5><0xF1: 0>Pois é! E você, ainda<LF>
+encarando vírus por aí<LF>
+com o MegaMan? É?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<0xFA: 16><Char: 0 0><0xF1: 0>...Com o MegaMan?<LF>
+Nem vem!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 5><0xF1: 0>Eita! É!<LF>
+Aconteceu alguma coisa<LF>
+entre vocês dois?<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 1 241 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Lan contou ao<LF>
+Higsby sobre o que<LF>
+os dois passaram.<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 5><0xF1: 0>Lan! Isso não tá certo,<LF>
+Lan! É!!!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 0><0xF1: 0>Ah! Caramba, Sr. Higsby,<LF>
+você quase me matou<LF>
+de susto agora!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<0xFA: 4 15 0><Char: 0 5><0xF1: 0>Esse não é o Lan que<LF>
+eu conhecia!<Button><CR>
+!---------------------!
+Mesmo após brigarem,<LF>
+você e o MegaMan nunca<LF>
+deixavam de ser amigos!<Button><CR>
+!---------------------!
+Seus corações eram um<LF>
+só! Vocês eram<LF>
+insperáveis! É!<Button><CR>
+!---------------------!
+Foi ao ver vocês que eu<LF>
+desisti de seguir o<LF>
+caminho da maldade!<Button><CR>
+!---------------------!
+Se vocês não forem<LF>
+mais amigos, eu vou ficar<LF>
+tão... t-tão t-triste! É!<Button><CR>
+!---------------------!
+Buééénhéénhééén!<Dly: 1 30 0><LF>
+É!!!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 0><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0><LF>
+Tá bom, tá bom. Você tem<LF>
+razão, Sr. Higsby...<Button><CR>
+!---------------------!
+É a minha primeira viagem<LF>
+pro exterior, e eu fiquei<LF>
+tão frustrado que...<Button><CR>
+!---------------------!
+Eu.. posso ter<LF>
+descontado no<LF>
+MegaMan.<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 5><0xF1: 0>Buéhén...<Dly: 1 30 0> Quer dizer<LF>
+então... que você não tá<LF>
+mais de mal com ele?<0xFA: 16><Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 0><0xF1: 0>Não, e tudo graças a<LF>
+você! Tenho que ir pedir<LF>
+desculpas pro MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 5><0xF1: 0>Grande Lan!<LF>
+Um é pouco, e dois é<LF>
+ideal! É.<Button><EB>
+!*********************!
+

@@ -1,0 +1,121 @@
+<@AbsoluteAddr 7944516>
+<@PointerIdx0>
+<Char: 0 89><0xF1: 0>Hmph! Jamais imaginei<LF>
+que seria derrotado...<LF>
+ainda mais por você...<Button><CR>
+!---------------------!
+Mas agora é tarde!<LF>
+Em poucos segundos o<LF>
+terremoto ocorrerá!!<Button><CR>
+!---------------------!
+Podem ter vencido, mas<LF>
+não lhes resta tempo<LF>
+para fazer a Cura!<Button><CR>
+!---------------------!
+Ah-ha-ha-ha! Logo<LF>
+contemplarei o fim<LF>
+deste mundo.<Button><CR>
+!---------------------!
+Gospel por toda a<LF>
+eternidade!!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 1 241 0>Um item brilhante saiu<LF>
+do corpo de FreezeMan!<Button><CR>
+!---------------------!
+<0xFA: 0 133 0><0xF8: 4 24>MegaMan recebeu:<LF>
+"FragAzu!!"<0xF8: 12><0xF8: 4 1><Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>Conseguimos, Lan...!<LF>
+Pegamos o "FragAzu"...<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 1 241 0><0xFA: 0 37 1>Ccccreeeeeque!<Dly: 0 60 0><Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Ah!!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>MegaMan, o que<LF>
+aconteceu!?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>O "FragAzul"... ele se<LF>
+quebrou do nada...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Como é que é!?<LF>
+Não pode tá falando<LF>
+sério!<Button><CR>
+!---------------------!
+E agora, o que é que
+<LF>
+a gente faz!?<Button><CR>
+!---------------------!
+O mundo vai mesmo ser<LF>
+destruído!?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 73><0xF1: 0>Não precisam se<LF>
+preocupar.<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 64><0xF1: 0>O Dr.!<LF>
+Por que está aqui?<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 73><0xF1: 0>Vim assistir a reta<LF>
+final desta novela.<Button><CR>
+!---------------------!
+E ao que parece, é um<LF>
+final feliz. Deem só uma<LF>
+olhada.<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 64><0xF1: 0>O gelo está se<LF>
+quebrando sozinho...!<Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 73><0xF1: 0>Parece que o Navi que<LF>
+você abateu era a<LF>
+fonte de energia deles.<Button><CR>
+!---------------------!
+E sem energia, esses<LF>
+cristais de gelo frágeis
+<LF>
+estão se partindo.<Button><CR>
+!---------------------!
+O mesmo desde estar<LF>
+acontecendo nas outras<LF>
+áreas também.<Button><CR>
+!---------------------!
+Ufa.<Button><CR>
+!---------------------!
+<0xF2: 4 8 2>Cansei. Não trabalhava<LF>
+assim faz tempo. Bom, de<LF>
+volta ao UnderPlaza!<Button><CR>
+!---------------------!
+Ah, e vou ter que<LF>
+cobrar os Oficiais pela<LF>
+Cura e tudo mais.<Button><CR>
+!---------------------!
+Quanto será que eu<LF>
+consigo arrancar deles?<LF>
+He he he...<Button><CR>
+!---------------------!
+É melhor voltarem<LF>
+também. Aposto que tem<LF>
+gente esperando vocês.<Button><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 0 64><0xF1: 0>Certo! Muito obrigado!<Button><CR>
+!---------------------!
+Vamos voltar pra casa,<LF>
+Lan! Pra onde todo<LF>
+mundo está!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 0><0xF1: 0>Vamos!<Button><EB>
+!*********************!
+

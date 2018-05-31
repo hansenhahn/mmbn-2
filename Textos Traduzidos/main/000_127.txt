@@ -1,0 +1,23 @@
+<@AbsoluteAddr 7933208>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Ufa! Que alívio...<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 60><0xF1: 0>Capitão! O programa de<LF>
+pilotagem está dando<LF>
+problema!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 59><0xF1: 0>Hã? Não está<LF>
+conseguindo controlar<LF>
+o leme? Nós vamos cair!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>MegaMan! Rápido!<LF>
+Ache o programa de<LF>
+pilotagem e verifique isso!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Entendido!<Button><EB>
+!*********************!
+

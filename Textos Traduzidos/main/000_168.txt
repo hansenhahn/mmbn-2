@@ -1,0 +1,142 @@
+<@AbsoluteAddr 7966796>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Lan!? Você tá bem?<LF>
+Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Ainda... consigo mexer<LF>
+as mãos... posso usar<LF>
+o PET...<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 40><0xF1: 0>Haha! Hahaha! Eu<LF>
+consegui! Esse é o<LF>
+verdadeiro Bass!<Button><CR>
+!---------------------!
+Bass! <Dly: 1 30 0>Delete-o!<LF>
+E não ouse falhar desta<LF>
+vez!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 90><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Eu nunca vou perdoar<LF>
+vocês por machucarem
+<LF>
+o Lan desse jeito!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 90><0xF1: 0>...Gh!<Dly: 1 30 0><LF>
+Trrnnmmmrrrr...<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>!?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 40><0xF1: 0>Bass! O que é que há<LF>
+de errado com você!?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 90><0xF1: 0>Ghhhhhgh!<Dly: 1 30 0><LF>
+Kch! Ksh!...<Dly: 1 30 0> Grrrarhh!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 40><0xF1: 0>...Ha! Ha... hahahaha!<Dly: 1 30 0><LF>
+Então essa é a sua<LF>
+verdadeira forma!<Button><CR>
+!---------------------!
+Perfeita! Violenta,<LF>
+impiedosa!<Dly: 1 30 0><LF>
+Agora vá! Delete-os!!!<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 40><0xF1: 0>C-Como assim!?<Dly: 1 30 0> Era<LF>
+pra você me obedecer!!<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 23><0xF1: 0>Lan! <Dly: 1 30 0>MegaMan!<Dly: 1 30 0><LF>
+Estão na escuta!?<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>Papai!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 23><0xF1: 0>Eu acabei de fazer uma<LF>
+enorme descoberta<Button><CR>
+!---------------------!
+quanto ao "Plano de<LF>
+Desenvolvimento do<LF>
+SuperNavi" da Gospel!<Button><CR>
+!---------------------!
+Não é possível criar um<LF>
+SuperNavi através<LF>
+de uma fusão-bug!<Button><CR>
+!---------------------!
+Mas sim...<LF>
+um "Organismo Supremo<LF>
+Multibug"!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 64><0xF1: 0>Pai! O Lan tá...<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 0><0xF1: 0>MegaMan, shh!<Button><CR>
+!---------------------!
+Pai! O senhor tá dizendo<LF>
+então que esse aí na<LF>
+verdade não é o Bass!?<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 23><0xF1: 0>O quê!? O Organismo<LF>
+Multibug já foi criado!?<Button><CR>
+!---------------------!
+Se ele correr a solta,<LF>
+vai cobrir a Rede de
+<LF>
+bugs!<Button><CR>
+!---------------------!
+E se isso acontecer,<LF>
+os bugs vão dominar o<LF>
+mundo, não a Gospel!<Button><CR>
+!---------------------!
+Lan! Você e o MegaMan<LF>
+têm que deletar o<LF>
+Organismo Multibug!<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 0 0><0xF1: 0>Pode...<Dly: 1 30 0> deixar...<Dly: 1 30 0><LF>
+p-papai...<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 23><0xF1: 0>Lan! O que aconteceu?<LF>
+Você está ferido?<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 0><0xF1: 0>N...<Dly: 1 30 0>Não é nada, papai...<Dly: 1 30 0><LF>
+Tchau...<Dly: 1 30 0> tenho que<LF>
+desligar...<Button><EB>
+!*********************!
+<@PointerIdx20>
+<Char: 0 64><0xF1: 0>Lan...<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 0 0><0xF1: 0>A gente tem que fazer<LF>
+isso... e não adianta<LF>
+preocupar o papai.<Button><CR>
+!---------------------!
+<Jmp: 0 22><@PointerIdx22>
+<Char: 0 64><0xF1: 0>Entendo...<Button><EB>
+!*********************!
+<@PointerIdx23>
+<Char: 0 40><0xF1: 0>Aaa-aaaahhhh!<Button><CR>
+!---------------------!
+<Jmp: 0 24><@PointerIdx24>
+<Char: 0 0><0xF1: 0>O que é que...<Dly: 1 30 0> aagck!!!<Button><CR>
+!---------------------!
+<Jmp: 0 25><@PointerIdx25>
+<Char: 0 40><0xF1: 0>Energia do servidor...<Dly: 1 30 0><LF>
+aumentando...<Dly: 1 30 0><LF>
+sozinha...!!<Button><EB>
+!*********************!
+

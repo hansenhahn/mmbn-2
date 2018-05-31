@@ -1,0 +1,26 @@
+<@AbsoluteAddr 7956804>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Q-que tremor foi esse?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Lan!! Alguma coisa está<LF>
+aumentando os níveus<LF>
+de radiação!<Button><CR>
+!---------------------!
+Se continuar assim...<Dly: 1 30 0><LF>
+vai ficar 50 mil vezes<LF>
+acima do normal! Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Eu sei... mas a gente<LF>
+tem que ir em frente!<Dly: 1 30 0><LF>
+Pra deter a Gospel!!<Button><CR>
+!---------------------!
+Vamos lá, MegaMan!<LF>
+Hora de botar eles pra<LF>
+correr!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Lan...<Button><EB>
+!*********************!
+

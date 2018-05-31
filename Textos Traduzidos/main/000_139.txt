@@ -1,0 +1,39 @@
+<@AbsoluteAddr 7941908>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Eu vou postar aqui<LF>
+a palavra-chave.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Manda ver.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>"WWW"<Button><CR>
+!---------------------!
+Pronto, Lan. Postado!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>Será que ele aparece<LF>
+mesmo? Ou é só um<LF>
+boato?<Button><CR>
+!---------------------!
+De acordo com o que<LF>
+disseram, se a gente<LF>
+postar essa palavra...<Button><CR>
+!---------------------!
+ele aparecerá lá pelo<LF>
+UnderPlaza. Que tal a<LF>
+gente dar uma olhada?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 64><0xF1: 0>Eu realmente espero<LF>
+que não seja só<LF>
+boato mesmo.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Vamos lá ver pra ter<LF>
+certeza!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>É... vamos.<Button><EB>
+!*********************!
+

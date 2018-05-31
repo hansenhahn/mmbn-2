@@ -1,0 +1,49 @@
+<@AbsoluteAddr 7942260>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Lan! Como foi que aquele<LF>
+Navi nesse nível abaixo<LF>
+do nosso chegou lá?<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 75><0xF1: 0>Hã? Aí, mané! Cê é o tal<LF>
+TeraMan? O que tá na<LF>
+lista negra da Gospel!?<Button><CR>
+!---------------------!
+Veio aqui roubar o meu<LF>
+"FragAzu", é!?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>"FragAzu?"<LF>
+Essa não é a base pra<LF>
+CuraAzu?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 75><0xF1: 0>Se quer tanto assim o<LF>
+meu "FragAzu",<LF>
+vem pegar!<0xF2: 0 7 2><Dly: 0 60 0><Button><CR>
+!---------------------!
+Mesmo se cê descobrir<LF>
+como chegar aqui não<LF>
+vai adiantar de nada.<Button><CR>
+!---------------------!
+O nosso "Plano de<LF>
+Obliteração da Civilização"<LF>
+será concluído!<Button><CR>
+!---------------------!
+Quero só ver cê ficar<LF>
+com cara de besta...<Button><CR>
+!---------------------!
+enquanto o mundo<LF>
+desmorona...<LF>
+Hi ha ha ha!!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 64><0xF1: 0>Lan, esse Navi tá com<LF>
+o "FragAzu"!!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Dá uma procurada e vê<LF>
+se acha um caminho<LF>
+pra chegar onde ele tá!<Button><EB>
+!*********************!
+

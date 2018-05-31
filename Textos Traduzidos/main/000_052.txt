@@ -1,0 +1,17 @@
+<@AbsoluteAddr 7883400>
+<@PointerIdx0>
+<Char: 1 241> <0xFA: 12><0xFA: 0 134 0>bipe bipe bipe...<0xEA: 0 30 0><LF>
+<0xFA: 0 9 1>bope!<0xEA: 0 30 0><Button><0xFA: 8><0xF2: 0 29 0><CR>
+!---------------------!
+LicençaA confirmada.<LF>
+Desbloqueando entrada...<0xEA: 0 60 0><LF>
+Desejamos um bom dia!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Deu certo!<LF>
+Vamos lá, MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 64><0xF1: 0>Vamos!<Button><EB>
+!*********************!
+

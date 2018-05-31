@@ -1,0 +1,14 @@
+<@AbsoluteAddr 7968372>
+<@PointerIdx0>
+<0xF1: 0>Energia do servidor,<LF>
+400%...<Dly: 1 30 0><LF>
+600%...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 40><0xF1: 0>N...<Dly: 1 30 0> não fui...<LF>
+<Dly: 1 30 0>não fui eu...!!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<0xF8: 4 57><0xF2: 0 86 2><Char: 0 0><0xF1: 0>Nng...<Dly: 1 30 0> aaaaaahhhhh!!!!!<Button><EB>
+!*********************!
+

@@ -1,0 +1,145 @@
+<@AbsoluteAddr 7958132>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Caramba... olha só
+<LF>
+isso tudo!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Eu nunca vi tantos<LF>
+servidores em um só<LF>
+lugar...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 63><0xF1: 0>Bem-vindos à sala<LF>
+do servidor central<LF>
+da Gospel...!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>!!!!!!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<0xFA: 4 1 0><Char: 0 63><0xF1: 0>Estou impressionado de<LF>
+terem chegado até<LF>
+aqui.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 0><0xF1: 0>Então você é o líder<LF>
+da Gospel...<Dly: 1 30 0><LF>
+Enfim nos encontramos!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 63><0xF1: 0>De fato...<Dly: 1 30 0> Lan Hikari!<Dly: 1 30 0><LF>
+A netmáfia Gospel<LF>
+pertence a mim...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>C-como você sabe o<LF>
+meu nome!?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 63><0xF1: 0>A rede de informações<LF>
+da Gospel me ensina tudo<LF>
+que há para saber!<Button><CR>
+!---------------------!
+Toda a informação do<LF>
+mundo... tudo em um<LF>
+só monitor!<Button><CR>
+!---------------------!
+A partir daqui,<Dly: 1 30 0> posso<LF>
+comandar todo tipo de<LF>
+operação mundo afora!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 0><0xF1: 0>Tem gente ao redor do<LF>
+mundo sofrendo muito,<LF>
+tudo por sua causa!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 63><0xF1: 0>É o que parece... mas<LF>
+isso não faz diferença<LF>
+para mim.<Button><CR>
+!---------------------!
+Eu só dou ordens.<LF>
+Não há nenhuma<LF>
+sujeira em minhas mãos...<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 0><0xF1: 0>Você sequer já tentou
+<LF>
+falar com alguma das<LF>
+suas vítimas!?<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 63><0xF1: 0>Por que eu faria isso?<Button><CR>
+!---------------------!
+As pessoas não passam<LF>
+de atores que escondem<LF>
+seu verdadeiro "eu"!<Button><CR>
+!---------------------!
+Este meu monitor é mais<LF>
+honesto e confiável<LF>
+do que todas elas!<Button><CR>
+!---------------------!
+Sim... percebi eu que a<LF>
+realidade é repugnante<LF>
+e não tem valor!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 0><0xF1: 0>Não é verdade!<LF>
+Você tá errado!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 63><0xF1: 0>E que diferença isso<LF>
+faz agora?<Button><CR>
+!---------------------!
+Eu já tenho o<LF>
+Navi Supremo...!<Dly: 1 30 0><LF>
+O mundo é meu!<Button><EB>
+!*********************!
+<@PointerIdx15>
+<Char: 0 63><0xF1: 0>Lan Hikari... que tal se<LF>
+juntar a mim?<LF>
+Junte-se à Gospel!<Button><CR>
+!---------------------!
+Juntos, MegaMan.EXE e o<LF>
+meu Navi Supremo serão<LF>
+invencíveis!<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<0xFA: 16><Char: 0 0><0xF1: 0>Me juntar a você...?<Dly: 1 30 0><LF>
+Vai se catar!!!<Button><CR>
+!---------------------!
+<0xFA: 4 16 0>Eu vim aqui foi pra deter<LF>
+você, e é isso que eu<LF>
+vou fazer!<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 0 63><0xF1: 0>Você ousa se opôr<LF>
+ao SuperNavi!?<Button><CR>
+!---------------------!
+Você me decepciona,<LF>
+Lan... é tão estúpido<LF>
+quanto o resto!<Button><CR>
+!---------------------!
+Se ao menos você<LF>
+enxergasse a glória que<LF>
+a Gospel representa!<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 0><0xF1: 0>O único estúpido que eu<LF>
+tô vendo aqui é você!<Button><CR>
+!---------------------!
+MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 64><0xF1: 0>É! Nenhum SuperNavi<LF>
+tenta destruir o nosso<LF>
+mundo e sai impune!<Button><CR>
+!---------------------!
+Lan! Conectar!<Button><CR>
+!---------------------!
+<Jmp: 0 20><@PointerIdx20>
+<Char: 0 0><0xF1: 0>Pode apostar!<LF>
+Vamos arrebentar!<Button><EB>
+!*********************!
+

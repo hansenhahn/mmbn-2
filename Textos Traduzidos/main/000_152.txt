@@ -1,0 +1,41 @@
+<@AbsoluteAddr 7953012>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>!!!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Mas o que é que tá
+<LF>
+acontecendo aqui!?<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 0><0xF1: 0>MegaMan, quanta<LF>
+radiação os seus<LF>
+sensores tão captando?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Mais do que o papai<LF>
+previu... quase 30 mil<LF>
+vezes acima do normal!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Acho que o TrajMag<LF>
+consegue me proteger...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Lan, sobre o quartel-<LF>
+general da Gospel...<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Só pode ser aquele<LF>
+prédio!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>É, e aposto que é lá<LF>
+no último andar!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Bom, a gente tem que<LF>
+ir andando. Vamos subir<LF>
+lá!<Button><EB>
+!*********************!
+

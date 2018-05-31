@@ -1,0 +1,98 @@
+<@AbsoluteAddr 7919160>
+<@PointerIdx0>
+<Char: 0 6><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>Chaud, me desculpa.<LF>
+Eu... deletei o ProtoMan...<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 6><0xF1: 0>...Eu sou fraco.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 0><0xF1: 0>?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 6><0xF1: 0>Foi a minha fraqueza<LF>
+que fez o ProtoMan
+<LF>
+ser deletado.<Button><CR>
+!---------------------!
+Se eu ao menos tivesse<LF>
+conseguido te odiar com<LF>
+todo o meu ser...<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Chaud...<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 6><0xF1: 0>Dispenso a piedade de<LF>
+criminosos!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Chaud! Eu já falei, isso<LF>
+é tudo um mal-entendido!<Button><EB>
+!*********************!
+<@PointerIdx8>
+<Char: 0 55><0xF1: 0>H, h...<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 6><0xF1: 0>!!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 55><0xF1: 0>Lan diz a verdade...<LF>
+Nenhum de vocês é<LF>
+aliado da Gospel.<Button><CR>
+!---------------------!
+A verdadeira agente<LF>
+é ela...<Button><CR>
+!---------------------!
+<0xFA: 4 13 0>Ela não foi vítima da<LF>
+Gospel...<Dly: 1 30 0><LF>
+Fomos todos enganados...<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 6><0xF1: 0>Não pode ser!<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 55><0xF1: 0>Vocês têm que confiar<LF>
+em mim...<Button><CR>
+!---------------------!
+Ela seguiu por esse<LF>
+caminho...<Dly: 1 30 0> Argh!!<Button><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 0 0><0xF1: 0>Raoul!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 6><0xF1: 0>Que situação ridícula...<LF>
+Eu... peço desculpas,<LF>
+Hikari.<Button><EB>
+!*********************!
+<@PointerIdx15>
+<Char: 0 0><0xF1: 0>Tá tudo bem.<LF>
+Eu também cheguei a<LF>
+achar que você era...<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 64><0xF1: 0>Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 0 0><0xF1: 0>Ah, sim! Temos que dar<LF>
+um jeito no NetLutador<LF>
+da Gospel!<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 6><0xF1: 0>Deixo isso com vocês.<Dly: 1 30 0><Button><CR>
+!---------------------!
+Sem o ProtoMan,<LF>
+vocês dois são nossa<LF>
+única esperança...<Button><CR>
+!---------------------!
+Tudo está nas mãos de<LF>
+vocês...<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 0><0xF1: 0>Beleza!<Button><EB>
+!*********************!
+

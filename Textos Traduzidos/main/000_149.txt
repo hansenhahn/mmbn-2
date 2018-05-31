@@ -1,0 +1,66 @@
+<@AbsoluteAddr 7949348>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Ah, cara...<LF>
+O que é que tá
+<LF>
+acontecendo aqui?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Isso não tava aqui da<LF>
+última vez, tava?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Droga! A Gospel não foi<LF>
+destruída!<Button><CR>
+!---------------------!
+Não é à toa que os<LF>
+incidentes não param de<LF>
+acontecer!<Dly: 1 30 0> MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Pode deixar!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 0><0xF1: 0>Agora aquela coisa!<LF>
+Você acha que dá conta?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Só tentando pra ver!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 64><0xF1: 0>Nada...<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 64><0xF1: 0>Ack!<Button><EB>
+!*********************!
+<@PointerIdx8>
+<Char: 0 0><0xF1: 0>Fala sério...! Eles não<LF>
+param de aparecer...<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 64><0xF1: 0>Lan, vamos pra região de<LF>
+Kotobuki! Vai que a gente<LF>
+descobre alguma coisa!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>Ótima ideia!<Dly: 1 30 0><LF>
+Er... como é mesmo que<LF>
+se faz pra chegar lá?<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 64><0xF1: 0>Hmm...<Dly: 1 30 0> Que tal a<LF>
+gente...<Dly: 1 30 0> fazer o que<LF>
+a gente sempre faz?<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>Ah, é mesmo! Perguntar<LF>
+pro papai!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 64><0xF1: 0>Bom, "pernas pra que<LF>
+te quero", né?<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 0><0xF1: 0>É! Vamos lá!<Button><EB>
+!*********************!
+

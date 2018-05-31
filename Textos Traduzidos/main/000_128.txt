@@ -1,0 +1,44 @@
+<@AbsoluteAddr 7933440>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>E esse<0xEC: 0 20>...<0xEC: 0 2> foi!<Button><CR>
+!---------------------!
+Esses malas da Gospel!<LF>
+O que é que eles vão<LF>
+infectar agora?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 1 241 0><0xFA: 12>béu <0xFA: 0 209 0><Dly: 0 54 0>béu <0xFA: 0 209 0><Dly: 0 54 0>béu<0xFA: 0 209 0>!!<Dly: 0 54 0><Button><CR>
+!---------------------!
+<0xFA: 8><Jmp: 0 2><@PointerIdx2>
+<Char: 0 59><0xF1: 0>O que foi agora!?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 60><0xF1: 0>A pressão da cabine!<LF>
+Ela está em queda!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 59><0xF1: 0>Então agora é o<LF>
+programa de pressão
+<LF>
+da cabine!?<Button><CR>
+!---------------------!
+A esta altitude... se<LF>
+a pressão continuar a<LF>
+baixar,<Button><CR>
+!---------------------!
+todos à bordo vão morrer<LF>
+de hipobaropatia!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Eu não sei o que é isso,<LF>
+mas tá ficando difícil<LF>
+de respirar...<Button><CR>
+!---------------------!
+MegaMan, ao programa<LF>
+da pressão!<LF>
+E é pra ontem!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>Entendido!<Button><EB>
+!*********************!
+

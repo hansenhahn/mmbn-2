@@ -1,0 +1,50 @@
+<@AbsoluteAddr 7921640>
+<@PointerIdx0>
+<Char: 0 54><0xF1: 0>Não pode ser...<LF>
+O KightMan perdeu...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Lan, vou desligar o<LF>
+dispositivo das<LF>
+armadilhas agora!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Eu apoio essa decisão!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Beleza!<Button><CR>
+!---------------------!
+.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Pronto!<LF>
+Isso deve dar um jeito<LF>
+nelas!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 54><0xF1: 0>Hah! Bela tentativa!<Button><CR>
+!---------------------!
+Mas mesmo sem o<LF>
+KnightMan, posso<LF>
+controlar as armadilhas!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 1 241 0><0xFA: 12><0xFA: 0 219 0>bipe <0xFA: 0 254 0>biubipebiu<0xFA: 8><Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 54><0xF1: 0>Haaa ha ha ha!<LF>
+Agora todos vão morrer!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Lan, cuidado!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Vamos dar o fora daqui!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 64><0xF1: 0>E rápido!<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 54><0xF1: 0>Aaaaahhh!<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 0><0xF1: 0>Princesa...<Button><EB>
+!*********************!
+

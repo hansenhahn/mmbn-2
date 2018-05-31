@@ -1,0 +1,75 @@
+<@AbsoluteAddr 7875332>
+<@PointerIdx0>
+<0xFA: 4 5 0><Char: 0 41><0xF1: 0>E agora, uma entrevista<LF>
+ao vivo com este jovem<LF>
+e virtuoso herói!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 41><0xF1: 0>Foi um feito e tanto!<LF>
+Como se sente após ter<LF>
+salvo tantas vidas?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Com o... sei lá, calor do<LF>
+momento, eu nem tava<LF>
+pensando em "vidas"...<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 2><0xF1: 0>Não seja modesto, 
+Lan!<LF>
+<0xEA: 1 30 0>...A gente tá de olho,<LF>
+hein?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 41><0xF1: 0>Uhum, ele está certíssimo!<LF>
+Você é um destemido<LF>
+defensor da justiça!<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Eu...? <0xEA: 1 30 0>Mas o Chaud...<0xEA: 1 30 0><LF>
+O Chaud é que foi o<LF>
+herói de verdade!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 7><0xF1: 0>Lan...<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 41><0xF1: 0>Mas não conseguimos<LF>
+achar aquele NetLutador<LF>
+Oficial em lugar nenhuma!<Button><CR>
+!---------------------!
+E além disso, você e o<LF>
+seu Navi venceram o<LF>
+Navi malvado, não foi?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Foi...<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 41><0xF1: 0>Pois é!<LF>
+Então levante a cabeça<LF>
+e ande com orgulho!<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 41><0xF1: 0>Bom, jovem e valente<LF>
+Lan, muito obrigado por<LF>
+sua colaboração!!<Button><CR>
+!---------------------!
+...<Button><CR>
+!---------------------!
+Acredita-se que a<LF>
+netmáfia Gospel esteve<LF>
+por trás do incidente.<Button><CR>
+!---------------------!
+Será que os oficiais de<LF>
+nosso país são capazes<LF>
+de vencer essa "Gospel"?<Button><CR>
+!---------------------!
+Esperamos que tomem<LF>
+medidas eficazes para<LF>
+a nossa segurança.<Button><CR>
+!---------------------!
+Ribitta, ao vivo da<LF>
+cena do crime!<Button><EB>
+!*********************!
+

@@ -1,0 +1,46 @@
+<@AbsoluteAddr 7927252>
+<@PointerIdx0>
+<Char: 0 58><0xF1: 0>Eu fui ajudar esse homem<LF>
+com a bagagem quando<LF>
+uma aranha enorme...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 53><0xF1: 0>Que tipo de aranha?<LF>
+Pra que lado ela foi?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 58><0xF1: 0>Preta, peluda, patas<LF>
+grossas e olhos<LF>
+vermelhos!<Button><CR>
+!---------------------!
+Ela fugiu, mas não deve<LF>
+apresentar nenhum<LF>
+perigo...<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 53><0xF1: 0>Eu não teria tanta<LF>
+certeza assim.<Button><0xF2: 4 7 2><0xF2: 0 8 2><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 64><0xF1: 0>Lan, ouviu só a<LF>
+conversa deles?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Uma aranha peluda<LF>
+de olhos vermelhos...<Button><CR>
+!---------------------!
+E-e se for venenosa!?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 64><0xF1: 0>Aí seria encrenca.<LF>
+Encrenca das feias.<Button><CR>
+!---------------------!
+Quem sabe um dos<LF>
+passageiros entenda<LF>
+de insetos...?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 0><0xF1: 0>Hmm. Alguém que entende<LF>
+de insetos...<Button><EB>
+!*********************!
+

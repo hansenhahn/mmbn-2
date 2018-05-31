@@ -1,0 +1,24 @@
+<@AbsoluteAddr 7891680>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Bom, conseguimos o<LF>
+programa. Mas pra isso,<LF>
+viramos foras-da-lei...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 0><0xF1: 0>A gente não tinha outra<LF>
+escolha. Foi pra salvar
+<LF>
+a Electopia.<Button><CR>
+!---------------------!
+Vamos lá contar pro<LF>
+papai e depois a gente<LF>
+põe de volta na surdina.<Button><CR>
+!---------------------!
+Além do quê, a gente só<LF>
+tá pegando emprestado!<Button><CR>
+!---------------------!
+Vamos logo, temos que<LF>
+voltar pro laboratóro do<LF>
+papai! E rápido!<Button><EB>
+!*********************!
+

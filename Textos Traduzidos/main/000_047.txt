@@ -1,0 +1,58 @@
+<@AbsoluteAddr 7881124>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Erm... moço?<LF>
+Eu vim fazer o exame<LF>
+pra tirar a LicençaA.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 36><0xF1: 0>Tudo bem eu dar uma<LF>
+olhada no seu PET?<Button><CR>
+!---------------------!
+Vou conferir os seus
+<LF>
+dados. Só vai levar um<LF>
+segundo.<Button><CR>
+!---------------------!
+<0xf4> <0xFA: 12><0xFA: 0 10 1><Char: 3 0>clique clique plim!<0xEA: 0 86 0><0xf4>0<Button><CR>
+!---------------------!
+<0xFA: 8><Char: 3 1>Hmm... aqui diz que você<LF>
+ainda não está<LF>
+qualificado pro exame.<Button><CR>
+!---------------------!
+Um NetLutador Municipal<LF>
+como você precisa antes<LF>
+cumprir certos deveres.<Button><CR>
+!---------------------!
+A população requisita<LF>
+nossa ajuda, e nós re-<LF>
+solvemos seus problemas.<Button><CR>
+!---------------------!
+E quando um NetLutador<LF>
+resolve um, o cliente<LF>
+nos notifica.<Button><CR>
+!---------------------!
+Assim podemos<LF>
+acompanhar de perto o<LF>
+seu nível de experiência.<Button><CR>
+!---------------------!
+Vejamos... temos três<LF>
+pedidos de ajuda no<LF>
+quadro de relatos.<Button><CR>
+!---------------------!
+Os três são bem difíceis.<LF>
+Creio que lhe darão<LF>
+bastante experiência.<Button><CR>
+!---------------------!
+Marcarei eles como<LF>
+"missões especiais"<LF>
+no quadro de relatos.<Button><CR>
+!---------------------!
+É só resolver os<LF>
+problemas e voltar aqui<LF>
+quando terminado.<Button><CR>
+!---------------------!
+Tome bastante cuidado<LF>
+com o que for fazer,<LF>
+ouviu?<Button><EB>
+!*********************!
+

@@ -1,0 +1,36 @@
+<@AbsoluteAddr 7923676>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Hora de voltar pra<LF>
+Electopia. Foi uma<LF>
+viagem e tanto, essa...<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>Da próxima vez, a gente<LF>
+podia passar as férias<LF>
+aqui. A família inteira!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Assino em baixo!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Aí, Lan, a gente tá<LF>
+dentro do horário<LF>
+programado pro voo, né?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Tamos, sim. A<LF>
+decolagem tá marcada<LF>
+pras 9:30.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>E agora são... 8 e pouca.<LF>
+É, tudo dentro dos<LF>
+conformes.<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Vamos lá pro aeroporto?<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Claro!<Button><EB>
+!*********************!
+

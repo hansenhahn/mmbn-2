@@ -1,0 +1,52 @@
+<@AbsoluteAddr 7948824>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>Outro incidente?<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 11><0xF1: 0>Eu sei...<Dly: 1 30 0><LF>
+Muito preocupante, isso.<Button><CR>
+!---------------------!
+Afinal, eles tinham dito<LF>
+que a Gospel foi<LF>
+destruída!<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Pois é...<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 64><0xF1: 0>Que tal dar uma olhada<LF>
+na sua caixa de e-mails?<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Pode ser.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Vamos ver...<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 1 241 0>"Atenção a Todos os<LF>
+NetLutadores Municipais!"<Button><CR>
+!---------------------!
+"Acreditamos que a<LF>
+Gospel continua<LF>
+operante,"<Button><CR>
+!---------------------!
+"e portanto pedimos que<LF>
+vocês re-investiguem<LF>
+o KotoPlaza!"<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>O quê...?<Dly: 1 30 0> Mas a gente<LF>
+venceu o FreezeMan...<Dly: 1 30 0><LF>
+Que história é essa?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Bom, a gente não vai
+<LF>
+descobrir nada parado<LF>
+aqui!<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 64><0xF1: 0>Verdade! Vamos nessa!<Button><EB>
+!*********************!
+

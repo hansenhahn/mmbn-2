@@ -1,0 +1,22 @@
+<@AbsoluteAddr 7956580>
+<@PointerIdx0>
+<0xF1: 0>Concentrando toda a<LF>
+energia dos servidores<LF>
+no servidor número 00...<Button><CR>
+!---------------------!
+[Fusão Bug] <Dly: 1 30 0><LF>
+Pronta para ser<LF>
+executada...<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 63><0xF1: 0>He he ha ha ha...<Button><CR>
+!---------------------!
+Enfim! É chegada a hora<LF>
+de terminar nossa arma<LF>
+secreta, o SuperNavi!<Button><CR>
+!---------------------!
+Finalmente o mundo é<LF>
+meu!<Dly: 1 30 0><LF>
+Iniciar "fusão bug"!<Button><EB>
+!*********************!
+

@@ -1,0 +1,225 @@
+<@AbsoluteAddr 7959828>
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>O quê?<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 64><0xF1: 0>Pessoal! Resolveram<LF>
+mudar de ideia e<LF>
+vieram pra cá!?<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 69><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>Roll? P-Pessoal?<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 64><0xF1: 0>Agh!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 64><0xF1: 0>GutsMan! O que é que<LF>
+você tá fazendo!?<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>Espera aí, MegaMan!<LF>
+Tem alguma coisa errada
+<LF>aí!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 63><0xF1: 0>Haahahaha! Vejo que<LF>
+já se deram conta de<LF>
+minha artimanha...<Button><CR>
+!---------------------!
+Eu roubei esses Navis<LF>
+pífios de umas crianças<LF>
+que entraram aqui...<Button><CR>
+!---------------------!
+E os customizei<LF>
+levemente... para que<LF>
+deletassem MegaMan.EXE!<Button><CR>
+!---------------------!
+O que foi? Não consegue<LF>
+mandar o seu MegaMan<LF>
+eliminá-los?<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>Covarde! Vai mesmo<LF>
+descer a esse nível!?<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 64><0xF1: 0>Eu não posso apagá-los!<LF>
+São meus amigos!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 63><0xF1: 0>Heh he he...<Dly: 1 30 0><LF>
+"Amizade"... que ideia<LF>
+imbecil!<Button><CR>
+!---------------------!
+Felizmente eu não<LF>
+tenho essa fraqueza!<LF>
+Roll! Delete o MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 0 69><0xF1: 0>Sim...<Dly: 1 30 0><LF>
+Deletar MegaMan.EXE...<Button><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 64><0xF1: 0>Roll! <Dly: 1 30 0>Não! Sou eu!<LF>
+O MegaMan! <Dly: 1 30 0>Não tá<LF>
+me reconhecendo?<Button><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 0 64><0xF1: 0>Droga...<Dly: 1 30 0><LF>
+Se continuar assim!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 0><0xF1: 0>MegaMan! Rotina de...<LF>
+ou melhor...<Dly: 1 30 0> Argh, eu<LF>
+não sei o que fazer!<Button><EB>
+!*********************!
+<@PointerIdx15>
+<Char: 0 64><0xF1: 0>Lan...<Dly: 1 30 0> isso não é nada<LF>
+bom... eu não vou<LF>
+mais aguentar<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<Char: 0 63><0xF1: 0>Hahahahaha! Quer ver<LF>
+essa sua "amizade"
+<LF>
+salvá-lo agora! Hah hah!<Button><CR>
+!---------------------!
+Eu nem precisei do<LF>
+meu Navi para apagá-lo,<LF>
+no fim das contas!<Button><EB>
+!*********************!
+<@PointerIdx17>
+<Char: 0 64><0xF1: 0>!? Roll, NÃO!!!!<Dly: 1 30 0><LF>
+.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Droga!!<LF>
+Quem fez isso!?<Button><CR>
+!---------------------!
+<Jmp: 0 18><@PointerIdx18>
+<Char: 0 69><0xF1: 0>Mega!<Dly: 1 30 0> Sério que não<LF>
+consegue me distinguir<LF>
+de uma cópia barata?<Button><EB>
+!*********************!
+<@PointerIdx19>
+<Char: 0 64><0xF1: 0>O quê? Quem tá aí?<Button><EB>
+!*********************!
+<@PointerIdx20>
+<Char: 0 64><0xF1: 0>Pessoal! Roll!?<Dly: 1 30 0><LF>
+...O que é que tá
+<LF>
+acontecendo aqui?<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 0 68><0xF1: 0>Ao que parece a Gospel<LF>
+fez cópias de nós quando<LF>
+entramos aqui!<Button><CR>
+!---------------------!
+<Jmp: 0 22><@PointerIdx22>
+<Char: 0 69><0xF1: 0>Desculpa, MegaMan...<Dly: 1 30 0><LF>
+Por nossa culpa você<LF>
+quase foi deletado!<Button><CR>
+!---------------------!
+<Jmp: 0 23><@PointerIdx23>
+<Char: 0 64><0xF1: 0>Deixa isso pra lá! O que<LF>
+importa é que vocês<LF>
+vieram me ajudar!<Button><CR>
+!---------------------!
+<Jmp: 0 24><@PointerIdx24>
+<Char: 0 69><0xF1: 0>Mas ainda assim... sério,<LF>
+Mega? Aquela Roll falsa?<LF>
+Francamente...<Button><CR>
+!---------------------!
+<Jmp: 0 25><@PointerIdx25>
+<Char: 0 64><0xF1: 0>A-Ah, er...<Dly: 1 30 0><LF>
+Desculpa.<Button><CR>
+!---------------------!
+<Jmp: 0 26><@PointerIdx26>
+<Char: 0 69><0xF1: 0>Eu deixo passar desta
+<LF>
+vez. Mas se rolar de<LF>
+novo, eu te deleto, viu!<Button><CR>
+!---------------------!
+<Jmp: 0 27><@PointerIdx27>
+<Char: 0 64><0xF1: 0>Ah, me dá uma trégua,<LF>
+vai...<Button><CR>
+!---------------------!
+<Jmp: 0 28><@PointerIdx28>
+<Char: 0 0><0xF1: 0>Ha ha ha! <Dly: 1 30 0>Mas espera...<LF>
+Se vocês tão aqui...<Button><CR>
+!---------------------!
+<Jmp: 0 29><@PointerIdx29>
+<Char: 0 7><0xF1: 0>É porque a gente<LF>
+também tá!<LF>
+Oi, Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 30><@PointerIdx30>
+<Char: 0 0><0xF1: 0>Mayl!<Button><CR>
+!---------------------!
+<Jmp: 0 31><@PointerIdx31>
+<Char: 0 2><0xF1: 0>Foi mal o atraso!<Button><CR>
+!---------------------!
+<Jmp: 0 32><@PointerIdx32>
+<Char: 0 0><0xF1: 0>Dex! E Yai!<Button><CR>
+!---------------------!
+<Jmp: 0 33><@PointerIdx33>
+<Char: 0 1><0xF1: 0>Alguém tinha que vir<LF>
+cuidar de vocês, né?<Button><CR>
+!---------------------!
+<Jmp: 0 34><@PointerIdx34>
+<Char: 0 0><0xF1: 0>Obrigado, gente!<Button><CR>
+!---------------------!
+E aí!? O que você acha
+<LF>da amizade agora?<Button><CR>
+!---------------------!
+<Jmp: 0 35><@PointerIdx35>
+<Char: 0 63><0xF1: 0>Ha! Já que gosta tanto<LF>
+dos seus amigos... vou<LF>
+mandar mais um!<Button><EB>
+!*********************!
+<@PointerIdx36>
+<Char: 0 69><0xF1: 0>Aaaaahhhh!<Button><CR>
+!---------------------!
+<Jmp: 0 37><@PointerIdx37>
+<Char: 0 68><0xF1: 0>Urrgghh!!!<Button><CR>
+!---------------------!
+<Jmp: 0 38><@PointerIdx38>
+<Char: 0 64><0xF1: 0>Roll! Pessoal!<Button><EB>
+!*********************!
+<@PointerIdx39>
+<Char: 0 63><0xF1: 0>Que tal?<LF>
+Uma cópia bem eficiente,<LF>
+modéstia à parte!<Button><CR>
+!---------------------!
+<Jmp: 0 40><@PointerIdx40>
+<Char: 0 0><0xF1: 0>MegaMan, acha que<LF>
+dá conta?<Button><CR>
+!---------------------!
+<Jmp: 0 41><@PointerIdx41>
+<Char: 0 64><0xF1: 0>Tomei um certo... dano...<Dly: 1 30 0><LF>
+Mas... não posso...<LF>
+deixar... ele...<Dly: 1 30 0> ugh!<Button><CR>
+!---------------------!
+<Jmp: 0 42><@PointerIdx42>
+<Char: 0 0><0xF1: 0>Droga! O MegaMan tá<LF>
+ferido demais!<Button><CR>
+!---------------------!
+<Jmp: 0 43><@PointerIdx43>
+<Char: 0 74><0xF1: 0>Atacar MegaMan.EXE...<Dly: 1 30 0><LF>
+Deleção em...<Dly: 1 30 0><LF>
+5 segundos! Executar!<Button><EB>
+!*********************!
+<@PointerIdx44>
+<Char: 0 74><0xF1: 0>ProtoMan,<LF>
+apresentando-se<LF>
+para o dever!<Button><CR>
+!---------------------!
+E punindo este ser que<LF>
+ousa usar meu nome<LF>
+para cometer injustiças!<Button><CR>
+!---------------------!
+<Jmp: 0 45><@PointerIdx45>
+<0xF2: 0 87 2><Char: 0 64><0xF1: 0>ProtoMan!!<Button><EB>
+!*********************!
+

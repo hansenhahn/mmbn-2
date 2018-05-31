@@ -1,0 +1,81 @@
+<@AbsoluteAddr 7910924>
+<@PointerIdx0>
+<Char: 0 0><0xF1: 0>MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 64><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>Eu sei que tá zangado,<LF>
+mas vim pedir desculpa.<LF>
+Eu é que tava errado!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 64><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<Char: 0 0><0xF1: 0>Você... não me perdoa?<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.Lan...<Dly: 1 30 0><LF>
+Não é...<Button><CR>
+!---------------------!
+<0xFA: 4 13 0><Jmp: 0 6><@PointerIdx6>
+<Char: 0 0><0xF1: 0>! <Dly: 1 30 0>O que aconteceu?<LF>
+MegaMan!<Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx7>
+<Char: 0 64><0xF1: 0>Alguém entrou aqui e se<LF>
+conectou no seu PET!<Button><CR>
+!---------------------!
+Ele mandou um vírus, e<LF>
+eu consegui deletá-lo<LF>
+sozinho...<Button><CR>
+!---------------------!
+Mas o homem levou o<LF>
+seu passaporte...<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>MegaMan!<LF>
+Você tá bem mesmo!?<Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 64><0xF1: 0>Alguns dados danifica-<LF>
+dos... <Dly: 1 30 0>Nada muito sério...<Dly: 1 30 0><LF>
+Mas obrigado!<Button><CR>
+!---------------------!
+É o meu castigo por<LF>
+brigar com você, Lan...<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>MegaMan! Você não fez<LF>
+nada de errado!<Button><CR>
+!---------------------!
+Deixa eu ver...<Dly: 1 30 0><LF>
+Hmm, realmente não foi<LF>
+nada sério. Peraí<0xEC: 0 30>...<0xEC: 0 2><0xFA: 16><Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<Char: 1 241 0><0xF8: 0><0xFA: 0 133 0><0xF8: 4 24>Lan restaurou os<LF>
+dados de MegaMan!<Button><0xF8: 12><0xF8: 16><0xF8: 8><CR>
+!---------------------!
+<Jmp: 0 12><@PointerIdx12>
+<Char: 0 0><0xF1: 0>MegaMan! Vamos lá<LF>
+pegar de volta o meu<LF>
+passaporte e os chips!<Button><CR>
+!---------------------!
+Você me perdoa,<LF>
+parceiro?<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 64><0xF1: 0>Pode apostar, irmão!<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<Char: 0 0><0xF1: 0>Então vamos botar pra<LF>
+quebrar!<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xFA: 0 133 0>Lan recebeu:<LF>
+"<ItemTbl: 0 0 0>!!"<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+

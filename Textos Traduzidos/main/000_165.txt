@@ -1,0 +1,134 @@
+<@AbsoluteAddr 7962304>
+<@PointerIdx0>
+<Char: 0 63><0xF1: 0>Você...<Dly: 1 30 0> Eugene Chaud!?<LF>
+O melhor dentre os<LF>
+NetLutadores Oficiais!?<Button><CR>
+!---------------------!
+Era pras forças de<LF>
+ataque estrangeiras<LF>
+terem cuidado de você!<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 0 6><0xF1: 0>Hmph! Eu já dei cabo
+<LF>
+daqueles otários. <Dly: 1 30 0>Mal<LF>
+deram trabalho.<Button><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 63><0xF1: 0>Grr...!!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 0><0xF1: 0>Chaud! Valeu por salvar<LF>
+a gente!<Button><CR>
+!---------------------!
+<Jmp: 0 4><@PointerIdx4>
+<0xF2: 0 83 2><Char: 0 6><0xF1: 0>Prefiro que não me
+<LF>
+gradeça. Eu só tinha<LF>
+uma...<Dly: 1 30 0> dívida com você.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 0><0xF1: 0>Ó-quêi então! Já entendi<LF>
+as suas demandas!<Button><CR>
+!---------------------!
+Mas mesmo assim, valeu!<Button><CR>
+!---------------------!
+<Jmp: 0 6><@PointerIdx6>
+<Char: 0 6><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Hmpf!<LF>
+Ainda é cedo pra<LF>
+relaxar, crianças!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 7><0xF1: 0>Aaainn!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 0 0><0xF1: 0>O quê que é isso!?<LF>
+Coisa boa não é!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 63><0xF1: 0>Baaah-hahahahaha!!!<Button><CR>
+!---------------------!
+<Jmp: 0 10><@PointerIdx10>
+<Char: 0 0><0xF1: 0>Tá rindo de quê!?<Button><CR>
+!---------------------!
+<Jmp: 0 11><@PointerIdx11>
+<0xF2: 4 14 2><Char: 0 63><0xF1: 0>Nunca achei que viriam<LF>
+tão longe, mas é tarde<LF>
+demais! <Dly: 1 30 0>A fusão-bug<Button><CR>
+!---------------------!
+enfim está completa!!<LF>
+Só me resta apertar<LF>
+este botão<Button><CR>
+!---------------------!
+e ativar o SuperNavi!!<LF>
+O Navi Supremo... <Dly: 1 30 0>Bass!!!!<Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 6><0xF1: 0>Não...!!<Button><CR>
+!---------------------!
+<Jmp: 0 13><@PointerIdx13>
+<Char: 0 63><0xF1: 0>Ora, ora...<Dly: 1 30 0><LF>
+vejo que os Oficiais já<LF>
+ouviram falar do Bass.<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<0xF2: 0 14 2><Char: 0 0><0xF1: 0>Ei, Chaud? Quem é esse<LF>
+"Bass?"<Button><CR>
+!---------------------!
+<Jmp: 0 15><@PointerIdx15>
+<Char: 0 6><0xF1: 0>Um Navi invencível, capaz<LF>
+de armazenar chips para<LF>
+usar quando bem quiser.<Button><CR>
+!---------------------!
+Ninguém achava que ele<LF>
+fosse real...<Button><CR>
+!---------------------!
+<Jmp: 0 16><@PointerIdx16>
+<0xF2: 4 14 2><Char: 0 63><0xF1: 0>O meu Projeto Bass da<LF>
+Gospel<Dly: 1 30 0>... não apenas<LF>
+"criou" o Bass.<Button><CR>
+!---------------------!
+Ele também me deu o<LF>
+poder de multiplicá-lo<LF>
+livremente!!<Button><CR>
+!---------------------!
+Dominarei a Rede em uma<LF>
+questão de segundos com<LF>
+um exército de Bass!!<Button><CR>
+!---------------------!
+Exércitos, dinheiro... tudo<LF>
+estará ao meu alcance! <Dly: 1 30 0><LF>
+Serei o Rei deste mundo!<Button><CR>
+!---------------------!
+Assim será a execução<LF>
+bem-sucedida do meu<LF>
+Projeto Bass!<Button><CR>
+!---------------------!
+<Jmp: 0 17><@PointerIdx17>
+<Char: 0 0><0xF1: 0>A gente nunca vai
+<LF>
+deixar isso acontecer!!<Button><EB>
+!*********************!
+<@PointerIdx18>
+<Char: 0 0><0xF1: 0>MegaMan!!<Button><CR>
+!---------------------!
+<Jmp: 0 19><@PointerIdx19>
+<Char: 0 64><0xF1: 0>É...<LF>
+Um Navi invencível...<Button><CR>
+!---------------------!
+Pode ser impossível<LF>
+vencer...<Dly: 1 30 0> mas eu não<LF>
+vou perder!<Dly: 1 30 0> Vamos lá!!<Button><CR>
+!---------------------!
+<Jmp: 0 20><@PointerIdx20>
+<Char: 0 0><0xF1: 0>Acha mesmo que eu sou<LF>
+o tipo de NetLutador que<LF>
+te levaria pra derrota!?<Button><CR>
+!---------------------!
+Nunca! Nós é que vamos<LF>
+acabar com esse Bass!<Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx21>
+<Char: 0 64><0xF1: 0>É! Vamos nessa!<Button><EB>
+!*********************!
+
