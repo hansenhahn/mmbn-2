@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7909508>
 <@PointerIdx0>
-<Char: 0 5><0xF1: 0>Iu-hú! Mas se não é<LF>
+<Char: 0 5><0xF1: 0>Iu-hú! Olha só, se não é<LF>
 o pequeno Lan! É.<LF>
 Como vai?<Button><CR>
 !---------------------!
@@ -8,8 +8,8 @@ Como vai?<Button><CR>
 <Char: 0 0><0xF1: 0>Ah! Sr. Higsby!<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
-<0xFA: 4 3 0><Char: 0 5><0xF1: 0>Há quanto tempo, não<LF>
-é? É.<Button><CR>
+<0xFA: 4 3 0><Char: 0 5><0xF1: 0>Há quanto tempo, né?<LF>
+É.<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 0><0xF1: 0>Eu fiquei preocupado<LF>
@@ -17,8 +17,8 @@ depois que a sua loja<LF>
 de chips fechou!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
-<Char: 0 5><0xF1: 0>Hehe! É.<LF>Bom, depoi de juntar um<LF>
-dinheiro, eu fui embora.<Button><CR>
+<Char: 0 5><0xF1: 0>Hehe! É.<LF>Bom, depois de juntar um<LF>
+dinheiro, eu saí de lá.<Button><CR>
 !---------------------!
 Estou em uma viagem ao<LF>
 redor do mundo em<LF>
@@ -32,9 +32,8 @@ Topa tudo por um chip<LF>
 raro. É.<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
-<Char: 0 0><0xF1: 0>Bom, acho tem certas<LF>
-coisas que não mudam<LF>
-nunca.<Button><CR>
+<Char: 0 0><0xF1: 0>Bom, acho que certas<LF>
+não mudam nunca.<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
 <Char: 0 5><0xF1: 0>Pois é! E você, ainda<LF>
@@ -42,7 +41,7 @@ encarando vírus por aí<LF>
 com o MegaMan? É?<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
-<0xFA: 16><Char: 0 0><0xF1: 0>...Com o MegaMan?<LF>
+<0xFA: 16><Char: 0 0><0xF1: 0>... Com o MegaMan?<LF>
 Nem vem!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
@@ -51,7 +50,7 @@ Aconteceu alguma coisa<LF>
 entre vocês dois?<Button><CR>
 !---------------------!
 <Jmp: 0 9><@PointerIdx9>
-<Char: 1 241 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Lan contou ao<LF>
+<Char: 1 241 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0> Lan contou ao<LF>
 Higsby sobre o que<LF>
 os dois passaram.<Button><CR>
 !---------------------!

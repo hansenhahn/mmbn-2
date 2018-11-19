@@ -21,8 +21,8 @@ daqui! O painel da porta<LF>
 de dentro tá ligado!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
-<Char: 0 0><0xF1: 0>Talvez desse pra conec-<LF>
-tar, mas não... consigo...<LF>
+<Char: 0 0><0xF1: 0>Talvez dê pra conectar<LF>
+nele, mas não... consigo...<LF>
 chegar mais perto...!<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
@@ -57,6 +57,6 @@ da mochila!!<Button><EB>
 <Char: 0 0><0xF1: 0>Isso! Na mosca!<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
-<Char: 0 64><0xF1: 0>Lan, vamos conectar!<Button><EB>
+<Char: 0 64><0xF1: 0>Lan, conectar!<Button><EB>
 !*********************!
 

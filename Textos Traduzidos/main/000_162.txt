@@ -17,7 +17,7 @@ pressão baixa de sempre!
 Acaba com o programa!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
-<Char: 0 64><0xF1: 0>...Tá bom!<Button><EB>
+<Char: 0 64><0xF1: 0>... Tá bom!<Button><EB>
 !*********************!
 <@PointerIdx5>
 <Char: 0 64><0xF1: 0>Pronto! Acho que agora<LF>
@@ -25,6 +25,6 @@ a gente consegue ir pra<LF>
 próxima sala!<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
-<Char: 0 0><0xF1: 0>...C-certo! Vamos nessa!<Button><EB>
+<Char: 0 0><0xF1: 0>... C-certo! Vamos nessa!<Button><EB>
 !*********************!
 

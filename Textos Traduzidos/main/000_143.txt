@@ -6,10 +6,10 @@ ainda mais por você...<Button><CR>
 !---------------------!
 Mas agora é tarde!<LF>
 Em poucos segundos o<LF>
-terremoto ocorrerá!!<Button><CR>
+terremoto virá!!<Button><CR>
 !---------------------!
-Podem ter vencido, mas<LF>
-não lhes resta tempo<LF>
+Podem até ter vencido,<LF>
+mas não lhes resta tempo<LF>
 para fazer a Cura!<Button><CR>
 !---------------------!
 Ah-ha-ha-ha! Logo<LF>
@@ -24,21 +24,20 @@ eternidade!!<Button><EB>
 do corpo de FreezeMan!<Button><CR>
 !---------------------!
 <0xFA: 0 133 0><0xF8: 4 24>MegaMan recebeu:<LF>
-"FragAzu!!"<0xF8: 12><0xF8: 4 1><Button><CR>
+"FragAzul"!!<0xF8: 12><0xF8: 4 1><Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 64><0xF1: 0>Conseguimos, Lan...!<LF>
-Pegamos o "FragAzu"...<Button><CR>
+Pegamos o "FragAzul"...<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<Char: 1 241 0><0xFA: 0 37 1>Ccccreeeeeque!<Dly: 0 60 0><Button><CR>
+<Char: 1 241 0><0xFA: 0 37 1>Ccccreeeeec!<Dly: 0 60 0><Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 64><0xF1: 0>Ah!!<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
-<Char: 0 0><0xF1: 0>MegaMan, o que<LF>
-aconteceu!?<Button><CR>
+<Char: 0 0><0xF1: 0>O que foi, MegaMan!?<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
 <Char: 0 64><0xF1: 0>O "FragAzul"... ele se<LF>
@@ -46,7 +45,7 @@ quebrou do nada...<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
 <Char: 0 0><0xF1: 0>Como é que é!?<LF>
-Não pode tá falando<LF>
+Você não pode tá falando<LF>
 sério!<Button><CR>
 !---------------------!
 E agora, o que é que
@@ -61,7 +60,7 @@ destruído!?<Button><CR>
 preocupar.<Button><EB>
 !*********************!
 <@PointerIdx9>
-<Char: 0 64><0xF1: 0>O Dr.!<LF>
+<Char: 0 64><0xF1: 0>O Doc!<LF>
 Por que está aqui?<Button><CR>
 !---------------------!
 <Jmp: 0 10><@PointerIdx10>
@@ -92,9 +91,9 @@ acontecendo nas outras<LF>
 !---------------------!
 Ufa.<Button><CR>
 !---------------------!
-<0xF2: 4 8 2>Cansei. Não trabalhava<LF>
-assim faz tempo. Bom, de<LF>
-volta ao UnderPlaza!<Button><CR>
+<0xF2: 4 8 2>Cansei. Há tempos não<LF>
+trabalhava assim. Bom,<LF>
+de volta ao UnderPlaza!<Button><CR>
 !---------------------!
 Ah, e vou ter que<LF>
 cobrar os Oficiais pela<LF>
@@ -104,16 +103,16 @@ Quanto será que eu<LF>
 consigo arrancar deles?<LF>
 He he he...<Button><CR>
 !---------------------!
-É melhor voltarem<LF>
+É melhor vocês voltarem<LF>
 também. Aposto que tem<LF>
 gente esperando vocês.<Button><EB>
 !*********************!
 <@PointerIdx13>
 <Char: 0 64><0xF1: 0>Certo! Muito obrigado!<Button><CR>
 !---------------------!
-Vamos voltar pra casa,<LF>
-Lan! Pra onde todo<LF>
-mundo está!<Button><CR>
+Vamos pra casa, Lan!<LF>
+Pra onde todo mundo<LF>
+está!<Button><CR>
 !---------------------!
 <Jmp: 0 14><@PointerIdx14>
 <Char: 0 0><0xF1: 0>Vamos!<Button><EB>

@@ -1,7 +1,7 @@
 <@AbsoluteAddr 7893568>
 <@PointerIdx0>
-<Char: 0 0><0xF1: 0>Papai! Como está o<LF>
-computador matriz?<Button><CR>
+<Char: 0 0><0xF1: 0>Papai! Como tá o<LF>
+computador-matriz?<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <Char: 0 23><0xF1: 0>Alguma coisa invadiu o<LF>
@@ -14,13 +14,13 @@ anti-Navis...<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 0><0xF1: 0>A gente vai lá, papai!<LF>
-O senhor termina a arma<LF>
-enquanto isso!<Button><CR>
+Enquanto isso, o senhor<LF>
+termina a arma!<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 23><0xF1: 0>Pode deixar!<Button><CR>
 !---------------------!
-Netlutadores Oficiais<LF>
+NetLutadores Oficiais<LF>
 já estão no local.<LF>
 Ajudem eles, tá bom?<Button><CR>
 !---------------------!

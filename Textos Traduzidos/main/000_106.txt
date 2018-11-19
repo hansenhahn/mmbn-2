@@ -7,7 +7,7 @@
 KnightMan!<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
-<Char: 0 87><0xF1: 0>Não tenho nada contra<LF>
+<Char: 0 87><0xF1: 0>Nada tenho contra<LF>
 vós, mas receio que<LF>
 terás de morrer aqui.<Button><CR>
 !---------------------!
@@ -43,7 +43,7 @@ agindo assim vão fazer<LF>
 as pessoas felizes?<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
-<Char: 0 87><0xF1: 0>...Sua Alteza?<Button><CR>
+<Char: 0 87><0xF1: 0>... Sua Alteza?<Button><CR>
 !---------------------!
 <Jmp: 0 9><@PointerIdx9>
 <Char: 0 54><0xF1: 0>O que está esperando,<LF>

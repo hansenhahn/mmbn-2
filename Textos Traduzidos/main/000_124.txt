@@ -3,7 +3,7 @@
 <Char: 0 58><0xF1: 0>Há algum NetLutador<LF>
 à bordo?<Button><CR>
 !---------------------!
-Se sim, por favor,<LF>
+Caso haja, por favor,<LF>
 dirijam-se à cabine<LF>
 imediatamente.<Button><CR>
 !---------------------!

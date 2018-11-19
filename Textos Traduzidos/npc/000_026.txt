@@ -1,0 +1,663 @@
+<@PointerIdx0>
+<0xF3: 0 93 8 255 1><Char: 0 0><0xF1: 0>Ah, é mesmo... Não dá<LF>
+pra voltar agora...<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 64><0xF1: 0>Lan, esse não é o seu<LF>
+portão de embarque.<LF>
+Saudade de casa? Já?<Button><EB>
+!*********************!
+<@PointerIdx2>
+<@PointerIdx3>
+<0xF6: 3 64 1 7 7 255><Char: 0 0><0xF1: 0>Eu não gosto de ser<LF>
+separado do MegaMan<LF>
+desse jeito!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 44><0xF1: 0>Tenha um bom voo.<Button><CR>
+!---------------------!
+<Jmp: 0 5><@PointerIdx5>
+<Char: 0 64><0xF1: 0>Lan! Enfim, a Ameropa!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<@PointerIdx7>
+<Char: 0 64><0xF1: 0>Quer ir pra Ameropa?<LF>
+Ou só ver os aviões?<LF>
+<Arrow: 17 0><Pos: 0 2>Ameropa <Arrow: 0 17><Pos: 0 2>Aviões<CondJmp: 6 192 8 9 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx8>
+<Char: 0 64><0xF1: 0>Entendido! Próxima<LF>
+parada, Ameropa!<Button><0xFB: 28 3><EB>
+!*********************!
+<@PointerIdx9>
+<0xF2: 0 120 0><Char: 0 64><0xF1: 0>Entendido! Vamos dar<LF>
+uma volta em um dos<LF>
+aviões!<Button><0xFB: 28 4><EB>
+!*********************!
+<@PointerIdx10>
+<@PointerIdx11>
+<@PointerIdx12>
+<0xF3: 0 93 8 255 15><Char: 0 6><0xF1: 0>He. Você parece mal.<LF>
+Sabe, pior que o normal.<LF>
+<Arrow: 17 0><Pos: 0 2>É... <Arrow: 0 17><Pos: 0 2>Não enche!<CondJmp: 6 128 255 13 255>
+!---------------------!
+Tudo isso só porque o<LF>
+seu Navi foi guardado?<LF>
+Patético...<Button><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 0 6><0xF1: 0>Vai precisar ser mais<LF>
+forte que isso se<LF>
+pretende prosseguir.<Button><CR>
+!---------------------!
+Toma. Mexi uns<LF>
+pauzinhos com a minha<LF>
+autoridade de Oficial.<Button><CR>
+!---------------------!
+Afinal de contas, você<LF>
+é inútil sem ele, não é<LF>
+mesmo?<Button><CR>
+!---------------------!
+<Jmp: 0 14><@PointerIdx14>
+<0xF2: 4 93 8><Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 0 1>Lan recebeu:<LF>
+"<ItemTbl: 0 0 0>"!!<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 21><@PointerIdx15>
+<Char: 0 6><0xF1: 0>Você só dá dor de<LF>
+cabeça...<Button><EB>
+!*********************!
+<@PointerIdx16>
+<0xF3: 4 64 72 90 255><0xF3: 4 56 61 71 255><Char: 0 44><0xF1: 0>Por favor, entre na<LF>
+aeronave pela outra<LF>
+entrada.<Button><EB>
+!*********************!
+<@PointerIdx17>
+<0xF3: 4 64 72 91 255><0xF3: 4 61 61 82 255><0xF3: 4 58 60 75 255><0xF3: 4 56 57 72 255><Char: 0 46><0xF1: 0>Nossa lojinha sem<LF>
+impostos possui a melhor<LF>
+seleção do mundo.<Button><EB>
+!*********************!
+<@PointerIdx18>
+<Char: 0 22><0xF1: 0>Eu odeio voar...<Button><EB>
+!*********************!
+<@PointerIdx19>
+<Char: 0 34><0xF1: 0>Até que enfim vamos<LF>
+decolar...<Button><CR>
+!---------------------!
+Mal posso esperar pra<LF>
+conhecer pessoas no<LF>
+meu país-destino.<Button><EB>
+!*********************!
+<@PointerIdx20>
+<Char: 0 18><0xF1: 0>Eu fui roubado!<Button><CR>
+!---------------------!
+Mas que azar...<Button><EB>
+!*********************!
+<@PointerIdx21>
+<Char: 0 64><0xF1: 0>Lan! Eu senti tanto a<LF>
+sua falta!<Button><CR>
+!---------------------!
+Que foi?<Dly: 1 30 0><LF>
+Tá se sentindo bem?<Button><CR>
+!---------------------!
+Você foi roubado!?<LF>
+E não viu pra onde o<LF>
+cara foi?<Button><CR>
+!---------------------!
+Que droga. <Dly: 1 30 0>Bom, vamos<LF>
+pro avião! Depois a gente<LF>
+arranja mais dinheiro.<Button><EB>
+!*********************!
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<Char: 0 64><0xF1: 0>Esta aqui é a SAÍDA, Lan!<Button><EB>
+!*********************!
+<@PointerIdx61>
+<0xF3: 4 61 61 84 255><0xF3: 4 56 57 74 255><Char: 0 44><0xF1: 0>Bem-vindo de volta ao<LF>
+lar!<Button><EB>
+!*********************!
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<0xF3: 4 64 72 93 255><Char: 0 12><0xF1: 0>Que foi!? Eu já falei que<LF>
+não fiz nada!<Button><CR>
+!---------------------!
+<Jmp: 0 161><@PointerIdx71>
+<Char: 0 44><0xF1: 0>Este é o portão de<LF>
+embarque.<Button><CR>
+!---------------------!
+Estamos oferecendo<LF>
+uma exposição do interior<LF>
+de uma aeronave ALA.<Button><CR>
+!---------------------!
+Esperamos que vocês<LF>
+gostem e se divirtam.<Button><EB>
+!*********************!
+<@PointerIdx72>
+<Char: 0 46><0xF1: 0>O número de visitantes<LF>
+baixou bastante. Efeitos<LF>
+do terremoto.<Button><EB>
+!*********************!
+<@PointerIdx73>
+<0xF3: 4 61 61 83 255><0xF3: 4 58 60 76 255><Char: 0 14><0xF1: 0>Está me dizendo que<LF>
+também está tudo indo de<LF>
+mal a pior na Ameropa!?<Button><CR>
+!---------------------!
+Cruz credo! Bom, acho<LF>
+que daqui a gente não<LF>
+sai, então.<Button><EB>
+!*********************!
+<@PointerIdx74>
+<Char: 0 44><0xF1: 0>Bem-vindo de volta. Tome<LF>
+cuidado, pois tem havido<LF>
+terremotos frequentes.<Button><EB>
+!*********************!
+<@PointerIdx75>
+<Char: 0 46><0xF1: 0>Ordem de evacuação?<LF>
+É, isso também vai<LF>
+espantar clientes.<Button><EB>
+!*********************!
+<@PointerIdx76>
+<Char: 0 14><0xF1: 0>Vai ser horrível não<LF>
+poder cancelar a ida<LF>
+a partir deste ponto.<Button><EB>
+!*********************!
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<Char: 0 46><0xF1: 0>A ordem de evacuação<LF>
+foi camcelada.<Button><CR>
+!---------------------!
+Me pergunto se isso fará<LF>
+o número de passageiros<LF>
+voltar a aumentar.<Button><EB>
+!*********************!
+<@PointerIdx83>
+<Char: 0 14><0xF1: 0>Ah! Os desastres ao re-<LF>
+dor do mundo pararam?<LF>
+Então é hora de viajar!<Button><EB>
+!*********************!
+<@PointerIdx84>
+<Char: 0 44><0xF1: 0>Bem-vindo ao lar!<Button><CR>
+!---------------------!
+Os tremores pararam!<LF>
+A segurança voltou!<Button><EB>
+!*********************!
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<Char: 0 44><0xF1: 0>Última chamada para os<LF>
+passageiros que faltam.<LF>
+Por favor, senhores...<Button><EB>
+!*********************!
+<@PointerIdx91>
+<Char: 0 46><0xF1: 0>As nossas vendas nunca<LF>
+estiveram tão baixas...<Button><CR>
+!---------------------!
+Acho que é o que<LF>
+acontece quando há<LF>
+escassez de turistas.<Button><EB>
+!*********************!
+<@PointerIdx92>
+<Char: 0 22><0xF1: 0>As pessoas que querem ir<LF>
+ao exterior estão com<LF>
+medo dos netcrimes.<Button><CR>
+!---------------------!
+E mesmo assim, eu, um<LF>
+aerofóbico, tenho de<LF>
+viajar a serviço.<Button><EB>
+!*********************!
+<@PointerIdx93>
+<Char: 0 12><0xF1: 0>Gospel? Que Gospel? Eu,<LF>
+o Sr. Match, não sei<LF>
+de nada disso aí!<Button><CR>
+!---------------------!
+<Jmp: 0 161><@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<0xF3: 0 198 0 70 255><0xF2: 0 198 0><Char: 0 12><0xF1: 0>Ora, vejam só! Se não é<LF>
+Lan Hikari! Eu te<LF>
+reconheci na hora!<Button><CR>
+!---------------------!
+Ei, não vá me dizer que<LF>
+já se esqueceu de mim!<Button><CR>
+!---------------------!
+<Char: 1 239 17> <Pos: 0 2>Não esqueci <Arrow: 0 17><Pos: 0 2>Esqueci sim<CondJmp: 6 192 176 255 255>
+!---------------------!
+<Char: 0 12><0xF1: 0>O Sr. Match! Aquele que<LF>
+infectou o seu fogão nos<LF>
+dias de glória da WWW!<Button><CR>
+!---------------------!
+Vamos, não precisa me<LF>
+olhar torto!<Button><CR>
+!---------------------!
+Eu estou do lado do bem<LF>
+agora!<LF>
+<Dly: 1 15 0>É sério!<Button><CR>
+!---------------------!
+Que tal uma NetLuta<LF>
+contra o meu novo<LF>
+NetNavi, o HeatMan?<Button><CR>
+!---------------------!
+<Jmp: 0 161><@PointerIdx161>
+<Char: 0 64><0xF1: 0>Aceita o desafio<LF>
+de...sse homem?<LF>
+<Arrow: 17 0><Pos: 0 2>Aceito <Arrow: 0 17><Pos: 0 2>Não<LF>
+<CondJmp: 6 129 162 164 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx162>
+<0xF3: 0 194 0 165 255><Char: 0 12><0xF1: 0>Só não vá confundir o<LF>
+HeatMan com o FireMan,<LF>
+ou vai se queimar!<Button><CR>
+!---------------------!
+<Jmp: 0 163><@PointerIdx163>
+<0xF2: 0 194 0><0xF1: 1><Dly: 255 0 0><@PointerIdx164>
+<0xF2: 4 195 0><0xF2: 4 196 0><0xF2: 4 197 0><Char: 0 12><0xF1: 0>Te falta ignição!<Button><EB>
+!*********************!
+<@PointerIdx165>
+<0xF2: 4 195 0><0xF2: 4 196 0><0xF2: 4 197 0><Char: 0 12><0xF1: 0>Ele tá meio apagado<LF>
+agora. Precisa de mais<LF>
+fluído. Foi mal.<Button><EB>
+!*********************!
+<@PointerIdx166>
+<0xF3: 0 195 0 167 255><0xF3: 0 196 0 169 255><0xF3: 0 197 0 171 171><@PointerIdx167>
+<0xF3: 0 199 0 174 255><Char: 0 12><0xF1: 0>Ha! Vejo que continua<LF>
+apelando pros mesmos<LF>
+truques de sempre!<Button><CR>
+!---------------------!
+Mas que pestinha...<LF>
+Tome!<Button><CR>
+!---------------------!
+<Jmp: 0 168><@PointerIdx168>
+<0xF2: 0 199 0><0xF2: 4 195 0><Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 96 1>Lan recebeu o chip<LF>
+"<ItemTbl: 0 96 0>"!!<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 173><@PointerIdx169>
+<0xF3: 0 200 0 174 255><Char: 0 12><0xF1: 0>É brasa, mora!<Button><CR>
+!---------------------!
+<Jmp: 0 170><@PointerIdx170>
+<0xF2: 0 200 0><0xF2: 4 196 0><EB>
+!*********************!
+<@PointerIdx171>
+<0xF3: 0 201 0 174 255><Char: 0 12><0xF1: 0>Você venceu.<Dly: 1 15 0><LF>
+As suas habilidades são<LF>
+ardentes!<Button><CR>
+!---------------------!
+<Jmp: 0 172><@PointerIdx172>
+<0xF2: 0 201 0><0xF2: 4 197 0><EB>
+!*********************!
+<@PointerIdx173>
+<Char: 0 12><0xF1: 0>A minha chama ainda não<LF>
+se apagou!<Button><EB>
+!*********************!
+<@PointerIdx174>
+<Char: 0 12><0xF1: 0>Apaguei...<Button><EB>
+!*********************!
+<@PointerIdx175>
+<Char: 0 12><0xF1: 0>Estou 100% aceso!<LF>
+O meu fogo queima como<LF>
+o sol!!<Button><EB>
+!*********************!
+<@PointerIdx176>
+<Char: 0 12><0xF1: 0>Ha! Dessa vez eu te<LF>
+peguei! <Dly: 1 30 0>Ei, não olhe pra<LF>
+mim com essa cara!<Button><CR>
+!---------------------!
+Eu estou do lado do bem<LF>
+agora!<LF>
+<Dly: 1 15 0>É sério!<Button><CR>
+!---------------------!
+Que tal uma NetLuta<LF>
+contra o meu novo<LF>
+NetNavi, o HeatMan?<Button><CR>
+!---------------------!
+<Jmp: 0 161><@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<0xF3: 0 10 1 199 255><0xF3: 0 9 1 197 255><0xF2: 0 9 1><Char: 0 10><0xF1: 0>Quem quer perguntinha?<LF>
+Quem quer perguntinha?<Button><CR>
+!---------------------!
+Porque é Hora do<LF>
+Questionário! Vem fazer<LF>
+você também! La la la!<Button><CR>
+!---------------------!
+Sou conhecido como o<LF>
+Questionador. Acerte<LF>
+estas cinco perguntas<Button><CR>
+!---------------------!
+e ganhe um prêmio<LF>
+magnanimamente incrível!!<Button><CR>
+!---------------------!
+E você, aceita o<LF>
+desafio?<LF>
+<Arrow: 17 0><Pos: 0 2>Claro! <Arrow: 0 17><Pos: 0 2>Nem pensar<CondJmp: 6 128 200 255 255>
+!---------------------!
+Estarei aqui para quando<LF>
+você se sentir<LF>
+preparado!<Button><EB>
+!*********************!
+<@PointerIdx197>
+<0xFA: 32><Char: 0 10><0xF1: 0>Quem quer perguntinha?<LF>
+Quem quer perguntinha?<Button><CR>
+!---------------------!
+Porque é Hora do<LF>
+Questionário! Vem fazer<LF>
+você também! La la la!<Button><CR>
+!---------------------!
+E então, meu senhor?<LF>
+Decidiu aceitar o<LF>
+desafio?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Uhum <Arrow: 0 17><Pos: 0 2>Uh-uhm<CondJmp: 6 128 200 255 255>
+!---------------------!
+Estarei aqui para quando<LF>
+se sentir preparado!<Button><EB>
+!*********************!
+<@PointerIdx198>
+<Char: 0 10><0xF1: 0><0xFA: 0 24 1><Dly: 1 40 0>Que pena!<Button><CR>
+!---------------------!
+Venha tentar de novo<LF>
+sempre que quiser!<LF>
+Estou sempre preparado!<Button><EB>
+!*********************!
+<@PointerIdx199>
+<Char: 0 10><0xF1: 0>He he. Esse<LF>
+questionário foi só um
+<LF>
+aquecimento.<Button><CR>
+!---------------------!
+Acha que está pronto pra<LF> encarar o Questionador<LF>Mestre!?<Button><EB>
+!*********************!
+<@PointerIdx200>
+<0xFA: 36><Char: 0 10><0xF1: 0>Pois bem então, vamos lá!<Button><CR>
+!---------------------!
+Pergunta 1:<Button><CR>
+!---------------------!
+O escorrega do Parque<LF>
+ACDC se parece com<LF>
+que animal?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Esquilo<LF>
+<Arrow: 17 2><Pos: 0 2>Elefante<LF>
+<Arrow: 34 16><Pos: 0 2>Girafa<CondJmp: 7 192 198 255 198>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>A resposta está<LF>
+e...xata!<LF>
+Próxima pergunta!<Button><CR>
+!---------------------!
+<Jmp: 0 201><@PointerIdx201>
+<0xFA: 36><Char: 0 10><0xF1: 0>Pergunta 2:<Button><CR>
+!---------------------!
+Qual é o maior atrativo<LF>
+da lojinha de Porto das<LF>
+Águas?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>O Acervo<LF>
+<Arrow: 17 2><Pos: 0 2>Os Preços<LF>
+<Arrow: 34 16><Pos: 0 2>O(A)s Funcionários(as)<CondJmp: 7 192 255 198 198>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>A resposta está<LF>
+e...xata!<LF>
+Próxima pergunta!<Button><CR>
+!---------------------!
+<Jmp: 0 202><@PointerIdx202>
+<0xFA: 36><Char: 0 10><0xF1: 0>Pergunta  3:<Button><CR>
+!---------------------!
+Quantas tendas tem<LF>
+na área de acampamento<LF>
+do Vale Okuden?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>2<LF>
+<Arrow: 17 2><Pos: 0 2>3<LF>
+<Arrow: 34 16><Pos: 0 2>4<CondJmp: 7 192 198 255 198>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>A resposta está<LF>
+e...xata!<LF>
+Próxima pergunta!<Button><CR>
+!---------------------!
+<Jmp: 0 203><@PointerIdx203>
+<0xFA: 36><Char: 0 10><0xF1: 0>Pergunta 4:<Button><CR>
+!---------------------!
+Onde trabalhava a gar-<LF>
+çonete do café em Porto<LF>
+das Águas antes disso?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Restaurante<LF>
+<Arrow: 17 2><Pos: 0 2>Fliperama<LF>
+<Arrow: 34 16><Pos: 0 2>Centro<CondJmp: 7 192 255 198 198>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>A resposta está<LF>
+e...xata!<LF>
+Próxima pergunta!<Button><CR>
+!---------------------!
+<Jmp: 0 204><@PointerIdx204>
+<0xFA: 36><Char: 0 10><0xF1: 0>Pergunta 5:<Button><CR>
+!---------------------!
+Ao escolher os Canhões<LF>
+A, B e C nesta ordem,<LF>
+o que sai?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Y-Canhão<LF>
+<Arrow: 17 2><Pos: 0 2>W-Canhão<LF>
+<Arrow: 34 16><Pos: 0 2>Z-Canhão<CondJmp: 7 192 198 198 255>
+!---------------------!
+<0xff><0xFA: 0 45 1><Dly: 1 20 0>100% correto!<Button><CR>
+!---------------------!
+Meus parabéns!!<Button><CR>
+!---------------------!
+E aqui está o seu prêmio<LF>
+por acertar todas as<LF>
+respostas!<Button><CR>
+!---------------------!
+Vivaaaa! Urrúúú!<Button><CR>
+!---------------------!
+<Jmp: 0 205><@PointerIdx205>
+<0xF2: 0 10 1><Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 16 1 0 26 1>Lan recebeu o chip<LF>
+"<ItemTbl: 0 1 1> <ItemTbl: 0 26 3>"!!<0xF8: 12><0xF8: 16><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>Aqui estão expostas<LF>
+gravatas e bebidas.<Button><CR>
+!---------------------!
+Esses produtos são isen-<LF>
+tos de impostos, e por<LF>
+isso estão baratinhos.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>Doces regionais de<LF>
+Ni-Hon!<Button><CR>
+!---------------------!
+O souvenir perfeito<LF>
+para quem está deixando<LF>
+o país.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>Guias de viagem. Eles<LF>
+podem ser bem úteis<LF>
+para você.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>Não é por aqui que você<LF>
+vai para o exterior.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<0xF1: 0>Não é por aqui que se<LF>
+volta para casa.<Button><EB>
+!*********************!
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

@@ -3,7 +3,7 @@
 <Char: 0 58><0xF1: 0>Senhores passageiros.<LF>
 Após uma longa viagem,<Button><CR>
 !---------------------!
-chegamos em nosso
+chegamos ao nosso
 <LF>
 destino: o Aeroporto<LF>
 Den.<Button><CR>
@@ -18,6 +18,6 @@ Chegamos! Vamos logo<LF>
 pra ACDC e ir pra casa.<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<Char: 0 64><0xF1: 0>Gosto desse plano.<Button><EB>
+<Char: 0 64><0xF1: 0>Gostei desse plano.<Button><EB>
 !*********************!
 

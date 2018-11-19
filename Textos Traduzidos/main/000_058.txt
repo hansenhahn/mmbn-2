@@ -2,19 +2,18 @@
 <@PointerIdx0>
 <Char: 0 80><0xF1: 0>Nnnnggaaaahhh!<Button><CR>
 !---------------------!
-Fui vencido...<Button><CR>
+Fui vendio...<Button><CR>
 !---------------------!
 M-mas não pense que vai<LF>
 ser fácil daqui pra frente<LF>
 só porque me derrotou...<Button><CR>
 !---------------------!
-O-Os meus poderes nem<LF>
+O-os meus poderes nem<LF>
 se comparam aos do<LF>
 Comandante ShadowMan.<Button><CR>
 !---------------------!
-Ele já está à caminho de<LF>
-Electopia. Nunca irão<LF>
-derrotá-lo... Ahhhh!<Button><EB>
+Ele já está à caminho de<LF>Ni-Hon. Nunca irão<LF>
+vencê-lo... Ahhhh!<Button><EB>
 !*********************!
 <@PointerIdx1>
 <Char: 0 64><0xF1: 0>Tá tudo bem com você?<LF>
@@ -32,7 +31,7 @@ Eu só queria fazer um<LF>
 amigo, não envolver<LF>
 vocês nisso tudo.<Button><CR>
 !---------------------!
-.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0>Peço desculpas.<Button><CR>
+.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0> Peço desculpas.<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 0><0xF1: 0>Relaxa! A gente volta<LF>
@@ -42,12 +41,12 @@ surra no ShadowMan.<Button><CR>
 Aí a gente conversa<LF>
 mais!!<Button><CR>
 !---------------------!
-MegaMan, bora organizar<LF>
+MegaMan, bora reunir<LF>
 o que a gente aprendeu<LF>
 e ir falar com o papai!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
-<Char: 0 64><0xF1: 0>Uhum!!<Button><EB>
+<Char: 0 64><0xF1: 0>Certo!!<Button><EB>
 !*********************!
 <@PointerIdx5>
 <Char: 0 70><0xF1: 0>Tomem cuidado...<Button><CR>

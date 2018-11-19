@@ -1,0 +1,499 @@
+<@PointerIdx0>
+<0xF3: 4 66 72 45 255><0xF3: 4 64 65 40 255><0xF3: 4 61 61 34 255><0xF3: 4 58 60 32 255><0xF3: 4 56 57 30 255><0xF3: 4 55 55 25 255><0xF3: 4 32 33 20 255><0xF3: 4 22 31 15 255><0xF3: 4 16 21 10 255><Char: 0 20><0xF1: 0>Esta é a Estação do<LF>
+Porto da Metrolinha.<Button><CR>
+!---------------------!
+Como ela fica em Porto<LF>
+das Águas, a chamamos<LF>
+de Estação do Porto.<Button><EB>
+!*********************!
+<@PointerIdx1>
+<0xF3: 4 64 72 41 255><0xF3: 0 92 2 5 255><0xF3: 0 78 2 2 255><Char: 0 15><0xF1: 0>Beber leite é beber vida!!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 15><0xF1: 0>Beba sempre um copo<LF>
+bem cheio... <Dly: 1 30 0> antes de<LF>
+uma prova!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 64><0xF1: 0><0xF2: 12 9 7>Lan, chegou e-mail!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<@PointerIdx5>
+<Char: 0 15><0xF1: 0>Mesmo se você não<LF>
+passar na prova...<LF>
+<Dly: 1 30 0>beber leite!!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<Char: 0 20><0xF1: 0>Esta é a Estação do<LF>
+Porto da Metrolinha.<Button><CR>
+!---------------------!
+Como ela fica em Porto<LF>
+das Águas, a chamamos<LF>
+de Estação do Porto.<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 8><0xF1: 0>Ouvi dizer que tem uma<LF>
+nova Máquina de Chips<LF>
+no Centro!<Button><CR>
+!---------------------!
+<Char: 1 239 17> <Pos: 0 2>Oi? <Arrow: 0 17><Pos: 0 2>Jura?<CondJmp: 6 192 12 255 255>
+!---------------------!
+<Char: 0 8>É sério! Pode ir lá ver!<Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 8><0xF1: 0>É assim: você coloca um<LF>
+chip indesejado nela e<LF>
+ela te dá outro!<Button><EB>
+!*********************!
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<Char: 0 20><0xF1: 0>Esta é a Estação do<LF>
+Porto da Metrolinha.<Button><CR>
+!---------------------!
+Como ela fica em Porto<LF>
+das Águas, a chamamos<LF>
+de Estação do Porto.<Button><EB>
+!*********************!
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<0xF6: 3 23 1 21 21 255><Char: 0 20><0xF1: 0>Bem-vindo à Estação<LF>
+do Porto!<Button><EB>
+!*********************!
+<@PointerIdx21>
+<Char: 0 20><0xF1: 0>Você tem passaporte?<Button><CR>
+!---------------------!
+Então sinta-se à<LF>
+vontade para usar a<LF>
+linha do aeroporto.<Button><EB>
+!*********************!
+<@PointerIdx22>
+<Char: 0 6><0xF1: 0>Estou ocupado.<LF>
+Se quiser falar comigo,<LF>
+tente outra hora.<Button><EB>
+!*********************!
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<Char: 0 20><0xF1: 0>Muito obrigado por<LF>
+viajar conosco!<Button><CR>
+!---------------------!
+Ahh... mais um dia<LF>
+perfeito!!<Button><EB>
+!*********************!
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<Char: 0 20><0xF1: 0>As pessoas estão<LF>
+deixando de vir por<LF>
+causa dos terremotos.<Button><EB>
+!*********************!
+<@PointerIdx31>
+<@PointerIdx32>
+<Char: 0 20><0xF1: 0>A Metrolinha foi feita<LF>
+para resistir a tremores.<Button><EB>
+!*********************!
+<@PointerIdx33>
+<@PointerIdx34>
+<Char: 0 20><0xF1: 0>A cidade também já<LF>
+deve estar se<LF>
+acalmando.<Button><EB>
+!*********************!
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<Char: 0 20><0xF1: 0>Bem-vindo à Estação<LF>
+do Porto!<Button><CR>
+!---------------------!
+Ela ajuda as pessoas a<LF>
+não pensarem na Gospel.<LF>
+Isso é bom... né?<Button><EB>
+!*********************!
+<@PointerIdx41>
+<Char: 0 15><0xF1: 0>Glub! Glub!<Button><CR>
+!---------------------!
+Aaahhhh.... delícia!<LF>
+Bom, de volta ao<LF>
+trabalho!<Button><CR>
+!---------------------!
+Vou mostrar pra vocês<LF>
+do que um NetLutador<LF>
+Municipal é capaz!<Button><EB>
+!*********************!
+<@PointerIdx42>
+<Char: 0 17><0xF1: 0>Onje rica o...<LF>
+Chentro Orrichal?<Button><CR>
+!---------------------!
+A mamãe e o papai<LF>
+chão em caja cachano<LF>
+víus!<Button><CR>
+!---------------------!
+E eu tchô... <Dly: 1 20 0>eu...<Dly: 1 20 0><LF>
+O que eu chava fajendo<LF>
+meijmo?<Button><EB>
+!*********************!
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<Char: 0 20><0xF1: 0>Você tem um KotoTckt?<LF>
+Então por favor, siga<LF>
+pelo portão.<Button><CR>
+!---------------------!
+Só é possível acessar<LF>
+Kotobuki daqui. É uma<LF>
+linha fechada.<Button><EB>
+!*********************!
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 4 1 193 255><0xF3: 0 3 1 194 255><0xF2: 0 3 1><Char: 0 8><0xF1: 0>Aí, xará!<Button><CR>
+!---------------------!
+Tem aí um chip<LF>
+"<ItemTbl: 0 107 1> <ItemTbl: 0 18 3>"?<Button><CR>
+!---------------------!
+Se tiver, eu ofereço<LF>
+esse "<ItemTbl: 0 121 1> <ItemTbl: 0 1 3>"<LF>
+em troca.<Button><CR>
+!---------------------!
+Que tal?<LF>
+<Arrow: 17 0><Pos: 0 2>Tudo bem <Arrow: 0 17><Pos: 0 2>Nem pensar!<CondJmp: 6 128 191 255 255>
+!---------------------!
+Pena. Me avisa se<LF>
+mudar de ideia, morô?<Button><EB>
+!*********************!
+<@PointerIdx191>
+<0xF6: 20 107 0 18 1 255 255 195><0xF2: 0 4 1><0xF6: 17 107 0 18 1><Char: 0 8><0xF1: 0>Hã? Cê aceita mesmo?<LF>
+Valeu, cara!<Button><CR>
+!---------------------!
+Tá aqui a minha parte<LF>
+do trato!<Button><CR>
+!---------------------!
+<Jmp: 0 192><@PointerIdx192>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 16 121 0 1 1>Lan recebeu o chip<LF>
+"<ItemTbl: 0 121 1> <ItemTbl: 0 1 3>"!!<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx193>
+<Char: 0 8><0xF1: 0>Cê é gente fina.<LF>
+Eu vô cuidar bem desse<LF>
+chip aqui!<Button><EB>
+!*********************!
+<@PointerIdx194>
+<Char: 0 8><0xF1: 0>Espera aí, você...?<Button><CR>
+!---------------------!
+Troca o seu<LF>
+"<ItemTbl: 0 107 1> <ItemTbl: 0 18 3>"<LF>
+pelo meu "<ItemTbl: 0 121 1> <ItemTbl: 0 1 3>"?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Tudo bem <Arrow: 0 17><Pos: 0 2>Nem pensar!<CondJmp: 6 128 191 255 255>
+!---------------------!
+Pena. Me avisa se<LF>
+mudar de ideia, morô?<Button><CR>
+!---------------------!
+Estou pronto quando<LF>
+você estiver.<Button><EB>
+!*********************!
+<@PointerIdx195>
+<Char: 0 8><0xF1: 0>Ei, não parece que cê<LF>
+tem o "<ItemTbl: 0 107 1> <ItemTbl: 0 18 3>",<LF>
+não.<Button><CR>
+!---------------------!
+Cê não botou ele no<LF>
+teu diretório não,<LF>
+botou?<Button><CR>
+!---------------------!
+Você tem que tirar de<LF>
+lá os chips que quiser<LF>
+trocar, manja?<Button><EB>
+!*********************!
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>Uma lata de lixo para<LF>
+lixo incinerável.<Button><CR>
+!---------------------!
+Mas também há uma<LF>
+para lixo não-incinerável.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>"Mantenha os Trens<LF>
+Limpos"<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>Uma lojinha.<Button><CR>
+!---------------------!
+As lojinhas do Metrô do<LF>
+Porto têm uma ampla<LF>
+seleção.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>Um jornal de fofocas.<Button><CR>
+!---------------------!
+A foto ampliada de um<LF>
+diretor famoso adorna<LF>
+a capa.<Button><CR>
+!---------------------!
+"Sr. Jumbo? Tchau,<LF>
+tchau, querido!"<Button><EB>
+!*********************!
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<0xF3: 0 23 0 236 255><0xF6: 3 23 1 232 232 255><0xF3: 4 16 32 231 255><0xF1: 0>Escolha um destino:<LF>
+<Arrow: 0 17><Pos: 0 2>ACDC<LF>
+<Arrow: 17 0><Pos: 0 2>Ficar<CondJmp: 6 128 233 255 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx231>
+<0xF1: 0>Escolha um destino:<LF>
+<Arrow: 17 34><Pos: 0 2>ACDC <Arrow: 0 18><Pos: 0 2>Okuden<LF>
+<Arrow: 17 0><Pos: 0 2>Ficar<CondJmp: 7 128 233 234 255>
+!---------------------!
+<0xff><EB>
+!*********************!
+<@PointerIdx232>
+<0xF1: 0>Escolha um destino:<LF>
+<Arrow: 17 34><Pos: 0 2>ACDC <Arrow: 0 51><Pos: 0 2>Okuden<LF>
+<Arrow: 51 0><Pos: 0 2>Aerporto <Arrow: 34 17><Pos: 0 2>Ficar<CondJmp: 8 128 233 234 235>
+!---------------------!
+<0xff><0xff><EB>
+!*********************!
+<@PointerIdx233>
+<0xF2: 0 23 0><0xF6: 0 88 1><0xF1: 0><0xF8: 4 24>Lan recebeu:<LF>
+"<ItemTbl: 0 88 0>"!!<0xF8: 12><0xF8: 4 4><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx234>
+<0xF2: 0 23 0><0xF6: 0 90 1><0xF1: 0><0xF8: 4 24>Lan recebeu:<LF>
+"<ItemTbl: 0 90 0>"!!<0xF8: 12><0xF8: 4 4><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx235>
+<0xF2: 0 23 0><0xF6: 0 91 1><0xF1: 0><0xF8: 4 24>Lan recebeu:<LF>
+"<ItemTbl: 0 91 0>"!!<0xF8: 12><0xF8: 4 4><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx236>
+<0xF1: 0>Trocar de ticket?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 128 237 255 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx237>
+<0xF6: 1 88 1><0xF6: 1 90 1><0xF6: 1 91 1><0xF2: 4 23 0><0xF1: 0>Lan devolvou o ticket<LF>
+que tinha adquirido!<Button><CR>
+!---------------------!
+<Jmp: 0 230><@PointerIdx238>
+<0xF6: 1 88 1><0xF1: 0>Lan usou:<LF>
+"<ItemTbl: 0 88 0>"!<Button><EB>
+!*********************!
+<@PointerIdx239>
+<@PointerIdx240>
+<0xF6: 1 90 1><0xF1: 0>Lan usou:<LF>
+"<ItemTbl: 0 90 0>"!<Button><EB>
+!*********************!
+<@PointerIdx241>
+<0xF6: 1 91 1><0xF1: 0>Lan usou:<LF>
+"<ItemTbl: 0 91 0>"!<Button><EB>
+!*********************!
+<@PointerIdx242>
+<0xF6: 3 41 1 255 255 243><Char: 0 64><0xF1: 0>Lan, quer usar o<LF>
+<ItemTbl: 0 41 0>?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 129 255 243 255>
+!---------------------!
+<Char: 1 48 11>n usou:<LF>
+"<ItemTbl: 0 41 0>"!<Button><0xF2: 0 172 0><EB>
+!*********************!
+<@PointerIdx243>
+<Char: 1 246 3>)0<Pos: 238 255 246>2<0x5a>0<CondJmp: 240 255 246 3 91>
+!---------------------!
+0<0xF1: 241><0xff><EB>
+!*********************!
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

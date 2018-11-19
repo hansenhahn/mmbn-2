@@ -3,8 +3,8 @@
 <Char: 0 0><0xF1: 0>Q-que tremor foi esse?<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<Char: 0 64><0xF1: 0>Lan!! Alguma coisa está<LF>
-aumentando os níveus<LF>
+<Char: 0 64><0xF1: 0>Lan!! Tem alguma coisa<LF>
+aumentando os níveis<LF>
 de radiação!<Button><CR>
 !---------------------!
 Se continuar assim...<Dly: 1 30 0><LF>

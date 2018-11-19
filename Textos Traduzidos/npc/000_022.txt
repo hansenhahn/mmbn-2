@@ -1,0 +1,502 @@
+<@PointerIdx0>
+<0xF3: 4 13 13 5 255><Char: 0 30><0xF1: 0>Pode ser divertido<LF>
+pegar rotas diferentes<LF>
+de vez em quando.<Button><CR>
+!---------------------!
+Nunca se sabe que tipo<LF>
+de coisas estranhas se<LF>
+pode achar nelas.<Button><CR>
+!---------------------!
+<0xF3: 0 114 2 2 255><EB>
+!*********************!
+<@PointerIdx1>
+<0xF3: 4 56 57 62 255><0xF3: 4 55 55 60 255><0xF3: 4 13 13 6 255><0xF3: 0 114 2 3 255><Char: 0 26><0xF1: 0>Aquele ali é o meu pai,<LF>
+dando uma de bonzão.<Button><CR>
+!---------------------!
+Mesmo tendo deixado<LF>
+cair os binóculos dele<LF>
+por aqui.<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 30><0xF1: 0>Como é que é? Um urso?<LF>
+Ai, céus! Ai, vida!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 26><0xF1: 0>Tem um urso aqui!<LF>
+Um urso!<LF>
+AAAAAAAAAAAHHH!!!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<@PointerIdx5>
+<Char: 0 30><0xF1: 0>Você nos salvou! Até<LF>
+ursos falsos podem<LF>
+causar acidentes, afinal.<Button><CR>
+!---------------------!
+Como agradecimento,<LF>
+vou lhe dar estes binó-<LF>
+culos que eu deixei cair.<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 26><0xF1: 0>Eu não tenho medo de<LF>
+ursos de mentira! Vou
+<LF>
+até me conectar nele.<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 9><0xF1: 0>Tarde demais...<Button><EB>
+!*********************!
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<Char: 0 34><0xF1: 0>Eu vi alguém andando por<LF>
+ali. O que será que ele
+<LF>
+tava fazendo?<Button><CR>
+!---------------------!
+Espera, deixa isso pra<LF>
+lá! Eu preciso achar a<LF>
+minha irmã!<Button><EB>
+!*********************!
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<0xF3: 4 20 21 25 255><Char: 0 10><0xF1: 0>Nossa! A água do rio é<LF>
+transparente!<Button><EB>
+!*********************!
+<@PointerIdx21>
+<0xF3: 4 20 21 26 255><Char: 0 16><0xF1: 0>Só de olhar pra Estátua<LF>do Guardião eu esqueço<LF>
+todos os meus problemas.<Button><EB>
+!*********************!
+<@PointerIdx22>
+<0xF3: 4 20 21 27 255><Char: 0 22><0xF1: 0>Estou estudando a<LF>
+poluição atmosférica.<Button><CR>
+!---------------------!
+Após comparação com o<LF>
+ar oriundo daqui,<LF>
+do Vale Okuden,<Button><CR>
+!---------------------!
+concluo que o ar da
+<LF>
+cidade é poluído pra<LF>
+dedéu.<Button><EB>
+!*********************!
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<Char: 0 10><0xF1: 0>Olha, um peixinho!<Button><EB>
+!*********************!
+<@PointerIdx26>
+<Char: 0 16><0xF1: 0>Me sinto ótima agora,
+<LF>
+pronta pra acordar ama-<LF>
+nhã e enfrentar o mundo!<Button><EB>
+!*********************!
+<@PointerIdx27>
+<Char: 0 22><0xF1: 0>Se a poluição continuar<LF>
+assim, o que será de<LF>Ni-Hon?<Button><EB>
+!*********************!
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<0xF3: 4 29 31 40 255><0xF3: 4 27 28 35 255><Char: 0 70><0xF1: 0>Bom dia. Eu sou o seu<LF>
+Navi!<Button><CR>
+!---------------------!
+Ei!!<LF>
+Você aí.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0> você viu o meu<LF>
+ensaio secreto!<Button><CR>
+!---------------------!
+Tenho uma apresentação<LF>
+no próximo evento.<LF>
+Faço o papel do Navi.<Button><CR>
+!---------------------!
+É uma boa ideia, não<LF>
+acha?<Button><EB>
+!*********************!
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<Char: 0 70><0xF1: 0>Estou ficando meio<LF>
+cansado. Vou fazer uma<LF>
+pausa daqui a pouco.<Button><CR>
+!---------------------!
+Ah, você me viu de novo!<Button><EB>
+!*********************!
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<Char: 0 70><0xF1: 0>Para falar a verdade,<LF>
+eu vim da Rede...<Button><CR>
+!---------------------!
+Ha! Peguei você! Minha<LF>
+atuação é digna de<LF>
+prêmio ou não é?<Button><EB>
+!*********************!
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<Char: 0 26><0xF1: 0>As dádivas da natureza!<Button><EB>
+!*********************!
+<@PointerIdx61>
+<@PointerIdx62>
+<Char: 0 26><0xF1: 0>Eu tenho medo de<LF>
+terremoto. Tenho que<LF>
+voltar pra casa.<Button><EB>
+!*********************!
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<Char: 0 16><0xF1: 0>Eu não vim aqui pra<LF>
+acampar.<Button><CR>
+!---------------------!
+Vim só ver a beleza da<LF>
+natureza com os meus<LF>
+próprios olhos.<Button><CR>
+!---------------------!
+E agora já está na hora<LF>
+de eu voltar...<Button><CR>
+!---------------------!
+e salvar todos aqueles<LF>
+que sofrem sob a tirania<LF>
+dos vírus!<Button><EB>
+!*********************!
+<@PointerIdx81>
+<0xF3: 0 70 1 82 255><0xF2: 0 70 1><Char: 0 19><0xF1: 0>Tome. É seu.<Button><CR>
+!---------------------!
+<Char: 1 248 0><0xF8: 4 24><0xF6: 0 99 1>Lan recebeu o PowerUp<LF>
+"<ItemTbl: 0 99 0>"!!<0xF8: 12><0xF8: 8><Button><CR>
+!---------------------!
+Memória padrão<LF>
+aumentada em 2MB!!<Button><EB>
+!*********************!
+<@PointerIdx82>
+<Char: 0 19><0xF1: 0>Eu sinto muito.
+<LF>
+Estou sem.<Button><EB>
+!*********************!
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>Não tem trilha por aqui.<LF>
+Fim da linha.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>Não tem trilha por aqui.<LF>
+Fim da linha.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>O rio está cheio de<LF>
+pedras de vários
+<LF>
+tamanhos.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>O rio está cheio de<LF>
+pedras de vários
+<LF>
+tamanhos.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<0xF1: 0>A Estátua do Guardião<LF>
+com sua expressão<LF>
+serena.<Button><CR>
+!---------------------!
+...!?<Button><CR>
+!---------------------!
+Você encontrou um bu-<LF>
+raco com uma entrada<LF>
+de conexão nele.<Button><EB>
+!*********************!
+<@PointerIdx225>
+<0xF1: 0>Esta é a famosa<LF>
+Catarata de Okuden.<Button><CR>
+!---------------------!
+Estas águas são vitais<LF>
+para a saúde dos<LF>
+cidadãos de DenCity.<Button><EB>
+!*********************!
+<@PointerIdx226>
+<0xF3: 4 16 72 239 255><0xF3: 4 15 15 236 255><0xF3: 0 114 2 255 227><0xF6: 3 10 1 239 239 228><EB>
+!*********************!
+<@PointerIdx227>
+<0xF1: 0>É tão escuro e úmido<LF>
+atrás da catarata.<LF>
+<Dly: 1 30 0>
+Brrr! <Dly: 1 30 0>Que água gelada!<Button><CR>
+!---------------------!
+Você acredita ter visto<LF>
+uma coisa brilhante, mas<LF>
+não tem certeza.<Button><EB>
+!*********************!
+<@PointerIdx228>
+<0xF1: 0>É tão escuro e úmido<LF>
+atrás da catarata.<LF>
+<Dly: 1 30 0>
+Brrr! <Dly: 1 30 0>Que água gelada!<Button><CR>
+!---------------------!
+Você acredita ter visto<LF>
+uma coisa brilhante, mas<LF>
+não tem certeza.<Button><CR>
+!---------------------!
+Tentar tirá-la de lá?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 128 229 255 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx229>
+<0xF1: 0><0xF8: 4 24><0xF6: 0 10 1>Lan encontrou:<LF>
+"<ItemTbl: 0 10 0>"!!<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
+!*********************!
+<@PointerIdx230>
+<0xF3: 4 13 255 232 255><0xF1: 0><0xFA: 12><0xFA: 0 8 1>Raur!!!<Dly: 0 60 0><LF>
+<0xFA: 0 8 1>RRRAAARRR!!!!<Dly: 0 60 0><Button><CR>
+!---------------------!
+<0xFA: 8><Jmp: 0 231><@PointerIdx231>
+<Char: 0 64><0xF1: 0>Lan! Essa coisa pode<LF>
+acabar se mexendo! Va-<LF>
+mos tentar nos conectar!<Button><EB>
+!*********************!
+<@PointerIdx232>
+<0xF1: 0>É um urso falso.<LF>
+No momento, completa-<LF>
+mente inativo.<Button><EB>
+!*********************!
+<@PointerIdx233>
+<0xF1: 0><0xFA: 12><0xFA: 0 8 1>Rawr!!!!<Dly: 0 60 0><LF>
+<0xFA: 0 8 1>Rraaaaarrr!!!!<Dly: 0 60 0><Button><CR>
+!---------------------!
+<0xFA: 8><Jmp: 0 234><@PointerIdx234>
+<Char: 0 2><0xF1: 0>Lan! Não brinca com o<LF>
+perigo!<Button><CR>
+!---------------------!
+<Jmp: 0 235><@PointerIdx235>
+<Char: 0 7><0xF1: 0>Espera aí. Esse último<LF>
+rugido do urso foi<LF>
+igualzinho ao anterior.<Button><CR>
+!---------------------!
+Tem alguma coisa errada<LF>
+aqui... só não sei dizer<LF>
+o quê.<Button><EB>
+!*********************!
+<@PointerIdx236>
+<0xF3: 0 145 2 238 255><0xF2: 0 148 2><0xF1: 0>É tão escuro e úmido<LF>
+atrás da catarata.<LF>
+<Dly: 1 30 0>
+Brrr! <Dly: 1 30 0>Que água gelada!<Button><CR>
+!---------------------!
+<Jmp: 0 237><@PointerIdx237>
+<Char: 0 64><0xF1: 0>Tá vendo? Tem um PET<LF>
+lá no fundo. E ele não<LF>
+tava aí antes!<Button><CR>
+!---------------------!
+Vamos nos conectar nele<LF>
+e conferir.<Button><EB>
+!*********************!
+<@PointerIdx238>
+<0xF1: 0>É tão escuro e úmido<LF>
+atrás da catarata.<LF>
+<Dly: 1 30 0>
+Brrr! <Dly: 1 30 0>Que água gelada!<Button><CR>
+!---------------------!
+O PET usado no crime<LF>
+caiu aqui. É um modelo<LF>
+padrão.<Button><EB>
+!*********************!
+<@PointerIdx239>
+<0xF1: 0>É tão escuro e úmido<LF>
+atrás da catarata.<LF>
+<Dly: 1 30 0>
+Brrr! <Dly: 1 30 0>Que água gelada!<Button><EB>
+!*********************!
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

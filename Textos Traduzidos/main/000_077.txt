@@ -1,12 +1,11 @@
 <@AbsoluteAddr 7895304>
 <@PointerIdx0>
 <Char: 0 64><0xF1: 0>Iniciar programa de<LF>
-desbloqueio da<LF>
-porta!<Button><CR>
+desbloqueio da porta!<Button><CR>
 !---------------------!
-Pronto, a passagem já<LF>
+Pronto, a passagem<LF>
 deve estar liberada<LF>
-agoar.<Button><EB>
+agora.<Button><EB>
 !*********************!
 <@PointerIdx1>
 <Char: 1 241 0>Não posso deixá-los<LF>
@@ -68,7 +67,7 @@ derrotá-lo...<Button><CR>
 <Char: 0 73><0xF1: 0>É nossa única chance.<Button><CR>
 !---------------------!
 Se morrermos pelo nobre<LF>
-computador matriz, será<LF>
+computador-matriz, será<LF>
 uma morte honrada!!<Button><CR>
 !---------------------!
 Vamos partir com estilo!!<0xFA: 4 16 0><Button><CR>

@@ -1,0 +1,355 @@
+<@PointerIdx0>
+<@PointerIdx1>
+<@PointerIdx2>
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<0xF3: 4 61 61 47 255><0xF3: 4 58 60 44 255><0xF3: 0 124 2 42 255><0xF3: 4 57 57 43 255><0xF3: 4 56 56 41 255><0xF3: 4 55 55 35 255><Char: 0 7><0xF1: 0>Eu nem consigo acreditar<LF>
+no que aconteceu...<Button><CR>
+!---------------------!
+Que bom que tá todo<LF>
+mundo são e salvo!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<0xF3: 0 64 2 39 255><0xF6: 3 29 1 36 36 255><0xF2: 0 64 2><Char: 0 7><0xF1: 0>Bem-vindo ao lar, Lan!<LF>
+Ouvi dizer que andou<LF>
+ocupado lá na Ameropa!<Button><CR>
+!---------------------!
+Mandou bem!<Button><EB>
+!*********************!
+<@PointerIdx36>
+<0xF2: 0 64 2><0xF6: 1 29 1><Char: 0 7><0xF1: 0>Bem-vindo ao lar, Lan!<LF>
+Ouvi dizer que andou<LF>
+ocupado lá na Ameropa!<Button><CR>
+!---------------------!
+Mandou bem!<Button><CR>
+!---------------------!
+Uma lembrancinha?<Button><CR>
+!---------------------!
+Nossa! Que lindo!<LF>
+Eu sempre quis um anel<LF>
+assim!<Button><CR>
+!---------------------!
+Obrigada, Lan!<Button><CR>
+!---------------------!
+<Jmp: 0 37><@PointerIdx37>
+<Char: 0 7><0xF1: 0>Toma, uma lembrancinha<LF>
+minha em troca...<Button><CR>
+!---------------------!
+<Jmp: 0 38><@PointerIdx38>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 16 127 0 15 1>Lan recebeu o chip<LF>
+"<ItemTbl: 0 127 1> <ItemTbl: 0 15 3>"!!<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx39>
+<Char: 0 7><0xF1: 0>É bom ter você de volta,<LF>
+Lan. E também é bom<LF>
+você descansar bem!<Button><EB>
+!*********************!
+<@PointerIdx40>
+<@PointerIdx41>
+<Char: 0 7><0xF1: 0>Perdi contato com a<LF>
+Roll enquanto ela tava<LF>
+na área de Saborya...<Button><CR>
+!---------------------!
+O que será que<LF>
+aconteceu? Eu tô<LF>
+preocupada...<Button><EB>
+!*********************!
+<@PointerIdx42>
+<Char: 0 7><0xF1: 0>A Roll já me contou tudo.<LF>
+Lan, MegaMan...<LF>
+muito obrigada!<Button><CR>
+!---------------------!
+Mas cuidado, tem tido<LF>
+muitos tremores<LF>
+ultimamente.<Button><EB>
+!*********************!
+<@PointerIdx43>
+<Char: 0 7><0xF1: 0>Sinto que os terremotos<LF>
+tão ficando cada vez<LF>
+mais frequentes!<Button><CR>
+!---------------------!
+Lan! Você sabe que não<LF>
+é seguro sair por aí<LF>
+nesses horas, né?<Button><EB>
+!*********************!
+<@PointerIdx44>
+<Char: 0 7><0xF1: 0>Toma cuidado, Lan!<Button><EB>
+!*********************!
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<Char: 0 7><0xF1: 0>Parece que pararam os<LF>
+tremores. Até que enfim!<Button><CR>
+!---------------------!
+Ouvi dizer que foi você<LF>
+que os fez parar...<LF>
+Obrigada!<Button><EB>
+!*********************!
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<Char: 0 7><0xF1: 0>O meu coração tá a mil...<Button><CR>
+!---------------------!
+Lan, toma ainda mais<LF>
+cuidado que o normal<LF>
+dessa vez, tá bom?<Button><EB>
+!*********************!
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>É um Servebot,<LF>
+personagem do desenho<LF>
+"Bonne Dia e Cia."!<Button><CR>
+!---------------------!
+Os olhinhos giratórios<LF>
+dele são tão fofos.<Button><CR>
+!---------------------!
+Possui uma entrada de<LF>
+conexão, mas está<LF>
+quebrada.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>O computador da Mayl.<LF>
+Possui uma entrada de<LF>
+conexão.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>A cesta de lixo está<LF>
+vazia.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>É um enorme espelho.<LF>
+As garotas adoram esse<LF>
+tipo de coisa.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<0xF1: 0>A cama da Mayl fica<LF>
+além destas escadas.<Button><EB>
+!*********************!
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

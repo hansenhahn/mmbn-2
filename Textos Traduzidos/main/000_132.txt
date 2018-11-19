@@ -8,7 +8,7 @@ Que Deus abençõe
 a Gospel!<Button><EB>
 !*********************!
 <@PointerIdx1>
-<Char: 0 61><0xF1: 0>O quê!? MagnetMan<LF>
+<Char: 0 61><0xF1: 0>O quê!? O MagnetMan<LF>
 foi...!<Button><CR>
 !---------------------!
 Você! Você arruinou<LF>
@@ -41,13 +41,13 @@ Maldição!<Button><CR>
 os Oficiais...<Button><CR>
 !---------------------!
 assim que aterrissarmos.<LF>
-Você, vem comigo!<Button><CR>
+Venha comigo, você!<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
 <Char: 0 61><0xF1: 0>Ahh...!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
-<Char: 0 0><0xF1: 0>Obrigado, senhor!!<Button><CR>
+<Char: 0 0><0xF1: 0>Obrigado, moço!!<Button><CR>
 !---------------------!
 <Jmp: 0 9><@PointerIdx9>
 <Char: 0 60><0xF1: 0>O programa do trem de<LF>

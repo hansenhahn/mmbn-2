@@ -1,0 +1,608 @@
+<@PointerIdx0>
+<0xF3: 4 64 66 80 255><0xF3: 4 64 65 70 255><0xF3: 4 61 61 65 255><0xF3: 4 56 57 60 255><0xF3: 4 55 55 50 255><0xF3: 4 32 32 30 255><0xF3: 4 26 31 26 255><0xF3: 4 22 25 22 255><0xF3: 4 20 21 16 255><0xF3: 4 16 19 10 255><Char: 0 34><0xF1: 0>Bem-vindo!<Button><CR>
+!---------------------!
+Que tal uma marmita de<LF>
+almoço caseiro bem<LF>
+quentinha?<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 30><0xF1: 0>Aaaaaarrrrrrhh!!<Dly: 1 30 0><Button><CR>
+!---------------------!
+Como eu adoro este ar<LF>
+fresco das montanhas!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<0xF3: 4 15 15 6 255><Char: 0 30><0xF1: 0>Um menininho de cabelo<LF>
+branco tingido?<Button><CR>
+!---------------------!
+Olha... não, não vi<LF>
+ninguém assim por aqui.<LF>
+Cabelo estraho, não?<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 30><0xF1: 0>Todo mundo já evacuou<LF>
+a área!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<Char: 0 34><0xF1: 0>Comida caseira natural<LF>
+faz um bem danado!<LF>
+Não quer experimentar?<Button><EB>
+!*********************!
+<@PointerIdx11>
+<0xF3: 4 20 21 17 255><Char: 0 26><0xF1: 0>Um, dois, três, quatro,<LF>
+subir o morro é um<LF>
+barato!<Button><CR>
+!---------------------!
+Cinco, seis, sete, oito,<LF>
+tá na hora de molhar...<LF>
+er...<Button><CR>
+!---------------------!
+É! Um, dois, TRÊS,<LF>
+QUATRO!<Button><EB>
+!*********************!
+<@PointerIdx12>
+<0xF3: 4 20 21 18 255><Char: 0 9><0xF1: 0>Ô, para de ficar<LF>
+correndo assim! Vai<LF>
+acabar caindo!<Button><EB>
+!*********************!
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<Char: 0 34><0xF1: 0>As marmitas de comida<LF>
+caseira saudável... não<LF>
+estão vendendo bem.<Button><CR>
+!---------------------!
+Mas eu não vou desistir!<Button><EB>
+!*********************!
+<@PointerIdx17>
+<Char: 0 26><0xF1: 0>Vamos, mana! Vamos!<Button><EB>
+!*********************!
+<@PointerIdx18>
+<Char: 0 9><0xF1: 0>Esse menino não para<LF>
+quieto.<Button><CR>
+!---------------------!
+Mas já que a gente tá<LF>
+aqui, vamos admirar a<LF>
+natureza e relaxar.<Button><EB>
+!*********************!
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<Char: 0 34><0xF1: 0>Preciso temperar melhor<LF>
+os meus pratos...<Button><CR>
+!---------------------!
+Hmm, tem que ter um<LF>
+jeito de melhorar o<LF>
+sabor...<Button><EB>
+!*********************!
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<Char: 0 34><0xF1: 0>Eu criei uma marmita<LF>
+secreta com a receita<LF>
+que aprendi de uma<Button><CR>
+!---------------------!
+amiga lá do grupo<LF>
+"vegetarianos anônimos".<LF>
+É divina!<Button><EB>
+!*********************!
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<Char: 0 34><0xF1: 0>Quem é?<Button><EB>
+!*********************!
+<@PointerIdx31>
+<Char: 0 30><0xF1: 0>Essa comida é tão boa!<Button><CR>
+!---------------------!
+Ela com certeza vai pra<LF>
+capa da próxima edição<LF>
+do "Minha Marmita"!<Button><CR>
+!---------------------!
+Hm? Quem, eu?<Button><CR>
+!---------------------!
+Eu sou um crítico errante<LF>
+de marmitas.<Button><CR>
+!---------------------!
+E as suas marmitas são<LF>
+fenomenais!<Button><CR>
+!---------------------!
+Dou 5 estrelas!<Button><EB>
+!*********************!
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<Char: 0 34><0xF1: 0>Que fila enorme! É a<LF>
+primeira vez que eu<LF>
+tenho tantos clientes!<Button><CR>
+!---------------------!
+Por favor, esperem<LF>
+sua vez!<Button><EB>
+!*********************!
+<@PointerIdx51>
+<0xF3: 4 61 61 66 255><Char: 0 15><0xF1: 0>Foi capa da revista<LF>
+"Minha Marmita", então<LF>
+tem que ser boa, né?<Button><EB>
+!*********************!
+<@PointerIdx52>
+<0xF3: 4 61 61 67 255><Char: 0 13><0xF1: 0>O médico me mandou<LF>
+passar a comer coisas<LF>
+saudáveis pra mim!<Button><EB>
+!*********************!
+<@PointerIdx53>
+<0xF3: 4 61 61 68 255><Char: 0 51><0xF1: 0>Foi só por acaso que eu<LF>
+peguei todos estes<LF>
+ni-honenses fazendo fila.<Button><CR>
+!---------------------!
+Entrei nela só pela<LF>
+experiência!<Button><EB>
+!*********************!
+<@PointerIdx54>
+<0xF3: 4 61 61 69 255><Char: 0 17><0xF1: 0>Eu também quero!<Button><EB>
+!*********************!
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<Char: 0 34><0xF1: 0>A minha clientela sumiu.<LF>
+Vai ver por causa do<LF>
+terremoto? Hm.<Button><CR>
+!---------------------!
+Acho que eu vou ter<LF>
+que fechar por alguns<LF>
+dias.<Button><EB>
+!*********************!
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<Char: 0 34><0xF1: 0>Os clientes voltaram!<LF>
+Aleluia! Mas sério, você<LF>
+não pode furar a fila.<Button><EB>
+!*********************!
+<@PointerIdx66>
+<Char: 0 15><0xF1: 0>A comida aqui é tão<LF>
+boa que chega a ser...<LF>
+perigosa!<Button><CR>
+!---------------------!
+De hoje em diante, eu<LF>
+vou comer aqui<LF>
+diariamente!<Button><EB>
+!*********************!
+<@PointerIdx67>
+<Char: 0 13><0xF1: 0>Eu parei de sentir dor<LF>
+nas costas desde que<LF>
+passei a comer aqui!<Button><CR>
+!---------------------!
+É uma dádiva!<Button><EB>
+!*********************!
+<@PointerIdx68>
+<Char: 0 51><0xF1: 0>Segundo round!<Button><EB>
+!*********************!
+<@PointerIdx69>
+<Char: 0 17><0xF1: 0>Schegundho ránd!<Button><EB>
+!*********************!
+<@PointerIdx70>
+<Char: 0 15><0xF1: 0>Eu vim comprar uma<LF>
+marmita, mas fecharam
+<LF>
+as portas! É a crise...<Button><EB>
+!*********************!
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 137 12 201 255><0xF3: 0 153 0 199 255><0xF3: 0 152 0 198 255><0xF2: 0 152 0><Char: 0 13><0xF1: 0>Ah! É você o meu Cupido?<LF>
+Sim, fui eu quem<LF>
+postou o pedido.<Button><CR>
+!---------------------!
+Eu nunca achei que iria<LF>
+me apaixonar numa idade<LF>
+tão avançada,<Button><CR>
+!---------------------!
+mas acho que não há<LF>
+como prever as idas e<LF>
+vindas do amor.<Button><CR>
+!---------------------!
+No instante em que eu a<LF>
+vi, foi como se eu tivesse<LF>
+levado um choque!<Button><CR>
+!---------------------!
+Senti até como se o meu<LF>
+coração fosse parar. E<LF>
+não por causas naturais!<Button><CR>
+!---------------------!
+Seu sorriso era tão<LF>
+belo. Ela era meu raio,<LF>
+estrela e luar.<Button><CR>
+!---------------------!
+Eu quero dizer a ela<LF>
+como me sinto, mas sou<LF>
+tímido demais!<Button><CR>
+!---------------------!
+Mal consigo falar quando<LF>
+ela está por perto.<Button><CR>
+!---------------------!
+Consegue pensar em um<LF>
+jeito de eu falar pra ela?<Button><CR>
+!---------------------!
+<Jmp: 0 191><@PointerIdx191>
+<Char: 0 0><0xF1: 0>Com a boca? Formando<LF>
+palavras? E depois<LF>
+frases?<Button><CR>
+!---------------------!
+<Jmp: 0 192><@PointerIdx192>
+<Char: 0 13><0xF1: 0>Se desse pra eu fazer<LF>
+isso, eu não estaria aqui,<LF>
+né, espertinho?<Button><CR>
+!---------------------!
+E mesmo se eu conse-<LF>
+guisse sequer tentar, o<LF>
+meu coração praria!<Button><CR>
+!---------------------!
+Vamos, por favor, ajude<LF>
+este velho com este<LF>
+problema.<Button><CR>
+!---------------------!
+<Jmp: 0 193><@PointerIdx193>
+<Char: 0 64><0xF1: 0>Aí, Lan... que tal uma<LF>
+carta de amor?<Button><CR>
+!---------------------!
+Uma forma clichê de<LF>
+fazer isso, sim, mas é<LF>
+clichê porque funciona.<Button><CR>
+!---------------------!
+<Jmp: 0 194><@PointerIdx194>
+<Char: 0 0><0xF1: 0>Até que é uma boa ideia!<LF>
+Taí o que vamos fazer!<Button><CR>
+!---------------------!
+Escreve uma carta de<LF>
+amor pra ela, moço!<Button><CR>
+!---------------------!
+<Jmp: 0 195><@PointerIdx195>
+<Char: 0 13><0xF1: 0>Uma carta de amor.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0><LF>
+Pode dar certo!<Button><CR>
+!---------------------!
+É! É isso mesmo que eu<LF>
+vou fazer!<LF>
+Agora mesmo, até!<Button><CR>
+!---------------------!
+Mas.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0> o que eu escrevo?<Button><CR>
+!---------------------!
+<Jmp: 0 196><@PointerIdx196>
+<Char: 0 0><0xF1: 0>Ah, é só escrever<LF>
+o que você sente<LF>
+por ela!<Button><CR>
+!---------------------!
+Escrever não deve te<LF>
+deixar nervoso, né?<Button><CR>
+!---------------------!
+<Jmp: 0 197><@PointerIdx197>
+<Char: 0 13><0xF1: 0>É, você está certo!<LF>
+Tudo bem, então!<LF>
+Lá vai!<Button><CR>
+!---------------------!
+OHHHH!!<LF>
+Isso!<LF>
+E um pouquinho disso!<Button><CR>
+!---------------------!
+T... terminei!<LF>
+É o meu magnum opus<LF>
+literário!<Button><CR>
+!---------------------!
+Tá, então aqui vai o<LF>
+resto do meu pedido,<LF>
+rapazinho...<Button><CR>
+!---------------------!
+Quero que você entregue<LF>
+essa carta ao meu<LF>
+docinho de côco.<Button><CR>
+!---------------------!
+E depois de ela ler,<LF>
+traga a resposta<LF>
+pra mim.<Button><CR>
+!---------------------!
+Eu não sei onde ela<LF>
+está... tudo que sei<Button><CR>
+!---------------------!
+é que ela adora flores.<LF>
+Deve estar onde<LF>
+nascem as flores.<Button><CR>
+!---------------------!
+O apelido dela é<LF>
+Girassol!<Button><CR>
+!---------------------!
+A minha vida depende<LF>
+disso! Não me<LF>
+decepcione!!<Button><CR>
+!---------------------!
+Conto com você!<Button><CR>
+!---------------------!
+<Jmp: 0 202><@PointerIdx198>
+<Char: 0 13><0xF1: 0>C... confirmação?<Button><CR>
+!---------------------!
+Quero que você entregue<LF>
+a carta que eu escrevi<LF>
+ao meu docinho de côco.<Button><CR>
+!---------------------!
+E depois que ela a ler,<LF>
+trazer a resposta<LF>
+dela pra mim.<Button><CR>
+!---------------------!
+Procure um lugar em que<LF>
+nascem flores. É lá que<LF>
+ela estará.<Button><CR>
+!---------------------!
+Ela é uma mulher linda.<LF>
+Mas não vá pensando em<LF>
+me passar a perna!<Button><CR>
+!---------------------!
+Enfim, vai logo, menino!<LF>
+Rápido! Eu não aguento<LF>
+esse suspense todo!<Button><EB>
+!*********************!
+<@PointerIdx199>
+<0xF2: 0 137 12><0xF2: 4 82 0><Char: 0 13><0xF1: 0>E então, o que ela disse?<Button><CR>
+!---------------------!
+Começar como amigos?<Button><CR>
+!---------------------!
+URRÚÚÚ! Esse é o dia<LF>
+mais feliz da minha vida!<Button><CR>
+!---------------------!
+Você me salvou a vida,<LF>
+menino! Muito obrigado!<LF>
+Já posso morrer feliz!<Button><CR>
+!---------------------!
+Ah, e antes que eu me<LF>
+esqueça... o seu<LF>
+pagamento.<Button><CR>
+!---------------------!
+Tome, é seu.<Button><CR>
+!---------------------!
+<Jmp: 0 200><@PointerIdx200>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 48 16 39 0 0 255 255 255>Lan recebeu<LF>
+10000 zennys!!<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
+!*********************!
+<@PointerIdx201>
+<Char: 0 13><0xF1: 0>Como eu adoro esta<LF>
+longa vida!<Button><EB>
+!*********************!
+<@PointerIdx202>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 52 1>Lan recebeu:<LF>
+"<ItemTbl: 0 52 0>"!!<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
+!*********************!
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>Pode-se ouvir o canto<LF>
+de um pássaro vindo de<LF>
+dentro.<Button><CR>
+!---------------------!
+É como se ele estivesse<LF>
+dizendo...<Button><CR>
+!---------------------!
+"Bem-vindo ao<LF>
+Vale Okuden"!<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>Um portão de árvores.<LF>
+Vê-lo alimenta em você<LF>
+a vontade de acampar.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>"Bem-Vindos ao Vale<LF>
+Okuden, o Salão Real<LF>
+da Natureza"!<Button><CR>
+!---------------------!
+Por aqui fica a parte<LF>
+mais interna da área de<LF>
+acampamento.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF3: 4 15 15 226 255><0xF3: 4 14 14 225 255><Char: 0 64><0xF1: 0>A gente não tem pressa<LF>
+de ir embora. Aproveita<LF>
+que a gente tá aqui.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<0xF1: 0>Uma parada de ônibus.<Button><CR>
+!---------------------!
+Poucos ônibus passam<LF>
+por aqui, pelo Vale<LF>
+Okuden.<Button><EB>
+!*********************!
+<@PointerIdx225>
+<Char: 0 64><0xF1: 0>Lan! Vai mesmo deixar<LF>
+o Chaud pra trás?<Button><EB>
+!*********************!
+<@PointerIdx226>
+<Char: 0 64><0xF1: 0>Você não pode ir embora,<LF>
+Lan! Temos que achar<LF>
+os detonadores!<Button><EB>
+!*********************!
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

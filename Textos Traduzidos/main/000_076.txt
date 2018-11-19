@@ -4,7 +4,7 @@
 levou um trato e<LF>
 tanto...<Button><CR>
 !---------------------!
-Temos que inserir a<LF>
+Temos que apresentar a<LF>
 senha certa para abrir<LF>
 essas passagens....<Button><CR>
 !---------------------!
@@ -21,7 +21,7 @@ ajudar vocês.<Button><CR>
 ao nosso lado,<Button><CR>
 !---------------------!
 mas deixe as lutas<LF>
-com os adultos aqui!<Button><CR>
+para os adultos aqui!<Button><CR>
 !---------------------!
 Prepare-se pra ver o<LF>
 poder dos NetLutadores<LF>
@@ -62,7 +62,7 @@ um pouco!<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
 <Char: 0 36><0xF1: 0>Hã!? Mas o que é isso...!?<LF>
-Um vírus! Os dois, me<LF>
+Um vírus! Vocês dois, me<LF>
 ajudem aqui!<Button><CR>
 !---------------------!
 <Jmp: 0 13><@PointerIdx13>

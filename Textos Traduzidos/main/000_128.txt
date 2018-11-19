@@ -13,7 +13,7 @@ infectar agora?<Button><CR>
 <Char: 0 59><0xF1: 0>O que foi agora!?<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<Char: 0 60><0xF1: 0>A pressão da cabine!<LF>
+<Char: 0 60><0xF1: 0>É a pressão da cabine!<LF>
 Ela está em queda!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>

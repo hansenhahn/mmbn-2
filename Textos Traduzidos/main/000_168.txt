@@ -42,7 +42,7 @@ de errado com você!?<Button><CR>
 Kch! Ksh!...<Dly: 1 30 0> Grrrarhh!<Button><EB>
 !*********************!
 <@PointerIdx9>
-<Char: 0 40><0xF1: 0>...Ha! Ha... hahahaha!<Dly: 1 30 0><LF>
+<Char: 0 40><0xF1: 0>... Ha! Ha... hahahaha!<Dly: 1 30 0><LF>
 Então essa é a sua<LF>
 verdadeira forma!<Button><CR>
 !---------------------!
@@ -71,7 +71,7 @@ SuperNavi" da Gospel!<Button><CR>
 !---------------------!
 Não é possível criar um<LF>
 SuperNavi através<LF>
-de uma fusão-bug!<Button><CR>
+de uma fusão bug!<Button><CR>
 !---------------------!
 Mas sim...<LF>
 um "Organismo Supremo<LF>
@@ -91,10 +91,8 @@ verdade não é o Bass!?<Button><CR>
 <Char: 0 23><0xF1: 0>O quê!? O Organismo<LF>
 Multibug já foi criado!?<Button><CR>
 !---------------------!
-Se ele correr a solta,<LF>
-vai cobrir a Rede de
-<LF>
-bugs!<Button><CR>
+Se ele sair daí, vai cobrir<LF>
+a Rede de bugs!<Button><CR>
 !---------------------!
 E se isso acontecer,<LF>
 os bugs vão dominar o<LF>
@@ -113,7 +111,7 @@ p-papai...<Button><CR>
 Você está ferido?<Button><CR>
 !---------------------!
 <Jmp: 0 19><@PointerIdx19>
-<Char: 0 0><0xF1: 0>N...<Dly: 1 30 0>Não é nada, papai...<Dly: 1 30 0><LF>
+<Char: 0 0><0xF1: 0>N...<Dly: 1 30 0> Não é nada, papai...<Dly: 1 30 0><LF>
 Tchau...<Dly: 1 30 0> tenho que<LF>
 desligar...<Button><EB>
 !*********************!
@@ -126,7 +124,7 @@ isso... e não adianta<LF>
 preocupar o papai.<Button><CR>
 !---------------------!
 <Jmp: 0 22><@PointerIdx22>
-<Char: 0 64><0xF1: 0>Entendo...<Button><EB>
+<Char: 0 64><0xF1: 0>Lan...<Button><EB>
 !*********************!
 <@PointerIdx23>
 <Char: 0 40><0xF1: 0>Aaa-aaaahhhh!<Button><CR>

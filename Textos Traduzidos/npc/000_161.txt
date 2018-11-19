@@ -1,0 +1,628 @@
+<@PointerIdx0>
+<0xF3: 0 16 7 1 255><Char: 0 75><0xF1: 0>He he, eu sou o melhor<LF>
+informante da área!<Button><CR>
+!---------------------!
+Queria arranjar mais<LF>
+informações legais,<LF>
+he he...<Button><EB>
+!*********************!
+<@PointerIdx1>
+<0xF3: 0 126 2 6 255><0xF3: 0 127 2 5 255><0xF2: 0 127 2><Char: 0 75><0xF1: 0>Sou um informante<LF>
+famoso. Até na Undernet<LF>
+sou conhecido.<Button><CR>
+!---------------------!
+Como é que é?<LF>
+A palavra-chave pra<LF>
+chamar o Doc?<Button><CR>
+!---------------------!
+A palavra-chave eu não<LF>
+sei, mas conheço alguém<LF>
+que sabe!<Button><CR>
+!---------------------!
+Te vendo essa<LF>
+informação por 10000<LF>
+zennys. Fechou?<Button><CR>
+!---------------------!
+E aí, vai comprar?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Sim! <Arrow: 0 17><Pos: 0 2>Nem vem<CondJmp: 6 128 2 255 255>
+!---------------------!
+Volte quando tiver a<LF>
+grana.<Button><EB>
+!*********************!
+<@PointerIdx2>
+<0xF6: 51 16 39 0 0 255 255 4><0xF6: 49 16 39 0 0 255 255 255><0xF2: 0 126 2><Char: 1 241 0>MegaMan pagou os<LF>
+10000 zennys!<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 75><0xF1: 0>He he, 'gradecido!<Button><CR>
+!---------------------!
+Tá bom então, lá vai<LF>
+a informação.<Button><CR>
+!---------------------!
+O Navi que conhece a<LF>
+palavra-chave está no<LF>
+AmePlaza,<Button><CR>
+!---------------------!
+se não me engano.<LF>
+É um Navi roxo.<LF>
+Muito avarento.<Button><CR>
+!---------------------!
+Quem será mais<LF>
+avarento: eu ou esse<LF>
+navi roxo...?<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 75><0xF1: 0>Mano. Não leva pro lado<LF>
+pessoal não, mas cê<LF>
+parece meio liso agora.<Button><CR>
+!---------------------!
+Volta depois que juntar<LF>
+a grana.<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 75><0xF1: 0>Aí, cê voltou!<LF>
+Quer a minha informação<LF>
+agora, né!?<Button><CR>
+!---------------------!
+Só peço humildes<LF>
+10000 zennys por ela!<Button><CR>
+!---------------------!
+E aí, vai querer?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Claro! <Arrow: 0 17><Pos: 0 2>Nem vem<CondJmp: 6 128 2 255 255>
+!---------------------!
+Volte quando tiver a<LF>
+grana.<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 75><0xF1: 0>Que outra informação eu<LF>
+posso vender pra<LF>
+faturar...?<Button><EB>
+!*********************!
+<@PointerIdx7>
+<0xF3: 4 61 72 40 255><0xF3: 4 58 60 34 255><Char: 0 75><0xF1: 0>Aqui não é lugar pra um<LF>
+Navi pirralho que nem<LF>
+você!<Button><CR>
+!---------------------!
+... Aí, a gente já se viu<LF>
+antes?<Button><EB>
+!*********************!
+<@PointerIdx8>
+<0xF3: 4 58 60 35 255><Char: 0 75><0xF1: 0>Um grupo aí chamado<LF>
+"Gospel" tá espalhando<LF>
+sua influência<Button><CR>
+!---------------------!
+até a Rede normal.<LF>
+Mas sem ajuda eles não<LF>
+têm chance!<Button><CR>
+!---------------------!
+Se eu pegar um deles<LF>
+sozinho, vou mostrar<LF>
+o MEU "evangelho"!!!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<0xF3: 4 61 72 42 255><0xF3: 4 58 60 36 255><Char: 0 75><0xF1: 0>Aí, garoto!<Button><CR>
+!---------------------!
+Se cê não quer morrer,<LF>
+volta pra Rede normal!<Button><EB>
+!*********************!
+<@PointerIdx10>
+<0xF3: 4 61 72 43 255><0xF3: 4 58 60 37 255><Char: 0 75><0xF1: 0>Aaaaaaaaahhhh!!!<Button><CR>
+!---------------------!
+Guaaaaaaaarrrr!!!<Button><CR>
+!---------------------!
+Se quer ameaçar alguém,<LF>
+o primeiro passo é<LF>
+saber gritar!<Button><CR>
+!---------------------!
+Buaaaaaarrrghhh...<LF>
+Cof, cof!<Button><EB>
+!*********************!
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<0xF6: 3 37 1 31 31 255><0xF3: 0 131 2 28 255><0xF3: 0 132 2 30 255><0xF2: 0 132 2><Char: 0 73><0xF1: 0>Gen-tem!<Button><CR>
+!---------------------!
+Que cliente mais<LF>
+gatinho temos aqui.<Button><CR>
+!---------------------!
+O que foi, fofinho?<LF>
+A sua barriguinha tá<LF>
+doendo? Aiii...<Button><CR>
+!---------------------!
+... Quê? Uma cura?<LF>
+Pra que um Navi que nem<LF>
+você ia querer...!?<Button><CR>
+!---------------------!
+Tá brincando de médico?<Button><CR>
+!---------------------!
+O quê? Pra quebrar o<LF>
+gelo?<LF>
+Ai, gente... Adorei.<Button><CR>
+!---------------------!
+Mas pra ter chegado<LF>
+até aqui, você um menino<LF>
+fortão, hmm?<Button><CR>
+!---------------------!
+Tá bom, pode ficar com a<LF>
+cura. Mas em troca eu<LF>
+vou querer todos os...<Button><CR>
+!---------------------!
+PowerUps e chips que<LF>
+você tem equipados<LF>
+nesse corpinho. Que tal?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Sim! <Arrow: 0 17><Pos: 0 2>Nunca!<CondJmp: 6 128 21 255 255>
+!---------------------!
+<0xF2: 0 131 2>Tudo bem. Sem cura,<LF>
+então.<Button><CR>
+!---------------------!
+Se quer que eu prepare<LF>
+uma cura, tem que pagar<LF>
+o preço, queridinho.<Button><EB>
+!*********************!
+<@PointerIdx21>
+<0xF2: 4 131 2><Char: 0 73><0xF1: 0>Opa. Dá aqui então.<Button><CR>
+!---------------------!
+<Jmp: 0 22><@PointerIdx22>
+<Char: 1 241 0>O Doc tirou todos os<LF>
+PowerUps e chips do<LF>
+MegaMan!<Button><CR>
+!---------------------!
+O nível do MegaMan<LF>
+voltou a ser 1!!!<Button><CR>
+!---------------------!
+<Jmp: 0 23><@PointerIdx23>
+<Char: 0 73><0xF1: 0>.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>. Hi, você é valente!<LF>
+Gostei de você.<LF>
+Vou fazer a sua cura!<Button><CR>
+!---------------------!
+Mas antes de mais<LF>
+nada, aqui! Pode pegar<LF>
+de volta. E com juros!<Button><CR>
+!---------------------!
+<Jmp: 0 32><@PointerIdx24>
+<0xF6: 3 36 1 255 255 29><Char: 0 73><0xF1: 0>Eu vou fazer a sua<LF>
+cura, mas antes de mais<LF>
+nada, me dê "aquilo".<Button><CR>
+!---------------------!
+<Jmp: 0 25><@PointerIdx25>
+<Char: 1 241 0><0xF6: 1 36 1>MegaMan entregou a<LF>
+"HeatData"!!<Button><CR>
+!---------------------!
+<Jmp: 0 26><@PointerIdx26>
+<Char: 0 73><0xF1: 0>Deixa eu ver...<LF>
+<0xFA: 0 10 1>clic-clic<LF>
+<0xFA: 0 219 0>bip-bip!<Button><CR>
+!---------------------!
+Prontinho!<Button><CR>
+!---------------------!
+Eu sou um gênio ou não<LF>
+sou?<Button><CR>
+!---------------------!
+<Jmp: 0 27><@PointerIdx27>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 37 1>MegaMan recebeu:<LF>
+"<ItemTbl: 0 37 0>"!!<Button><0xF8: 12><0xF8: 16><0xF8: 8><CR>
+!---------------------!
+<Char: 0 73>Com isso aí, você vai<LF>
+poder 
+quebrar o gelo<LF>
+amarelo!<Button><CR>
+!---------------------!
+Eu conheço um cara em<LF>
+Ameropa 2 que tem um<LF>
+irmão,<Button><CR>
+!---------------------!
+e esse irmão fez de<LF>
+tudo pra tentar quebrar<LF>
+o gelo.<Button><CR>
+!---------------------!
+Talvez ele tenha alguma<LF>
+informação útil.<Button><EB>
+!*********************!
+<@PointerIdx28>
+<Char: 0 73><0xF1: 0>E aí? Decidiu abrir mão<LF>
+dos seus PowerUps e<LF>
+chips?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Sim! <Arrow: 0 17><Pos: 0 2>Não!<CondJmp: 6 128 21 255 255>
+!---------------------!
+<0xF2: 0 131 2>Então sem cura!<Button><CR>
+!---------------------!
+Se quer que eu faça<LF>
+a cura, vai ter que<LF>
+pagar, fofo!<Button><CR>
+!---------------------!
+Eu não vou repetir!<Button><EB>
+!*********************!
+<@PointerIdx29>
+<Char: 0 73><0xF1: 0>Que foi, você não tem<LF>
+ele? Então não perde<LF>
+o meu tempo!<Button><CR>
+!---------------------!
+Ele tá em algum programa<LF>
+que produz fogo.<LF>
+Traz ele pra mim!<Button><EB>
+!*********************!
+<@PointerIdx30>
+<Char: 0 73><0xF1: 0>Ah, trouxe o<LF>
+"HeatData"!?<LF>
+<Arrow: 17 0><Pos: 0 2>Trouxe! <Arrow: 0 17><Pos: 0 2>Não...<CondJmp: 6 128 24 255 255>
+!---------------------!
+Ele tá em algum programa<LF>
+que produz fogo.<LF>
+Traz ele pra mim!<Button><EB>
+!*********************!
+<@PointerIdx31>
+<Char: 0 73><0xF1: 0>Arraso! É só você não<LF>
+parar de tentar que as<LF>
+portas se abrem!<Button><EB>
+!*********************!
+<@PointerIdx32>
+<Char: 1 241 0><0xF8: 0><0xFA: 0 133 0><0xF8: 4 24>MegaMan recuperou seus<LF>
+PowerUps e chips!!!<Button><CR>
+!---------------------!
+O nível de MegaMan<LF>
+voltou ao normal!<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<0xF8: 0><0xF8: 4 24><0xF6: 16 187 0 3 1>MegaMan recebeu o chip<LF>
+"<ItemTbl: 0 187 1> <ItemTbl: 0 3 3>"!!<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 33><@PointerIdx33>
+<Char: 0 73><0xF1: 0>Na verdade eu já<LF>
+estava estudando o gelo<LF>
+por conta própria.<Button><CR>
+!---------------------!
+Para fazer a cura<LF>
+"<ItemTbl: 0 37 0>" que<LF>
+quebra o gelo amarelo,<Button><CR>
+!---------------------!
+é preciso um "FragAmrl"<LF>
+e um "<ItemTbl: 0 36 0>".<Button><CR>
+!---------------------!
+Isso é tudo que eu sei.<Button><CR>
+!---------------------!
+Eu já tenho um<LF>
+"FragAmrl" aqui...<Button><CR>
+!---------------------!
+Se eu tivesse<LF>
+um <ItemTbl: 0 36 0>, poderia<LF>
+fazer um <ItemTbl: 0 37 0>...<Button><CR>
+!---------------------!
+E aí, tem o<LF>
+<ItemTbl: 0 36 0>?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Tenho! <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 128 24 255 255>
+!---------------------!
+Ele está em algum<LF>
+programa que produz<LF>
+fogo. Traz ele pra mim!<Button><EB>
+!*********************!
+<@PointerIdx34>
+<Char: 0 75><0xF1: 0>É, eu já te vi antes,<LF>
+sim...<Button><CR>
+!---------------------!
+Foi... durante o incidente<LF>
+da WWW...<Button><CR>
+!---------------------!
+.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>!<Dly: 1 20 0><LF>
+Agora eu lembrei!!!<Button><CR>
+!---------------------!
+B-bem vindo ao<LF>
+UnderPlaza...<LF>
+... He he.<Button><EB>
+!*********************!
+<@PointerIdx35>
+<Char: 0 75><0xF1: 0>Aquele gelo não causou<LF>
+nenhuma comoção aqui!<Button><CR>
+!---------------------!
+Compreende o lance?<Button><CR>
+!---------------------!
+Ninguém reclama aqui na<LF>
+Undernet, nem quando<LF>
+paralizados e sofrendo!<Button><EB>
+!*********************!
+<@PointerIdx36>
+<Char: 0 75><0xF1: 0>A Undernet tem áreas<LF>
+que nem a gente pode<LF>
+entrar.<Button><CR>
+!---------------------!
+Tipo, mesmo se a gente<LF>
+fosse nelas, pode ser<LF>
+que nunca voltássemos...<Button><EB>
+!*********************!
+<@PointerIdx37>
+<Char: 0 75><0xF1: 0>O meu Operador!!!<LF>
+Ele é um bandidão da<LF>
+pesada, famoso!!!<Button><CR>
+!---------------------!
+Vai ser preciso mais do<LF>
+que um desastre natural<LF>
+furreca desses pra<Button><CR>
+!---------------------!
+fazer ele desconectar!<LF>
+Ele não é medroso!<LF>
+Aí! Ca-ham!<Button><EB>
+!*********************!
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<Char: 0 75><0xF1: 0>O que é que um cara<LF>
+da sua laia tá fazendo<LF>
+nesta pocilga?<Button><CR>
+!---------------------!
+Ai, não...<LF>
+Cê não veio expulsar<LF>
+a gente, veio!?<Button><EB>
+!*********************!
+<@PointerIdx41>
+<Char: 0 71><0xF1: 0>Eu me perdi, e acabei<LF>
+vindo parar aqui...<Button><CR>
+!---------------------!
+Eu nunca devia ter<LF>
+vindo pra este fim de<LF>
+mundo...<Button><CR>
+!---------------------!
+Todo mundo aqui parece<LF>
+tão mau. Será que eu<LF>
+tô ferrado...?<Button><EB>
+!*********************!
+<@PointerIdx42>
+<Char: 0 75><0xF1: 0>Hm? Eu, hein, quanta<LF>
+net-gente zanzando<LF>
+por aqui esses dias.<Button><CR>
+!---------------------!
+Eu preciso mesmo lembrar<LF>
+vocês do quanto esse<LF>
+lugar é sinistro?<Button><EB>
+!*********************!
+<@PointerIdx43>
+<Char: 0 75><0xF1: 0>Ouvi falar que o QG da<LF>
+Gospel foi destruído!<Button><CR>
+!---------------------!
+Bem-feito praqueles<LF>
+babacas!<Button><EB>
+!*********************!
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<0xF3: 8 14 255 182><Char: 0 75><0xF1: 0>Sou um NetVendedor...<LF>
+Vai querer alguma coisa?<LF>
+<Arrow: 17 0><Pos: 0 2>Ahã <Arrow: 0 17><Pos: 0 2>Hm-hum<CondJmp: 6 0 255 181 255>
+!---------------------!
+<0xFB: 20 14><@PointerIdx181>
+<CR>
+!---------------------!
+Volte sempre!<Button><EB>
+!*********************!
+<@PointerIdx182>
+<Char: 0 75><0xF1: 0>Sou um NetVendedor,<LF>
+mas já vendi tudo que<LF>
+tinha pra vender...<Button><EB>
+!*********************!
+<@PointerIdx183>
+<0xF3: 8 15 255 185><Char: 0 71><0xF1: 0>Eu vendo subchips.<LF>
+Quer dar uma olhada?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 0 255 184 255>
+!---------------------!
+<0xFB: 20 15><@PointerIdx184>
+<CR>
+!---------------------!
+Volte sempre.<Button><EB>
+!*********************!
+<@PointerIdx185>
+<Char: 0 71><0xF1: 0>Normalmente eu vendo<LF>
+subchips, mas estou<LF>
+sem nenhum agora.<Button><EB>
+!*********************!
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<Jmp: 0 180><@PointerIdx221>
+<Jmp: 0 183><@PointerIdx222>
+<@PointerIdx223>
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

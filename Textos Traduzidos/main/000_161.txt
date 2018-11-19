@@ -1,7 +1,7 @@
 <@AbsoluteAddr 7957596>
 <@PointerIdx0>
 <Char: 0 0><0xF1: 0>Você achou o programa<LF>
-de controle de níveis<LF>
+de controle dos níveis<LF>
 de radiação!<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>

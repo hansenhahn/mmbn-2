@@ -251,7 +251,7 @@ def Insert_Main(src, dst):
                                     try:
                                         buffer.extend( table[char] )
                                     except:
-                                        print "Line {0} Char {1}".format(j, ord(char))
+                                        print "Line {0} Char {1} Text {2}".format(j, ord(char), line)
                                         raise Exception()
                             # Se for uma tag
                             else:
@@ -270,7 +270,7 @@ def Insert_Main(src, dst):
                                         pointer_old.append( struct.pack("<L", int(c) | 0x08000000) )
                                         pointer_new.append( struct.pack("<L", dest.tell() | 0x08000000) )
                                     else:
-                                        print "Line {0} Label {1}".format(j, tag)
+                                        print "Line {0} Label {1} Text {2}".format(j, tag, line)
                                         raise Exception()
                                 else:                                                                    
                                     if tag in itagsdict:
@@ -346,7 +346,7 @@ def Insert_NPC(src, dst):
                                     try:
                                         buffer.extend( table[char] )
                                     except:
-                                        print "Line {0} Char {1}".format(j, ord(char))
+                                        print "Line {0} Char {1} Text {2}".format(j, ord(char), line)
                                         raise Exception()
                             # Se for uma tag
                             else:
@@ -361,7 +361,7 @@ def Insert_NPC(src, dst):
                                     if "PointerIdx" in tag:
                                         pointer_idx.append( len(buffer) )
                                     else:
-                                        print "Line {0} Label {1}".format(j, tag)
+                                        print "Line {0} Label {1} Text {2}".format(j, tag, line)
                                         raise Exception()
                                 else:                                                                    
                                     if tag in itagsdict:

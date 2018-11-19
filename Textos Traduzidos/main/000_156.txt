@@ -31,8 +31,8 @@ mudou alguma coisa?<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
 <Char: 0 0><0xF1: 0>Talvez o elevador!<LF>
-Beleza, MegaMan, vamos<LF>
-desconectar um pouco!<Button><CR>
+Beleza, MegaMan, eu vou<LF>
+te desconectar agora!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
 <Char: 0 64><0xF1: 0>Entendido!!<Button><EB>

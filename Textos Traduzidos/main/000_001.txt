@@ -4,22 +4,22 @@
 Último Dia de Aula<Button><EB>
 !*********************!
 <@PointerIdx1>
-<Char: 0 64><0xF1: 0>Lan, é um milagre! Você<LF>
+<Char: 0 64><0xF1: 0>Lan, que milagre! Você<LF>
 não chegou atrasado<LF>
-dessa vez!<Button><CR>
+desta vez!<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 0><0xF1: 0>arf... puf...<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 64><0xF1: 0>Mas se tivesse acordado<LF>
-mais cedo não ia ter que<LF>
+mais cedo, não ia ter que<LF>
 correr tanto!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
-<Char: 0 0><0xF1: 0>Nossa, valeu, MegaMan.<LF>
+<Char: 0 0><0xF1: 0>Arf... valeu, MegaMan.<LF>
 Você é um amigão.<LF>
-Isso ajuda taaanto.<Button><CR>
+Isso ajuda muito.<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
 <Char: 0 64><0xF1: 0>Ei, relaxa! Você não<LF>
@@ -27,7 +27,7 @@ esqueceu que dia é<LF>
 hoje, né?<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
-<0xFA: 4 3 0><Char: 0 0><0xF1: 0>Até parece, né? É<LF>
+<0xFA: 4 3 0><Char: 0 0><0xF1: 0>Até parece! É<LF>
 o último dia de aula!<LF>
 Fé-riaaaaas!<Button><CR>
 !---------------------!
@@ -42,3 +42,4 @@ Fé-riaaaaas!<Button><CR>
 eu gosto.<Dly: 1 30 0> Ah! Temos que<LF>
 fazer planos pras férias!<Button><EB>
 !*********************!
+

@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7897464>
 <@PointerIdx0>
-<Char: 0 81><0xF1: 0>Olha só. Meus parabéns<LF>
+<Char: 0 81><0xF1: 0>Vejam só. Meus parabéns<LF>
 por ter chegado até
 <LF>
 aqui...<Button><CR>
@@ -24,15 +24,15 @@ ProtoMan é falso!<Button><CR>
 perceber, garoto.<Button><EB>
 !*********************!
 <@PointerIdx5>
-<Char: 0 23><0xF1: 0>Lan! Eu terminei!<LF>
+<Char: 0 23><0xF1: 0>Lan! Terminei!<LF>
 Fiz um battlechip<LF>
 anti-ShadowMan!<Button><CR>
 !---------------------!
 O "Canhão Supremo".<Button><CR>
 !---------------------!
-Com a força desse chip,<LF>
-talvez consigam derrotar<LF>
-o ShadowMan...<Button><CR>
+Talvez com a força<LF>
+desse chip consigam<LF>
+derrotar o ShadowMan...<Button><CR>
 !---------------------!
 Mas só pode ser dispara-<LF>
 do uma vez. Não deu<LF>
@@ -57,7 +57,7 @@ acertar!<Button><CR>
 <Char: 0 64><0xF1: 0>Vamos nessa!<Button><EB>
 !*********************!
 <@PointerIdx9>
-<Char: 0 81><0xF1: 0>...Ha-ha. Vai mesmo usar<LF>
+<Char: 0 81><0xF1: 0>... Ha ha. Vai mesmo usar<LF>
 essa arma contra mim?<Button><CR>
 !---------------------!
 Sabe o preço que vai<LF>
@@ -66,12 +66,12 @@ não sabe?<Button><EB>
 !*********************!
 <@PointerIdx10>
 <Char: 0 64><0xF1: 0>Se a gente errar...<LF>
-O computador matriz vai<LF>
+O computador-matriz vai<LF>
 ser destruído...<Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
 <Char: 0 0><0xF1: 0>Mas... é a nossa única<LF>
-esperança!<LF>
+chance!<LF>
 Se bem que...<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
@@ -98,7 +98,7 @@ E-Eu... Não, eu não<LF>
 posso atirar!<Button><CR>
 !---------------------!
 <Jmp: 0 18><@PointerIdx18>
-<Char: 0 74><0xF1: 0>Quer que Electopia tenha<LF>
+<Char: 0 74><0xF1: 0>Quer que Ni-Hon tenha<LF>
 o mesmo destino de<LF>
 Saborya?<Button><CR>
 !---------------------!
@@ -139,7 +139,7 @@ meira coisa que faremos!<Button><CR>
 !*********************!
 <@PointerIdx25>
 <Char: 0 74><0xF1: 0>Esses capangas dele...<LF>
-Usados como... escudos...<Button><CR>
+Usados como... escudo...<Button><CR>
 !---------------------!
 Urgh!<Button><CR>
 !---------------------!

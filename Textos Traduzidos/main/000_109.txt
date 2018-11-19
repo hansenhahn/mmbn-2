@@ -1,7 +1,7 @@
 <@AbsoluteAddr 7923676>
 <@PointerIdx0>
 <Char: 0 0><0xF1: 0>Hora de voltar pra<LF>
-Electopia. Foi uma<LF>
+Ni-Hon. Foi uma<LF>
 viagem e tanto, essa...<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>

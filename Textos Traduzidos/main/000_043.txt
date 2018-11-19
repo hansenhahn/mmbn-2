@@ -15,9 +15,9 @@ momento, eu nem tava<LF>
 pensando em "vidas"...<Button><EB>
 !*********************!
 <@PointerIdx3>
-<Char: 0 2><0xF1: 0>Não seja modesto, 
-Lan!<LF>
-<0xEA: 1 30 0>...A gente tá de olho,<LF>
+<Char: 0 2><0xF1: 0>Não seja modesto,
+ Lan!<LF>
+<0xEA: 1 30 0>... A gente tá de olho,<LF>
 hein?<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
@@ -34,9 +34,9 @@ herói de verdade!<Button><CR>
 <Char: 0 7><0xF1: 0>Lan...<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
-<Char: 0 41><0xF1: 0>Mas não conseguimos<LF>
+<Char: 0 41><0xF1: 0>Mas nós não conseguimos<LF>
 achar aquele NetLutador<LF>
-Oficial em lugar nenhuma!<Button><CR>
+Oficial em lugar nenhum!<Button><CR>
 !---------------------!
 E além disso, você e o<LF>
 seu Navi venceram o<LF>
@@ -48,12 +48,12 @@ Navi malvado, não foi?<Button><CR>
 <Jmp: 0 9><@PointerIdx9>
 <Char: 0 41><0xF1: 0>Pois é!<LF>
 Então levante a cabeça<LF>
-e ande com orgulho!<Button><EB>
+e sinta orgulho!<Button><EB>
 !*********************!
 <@PointerIdx10>
 <Char: 0 41><0xF1: 0>Bom, jovem e valente<LF>
-Lan, muito obrigado por<LF>
-sua colaboração!!<Button><CR>
+Lan, muito obrigado pela<LF>
+entrevista!!<Button><CR>
 !---------------------!
 ...<Button><CR>
 !---------------------!
@@ -61,7 +61,7 @@ Acredita-se que a<LF>
 netmáfia Gospel esteve<LF>
 por trás do incidente.<Button><CR>
 !---------------------!
-Será que os oficiais de<LF>
+Será que os Oficiais de<LF>
 nosso país são capazes<LF>
 de vencer essa "Gospel"?<Button><CR>
 !---------------------!

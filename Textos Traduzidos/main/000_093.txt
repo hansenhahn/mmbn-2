@@ -37,6 +37,6 @@ sua mochila!<Button><CR>
 !---------------------!
 Vamos falar de novo<LF>
 com aquele tal de Jim<LF>
-e dar uma procurada!<Button><EB>
+pra começar a busca!<Button><EB>
 !*********************!
 

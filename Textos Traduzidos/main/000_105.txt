@@ -7,7 +7,7 @@ NetLutador... er,<LF>
 NetLutadora da Gospel!<Button><EB>
 !*********************!
 <@PointerIdx1>
-<Char: 0 54><0xF1: 0>Ha ha.. de fato. Sou<LF>
+<Char: 0 54><0xF1: 0>Ha ha... de fato. Sou<LF>
 um dos membros de mais<LF>
 alta patente da Gospel...<Button><CR>
 !---------------------!
@@ -20,7 +20,7 @@ que NetLutadores Oficiais<LF>
 não são ameaça.<Button><CR>
 !---------------------!
 Tão ingênuos...<LF>
-...E no fim, enviaram<LF>
+... E no fim, enviaram<LF>
 justo VOCÊ. Ridículo.<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
@@ -36,12 +36,12 @@ Logo, imaginava que teria<LF>
 um obstáculo petulante<LF>
 mais desafiador aqui.<Button><CR>
 !---------------------!
-...Pois bem, diga-me.<LF>
+... Pois bem, diga-me.<LF>
 Como pretende me<LF>
 derrotar?<Button><CR>
 !---------------------!
 O chão à sua frente logo<LF>
-irá cair, como daquela
+cairá, assim como daquela
 <LF>
 outra vez...<Button><EB>
 !*********************!

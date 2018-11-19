@@ -4,7 +4,7 @@
 <Char: 0 0><0xF1: 0> Mandou bem!<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
-<Char: 0 38><0xF1: 0>Derrotado por crianças.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0><LF>
+<Char: 0 38><0xF1: 0>Derrotado por crianças.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0><LF>
 Mas... tanto faz! Ainda<LF>
 vamos nos reencontrar!!<Button><CR>
 !---------------------!
@@ -13,19 +13,20 @@ forte que há! Nos<LF>
 veremos em breve!<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<Char: 0 0><0xF1: 0>...Ele fugiu...<Dly: 1 30 0><LF>
-Ah, sim! MegaMan! <Dly: 1 30 0>A Yai!<Button><CR>
+<Char: 0 0><0xF1: 0>... Ele fugiu...<0xEA: 1 30 0><LF>
+Ah, sim! MegaMan! <0xEA: 1 30 0>A Yai!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 64><0xF1: 0>Bem lembrado!<Button><EB>
 !*********************!
 <@PointerIdx5>
-<Char: 1 241 0><0xFA: 12><0xFA: 0 165 0>Clique!<Button><CR>
+<Char: 1 241> <0xFA: 12><0xFA: 0 165 0>Clic!<Button><CR>
 !---------------------!
 <0xFA: 8><Jmp: 0 6><@PointerIdx6>
-<Char: 0 64><0xF1: 0>É por ali!<LF>
+<Char: 0 64><0xF1: 0>Pronto!<LF>
 Rápido, vá salvar a Yai!<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
 <Char: 0 0><0xF1: 0>É pra já!<Button><EB>
 !*********************!
+

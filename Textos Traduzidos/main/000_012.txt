@@ -14,8 +14,9 @@ alguma coisa aí que tá<LF>
 mexendo com o programa!<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<Char: 0 64><0xF1: 0>Eu sei! Vou tomar cuidado!<Button><CR>
+<Char: 0 64><0xF1: 0>Eu sei! Vou ficar atento!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 0><0xF1: 0>Isso! E vai rápido!<Button><EB>
 !*********************!
+

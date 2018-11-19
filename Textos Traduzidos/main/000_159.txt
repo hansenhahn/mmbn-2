@@ -18,7 +18,7 @@ certo!?<Button><EB>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
 <Char: 0 64><0xF1: 0>A radiação na porta<LF>
-está sobrecarregaad<LF>
+está sobrecarregada<LF>
 em 50 mil vezes!<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
@@ -34,7 +34,7 @@ que controla essa<LF>
 radiação. <Dly: 1 30 0>Encontre ele!<Dly: 1 30 0><Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
-<Char: 0 64><0xF1: 0>...<Dly: 1 30 0>Pode deixar comigo.<Dly: 1 30 0><LF>
+<Char: 0 64><0xF1: 0>...<Dly: 1 30 0> Pode deixar comigo.<Dly: 1 30 0><LF>
 Vamos conectar!<Button><EB>
 !*********************!
 

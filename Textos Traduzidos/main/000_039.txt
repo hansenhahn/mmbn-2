@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7872488>
 <@PointerIdx0>
-<Char: 0 22><0xF1: 0>Ô, menino! Essa área<LF>
+<Char: 0 22><0xF1: 0>Ei! Menino! Essa área<LF>
 aí é somente para<LF>
 pessoal autorizado!<Button><CR>
 !---------------------!
@@ -8,9 +8,8 @@ pessoal autorizado!<Button><CR>
 <Char: 0 0><0xF1: 0>Ou seja... o Chaud pode<LF>
 estar aí dentro!<Button><CR>
 !---------------------!
-Que droga! O que é que<LF>
-aquele cara tá<LF>
-aprontando!?<Button><EB>
+Droga! O que é que<LF>
+ele tá aprontando!?<Button><EB>
 !*********************!
 <@PointerIdx2>
 <Char: 0 64><0xF1: 0>Lan!!<LF>
@@ -30,36 +29,37 @@ Ontem à noite fizeram<LF>
 uma postagem no fórum<LF>
 do Plaza. Uma ameaça.<Button><CR>
 !---------------------!
-Por isso eu vim nesse<LF>
+Por isso eu vim pra esse<LF>
 acampamento: para<LF>
 investigar o incidente.<Button><CR>
 !---------------------!
 Encontrei uma bomba-<LF>
-relógio armada para<LF>
+relógio armada que vai<LF>
 explodir a represa.<Button><CR>
 !---------------------!
 <Char: 0 0><0xF1: 0>Essa não! Tá, eu te<LF>
 ajudo! Abre a porta!<Button><CR>
 !---------------------!
 <Char: 0 6><0xF1: 0>Acalme-se. Preciso de<LF>
-você para outra tarefa.<Button><CR>
+você pra uma outra<LF>
+tarefa.<Button><CR>
 !---------------------!
 Há múltiplos receptores<LF>
-de detonação remotos,<Button><CR>
+de detonação remotos<Button><CR>
 !---------------------!
-e estão dentro de<LF>
+localizados dentro de<LF>
 detonadores.<Button><CR>
 !---------------------!
 Encontre os detonadores<LF>
 e delete os programas<LF>
-de explosão deles.<Button><CR>
+de explosão neles.<Button><CR>
 !---------------------!
 Acha que tem a<LF>
 capacidade pra cuidar<LF>
 disso?<Button><CR>
 !---------------------!
-<Char: 0 0><0xF1: 0>Tá tirando uma comigo,<LF>
-é? Com o MegaMan ao<LF>
+<Char: 0 0><0xF1: 0>Tá tirando uma comigo?<LF>
+Com o MegaMan ao<LF>
 meu lado, vai ser moleza!<Button><CR>
 !---------------------!
 <Char: 0 6><0xF1: 0>É, eu sei...<LF>
@@ -67,15 +67,15 @@ Mas faz parte do meu<LF>
 trabalho como Oficial.<Button><CR>
 !---------------------!
 Eu alcanço vocês assim<LF>
-que cuidar das bombas<LF>
-aqui!<Button><CR>
+que terminar de lidar<LF>
+com as bombas aqui!<Button><CR>
 !---------------------!
-Até lá, ache o maior<LF>
+Até lá, encontre o maior<LF>
 número de detonadores<LF>
 que puder!<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
-<Char: 0 0><0xF1: 0>Deixa comigo!<Dly: 1 30 0><LF>
-Vamos nessa,<LF>
-MegaMan!<Button><EB>
+<Char: 0 0><0xF1: 0>Deixa comigo!<0xEA: 1 30 0><LF>
+Vamos nessa, MegaMan!<Button><EB>
 !*********************!
+

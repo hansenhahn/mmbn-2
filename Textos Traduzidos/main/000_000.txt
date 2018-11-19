@@ -2,18 +2,17 @@
 <@PointerIdx0>
 <Char: 0 18><Char: 2 1><0xFA: 24 249 0><0xF1: 0>Senhor...<LF>
 ...pesquisa está...<LF>
-entrando...fase final<Button><CR>
+entrando... fase final<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<Char: 0 10><0xF1: 0>Por que demor...<LF>
-tanto?<Button><CR>
+<Char: 0 10><0xF1: 0>Por q... tanta dem...?<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
-<Char: 0 18><Char: 2 1><0xF1: 0>Peç...erdão<Button><CR>
+<Char: 0 18><Char: 2 1><0xF1: 0>Peç... erdão<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<Char: 0 10><0xF1: 0>Hmpf... ...há uma punição<LF>
-...atrasos!<Button><CR>
+<Char: 0 10><0xF1: 0>Hmpf... ... há uma punição<LF>
+... atrasos!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 18><Char: 2 1><0xF1: 0>Senhor! ...<Button><CR>
@@ -25,7 +24,7 @@ logo os preparativos.<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
 <Char: 0 18><Char: 2 1><0xF1: 0>Vamos domi... o mundo,<LF>
-assim como a WWW!<Button><CR>
+assim como a WWW o fez!<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
 <Char: 0 10><0xF1: 0>Idiota...!<LF>
@@ -33,10 +32,10 @@ Não "como a WWW"...<LF>
 Não ins... a grande "..."!<Button><CR>
 !---------------------!
 Hora de dar iní...<LF>
-...Projeto...!<Button><CR>
+... Projeto...!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
-<Char: 0 18><Char: 2 1><0xF1: 0>Sim, senhor! <Dly: 1 15 0>.<Dly: 1 15 0>.<Dly: 1 15 0>.<Button><EB>
+<Char: 0 18><Char: 2 1><0xF1: 0>Senhor! <Dly: 1 15 0>.<Dly: 1 15 0>.<Dly: 1 15 0>.<Button><EB>
 !*********************!
 <@PointerIdx9>
 <@PointerIdx10>

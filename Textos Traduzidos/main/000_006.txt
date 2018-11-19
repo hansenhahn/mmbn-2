@@ -5,17 +5,17 @@ prova da <ItemTbl: 0 58 0>!<Button><CR>
 !---------------------!
 Surfe pela Rede sem<LF>
 perder pra nenhum vírus<LF>
-e está aprovado!<Button><CR>
+e será aprovado!<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <Char: 1 241 0><0xFA: 12><0xFA: 0 254 0>blip<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
 !---------------------!
 <0xFA: 8><Jmp: 0 2><@PointerIdx2>
-<Char: 0 70><0xF1: 0>Pronto! A "<ItemTbl: 0 1 0>" e<LF>
-a "<ItemTbl: 0 2 0>" estão<LF>
+<Char: 0 70><0xF1: 0>Pronto! O "<ItemTbl: 0 1 0>" e o<LF>
+"<ItemTbl: 0 2 0>" estão<LF>
 escondidas Rede afora!<Button><CR>
 !---------------------!
-Achem e tragam as duas<LF>
+Achem e tragam os dois<LF>
 para mim e ganharão<LF>
 sua <ItemTbl: 0 58 0>!<Button><CR>
 !---------------------!
@@ -25,3 +25,4 @@ sua <ItemTbl: 0 58 0>!<Button><CR>
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 64><0xF1: 0>Só se for agora!<Button><EB>
 !*********************!
+

@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7881996>
 <@PointerIdx0>
-<Char: 0 0><0xF1: 0>Oi. Vim fazer o teste!<Button><CR>
+<Char: 0 0><0xF1: 0>Oi. Vim fazer a prova!<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <Char: 0 36><0xF1: 0>Ora, ora, se não é o<LF>
@@ -10,13 +10,13 @@ especial!<Button><CR>
 Deixe-me ver o seu PET.<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
-<Char: 0 0><0xF1: 0>E-E aí, posso fazer o<LF>
-teste?<Button><CR>
+<Char: 0 0><0xF1: 0>E-e aí, eu posso fazer a<LF>
+prova?<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<Char: 0 36><0xF1: 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>Você fez um trabalho<LF>
+<Char: 0 36><0xF1: 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0> Você fez um trabalho<LF>
 exemplar! Claro! Pode<LF>
-entrar e fazer o teste!<Button><CR>
+entrar e fazer a prova!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 0><0xF1: 0>Beleza!!<LF>

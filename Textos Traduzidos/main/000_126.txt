@@ -1,12 +1,11 @@
 <@AbsoluteAddr 7932784>
 <@PointerIdx0>
 <Char: 0 0><0xF1: 0>MegaMan, encontre o<LF>
-programa 
-da asa direita.<Button><CR>
+programa da asa direita.<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <Char: 0 64><0xF1: 0>Pode deixar!<LF>
-<0xF2: 0 7 2>...Urg... argh!!<Button><EB>
+<0xF2: 0 7 2>... Urg... argh!!<Button><EB>
 !*********************!
 <@PointerIdx2>
 <Char: 0 0><0xF1: 0>O que é que foi,<LF>
@@ -25,7 +24,7 @@ MegaMan!?<Button><CR>
 <Jmp: 0 5><@PointerIdx5>
 <0xF2: 4 7 2><Char: 0 64><0xF1: 0>Tô... mas o meu corpo
 <LF>
-tá sendo pressionado<LF>
+tá sendo esmagado<LF>
 pela força magnética.<Button><CR>
 !---------------------!
 Ela também pode estar

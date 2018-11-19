@@ -3,14 +3,14 @@
 <Char: 0 0><0xF1: 0>Ventilador! Vai!<Button><CR>
 !---------------------!
 <0xF1: 1><0xEA: 0 60 0><Jmp: 0 1><@PointerIdx1>
-<Char: 1 241> Vr.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0><0xFA: 0 167 0><0xFA: 12>Vrooooooommm!<0xFA: 8><Button><EB>
+<Char: 1 241> Vr.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0><0xFA: 0 167 0><0xFA: 12> Vrooooooommm!<0xFA: 8><Button><EB>
 !*********************!
 <@PointerIdx2>
 <Char: 0 64><0xF1: 0>Lan!<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<0xFA: 16><Char: 0 0><0xF1: 0>Isso! Eu consegui!<0xEA: 1 30 0><LF>
-A ventilação debaixo do<LF>
+<0xFA: 16><Char: 0 0><0xF1: 0>Isso! Conseguimos!<0xEA: 1 30 0><LF>
+A ventilação em baixo do<LF>
 Dex voltou a funcionar!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
@@ -23,7 +23,7 @@ Dex voltou a funcionar!<Button><CR>
 <Char: 0 0><0xF1: 0>Dex! <0xEA: 1 30 0>Dex! <0xEA: 1 30 0>Aguenta firme!<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
-<Char: 0 2><0xF1: 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>Ahã..<0xEA: 1 30 0> Unnh...<0xEA: 1 30 0> Urg<0xEA: 1 30 0><Button><CR>
+<Char: 0 2><0xF1: 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0> Ahã...<0xEA: 1 30 0> Unnh...<0xEA: 1 30 0> Urg.<0xEA: 1 30 0><Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
 <Char: 0 0><0xF1: 0>Dex! Acorda!<Button><CR>
@@ -32,9 +32,9 @@ Dex voltou a funcionar!<Button><CR>
 <Char: 0 76><0xF1: 0>Dexxxxx! <0xEA: 1 30 0>Guts!!<Button><CR>
 !---------------------!
 <Jmp: 0 10><@PointerIdx10>
-<Char: 0 2><0xF1: 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>Guts..<0xEA: 1 30 0>GutsMan...<0xEA: 1 30 0><LF>
+<Char: 0 2><0xF1: 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0> Guts..<0xEA: 1 30 0> GutsMan...<0xEA: 1 30 0><LF>
 Oh...<0xEA: 1 30 0><LF>
-Ah...<0xEA: 1 30 0> Urrhhhh <0xEA: 1 30 0><Button><CR>
+Ah...<0xEA: 1 30 0> Urrhhhh.<0xEA: 1 30 0><Button><CR>
 !---------------------!
 Ahhhh... isso foi punk.<LF>
 Mas eu...<0xEA: 1 30 0> tô bem já...<Button><EB>
@@ -47,7 +47,7 @@ Mas eu...<0xEA: 1 30 0> tô bem já...<Button><EB>
 !---------------------!
 <Jmp: 0 13><@PointerIdx13>
 <Char: 0 2><0xF1: 0>Mas eu não quero ficar<LF>
-devendo essa pra você.<0xEA: 1 30 0><LF>
+devendo uma pra você.<0xEA: 1 30 0><LF>
 Ô GutsMan!<Button><CR>
 !---------------------!
 <Jmp: 0 14><@PointerIdx14>
@@ -80,7 +80,7 @@ A Yai ainda tá...!<Button><CR>
 <Char: 0 0><0xF1: 0>Ah, sim! Eu sei disso!<Button><CR>
 !---------------------!
 <Jmp: 0 21><@PointerIdx21>
-<Char: 0 64><0xF1: 0>Vou procurar pelos<LF>
+<Char: 0 64><0xF1: 0>Eu vou atrás dos<LF>
 outros interruptores!<Button><CR>
 !---------------------!
 <Jmp: 0 22><@PointerIdx22>

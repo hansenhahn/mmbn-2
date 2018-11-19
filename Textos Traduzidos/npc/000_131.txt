@@ -1,0 +1,507 @@
+<@PointerIdx0>
+<0xF3: 4 4 255 10 255><0xF3: 4 3 3 5 255><Char: 0 66><0xF1: 0>Esta é uma das entradas<LF>
+do Plaza.<Button><CR>
+!---------------------!
+Diversos Navis acessam<LF>
+este lugar de todos os<LF>
+cantos do mundo.<Button><CR>
+!---------------------!
+Sobe lá pra ver!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<0xF3: 4 4 255 11 255><0xF3: 4 3 3 6 255><Char: 0 71><0xF1: 0>Isso foi tão divertido!<LF>
+Ah, como eu adoro o<LF>
+Plaza.<Button><CR>
+!---------------------!
+Lá posso me encontrar<LF>
+com amigos, fazer com-<LF>
+pras... o céu é o limite!<Button><CR>
+!---------------------!
+E hoje é dia de prova<LF>
+pros NetLutadores<LF>
+Municipais, também!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 70><0xF1: 0>Esta é a saída de um<LF>
+atalho que alguém criou.<Button><CR>
+!---------------------!
+Com a ChvePrtl, é<LF>
+possível vir para cá<LF>
+de um outro lugar!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 70><0xF1: 0>Este Portal leva ao<LF>
+KotoPlaza, mas está em<LF>
+manutenção no momento.<Button><CR>
+!---------------------!
+E por sinal: esta área<LF>
+em que estamos se<LF>
+chama "Área Den".<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 70><0xF1: 0>Como já deve saber...<Button><CR>
+!---------------------!
+Você pode carregar até<LF>
+30 BattleChips no seu<LF>
+diretório.<Button><CR>
+!---------------------!
+Os 5 que você pode es-<LF>
+colher na tela de custo-<LF>
+mização são aleatórios.<Button><CR>
+!---------------------!
+Portanto, o melhor é<LF>
+colocar seus chips favo-<LF>
+ritos em seu diretório.<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 66><0xF1: 0>Esta é uma das entradas<LF>
+do Plaza.<Button><CR>
+!---------------------!
+Navis vindos de toda<LF>
+parte se reúnem aqui.<Button><CR>
+!---------------------!
+Sobe lá!<Dly: 1 30 0><LF>
+Você já foi lá, não foi?<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 71><0xF1: 0>"<ItemTbl: 0 1 0>" e<LF>
+"<ItemTbl: 0 2 0>"?<Button><CR>
+!---------------------!
+Não acho que hajam<LF>
+arquivos com esses<LF>
+nomes por aqui.<Button><EB>
+!*********************!
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<Char: 0 66><0xF1: 0>Como foi o Plaza? O net-<LF>
+mundo está ficando tão<LF>
+conveniente, não é?<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 71><0xF1: 0>Você tem uma<LF>
+<ItemTbl: 0 58 0>?<Button><CR>
+!---------------------!
+O seu Operador é um<LF>
+NetLutador famoso?<Button><EB>
+!*********************!
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<Char: 0 70><0xF1: 0>Agora você pode passar<LF>
+pelo Conector no canto<LF>
+inferior-direito daqui!<Button><EB>
+!*********************!
+<@PointerIdx16>
+<Char: 0 66><0xF1: 0>A Área Den é o mundo<LF>
+cibernético de DenCity.<Button><CR>
+!---------------------!
+Você pode confirmar sua<LF>
+localização atual no<LF>
+canto inferior da tela.<Button><CR>
+!---------------------!
+O Plaza também faz<LF>
+parte do mundo ciberné-<LF>
+tico de DenCity...<Button><CR>
+!---------------------!
+mas o chamamos só de<LF>
+"Plaza" mesmo. É mais<LF>
+fácil de lembrar.<Button><EB>
+!*********************!
+<@PointerIdx17>
+<Char: 0 71><0xF1: 0>Os primeiros Navis não<LF>
+eram capazes de fala.<LF>
+Eles só seguiam ordens.<Button><CR>
+!---------------------!
+Eu não acho que<LF>
+ia gostar de viver<LF>
+assim...<Button><EB>
+!*********************!
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<Char: 0 73><0xF1: 0>Lutar contra vírus novos<LF>
+é difícil para Navis<LF>
+velhos como eu.<Button><EB>
+!*********************!
+<@PointerIdx51>
+<Char: 0 73><0xF1: 0>Podemos ser vistos como<LF>
+modelos antiquados de<LF>
+Navis agora, mas...<Button><CR>
+!---------------------!
+Sumíamos das prateleiras<LF>
+na época em que fomos<LF>
+lançados.<Button><CR>
+!---------------------!
+O slogan de venda era<LF>
+"Use 2 chips em um turno<LF>
+só"!<Button><EB>
+!*********************!
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<Char: 0 70><Char: 2 1><0xF1: 0>Aposto que o Plaza<LF>
+também está vazio<LF>
+agora.<Button><EB>
+!*********************!
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 138 12 195 255><0xF3: 0 155 0 196 255><0xF3: 0 156 0 192 255><0xF3: 0 154 0 191 255><0xF2: 0 154 0><Char: 0 70><Char: 2 1><0xF1: 0>Fui eu quem postou o<LF>
+pedido no Fórum.<Button><CR>
+!---------------------!
+É o seguinte: minha<LF>
+próxima NetLuta será<LF>
+contra o meu rival...<Button><CR>
+!---------------------!
+E quero que você me<LF>
+ajude a vencer.<Button><CR>
+!---------------------!
+Pra começar, quero<LF>
+que espione ele.<Button><CR>
+!---------------------!
+Se eu descobrir seus<LF>
+pontos fracos, será mais<LF>
+fácil vencê-lo.<Button><CR>
+!---------------------!
+Ele está treinando no<LF>
+mundo cibernético, mas<LF>
+não na Rede.<Button><CR>
+!---------------------!
+Ouvi dizer que ele achou<LF>
+um lugar tranquilo para<LF>
+relaxar e treinar.<Button><CR>
+!---------------------!
+Ele treina muito duro.<LF>
+Vai reconhecê-lo quando<LF>
+o encontrar.<Button><EB>
+!*********************!
+<@PointerIdx191>
+<Char: 0 70><Char: 2 1><0xF1: 0>Vamos repassar o meu<LF>
+pedido.<Button><CR>
+!---------------------!
+Minha próxima NetLuta<LF>
+será contra o meu <LF>
+arquirival.<Button><CR>
+!---------------------!
+Estou pedindo que você<LF>
+me ajude a garantir<LF>
+a vitória.<Button><CR>
+!---------------------!
+Quero que espione o<LF>
+meu rival.<Button><CR>
+!---------------------!
+Se eu descobrir seus<LF>
+pontos fracos, será mais<LF>
+fácil vencê-lo.<Button><CR>
+!---------------------!
+Ele está treinando no<LF>
+mundo cibernético, mas<LF>
+não na Rede.<Button><CR>
+!---------------------!
+Não sabe onde ele está?<Button><CR>
+!---------------------!
+Conhece algum "lugar<LF>
+tranquilo para relaxar"?<Button><EB>
+!*********************!
+<@PointerIdx192>
+<0xF2: 0 155 0><Char: 0 70><Char: 2 1><0xF1: 0>Descobriu o ponto fraco<LF>
+dele?<Button><CR>
+!---------------------!
+Ele NÃO TEM UM?<Button><CR>
+!---------------------!
+Ele vai se focar em usar<LF>
+sua rapidez pra me<LF>
+confundir, é...<Button><CR>
+!---------------------!
+Pois eu vou usar um chip<LF>
+de alta precisão pra<LF>
+garantir acertos...<Button><CR>
+!---------------------!
+Pois é. Pode me arranjar<LF>
+um "<ItemTbl: 0 71 1> <ItemTbl: 0 6 3>"?<Button><CR>
+!---------------------!
+E aí, pode?<LF>
+<Arrow: 17 0><Pos: 0 2>Claro <Arrow: 0 17><Pos: 0 2>Nem pensar.<CondJmp: 6 128 193 255 255>
+!---------------------!
+É parte do meu pedido!<Button><CR>
+!---------------------!
+Eu vou vencer com<LF>
+certeza se tiver um<LF>
+"<ItemTbl: 0 71 1> <ItemTbl: 0 6 3>"!!<Button><CR>
+!---------------------!
+Por favor?<Button><EB>
+!*********************!
+<@PointerIdx193>
+<0xF6: 20 71 0 6 1 255 255 197><0xF2: 0 138 12><0xF2: 4 82 0><0xF6: 17 71 0 6 1><Char: 0 70><Char: 2 1><0xF1: 0>E aí, vai me arranjar um<LF>
+"<ItemTbl: 0 71 1> <ItemTbl: 0 6 3>"?<Button><CR>
+!---------------------!
+Show!!<Button><CR>
+!---------------------!
+Agora eu posso vencê-lo!<LF>
+Obrigado!<Button><CR>
+!---------------------!
+Isso é tudo de que<LF>
+preciso!<Button><CR>
+!---------------------!
+Este é um presente<LF>
+pra você. Por favor,<LF>
+aceite-o.<Button><CR>
+!---------------------!
+<Jmp: 0 194><@PointerIdx194>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 99 1>MegaMan recebeu o<LF>
+PowerUp:<LF>
+"<ItemTbl: 0 99 0>"!!<0xF8: 12><0xF8: 8><Button><CR>
+!---------------------!
+Memória padrão<LF>
+aumentada em 2 MB!!<Button><EB>
+!*********************!
+<@PointerIdx195>
+<Char: 0 70><Char: 2 1><0xF1: 0>Vou começar a treinar!<Button><EB>
+!*********************!
+<@PointerIdx196>
+<Char: 0 70><Char: 2 1><0xF1: 0>Ah, trouxe o<LF>
+"<ItemTbl: 0 71 1> <ItemTbl: 0 6 3>"?<LF>
+<Arrow: 17 0><Pos: 0 2>Trouxe sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 128 193 255 255>
+!---------------------!
+Não se esqueça da sua<LF>
+responsabilidade! Me<LF>
+ajudar a ficar mais forte!<Button><EB>
+!*********************!
+<@PointerIdx197>
+<Char: 0 70><Char: 2 1><0xF1: 0>O "<ItemTbl: 0 71 1> <ItemTbl: 0 6 3>"<LF>
+está em seu diretório,<LF>
+por acaso?<Button><CR>
+!---------------------!
+Por favor, retire o chip<LF>
+de lá antes entregá-lo<LF>
+a mim.<Button><EB>
+!*********************!
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<@PointerIdx221>
+<0xF1: 0>Cubo1<Button><0xF1: 1><EB>
+!*********************!
+<@PointerIdx222>
+<@PointerIdx223>
+<0xF1: 0>Cubo2<Button><0xF1: 1><EB>
+!*********************!
+<@PointerIdx224>
+<@PointerIdx225>
+<0xF1: 0>Cubo3<Button><0xF1: 1><EB>
+!*********************!
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

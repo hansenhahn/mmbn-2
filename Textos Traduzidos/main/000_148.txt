@@ -7,7 +7,7 @@
 Muito preocupante, isso.<Button><CR>
 !---------------------!
 Afinal, eles tinham dito<LF>
-que a Gospel foi<LF>
+que a Gospel tinha sido<LF>
 destruída!<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>

@@ -1,0 +1,825 @@
+<@PointerIdx0>
+<0xF3: 0 4 2 4 255><0xF2: 0 4 2><Char: 0 7><0xF1: 0>Eu fico preocupada com<LF>
+você indo pro exterior<LF>
+sozinho,<Dly: 1 30 0> então...<Button><CR>
+!---------------------!
+Quero que leve isto com<LF>
+você na viagem, Lan.<Button><CR>
+!---------------------!
+<Jmp: 0 1><@PointerIdx1>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 16 195 0 17 1>Lan recebeu o chip<LF>
+"<ItemTbl: 0 195 1> <ItemTbl: 0 17 3>"!!<Button><0xF8: 12><0xF8: 16><0xF8: 8><CR>
+!---------------------!
+<0xF8: 0><0xF8: 4 24><0xF6: 0 24 1>Lan recebeu:<LF>
+"<ItemTbl: 0 24 0>"!!<Button><0xF8: 12><0xF8: 16><0xF8: 8><CR>
+!---------------------!
+<Jmp: 0 2><@PointerIdx2>
+<Char: 0 0><0xF1: 0>O chip eu entendo, mas
+<LF>
+o que é isso aqui?<LF>
+Pra que serve?<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 0 7><0xF1: 0>Ai, não precisa falar<LF>
+assim também, né!?<Button><CR>
+!---------------------!
+O seu horóscopo diz que<LF>
+esse é o seu objeto<LF>
+da sorte, Lan!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 7><0xF1: 0>Seu bobão!!<Dly: 1 30 0><LF>
+Só... toma cuidado lá!<Button><EB>
+!*********************!
+<@PointerIdx5>
+<0xF6: 3 64 1 8 8 255><0xF3: 0 4 2 6 255><Char: 0 64><0xF1: 0>Lan? A Mayl veio aqui se<LF>
+despedir de você. Não<LF>
+viu ela, não?<Button><EB>
+!*********************!
+<@PointerIdx6>
+<0xF3: 0 58 2 7 255><0xF2: 0 58 2><0xF1: 0>Lan usou:<LF>
+"<ItemTbl: 0 22 0>"<LF>
+na máquina!!<Button><CR>
+!---------------------!
+<0xFA: 12><0xFA: 0 29 1>CHUIU!! <Dly: 1 30 0><0xFA: 0 17 1>CLIC!!<0xFA: 8><Button><CR>
+!---------------------!
+"<ItemTbl: 0 22 0>"<LF>
+foi aceito!<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 64><0xF1: 0>Depois que entrar lá,<LF>
+não vai mais dar pra<LF>
+sair.<Button><EB>
+!*********************!
+<@PointerIdx8>
+<0xF1: 0>Lan usou:<LF>
+"PassLivr"<LF>
+na máquina!!<Button><CR>
+!---------------------!
+<0xFA: 12><0xFA: 0 29 1>CHUIU!! <Dly: 1 30 0><0xFA: 0 17 1>CLIQUE!!<0xFA: 8><Button><CR>
+!---------------------!
+O "PassLivr"<LF>
+foi aceito!<Button><EB>
+!*********************!
+<@PointerIdx9>
+<Char: 0 44><0xF1: 0>Por favor, tenha em<LF>
+mãos sua passagem de<LF>
+avião o tempo todo.<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 44><0xF1: 0>Este acesso é somente<LF>
+para tripulação, VIPs<LF>
+e NetLutadores Oficiais.<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Dly: 0 1 0><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 46><0xF1: 0>Esta é a área de<LF>
+desembarque. É proibido<LF>
+entrar aqui.<Button><EB>
+!*********************!
+<@PointerIdx13>
+<@PointerIdx14>
+<Char: 0 46><0xF1: 0>Ei! Se você queria sair<LF>
+do aeroporto, por que
+<LF>
+passou pela inspeção?<Button><EB>
+!*********************!
+<@PointerIdx15>
+<@PointerIdx16>
+<0xF3: 4 56 255 50 255><0xF3: 0 6 2 36 255><Char: 0 46><0xF1: 0>Seu passaporte, por
+<LF>favor?<LF>
+<Arrow: 17 0><Pos: 0 2>Tá bom <Arrow: 0 17><Pos: 0 2>Não quero!<CondJmp: 6 128 17 255 255>
+!---------------------!
+Então não pode passar.<LF>
+Nem viajar.<LF>
+... Gaiato.<Button><EB>
+!*********************!
+<@PointerIdx17>
+<0xF2: 0 6 2><0xF2: 4 115 8><Char: 0 46><0xF1: 0>Lan Hikari! <Dly: 1 30 0>Em pessoa!<Dly: 1 30 0><LF>
+Qual o seu destino?<LF>
+<Arrow: 17 0><Pos: 0 2>Ameropa! <Arrow: 0 17><Pos: 0 2>Saborya!<CondJmp: 6 192 18 255 255>
+!---------------------!
+Mas na sua passagem<LF>
+está dizendo "Ameropa".<LF>
+É o seu destino, certo?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Certo <Arrow: 0 17><Pos: 0 2>Saborya!<CondJmp: 6 128 19 255 255>
+!---------------------!
+Hmm, estranho.<Dly: 1 30 0><LF>
+Bom, tanto faz.<LF>
+Pode entrar.<Button><EB>
+!*********************!
+<@PointerIdx18>
+<Char: 0 46><0xF1: 0>Mm-hm...<Dly: 1 30 0> Tudo certo!<Dly: 1 30 0><LF>
+Desejamos a você uma<LF>
+boa viagem!<Button><EB>
+!*********************!
+<@PointerIdx19>
+<Char: 0 46><0xF1: 0>Entendo. Bom, tudo<LF>
+pronto! Desejamos a<LF>
+você uma boa viagem!<Button><EB>
+!*********************!
+<@PointerIdx20>
+<Char: 0 46><0xF1: 0>Você já passou pela<LF>
+inspeção aqui. Não pode<LF>
+voltar agora.<Button><EB>
+!*********************!
+<@PointerIdx21>
+<Char: 0 46><0xF1: 0>Ô, garoto! Você não<LF>
+pode passar por aqui<LF>
+só porque você quer!<Button><EB>
+!*********************!
+<@PointerIdx22>
+<@PointerIdx23>
+<Char: 0 46><0xF1: 0>Por aí também só pode<LF>
+tripulação, convidados e<LF>
+NetLutadores Oficiais.<Button><EB>
+!*********************!
+<@PointerIdx24>
+<@PointerIdx25>
+<0xF3: 4 64 72 80 255><Char: 0 44><0xF1: 0>Bem-vindo ao Aeroporto<LF>
+Den, a porta de entrada<LF>
+aérea de Ni-Hon!<Button><EB>
+!*********************!
+<@PointerIdx26>
+<Char: 0 46><0xF1: 0>Por aqui só podem passar<LF>
+passageiros com... bem,<LF>
+passagens.<Button><CR>
+!---------------------!
+É bom estar pronto.<LF>
+Depois de entrar aqui,<LF>
+não dá pra voltar.<Button><EB>
+!*********************!
+<@PointerIdx27>
+<Char: 0 51><0xF1: 0>Sushi! Gueixas! Samurais!<LF>
+Eu amo Ni-Hon!<Button><EB>
+!*********************!
+<@PointerIdx28>
+<Char: 0 6><0xF1: 0>Vejo que você também<LF>
+foi convidado para a<LF>
+conferência.<Button><CR>
+!---------------------!
+Apenas... evite abrir a<LF>
+boca durante ela.<Button><EB>
+!*********************!
+<@PointerIdx29>
+<0xF3: 4 55 72 48 255><Char: 0 46><0xF1: 0>Esta é a área de de-<LF>
+sembarque. Por favor,<LF>
+vá para a de embarque.<Button><EB>
+!*********************!
+<@PointerIdx30>
+<Char: 0 29><0xF1: 0>Esta é a minha primeira<LF>
+vez em Ni-Hon!!<Button><EB>
+!*********************!
+<@PointerIdx31>
+<Char: 0 14><0xF1: 0>Eu fui assaltada durante<LF>
+a minha viagem. Tome<LF>
+cuidado você também.<Button><EB>
+!*********************!
+<@PointerIdx32>
+<Char: 0 44><0xF1: 0>Está com a sua<LF>
+passagem em mãos?<LF>
+Então tenha um bom voo!<Button><EB>
+!*********************!
+<@PointerIdx33>
+<0xF3: 4 64 72 83 255><0xF3: 4 61 61 76 255><0xF3: 4 56 60 59 255><Char: 0 44><0xF1: 0>A ALA é a linha aérea<LF>
+da Ameropa.<Button><EB>
+!*********************!
+<@PointerIdx34>
+<0xF3: 4 64 72 84 255><Char: 0 46><0xF1: 0>É proibido trazer<LF>
+objetos perigosos<LF>
+à bordo da aeronave.<Button><CR>
+!---------------------!
+Você precisa passar<LF>
+pela segurança antes<LF>
+de embarcar.<Button><EB>
+!*********************!
+<@PointerIdx35>
+<0xF3: 4 64 72 85 255><Char: 0 13><0xF1: 0>E agora, a vistoria da<LF>
+imigração. Até que<LF>
+enfim.<Button><CR>
+!---------------------!
+Uma resposta errada, e<LF>
+não deixam você sair do<LF>
+país. É o que parece.<Button><EB>
+!*********************!
+<@PointerIdx36>
+<Char: 0 46><0xF1: 0>O que foi? Você já<LF>
+passou pela vistoria<LF>
+da imigração, não?<Button><EB>
+!*********************!
+<@PointerIdx37>
+<0xF6: 51 0 0 0 0 255 39 255><0xF2: 12 27 7><Jmp: 0 39><@PointerIdx38>
+<@PointerIdx39>
+<0xF1: 0><0xF2: 12 26 7>Chegou e-mail...<Button><EB>
+!*********************!
+<@PointerIdx40>
+<0xF3: 4 56 255 67 255><0xF3: 0 60 2 42 255><Char: 0 46><0xF1: 0>Seu passaporte, por
+<LF>favor?<LF>
+<Arrow: 17 0><Pos: 0 2>Aqui <Arrow: 0 17><Pos: 0 2>Nunca!<CondJmp: 6 128 41 255 255>
+!---------------------!
+Sem passaporte, sem<LF>
+voo. Regras são regras.<Button><EB>
+!*********************!
+<@PointerIdx41>
+<Char: 0 46><0xF1: 0>Certo... Lan Hikari!<Dly: 1 30 0><LF>
+Bem-vindo ao lar!<Button><0xF2: 0 60 2><EB>
+!*********************!
+<@PointerIdx42>
+<Char: 0 46><0xF1: 0>Espera, eu já verifiquei<LF>
+a sua passagem. Não<LF>
+pode voltar agora.<Button><EB>
+!*********************!
+<@PointerIdx43>
+<Char: 0 46><0xF1: 0>Ô, menino! Você não pode<LF>
+entrar aí.<Button><EB>
+!*********************!
+<@PointerIdx44>
+<Char: 0 10><0xF1: 0>Eu vou pra um país<LF>
+estrangeiro!!<Button><CR>
+!---------------------!
+Tô indo pra um avião que<LF>
+vai pra Saborya!!<Button><CR>
+!---------------------!
+Ebaaa!!<Button><EB>
+!*********************!
+<@PointerIdx45>
+<Char: 0 15><0xF1: 0>Ô! Eu não já falei que<LF>aqui não pode correr!?<LF>
+Fica quieto, menino!<Button><EB>
+!*********************!
+<@PointerIdx46>
+<Char: 0 49><0xF1: 0>My God! Finalmente<LF>
+cheguei em Ni-Hon!<Button><CR>
+!---------------------!
+Pretendo fazer<LF>
+bastante "sightseeing"<LF>
+antes de voltar!!<Button><EB>
+!*********************!
+<@PointerIdx47>
+<Char: 0 44><0xF1: 0>Esperamos que tenha<LF>
+tido um bom voo.<Button><EB>
+!*********************!
+<@PointerIdx48>
+<Char: 0 46><0xF1: 0>Esta é a Área de<LF>
+Desembarques.<Button><EB>
+!*********************!
+<@PointerIdx49>
+<@PointerIdx50>
+<Char: 0 46><0xF1: 0>Você tem um <ItemTbl: 0 64 0>?<LF>
+Está livre para ir e<LF>
+vir.<Button><EB>
+!*********************!
+<@PointerIdx51>
+<Char: 0 44><0xF1: 0>Você tem um <ItemTbl: 0 64 0>?<LF>
+Então não precisa de<LF>
+visto.<Button><CR>
+!---------------------!
+Está livre para ir e vir.<Button><EB>
+!*********************!
+<@PointerIdx52>
+<0xF3: 4 61 61 75 255><0xF3: 4 58 60 65 255><Char: 0 13><0xF1: 0>A Metrolinha e os aviãos<LF>
+continuam operantes<LF>
+apesar das condições.<Button><CR>
+!---------------------!
+Será que não acontecem<LF>
+acidentes aqui?<Button><EB>
+!*********************!
+<@PointerIdx53>
+<Char: 0 10><0xF1: 0>Aaaaaahhh!!<Button><EB>
+!*********************!
+<@PointerIdx54>
+<Char: 0 15><0xF1: 0>Teve uma enchente<LF>
+relâmpago quando o avião
+<LF>
+chegou em Saborya.<Button><CR>
+!---------------------!
+Por isso o meu filho está<LF>
+tão chocado.<Button><CR>
+!---------------------!
+Vamos, anime-se! Eu te<LF>
+levo pro parque de<LF>
+diversões mais tarde!<Button><EB>
+!*********************!
+<@PointerIdx55>
+<0xF3: 4 61 61 70 255><0xF3: 4 58 60 60 255><Char: 0 10><0xF1: 0>Espero que o papai volte<LF>
+logo.<Button><EB>
+!*********************!
+<@PointerIdx56>
+<0xF3: 4 61 61 71 255><0xF3: 4 58 60 61 255><Char: 0 17><0xF1: 0>O papai vem pra casa<LF>
+hoje.<Button><EB>
+!*********************!
+<@PointerIdx57>
+<0xF3: 4 61 61 72 255><0xF3: 4 58 60 62 255><Char: 0 17><0xF1: 0>Ele já chegou? Ele já<LF>
+chegou? Ele já chegou?<LF>
+Ele já chegou?<Button><EB>
+!*********************!
+<@PointerIdx58>
+<0xF3: 4 61 61 73 255><0xF3: 4 58 60 63 255><Char: 0 16><0xF1: 0>O meu marido pegou<LF>
+apendicite na Ameropa,<LF>
+por isso ficou por lá.<Button><CR>
+!---------------------!
+Hoje é o dia em que ele<LF>
+finalmente volta pra<LF>
+casa.<Button><CR>
+!---------------------!
+Mas com esses terremo-<LF>
+tos em Ni-Hon e os
+<LF>
+desastres na Ameropa...<Button><CR>
+!---------------------!
+Pode ser que ele acabe<LF>
+nem voltando pra casa<LF>
+hoje. Ainda.<Button><EB>
+!*********************!
+<@PointerIdx59>
+<Char: 0 44><0xF1: 0>Estamos oferecendo um<LF>
+tour especial da aero-<LF>
+nave especial da ALA.<Button><CR>
+!---------------------!
+Para entrar, você só<LF>
+precisa de uma passagem<LF>
+ou de um PassLivr.<Button><EB>
+!*********************!
+<@PointerIdx60>
+<Char: 0 10><0xF1: 0>Ah! É o papai!<LF>
+O papai chegou!!<Button><EB>
+!*********************!
+<@PointerIdx61>
+<Char: 0 17><0xF1: 0>Papai, me dá colinho!?<Button><EB>
+!*********************!
+<@PointerIdx62>
+<Char: 0 17><0xF1: 0>Ainda tá doendo, papai?<Button><EB>
+!*********************!
+<@PointerIdx63>
+<Char: 0 16><0xF1: 0>Como pôde abandonar<LF>
+sua mulher e filhos justo<LF>
+numa hora dessas!?<Button><CR>
+!---------------------!
+.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0><LF>
+Brincadeirinha. É bom ter<LF>
+você de volta, querido.<Button><EB>
+!*********************!
+<@PointerIdx64>
+<0xF3: 4 61 61 74 255><Char: 0 18><0xF1: 0>Eu estou bem agora!<LF>
+Não têm com o que se<LF>
+preocupar!<Button><CR>
+!---------------------!
+Mas é melhor a gente<LF>
+ficar um tempo sem sair<LF>
+de casa.<Button><CR>
+!---------------------!
+Vamos esperar pra ver<LF>
+como as coisas se<LF>
+desenrolam.<Button><EB>
+!*********************!
+<@PointerIdx65>
+<Char: 0 13><0xF1: 0>Ha ha! Que reunião de<LF>
+família piegas.<Button><CR>
+!---------------------!
+... Ah, quem estou<LF>
+tentando enganar?<LF>
+Sniff! Chuif! Buááá!<Button><EB>
+!*********************!
+<@PointerIdx66>
+<0xF3: 4 61 61 77 255><Char: 0 49><0xF1: 0>Foi o meu primeiro "earth-<LF>
+quake" aqui em Ni-Hon.<LF>
+E agora estou preso.<Button><EB>
+!*********************!
+<@PointerIdx67>
+<Char: 0 46><0xF1: 0>Bem-vindo ao lar!<Button><CR>
+!---------------------!
+Podemos pular a<LF>
+inspeção. Eu já conheço<LF>
+o seu rosto.<Button><EB>
+!*********************!
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<Char: 0 10><0xF1: 0>Acho que já acabou os<LF>
+terremotos. Vamo pra<LF>
+casa.<Button><CR>
+!---------------------!
+Vamo jogar bola quando<LF>
+a gente chegar em<LF>
+casa, papai!<Button><CR>
+!---------------------!
+Promete?<Button><EB>
+!*********************!
+<@PointerIdx71>
+<Char: 0 17><0xF1: 0>Eu também quero!<Button><EB>
+!*********************!
+<@PointerIdx72>
+<Char: 0 17><0xF1: 0>Não quero ficar de fora!<Button><EB>
+!*********************!
+<@PointerIdx73>
+<Char: 0 16><0xF1: 0>Vamos, querido. Faz<LF>
+tempo que a família não<LF>
+fica toda reunida.<Button><CR>
+!---------------------!
+Pro jantar, eu vou<LF>
+preparar o meu famoso<LF>
+Camarão Den com Misô!<Button><EB>
+!*********************!
+<@PointerIdx74>
+<Char: 0 18><0xF1: 0>Ah, meus amores...<Button><EB>
+!*********************!
+<@PointerIdx75>
+<Char: 0 13><0xF1: 0>Ah! Essa cena é tão<LF>
+comovente!<Button><CR>
+!---------------------!
+Estou desidratando de<LF>
+tanto chorar!!<Button><EB>
+!*********************!
+<@PointerIdx76>
+<Char: 0 44><0xF1: 0>Parece que os desastres<LF>
+enfim pararam.<Button><CR>
+!---------------------!
+Temos de nos preparar<LF>
+pra enxurrada de mora-<LF>
+dores que estavam fora!<Button><EB>
+!*********************!
+<@PointerIdx77>
+<Char: 0 49><0xF1: 0>O meu embarque está<LF>
+próximo!<Button><CR>
+!---------------------!
+Me resta pouco tempo<LF>
+de "sightseeing"!<Button><CR>
+!---------------------!
+Ah, tamanho "hurdle"!<Button><EB>
+!*********************!
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<Char: 0 44><0xF1: 0>Bem-vindo ao Aeroporto<LF>
+Den, a recepção aérea<LF>
+de Ni-Hon!<Button><CR>
+!---------------------!
+Dito isso, é melhor evitar<LF>
+viagens desnecessárias<LF>
+esses dias.<Button><EB>
+!*********************!
+<@PointerIdx81>
+<Char: 0 50><0xF1: 0>Estou preocupado com a<LF>
+minha família lá no meu<LF>
+país!<Button><CR>
+!---------------------!
+Espero que não tenham<LF>
+sido afetados por nenhum<LF>
+netcrime.<Button><EB>
+!*********************!
+<@PointerIdx82>
+<Char: 0 18><0xF1: 0>Até que enfim consegui<LF>
+voltar pra Ni-Hon!<Button><CR>
+!---------------------!
+Tenho que ir ver a minha
+<LF>
+mulher e as crianças,<LF>
+urgente!<Button><EB>
+!*********************!
+<@PointerIdx83>
+<Char: 0 44><0xF1: 0>A frequência de voos<LF>
+da nossa companhia está<LF>
+limitada no momento.<Button><CR>
+!---------------------!
+Somente aviões da ALA<LF>
+estão indo para a<LF>
+Ameropa no momento.<Button><EB>
+!*********************!
+<@PointerIdx84>
+<Char: 0 46><0xF1: 0>A vistoria das bagagens<LF>
+de mão está bem mais<LF>
+rigorosa agora.<Button><CR>
+!---------------------!
+Mas isso não se aplica<LF>
+aos passageiros que<LF>
+têm um PassLvre.<Button><CR>
+!---------------------!
+Por favor, prossiga.<Button><EB>
+!*********************!
+<@PointerIdx85>
+<Char: 0 13><0xF1: 0>Eu não acredito que a<LF>
+vistoria das bagagens de<LF>
+mão leva uma hora!<Button><CR>
+!---------------------!
+Netcrimes estão criando
+<LF>
+todo tipo de<LF>
+inconveniência.<Button><EB>
+!*********************!
+<@PointerIdx86>
+<Char: 0 34><0xF1: 0>O meu namorado vai<LF>
+voltar da Ameropa em
+<LF>um dos próximos voos...<Button><CR>
+!---------------------!
+Espero que ele CONSIGA<LF>
+voltar. Fico tão<LF>
+inquieta...<Button><CR>
+!---------------------!
+Sei que ainda está longe<LF>
+o horário do voo. Deve<LF>
+me achar uma boba, né?<Button><CR>
+!---------------------!
+Um dia você vai entender<LF>
+como eu me sinto.<Button><EB>
+!*********************!
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 160 0 193 255><0xF3: 0 159 0 194 255><0xF2: 0 159 0><Char: 0 49><0xF1: 0>Olá! Foi você quem
+<LF>
+aceitou o meu pedido?<Button><CR>
+!---------------------!
+O que eu quero é que<LF>
+você me arranje um<LF>
+"<ItemTbl: 0 136 1> <ItemTbl: 0 13 3>".<Button><CR>
+!---------------------!
+Apesar de eu parecer<LF>
+estrangeiro, nasci e fui<LF>
+criado aqui em Ni-Hon.<Button><CR>
+!---------------------!
+E estou viajando pro<LF>
+exterior pela primeira<LF>
+vez na vida.<Button><CR>
+!---------------------!
+Você sabe o que dizem<LF>
+sobre o nível de violência<LF>
+em outros países, né?<Button><CR>
+!---------------------!
+Eu tecnicamente sou um<LF>
+NetLutador...<Button><CR>
+!---------------------!
+mas sou péssimo em<LF>
+exterminação de vírus.<Button><CR>
+!---------------------!
+Por isso postei este<LF>
+pedido.<Button><CR>
+!---------------------!
+E então? Pode me<LF>
+arranjar um<LF>
+"<ItemTbl: 0 136 1> <ItemTbl: 0 13 3>"?<Button><CR>
+!---------------------!
+Claro que não vai ser<LF>
+de graça. Há uma<LF>
+recompensa pra você.<Button><CR>
+!---------------------!
+O que me diz?<LF>
+<Arrow: 17 0><Pos: 0 2>Claro <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 128 191 255 255>
+!---------------------!
+Mas que tipo de<LF>
+NetLutador Municipal<LF>
+é você?<Button><CR>
+!---------------------!
+Se aceitou o pedido,<LF>
+é porque ia me dar<LF>
+o chip, não?<Button><CR>
+!---------------------!
+Vamos, garoto.<Button><EB>
+!*********************!
+<@PointerIdx191>
+<0xF6: 20 136 0 13 1 255 255 195><0xF6: 17 136 0 13 1><Char: 0 49><0xF1: 0>Vai mesmo dá-lo pra mim?<LF>
+Não vai mais poder tê-lo<LF>
+de volta, viu?<Button><CR>
+!---------------------!
+Ha ha! Obrigado!<LF>
+Muito obrigado,<LF>
+de verdade!<Button><CR>
+!---------------------!
+E aqui está o seu<LF>
+pagamento.<LF>
+Pode pegar.<Button><CR>
+!---------------------!
+<Jmp: 0 192><@PointerIdx192>
+<0xF2: 0 160 0><0xF2: 0 140 12><0xF2: 4 82 0><Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 48 80 195 0 0 255 255 255>Lan recebeu<LF>
+50000 zennys!!<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
+!*********************!
+<@PointerIdx193>
+<Char: 0 49><0xF1: 0>É um preço justo pra<LF>
+me manter seguro, sabe?<Button><CR>
+!---------------------!
+Só em Ni-Hon mesmo<LF>
+tenho garantidas água<LF>
+e segurança de graça!<Button><CR>
+!---------------------!
+E tome cuidado você<LF>
+também quando for viajar<LF>
+para o exterior, ouviu?<Button><EB>
+!*********************!
+<@PointerIdx194>
+<Char: 0 49><0xF1: 0>Espera, você tem ou não<LF>
+tem o<LF>
+"<ItemTbl: 0 136 1> <ItemTbl: 0 13 3>"?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Tenho <Arrow: 0 17><Pos: 0 2>Não tenho<CondJmp: 6 128 191 255 255>
+!---------------------!
+Mas que tipo de<LF>
+NetLutador Municipal é<LF>
+você?<Button><CR>
+!---------------------!
+Se aceitou o pedido,<LF>
+é porque ia me dar<LF>
+o chip, não?<Button><CR>
+!---------------------!
+Vamos, garoto.<Button><EB>
+!*********************!
+<@PointerIdx195>
+<Char: 0 49><0xF1: 0>Como assim?<Button><CR>
+!---------------------!
+Você não tem um<LF>
+"<ItemTbl: 0 136 1> <ItemTbl: 0 13 3>"! Não<LF>
+tem! Não tem!<Button><CR>
+!---------------------!
+Chega eu falei 3 vezes!<Button><CR>
+!---------------------!
+Será que está no seu<LF>
+diretório?<Button><CR>
+!---------------------!
+Não posso pegá-lo se<LF>
+estiver em um diretório.<Button><EB>
+!*********************!
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>É um quadro de voos!<LF>
+Nele dá para ver os<LF>
+horários de desembarque.<Button><CR>
+!---------------------!
+.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0> Parece que possui uma<LF>
+entrada de conexão.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>A entrada para o seu<LF>
+portão de embarque.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>O balcão da EEXP.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>O balcão da ALA.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<0xF1: 0>"Pedimos Para Que Não<LF>
+Tragam À Bordo Objetos<LF>
+Perigosos"<Button><EB>
+!*********************!
+<@PointerIdx225>
+<0xF1: 0>Aqui eles verificam se<LF>
+tem algo de perigoso em<LF>
+seus pertences.<Button><EB>
+!*********************!
+<@PointerIdx226>
+<0xF1: 0>"Proibida A Entrada De<LF>
+Pessoal Não-Autorizado"!<Button><EB>
+!*********************!
+<@PointerIdx227>
+<Jmp: 0 16><@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

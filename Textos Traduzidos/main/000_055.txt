@@ -5,7 +5,7 @@
 <@PointerIdx1>
 <Char: 0 64><0xF1: 0>Eu tô ouvindo um som...<LF>
 Tá mais alto do que<LF>
-ainda agora...<Button><CR>
+antes...<Button><CR>
 !---------------------!
 Ou seja: está perto!<Button><EB>
 !*********************!

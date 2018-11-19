@@ -2,7 +2,7 @@
 <@PointerIdx0>
 <Char: 0 0><0xF1: 0>Caaaramba...!<LF>
 Então esse é o<LF>
-computador matriz?<Button><CR>
+computador-matriz?<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <Char: 0 64><0xF1: 0>Lan!<LF>
@@ -10,12 +10,12 @@ Não é hora de ficar<LF>
 de espectador!<Button><CR>
 !---------------------!
 Se perdermos o<LF>
-computador matriz,<LF>
+computador-matriz,<LF>
 nosso país já era!<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 0><0xF1: 0>Eu sei!<LF>
-Não vou deixar isso<LF>
+E não vou deixar isso<LF>
 acontecer!<Button><EB>
 !*********************!
 

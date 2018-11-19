@@ -32,12 +32,12 @@ tempo também.<Button><CR>
 !---------------------!
 Quanto silêncio. Um ninja<LF>
 costurou suas bocas?<LF>
-Ou será medo? Ha-ha...<Button><CR>
+Ou será medo? Ha ha...<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
-<Char: 0 74><0xF1: 0>Hmpf! Continue só<LF>
-com os insultos pra ver<LF>
-o que acontece!<Button><CR>
+<Char: 0 74><0xF1: 0>Hmpf! Experimente con-<LF>
+tinuar com os insultos<LF>
+pra ver o que acontece!<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
 <Char: 0 6><0xF1: 0>A barreira de segurança<LF>

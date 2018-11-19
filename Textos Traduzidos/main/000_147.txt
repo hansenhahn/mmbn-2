@@ -7,7 +7,7 @@ relatório do Chaud.<Button><CR>
 <Jmp: 0 1><@PointerIdx1>
 <Char: 0 37><0xF1: 0>Ele partiu para investigar<LF>
 o incidente a pedido<LF>
-da Netopia...<Button><CR>
+da Ameropa...<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 22><0xF1: 0>E isso já faz 3 dias.<Button><CR>
@@ -16,7 +16,7 @@ da Netopia...<Button><CR>
 <Char: 0 23><0xF1: 0>Hmm...<Dly: 1 30 0> Talvez o caso
 <LF>
 seja mais complicado<LF>
-do que achávamos...<Button><CR>
+do que pensamos...<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 36><0xF1: 0>Mas não acham isso<LF>
@@ -54,18 +54,18 @@ NetLutadores reservas!<Button><CR>
 !---------------------!
 <Jmp: 0 10><@PointerIdx10>
 <Char: 0 36><0xF1: 0>Poderíamos pedir a um<LF>
-NetLutador municipal que<LF>
-verificasse Kotobuki.<Button><CR>
+NetLutador Municipal que<LF>
+investigasse Kotobuki.<Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
 <Char: 0 22><0xF1: 0>Ótima ideia! Por sinal,<LF>
 o filho do Dr. Hikari é<LF>
-NetLutador municipal...<Button><CR>
+NetLutador Municipal...<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
-<Char: 0 23><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>É verdade, mas isto<LF>
-deverá ser perigoso<LF>
-demais para ele...<Button><CR>
+<Char: 0 23><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0> É verdade, mas isso<LF>
+seria perigoso demais<LF>
+para ele...<Button><CR>
 !---------------------!
 O Lan ainda é<LF>
 inexperiente...<Button><EB>
@@ -76,19 +76,19 @@ senhor mesmo disse, é<LF>
 uma emergência!<Button><CR>
 !---------------------!
 Pediremos a todos os<LF>
-NetLutadores municipais<LF>
+NetLutadores Municipais<LF>
 para que participem!<Button><CR>
 !---------------------!
 <Jmp: 0 14><@PointerIdx14>
 <Char: 0 23><0xF1: 0>É verdade...<Dly: 1 30 0> talvez eles<LF>
-colaborem conosco...<Button><CR>
+nos ajudem...<Button><CR>
 !---------------------!
 Tudo bem, então...<Dly: 1 30 0><LF>
 Vamos pedir auxílio aos<LF>
 NetLutadores Municipais.<Button><CR>
 !---------------------!
-Mas enquanto isso,<LF>
-de volta a seus postos!<Button><CR>
+E até lá, de volta a<LF>
+seus postos!<Button><CR>
 !---------------------!
 <Jmp: 0 15><@PointerIdx15>
 <Char: 1 241 0>Sim, senhor!<Button><EB>

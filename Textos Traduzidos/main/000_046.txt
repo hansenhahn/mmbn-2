@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7878852>
 <@PointerIdx0>
-<Char: 0 0><0xF1: 0>Uaaaaaaaahhhhh!<Button><CR>
+<Char: 0 0><0xF1: 0>Uaaaaaaahhhh!<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <Char: 0 64><0xF1: 0>Tá com sono, Lan?<LF>
@@ -9,7 +9,7 @@ nota final de ópera!<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 0><0xF1: 0>Eu tava aqui pensando<LF>
-no que escolher pro meu<LF>
+no que fazer pro meu<LF>
 projeto de pesquisa.<Button><CR>
 !---------------------!
 Por que eles sempre dão<LF>
@@ -18,12 +18,12 @@ gente fazer nas férias!?<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 64><0xF1: 0>Que tal fazer um projeto<LF>
-sobre uma coisa que lhe<LF>
+sobre uma coisa que te<LF>
 interessa?<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 0><0xF1: 0>Uma coisa que me<LF>
-interesse...?<Button><EB>
+interessa...?<Button><EB>
 !*********************!
 <@PointerIdx5>
 <Char: 0 0><0xF1: 0>Hm?<LF>
@@ -34,18 +34,17 @@ O quê que é aquilo?<Button><EB>
 E tem alguma coisa amar-<LF>
 rada na cordinha dele!<Button><CR>
 !---------------------!
-Parecem ser dados!<LF>
+Acho que é um arquivo!<LF>
 <0xF2: 0 2 2>MegaMan, consegue<LF>
 abrir pra mim?<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
-<Char: 0 64><0xF1: 0>Pode deixar! Só vou<LF>
-precisar de um<LF>
-segundinho aqui...!<Button><CR>
+<Char: 0 64><0xF1: 0>Pode deixar! Me dá só<LF>
+um segundinho aqui...!<Button><CR>
 !---------------------!
 Hmm... parece ser um<LF>
 arquivo estrangeiro.<LF>
-Tem texto nele!<Button><CR>
+Um arquivo de texto!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
 <Char: 0 0><0xF1: 0>Caramba! Um arquivo do<LF>
@@ -56,7 +55,7 @@ E o que é que ele diz?<Button><CR>
 <Char: 0 64><0xF1: 0>Eu vou tentar traduzir.<Button><CR>
 !---------------------!
 Iniciando aplicativo de<LF>
-tradução.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0><Char: 3 0><0xFA: 12><0xFA: 0 9 1> bipe!!<0xEA: 0 30 0><Button><CR>
+tradução.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0><Char: 3 0><0xFA: 12><0xFA: 0 9 1> bip!!<0xEA: 0 30 0><Button><CR>
 !---------------------!
 <0xFA: 8><Char: 3 1>Tradução concluída!<LF>
 Hmm... parece ser<LF>
@@ -66,7 +65,8 @@ um tipo de carta.<Button><CR>
 amigo(a) de<LF>
 correspondência!?"<Button><CR>
 !---------------------!
-É o que tá escritio nele!<Button><CR>
+É isso que tá escrito<LF>
+nele!<Button><CR>
 !---------------------!
 <Jmp: 0 10><@PointerIdx10>
 <Char: 0 0><0xF1: 0>Amigo de correspondên-<LF>
@@ -80,18 +80,18 @@ de Saborya!<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
 <Char: 0 0><0xF1: 0>Saborya? Tipo, aquele<LF>
-país famoso por sua<LF>
-comida deliciosa?<Button><CR>
+país super famoso por<LF>
+sua comida deliciosa?<Button><CR>
 !---------------------!
-.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0>Tá decidido!!<Button><CR>
+.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0> Tá decidido!!<Button><CR>
 !---------------------!
 <Jmp: 0 13><@PointerIdx13>
-<Char: 0 64><0xF1: 0>Não grita assim, do<LF>
-nada! Quase me deletou<LF>
+<Char: 0 64><0xF1: 0>Não grita assim, ô!<LF>
+Quase me deletou<LF>
 de susto!<Button><CR>
 !---------------------!
-...mas sim, o que é que<LF>
-"tá decidido"?<Button><CR>
+... mas então, o que é<LF>
+que "tá decidido"?<Button><CR>
 !---------------------!
 <Jmp: 0 14><@PointerIdx14>
 <Char: 0 0><0xF1: 0>O tópico de pesquisa<LF>
@@ -109,11 +109,11 @@ mundo!<Button><CR>
 !---------------------!
 <Jmp: 0 17><@PointerIdx17>
 <Char: 0 64><0xF1: 0>Bom, isso realmente<LF>
-combina perfeitamente<LF>
-com você.<Button><CR>
+combina bastante com<LF>
+você.<Button><CR>
 !---------------------!
 Mas independente disso,<LF>
-parece muito legal!<LF>
+parece legal!<LF>
 Vai fundo, Lan!<Button><CR>
 !---------------------!
 <Jmp: 0 18><@PointerIdx18>
@@ -126,10 +126,10 @@ falar pra gente sobre<LF>
 a comida de lá!<Button><CR>
 !---------------------!
 <Char: 3 0>(E se a gente fizer um<LF>
-amigo Saboryano e<LF>
+amigo saboryano e<LF>
 conseguir ir pra lá...)<Button><CR>
 !---------------------!
-Imagina só toda a<LF>
+(Imagina só toda a<LF>
 comida boa que a gente<LF>
 vai poder comer!)<Button><CR>
 !---------------------!
@@ -143,7 +143,7 @@ Saborya, lá vamos nós!<Button><EB>
 Essa animação toda é<LF>
 muito suspeita...<Button><CR>
 !---------------------!
-Mas.. tudo bem!<LF>
+Mas... tudo bem!<LF>
 Vamos pra Saborya!<Button><EB>
 !*********************!
 <@PointerIdx20>
@@ -152,13 +152,13 @@ Vamos pra Saborya!<Button><EB>
 !---------------------!
 <0xF8: 12><0xF8: 4 4><Jmp: 0 6>   7 <0x69> r0<0x5c>0<Char: 1 241> Aqui é do<LF>
 Centro de Segurança<LF>
-de Electopia.<Button><CR>
+de Ni-Hon.<Button><CR>
 !---------------------!
 Somente aqueles que <LF>
 possuem uma LicençaA<LF>
-podem seguir além daqui.<Button><CR>
+podem passar.<Button><CR>
 !---------------------!
-<Jmp: 0 1><Char: 0 64><0xF1: 0>Lan, tá dizendo aqui que<LF>
+<Jmp: 0 1><Char: 0 64><0xF1: 0>Lan, aqui tá dizendo que<LF>
 a gente precisa de uma<LF>
 LicençaA pra passar.<Button><CR>
 !---------------------!
@@ -179,6 +179,6 @@ animado com um<LF>
 projeto de pesquisa!<Button><CR>
 !---------------------!
 Então vamos lá fazer<LF>
-a prova, ora!<Button><EB>
+a prova!<Button><EB>
 !*********************!
 

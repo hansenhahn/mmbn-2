@@ -1,0 +1,320 @@
+<@PointerIdx0>
+<@PointerIdx1>
+<@PointerIdx2>
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<Char: 0 64><0xF1: 0>Lan, chegou e-mail!<Button><EB>
+!*********************!
+<@PointerIdx21>
+<0xF2: 12 13 7><Jmp: 0 20><@PointerIdx22>
+<0xF2: 12 14 7><Jmp: 0 20><@PointerIdx23>
+<0xF2: 12 31 7><Jmp: 0 20><@PointerIdx24>
+<0xF2: 12 32 7><Jmp: 0 20><@PointerIdx25>
+<0xF2: 12 33 7><Jmp: 0 20><@PointerIdx26>
+<0xF2: 12 34 7><Jmp: 0 20><@PointerIdx27>
+<0xF2: 12 35 7><Jmp: 0 20><@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<Char: 0 64><0xF1: 0><0xF2: 12 3 7>Lan, chegou e-mail!<Button><EB>
+!*********************!
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>Só de olhar esta pilha<LF>
+de tralhas já dá uma<LF>
+nostalgia.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>As respostas daquela<LF>
+última prova estão<LF>
+escondidas aqui.<Button><CR>
+!---------------------!
+Se a mamãe descobrir,<LF>
+você vai estar numa<LF>
+encrenca das grandes!<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>O computador do Lan.<LF>
+Você pode se conectar<LF>
+nele.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF3: 4 61 61 236 255><0xF3: 4 55 55 234 255><0xF3: 4 7 7 224 255><0xF3: 4 9 9 230 255><Jmp: 0 229><EB>
+!*********************!
+<@PointerIdx224>
+<Char: 0 64><0xF1: 0>Pronto pra dormir?<LF>
+<Arrow: 17 0><Pos: 0 2>Pronto <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 128 237 255 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx225>
+<Char: 0 64><0xF1: 0>Salvar os eventos de<LF>
+hoje no seu PET?<LF>
+<Arrow: 17 0><Pos: 0 2>Salvar <Arrow: 0 17><Pos: 0 2>Não salvar<CondJmp: 6 128 233 227 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx226>
+<Char: 0 64><0xF1: 0><0xfc><0xff><0xe4>Beleza!<LF>
+...<Dly: 1 30 0> Salvos!<Button><CR>
+!---------------------!
+<Jmp: 0 227><@PointerIdx227>
+<Char: 0 64><0xF1: 0>Boa noite, Lan!<Button><EB>
+!*********************!
+<@PointerIdx228>
+<Char: 0 64><0xF1: 0>Hmm... parece que o<LF>
+processo de salvamento<LF>
+falhou...<Button><CR>
+!---------------------!
+Quer tentar de novo?<LF>
+<Arrow: 17 0><Pos: 0 2>Quero <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 128 226 227 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx229>
+<Char: 0 64><0xF1: 0>Ainda não tá cedo<LF>
+demais pra você ir<LF>
+dormir?<Button><EB>
+!*********************!
+<@PointerIdx230>
+<0xF6: 3 59 1 224 224 229><EB>
+!*********************!
+<@PointerIdx231>
+<0xF3: 4 0 7 255 225><0xF2: 0 58 2><Jmp: 0 225><@PointerIdx232>
+<0xF3: 4 8 9 255 225><0xF2: 0 98 2><Jmp: 0 225><@PointerIdx233>
+<Char: 0 64><0xF1: 0>Isso irá apagar todos os<LF>
+antigos dados salvos.<LF>
+<Arrow: 17 0><Pos: 0 2>Tudo bem <Arrow: 0 17><Pos: 0 2>Pare<CondJmp: 6 128 226 227 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx234>
+<0xF3: 0 62 2 255 229><0xF3: 0 63 2 255 229><0xF3: 0 64 2 255 229><0xF3: 0 65 2 255 229><Jmp: 0 224><EB>
+!*********************!
+<@PointerIdx235>
+<0xF3: 4 55 55 255 225><0xF2: 0 66 2><Jmp: 0 225><@PointerIdx236>
+<0xF3: 0 147 2 255 229><Jmp: 0 224><EB>
+!*********************!
+<@PointerIdx237>
+<0xF3: 4 0 7 231 255><0xF3: 4 8 9 232 255><0xF3: 4 55 55 235 255><0xF3: 4 61 61 238 255><EB>
+!*********************!
+<@PointerIdx238>
+<0xF3: 4 61 61 255 225><0xF2: 0 3 0><Jmp: 0 225><@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

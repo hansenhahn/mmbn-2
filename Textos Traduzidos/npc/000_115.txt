@@ -1,0 +1,380 @@
+<@PointerIdx0>
+<Char: 0 66><0xF1: 0>Sou um programa da<LF>
+Estátua de Guardião que<LF>
+promove a paz mundial.<Button><CR>
+!---------------------!
+Brincadeirinha. Sou um<LF>
+programa que monitora<LF>
+a qualidade do ar.<Button><CR>
+!---------------------!
+O ar aqui é muito mais<LF>
+limpo que o da cidade<LF>
+grande.<Button><CR>
+!---------------------!
+Mas está ficando cada<LF>
+vez mais sujo...<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 66><0xF1: 0>Sou apenas parte do<LF>
+sistema de monitoramento<LF>
+de ar.<Button><CR>
+!---------------------!
+Mas preciso admitir: eu<LF>
+adoro ser confundido com<LF>
+uma estátua sagrada!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 156 0 197 255><Char: 0 70><0xF1: 0>Ufa... eita treinamento<LF>
+árduo!<Button><CR>
+!---------------------!
+O que é que você quer!?<Button><CR>
+!---------------------!
+Estou concentrado no<LF>
+meu treinamento!<LF>
+Me deixe em paz!<Button><CR>
+!---------------------!
+<Jmp: 0 191><@PointerIdx191>
+<Char: 0 64><0xF1: 0>Eu sou um...<LF>
+<Arrow: 17 0><Pos: 0 2>fã. <Arrow: 0 17><Pos: 0 2>observador.<CondJmp: 6 192 192 193 255>
+!---------------------!
+<@PointerIdx192>
+<Char: 0 70><0xF1: 0>Muito bom gosto para<LF>
+grandes lutadores, o seu!<LF>
+Em que posso ajudá-lo?<Button><CR>
+!---------------------!
+<Jmp: 0 194><@PointerIdx193>
+<Char: 0 70><0xF1: 0>Você tá atrapalhando!<LF>
+Dá o fora.<Button><EB>
+!*********************!
+<@PointerIdx194>
+<0xF2: 0 156 0><Char: 0 64><0xF1: 0>Ouvi dizer que você<LF>
+vai travar uma NetLuta.<LF>
+Qual seria o seu...<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Plano? <Arrow: 0 17><Pos: 0 2>Ponto fraco?<CondJmp: 6 192 195 196 255>
+!---------------------!
+<@PointerIdx195>
+<Char: 0 70><0xF1: 0>Eu não tenho plano.<Button><CR>
+!---------------------!
+Mas vou me movimentar<LF>
+bastante pra confundir<LF>
+o meu adversário!<Button><CR>
+!---------------------!
+E o triunfarei com a<LF>
+minha velocidade<LF>
+superior!<Button><CR>
+!---------------------!
+Mais alguma coisa?<Button><CR>
+!---------------------!
+Meu ponto fraco?<Button><CR>
+!---------------------!
+Eu não posso contar isso!<LF>
+De jeito nenhum!!<Button><CR>
+!---------------------!
+Você é um espião do<LF>
+meu adversário!?<Button><CR>
+!---------------------!
+Não, espera... Ele não<LF>
+é inteligente o bastante<LF>
+pra contratar um espião.<Button><CR>
+!---------------------!
+Enfim: tudo que tenho a<LF>
+dizer é que não tenho<LF>
+nenhum ponto fraco!<Button><EB>
+!*********************!
+<@PointerIdx196>
+<Char: 0 70><0xF1: 0>Não posso contar isso!<LF>
+De jeito nenhum!!<Button><CR>
+!---------------------!
+Você é um espião do<LF>
+meu adversário!?<Button><CR>
+!---------------------!
+Não, espera... Ele não<LF>
+é inteligente o bastante<LF>
+pra contratar um espião.<Button><CR>
+!---------------------!
+Enfim: tudo que tenho a<LF>
+dizer é que eu não tenho<LF>
+nenhum ponto fraco!<Button><CR>
+!---------------------!
+Mais alguma coisa?<Button><CR>
+!---------------------!
+Meu plano para a próxima<LF>
+NetLuta?<Button><CR>
+!---------------------!
+Eu não tenho plano.<Button><CR>
+!---------------------!
+Mas vou me movimentar<LF>
+bastante para confundir<LF>
+o meu adversário!<Button><CR>
+!---------------------!
+E o triunfarei com a<LF>
+minha velocidade<LF>
+superior!<Button><CR>
+!---------------------!
+Vai ser uma vitória
+<LF>
+fácil.<Button><EB>
+!*********************!
+<@PointerIdx197>
+<Char: 0 70><0xF1: 0>Equivalente a uma vitória<LF>
+contra vírus nível S.<Button><CR>
+!---------------------!
+Não entendeu o que eu<LF>
+quis dizer com isso?<LF>
+Então deixa pra lá.<Button><CR>
+!---------------------!
+Preciso treinar!<Button><EB>
+!*********************!
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<@PointerIdx221>
+<@PointerIdx222>
+<@PointerIdx223>
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<0xF1: 0>MegaMan acessou os<LF>
+dados misteriosos.<Dly: 0 10 0>.<Dly: 0 10 0>.<Dly: 0 10 0><Button><CR>
+!---------------------!
+<0xF2: 0 119 5><0xF8: 0><0xF8: 4 24><0xF6: 0 96 1>MegaMan recebeu o<LF>
+PowerUp:<LF>
+"<ItemTbl: 0 96 0>"!!<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

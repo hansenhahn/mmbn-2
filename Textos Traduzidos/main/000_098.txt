@@ -20,7 +20,7 @@ Você tá onde?<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
 <Char: 0 49><0xF1: 0>E-Eu...<Dly: 1 30 0> já era, garoto...<LF>
-Melhor esque...<Dly: 1 30 0>cer de<LF>
+Melhor esque...<Dly: 1 30 0> cer de<LF>
 mim e...<Dly: 1 30 0> prosseguir...!<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>

@@ -1,17 +1,16 @@
 <@AbsoluteAddr 7912460>
 <@PointerIdx0>
 <Char: 0 64><0xF1: 0>Opa. Parece que a<LF>
-reunião está pra<LF>
-começar.<Button><EB>
+reunião tá pra começar.<Button><EB>
 !*********************!
 <@PointerIdx1>
 <Char: 0 53><0xF1: 0>Bem-vindos, NetLutado-<LF>
 res representando os<LF>
 4 cantos do mundo.<Button><CR>
 !---------------------!
-Gostaria de dar início à<LF>
-esta "Reunião de Netlu-<LF>
-tadores Oficiais".<Button><CR>
+Gostaria de dar início a<LF>
+esta "Reunião de<LF>
+NetLutadores Oficiais".<Button><CR>
 !---------------------!
 Antes de mais nada,<LF>
 vamos nos apresentar.<LF>
@@ -22,7 +21,7 @@ Começando pela...<Button><CR>
 Vamos logo ao que<LF>
 importa.<Button><CR>
 !---------------------!
-Todos aqueles incidentes<LF>
+A todos os incidentes<LF>
 que andam acontecendo<LF>
 ao redor do mundo.<Button><CR>
 !---------------------!
@@ -37,7 +36,7 @@ relacionada à "Gospel",<LF>
 não?<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
-<Char: 0 49><0xF1: 0>A Electopia só pode ser<LF>
+<Char: 0 49><0xF1: 0>Ni-Hon só pode ser<LF>
 um país de loucos.<LF>
 Crianças? Justo aqui?<Button><CR>
 !---------------------!
@@ -63,17 +62,17 @@ reunião!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
 <0xFA: 16><Char: 0 53><0xF1: 0>Certo. Darei a vocês um<LF>
-resumo do que sabemos<LF>
-sobre a "Gospel".<Button><CR>
+resumo sobre o que<LF>
+sabemos da Gospel.<Button><CR>
 !---------------------!
-<0xFA: 4 20 0>A "Gospel" está<LF>
+<0xFA: 4 20 0>A netmáfia Gospel está<LF>
 desenvolvendo um<LF>
 suposto "SuperNavi".<Button><CR>
 !---------------------!
 E essa criação é...<LF>
 o "Navi Supremo".<Button><CR>
 !---------------------!
-A "Gospel" planeja usá-lo<LF>
+A Gospel planeja usá-lo<LF>
 para conquistar tanto<LF>
 o mundo real...<Button><CR>
 !---------------------!
@@ -84,7 +83,7 @@ Se o "SuperNavi" for<LF>
 completado, não haverá<LF>
 como deletá-lo.<Button><CR>
 !---------------------!
-Temos de impedir isso<LF>
+Temos que impedir isso<LF>
 de acontecer, custe o<LF>
 que custar.<Button><CR>
 !---------------------!
@@ -93,7 +92,8 @@ informações importantes<LF>
 quanto a como fazê-lo.<Button><CR>
 !---------------------!
 Por favor, voltem sua<LF>
-atenção a este monitor.<Button><0xF2: 0 40 2><EB>
+atenção para este<LF>
+monitor.<Button><0xF2: 0 40 2><EB>
 !*********************!
 <@PointerIdx9>
 <Char: 0 53><0xF1: 0>Esta é a informaçã...<LF>

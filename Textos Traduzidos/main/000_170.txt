@@ -68,7 +68,7 @@ O que eu posso fazer?<Button><CR>
 atenção.<Button><CR>
 !---------------------!
 Eu vou sincronizar 100%<LF>
-o meu "programa do<LF>
+do meu "programa do<LF>
 coração" com você.<Button><CR>
 !---------------------!
 Mesmo se você não<LF>
@@ -89,9 +89,9 @@ fazer isso?<Button><CR>
 esqueceu? Nós dois já<LF>
 fomos um único ser!<Button><CR>
 !---------------------!
-Também irmãos... amigos...<Dly: 1 30 0><LF>
-o laço que nos une é o<LF>
-mais forte que há!<Button><CR>
+E irmãos... amigos...<Dly: 1 30 0><LF>
+O laço que nos une<LF>
+é o mais forte que há!<Button><CR>
 !---------------------!
 <Jmp: 0 15><@PointerIdx15>
 <Char: 0 0><0xF1: 0>O nosso... laço...<Button><CR>

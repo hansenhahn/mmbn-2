@@ -8,8 +8,8 @@ problemão em Saborya!<Button><CR>
 sabendo disso?<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
-<Char: 0 0><0xF1: 0>Um amigo por e-corres-<LF>
-pondência tava lá, no<LF>
+<Char: 0 0><0xF1: 0>Um amigo por correspon-<LF>
+dência tava lá, no<LF>
 SaboPlaza!<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
@@ -33,12 +33,12 @@ Pode ser qualquer coisa!<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
 <Char: 0 23><0xF1: 0>Entendo... bom, estou<LF>
-trabalhando em uma<LF>
+desenvolvendo uma<LF>
 teoria agora.<Button><CR>
 !---------------------!
-Poderia ir pegar um<LF>
+Você pode ir pegar um<LF>
 programa de que preciso<LF>
-para terminar a teoria?<Button><CR>
+para terminá-la?<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
 <Char: 0 0><0xF1: 0>Tá onde, esse programa?<Button><CR>
@@ -61,11 +61,11 @@ Se encontrarem aqueles<LF>
 Navis, vocês fogem.<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
-<Char: 0 64><0xF1: 0>...Mas...!<Button><CR>
+<Char: 0 64><0xF1: 0>... Mas...!<Button><CR>
 !---------------------!
 <Jmp: 0 13><@PointerIdx13>
-<Char: 0 23><0xF1: 0>Com as habilidades do<LF>
-MegaMan, é quase<LF>
+<Char: 0 23><0xF1: 0>Com as habilidades atuais<LF>
+do MegaMan, será quase<LF>
 impossível vencê-los.<Button><CR>
 !---------------------!
 <Jmp: 0 14><@PointerIdx14>
@@ -89,7 +89,7 @@ O programa se chama<LF>
 "<ItemTbl: 0 21 0>".<Button><CR>
 !---------------------!
 Tudo que eu sei sobre<LF>
-ele é o seu nome.<Button><CR>
+ele é seu nome.<Button><CR>
 !---------------------!
 Use o fórum virtual<LF>
 do nosso Plaza para<LF>
@@ -108,6 +108,7 @@ ocupado demais aqui.<Button><CR>
 É só deixar com a gente!<Button><CR>
 !---------------------!
 <Jmp: 0 17><@PointerIdx17>
-<Char: 0 23><0xF1: 0>Está em suas mãos, Lan.<Button><EB>
+<Char: 0 23><0xF1: 0>Está nas suas mãos,<LF>
+filhão.<Button><EB>
 !*********************!
 

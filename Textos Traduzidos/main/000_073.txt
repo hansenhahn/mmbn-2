@@ -5,7 +5,7 @@ Vamos voltar pro<LF>
 laboratório do papai!<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<Char: 0 0><0xF1: 0>Ah! Temos que avisar<LF>
-ele, senão...!!<Button><EB>
+<Char: 0 0><0xF1: 0>Ah! A gente tem que<LF>
+avisar ele, senão...!!<Button><EB>
 !*********************!
 

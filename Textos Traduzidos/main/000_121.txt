@@ -53,6 +53,6 @@ pro nosso lugar!<Button><CR>
 <Jmp: 0 11><@PointerIdx11>
 <Char: 0 64><0xF1: 0>Melhor mesmo. Tem<LF>
 muito chão ainda até<LF>
-Electopia.<Button><EB>
+Ni-Hon.<Button><EB>
 !*********************!
 

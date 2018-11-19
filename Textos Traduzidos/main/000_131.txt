@@ -9,8 +9,8 @@ desse incidente!?<Button><CR>
 pegou.<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
-<Char: 0 64><0xF1: 0>Por que você faria uma<LF>
-coisa dessas!?<Button><CR>
+<Char: 0 64><0xF1: 0>Por que faria uma coisa<LF>
+dessas!?<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 88><0xF1: 0>Eis aqui uma dica...<Button><CR>
@@ -22,9 +22,8 @@ está à bordo do avião.<Button><CR>
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 61><0xF1: 0>Ha-ha-ha...<Button><CR>
 !---------------------!
-Já o peguei.<LF>
-O término do SuperNavi
-<LF>
+E eu já o peguei. O<LF>
+lançamento do SuperNavi<LF>
 está tão perto!<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
@@ -32,7 +31,7 @@ está tão perto!<Button><CR>
 <LF>
 da Gauss S/A!?<Button><CR>
 !---------------------!
-Por que foi se envolver<LF>
+Pra que foi se envolver<LF>
 num negócio desses?<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
@@ -59,7 +58,7 @@ Eu fiquei completamente<LF>
 sozinho...<Button><CR>
 !---------------------!
 E a sociedade não<LF>
-levantou nem um dedo<LF>
+levantou um dedo sequer<LF>
 para me ajudar.<Button><CR>
 !---------------------!
 Eu odiava as pessoas...<Button><CR>
@@ -71,7 +70,7 @@ sobrepujar minha maior<LF>
 inimiga, a humanidade.<Button><CR>
 !---------------------!
 E depois disso, me<LF>
-devotei ao meu status<LF>
+dediquei ao meu status<LF>
 social.<Button><CR>
 !---------------------!
 Ganhei poder sobre os<LF>
@@ -101,7 +100,7 @@ semelhantes.<Button><CR>
 !---------------------!
 Eu entrei na empresa,<LF>
 subi rapidamente a<LF>
-escada de valor, e...<Button><CR>
+escadaria de valor, e...<Button><CR>
 !---------------------!
 Me tornei o líder do<LF>
 projeto de desenvolvi-<LF>
@@ -120,11 +119,11 @@ a sociedade.<Button><CR>
 !---------------------!
 Venho antecipando
 <LF>
-este dia há anos<Button><CR>
+este dia há anos.<Button><CR>
 !---------------------!
 E após minha vingança,<LF>
-o caos fará baterem as<LF>
-portas do mundo,<Button><CR>
+o caos fará todos bate-<LF>
+rem nas portas do mundo,<Button><CR>
 !---------------------!
 e a Gospel estará<LF>
 lá para conferir ordem.<Button><CR>

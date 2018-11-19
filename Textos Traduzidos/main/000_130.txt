@@ -1,11 +1,10 @@
 <@AbsoluteAddr 7934356>
 <@PointerIdx0>
-<Char: 0 59><0xF1: 0>Ganhamos 
-altitude!!<Button><CR>
+<Char: 0 59><0xF1: 0>Ganhamos altitude!!<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <Char: 0 0><0xF1: 0>E aí, já podemos relaxar,<LF>
-seguros da nossa não-<LF>
+seguros de nossa não-<LF>
 horrível morte nos ares?<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
@@ -39,7 +38,7 @@ O trem de pouso não...<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
 <Char: 0 0><0xF1: 0>Que trem!?<LF>
-A gente não não tá num
+A gente não tá num
 <LF>
 avião?!<Button><CR>
 !---------------------!
@@ -58,7 +57,7 @@ só com o corpo do
 avião...<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
-<Char: 0 59><0xF1: 0>Se nós cairmos...<LF>
+<Char: 0 59><0xF1: 0>Se cairmos...<LF>
 Vamos pegar fogo<LF>
 e explodir...<Button><CR>
 !---------------------!

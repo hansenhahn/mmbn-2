@@ -1,0 +1,704 @@
+<@PointerIdx0>
+<Char: 0 6><0xF1: 0>Tente se conter de<LF>
+agir feito um completo<LF>
+palhaço.<Button><CR>
+!---------------------!
+As pessoas podem<LF>
+acabar pensando que eu<LF>
+sou da mesma laia...<Button><0xF2: 0 38 2><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 54><0xF1: 0>Eu sou a Princesa Pride,<LF>
+sucessora do trono de<LF>
+Dolcerya.<Button><CR>
+!---------------------!
+O meu país, ao norte,<LF>
+deve o seu desenvolvi-<LF>
+mento à Rede.<Button><CR>
+!---------------------!
+Estou lutando para<LF>
+proteger o meu povo<LF>
+da Gospel.<Button><0xF2: 0 34 2><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 55><0xF1: 0>Ah, é você... o menino de<LF>
+ontem. Sou eu, Raoul.<Button><CR>
+!---------------------!
+Estou aqui como<LF>
+representante do meu<LF>
+clã de minorias.<Button><CR>
+!---------------------!
+Temos de proteger a<LF>
+igualdade, tanto no<LF>
+mundo real<Button><CR>
+!---------------------!
+quanto no mundo<LF>
+cibernético.<Button><0xF2: 0 35 2><EB>
+!*********************!
+<@PointerIdx3>
+<Char: 0 49><0xF1: 0>Eu sou Johnson,<LF>
+NetLutador amante da<LF>
+liberdade e da paz!<Button><CR>
+!---------------------!
+Muito prazer!<Button><0xF2: 0 36 2><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 51><0xF1: 0>Vejo que eu fui a primeira<LF>
+a achar a pessagem<LF>
+secreta.<Button><CR>
+!---------------------!
+Meu nome é Jennifer,<LF>
+sou da Ameropa do Sul.<LF>
+Tamo junto!<Button><0xF2: 0 37 2><EB>
+!*********************!
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<Char: 0 64><0xF1: 0>Essa sala aí parece<LF>
+tão desolada. E não tem<LF>
+relação com a reunião.<Button><EB>
+!*********************!
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<Char: 0 22><0xF1: 0>É você! O Lan! Graças<LF>
+a você, a Ameropa está<LF>
+salva!<Button><CR>
+!---------------------!
+Você é um herói!<LF>
+Muito obrigado!!<Button><EB>
+!*********************!
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<0xF3: 4 64 72 56 255><0xF3: 4 61 61 46 255><0xF3: 4 58 60 40 255><Char: 0 22><0xF1: 0>Todo país mundo afora<LF>enfrenta sua própria<LF>
+calamidade.<Button><CR>
+!---------------------!
+Ni-Hon está encarando<LF>
+terremotos. Saborya,<LF>
+enchentes.<Button><CR>
+!---------------------!
+Ameropa, raios ultra-<LF>
+violeta mortais...<LF>
+<Button><CR>
+!---------------------!
+Antes esses desastres<LF>
+eram todos suprimidos<LF>
+pelo Sistema Ambiental.<Button><CR>
+!---------------------!
+Mas o sistema foi<LF>
+misteriosamente<LF>
+paralisado esses dias,<Button><CR>
+!---------------------!
+e agora a fúria adorme-<LF>
+cida da mãe natureza<LF>
+está sendo liberada.<Button><CR>
+!---------------------!
+Se não consertarmos<LF>
+o sistema logo...<Button><CR>
+!---------------------!
+O mundo sofrerá uma<LF>
+calamidade sem<LF>
+precedentes!<Button><EB>
+!*********************!
+<@PointerIdx36>
+<0xF3: 4 61 61 47 255><0xF3: 4 58 60 41 255><Char: 0 53><0xF1: 0>Os raios solares sobre<LF>
+a Ameropa estão absur-<LF>
+damente acima do normal.<Button><CR>
+!---------------------!
+Quem se expor e eles<LF>
+por tempo demais<LF>
+sofrerá doenças de pele.<Button><CR>
+!---------------------!
+Normalmente, até as<LF>
+piores queimaduras<LF>
+do sol são leves.<Button><CR>
+!---------------------!
+Mas danos causados por<LF>
+raios dessa magnitude<LF>
+são bem nocivos...<Button><CR>
+!---------------------!
+Raios ultravioleta dessa<LF>
+intensidade fazem muito<LF>
+mal.<Button><CR>
+!---------------------!
+Evite sair ao ar livre<LF>
+o máximo que der.<Button><EB>
+!*********************!
+<@PointerIdx37>
+<0xF3: 4 64 72 55 255><0xF3: 4 61 61 48 255><0xF3: 4 58 60 42 255><Char: 0 45><0xF1: 0>Isso é terrível!<LF>
+Temos de fazer alguma<LF>
+coisa, e rápido...<Button><EB>
+!*********************!
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<Char: 0 22><0xF1: 0>Parece que o gelo da<LF>
+Rede é a fonte de<LF>
+todos os problemas...<Button><CR>
+!---------------------!
+Temos que nos livrar de<LF>
+todo o gelo, e já!<Button><CR>
+!---------------------!
+Mas como...?<Button><EB>
+!*********************!
+<@PointerIdx41>
+<Char: 0 53><0xF1: 0>Ainda não recebemos<LF>
+nenhum relato de danos<LF>
+graves, mas cuidado!<Button><EB>
+!*********************!
+<@PointerIdx42>
+<Char: 0 45><0xF1: 0>Os desastres nos outros<LF>
+países também estão<LF>
+cada vez piores...<Button><CR>
+!---------------------!
+O que será do nosso<LF>
+mundo!?<Button><EB>
+!*********************!
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<Char: 0 22><0xF1: 0>Hm... parece que o<LF>
+Sistema Ambiental foi mis-<LF>
+teriosamente reparado...<Button><CR>
+!---------------------!
+Mas quem fez o que nem<LF>
+os melhores cientistas do<LF>
+mundo conseguiram?<Button><EB>
+!*********************!
+<@PointerIdx47>
+<Char: 0 53><0xF1: 0>G-graças a Deus!!<Button><EB>
+!*********************!
+<@PointerIdx48>
+<Char: 0 45><0xF1: 0>O gelo todo se quebrou<LF>
+de repente, mas por<LF>
+quê?<Button><CR>
+!---------------------!
+Bom, o que importa é<LF>
+que os desastres<LF>
+naturais cessaram...<Button><EB>
+!*********************!
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<Char: 0 45><0xF1: 0>Os danos oficiais da<LF>
+Ameropa são de uma<LF>
+magnitude inconcebível!<Button><CR>
+!---------------------!
+Sabe. São grandes.<Button><CR>
+!---------------------!
+O motivo para isso foram<LF>
+os ataques de vírus e<LF>
+os desastres naturais.<Button><EB>
+!*********************!
+<@PointerIdx56>
+<Char: 0 22><0xF1: 0>Nosso orgulho de Oficiais<LF>
+foi manchado. Pouco fi-<LF>
+zemos contra a Gospel...<Button><CR>
+!---------------------!
+A Ameropa está sendo
+<LF>
+grandemente ajudada<LF>
+pelo Sr. Raoul,<Button><CR>
+!---------------------!
+e nosso maior auxílio veio<LF>
+de Eugene Chaud, um<LF>
+menino ni-honense.<Button><EB>
+!*********************!
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 18 1 193 255><0xF3: 0 17 1 191 255><0xF2: 0 17 1><Char: 0 22><0xF1: 0>Quem quer Questionário?<LF>
+Quem quer Questionário?<Button><CR>
+!---------------------!
+Tá na hora, tá na hora!<LF>
+Tá na hora de<LF>
+questionar!<Button><CR>
+!---------------------!
+Eu sou o Questionador<LF>
+Mestre. Mostre-me seu<LF>
+conhecimento!!<Button><CR>
+!---------------------!
+Responda às minhas 10<LF>
+perguntas corretamente,<Button><CR>
+!---------------------!
+e você receberá um<LF>
+luxoso prêmio!!<Button><CR>
+!---------------------!
+Pronto, meu rapaz!?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Manda ver! <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 128 194 255 255>
+!---------------------!
+Volte quando quiser!<LF>
+Estarei à espera!<Button><EB>
+!*********************!
+<@PointerIdx191>
+<0xFA: 32><Char: 0 22><0xF1: 0>Quem quer Questionário?<LF>
+Quem quer Questionário?<Button><CR>
+!---------------------!
+Tá na hora, tá na hora!<LF>
+Tá na hora de<LF>
+questionar!<Button><CR>
+!---------------------!
+O que foi? Mudou de ideia<LF>
+e decidiu aceitar o<LF>
+desafio do questionário?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Manda ver! <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 128 194 255 255>
+!---------------------!
+Volte quando quiser!<LF>
+Estarei à espera!<Button><EB>
+!*********************!
+<@PointerIdx192>
+<Char: 0 22><0xF1: 0><0xFA: 0 24 1><Dly: 1 40 0>Aaahhh, que pennnaa!<Button><CR>
+!---------------------!
+Mas errar é humano, e<LF>
+aprender com os erros<LF>
+também! Tente de novo!<Button><EB>
+!*********************!
+<@PointerIdx193>
+<Char: 0 22><0xF1: 0>A-háe! Olha que menino<LF>
+inteligente!<Button><CR>
+!---------------------!
+Mas tem sempre gente<LF>
+ainda mais inteligente<LF>
+por aí.<Button><CR>
+!---------------------!
+Você acha que é páreo<LF>
+para o meu mestre, o<LF>
+Questionador Rei?<Button><EB>
+!*********************!
+<@PointerIdx194>
+<0xFA: 36><Char: 0 22><0xF1: 0>Certo, vamos lá!<Button><CR>
+!---------------------!
+Pergunta 1:<Button><CR>
+!---------------------!
+Que programa apresenta<LF>
+Ribitta, a famosa<LF>
+âncora da TV?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>DNN News<LF>
+<Arrow: 17 2><Pos: 0 2>Cê Êne Êne<LF>
+<Arrow: 34 16><Pos: 0 2>DenCity News<CondJmp: 7 192 255 192 192>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>A resposta está<LF>
+e...xata!<LF>
+Próxima pergunta!<Button><CR>
+!---------------------!
+<Jmp: 0 195><@PointerIdx195>
+<0xFA: 36><Char: 0 22><0xF1: 0>Pergunta 2:<Button><CR>
+!---------------------!
+Qual é o nome dos<LF>
+velozes vírus em forma<LF>
+de rato?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Ratton<LF>
+<Arrow: 17 2><Pos: 0 2>Ratter<LF>
+<Arrow: 34 16><Pos: 0 2>Ratty<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>A resposta está<LF>
+e...xata!<LF>
+Próxima pergunta!<Button><CR>
+!---------------------!
+<Jmp: 0 196><@PointerIdx196>
+<0xFA: 36><Char: 0 22><0xF1: 0>Pergunta 3:<Button><CR>
+!---------------------!
+Qual Programa Avançado<LF>
+ocorre ao usar TiroAmpl<LF>
+em ordem alfabética?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>SpCanhão<LF>
+<Arrow: 17 2><Pos: 0 2>H-Tiro<LF>
+<Arrow: 34 16><Pos: 0 2>OCanhão1<CondJmp: 7 192 192 255 192>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>A resposta está<LF>
+e...xata!<LF>
+Próxima pergunta!<Button><CR>
+!---------------------!
+<Jmp: 0 197><@PointerIdx197>
+<0xFA: 36><Char: 0 22><0xF1: 0>Pergunta 4:<Button><CR>
+!---------------------!
+O sistema de monitora-<LF>
+mento de ar do Vale<LF>
+Okuden é um(a)...<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Guardião<LF>
+<Arrow: 17 2><Pos: 0 2>Barraca<LF>
+<Arrow: 34 16><Pos: 0 2>Urso<CondJmp: 7 192 255 192 192>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>A resposta está<LF>
+e...xata!<LF>
+Próxima pergunta!<Button><CR>
+!---------------------!
+<Jmp: 0 198><@PointerIdx198>
+<0xFA: 36><Char: 0 22><0xF1: 0>Pergunta 5:<Button><CR>
+!---------------------!
+Onde fica a estátua de<LF>
+Melpos, o ancestral<LF>
+deus da guerra?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Castelo Ameropa<LF>
+<Arrow: 17 2><Pos: 0 2>Joaelheria<LF>
+<Arrow: 34 16><Pos: 0 2>Casa da Yai<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>A resposta está<LF>
+e...xata!<LF>
+Próxima pergunta!<Button><CR>
+!---------------------!
+<Jmp: 0 199><@PointerIdx199>
+<0xFA: 36><Char: 0 22><0xF1: 0>Pergunta 6:<Button><CR>
+!---------------------!
+Um galo se posta no<LF>
+ponto mais alto de uma<LF>
+fazenda.<Button><CR>
+!---------------------!
+Ele põe um ovo.<Button><CR>
+!---------------------!
+Para que lado o ovo<LF>
+rola?<Button><CR>
+!---------------------!
+O direito...<Button><CR>
+!---------------------!
+ou o esquerdo?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>O esquerdo<LF>
+<Arrow: 17 2><Pos: 0 2>O direito<LF>
+<Arrow: 34 16><Pos: 0 2>Galo não põe ovo!<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>A resposta está<LF>
+e...xata!<LF>
+Próxima pergunta!<Button><CR>
+!---------------------!
+<Jmp: 0 200><@PointerIdx200>
+<0xFA: 36><Char: 0 22><0xF1: 0>Pergunta 7:<Button><CR>
+!---------------------!
+Qual chip é mais forte?<LF>
+<ItemTbl: 0 17 1> ou <ItemTbl: 0 15 1>?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2><ItemTbl: 0 17 1><LF>
+<Arrow: 17 2><Pos: 0 2><ItemTbl: 0 15 1><LF>
+<Arrow: 34 16><Pos: 0 2>São iguais.<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>A resposta está<LF>
+e...xata!<LF>
+Próxima pergunta!<Button><CR>
+!---------------------!
+<Jmp: 0 201><@PointerIdx201>
+<0xFA: 36><Char: 0 22><0xF1: 0>Pergunta 8:<Button><CR>
+!---------------------!
+Qual é o nome da<LF>
+operadora do<LF>
+SnakeMan?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Sra. Bilionária<LF>
+<Arrow: 17 2><Pos: 0 2>Sra. Milionária<LF>
+<Arrow: 34 16><Pos: 0 2>Sra. Centenária<CondJmp: 7 192 192 255 192>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>A resposta está<LF>
+e...xata!<LF>
+Próxima pergunta!<Button><CR>
+!---------------------!
+<Jmp: 0 202><@PointerIdx202>
+<0xFA: 36><Char: 0 22><0xF1: 0>Pergunta 9:<Button><CR>
+!---------------------!
+O banheiro da maior<LF>
+mansão de ACDC é feito<LF>
+de madeira de...<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Amoreira<LF>
+<Arrow: 17 2><Pos: 0 2>Cedro<LF>
+<Arrow: 34 16><Pos: 0 2>Cipreste<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>A resposta está<LF>
+e...xata! E agora,<LF>
+a pergunta final!<Button><CR>
+!---------------------!
+<Jmp: 0 203><@PointerIdx203>
+<0xFA: 36><Char: 0 22><0xF1: 0>Pergunta 10:<Button><CR>
+!---------------------!
+Qual dessas coisas se<LF>
+acha dentro do lixo<LF>
+do Beco, na Ameropa?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Ursinho de pelúcia<LF>
+<Arrow: 17 2><Pos: 0 2>Rádio<LF>
+<Arrow: 34 16><Pos: 0 2>Bola de basquete<CondJmp: 7 192 255 192 192>
+!---------------------!
+<0xff><0xFA: 0 45 1><Dly: 1 20 0>A resposta está<LF>
+e...xatíssima!<Button><CR>
+!---------------------!
+Você acertou tudo!<Button><CR>
+!---------------------!
+Aqui está o seu prêmio<LF>
+pelo seu sucesso!<Button><CR>
+!---------------------!
+Urrúúú!!! Eu faria aquele<LF>
+assobio agudo se eu<LF>
+soubesse como!!!<Button><CR>
+!---------------------!
+<Jmp: 0 204><@PointerIdx204>
+<0xF2: 0 18 1><Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 67 1>Lan recebeu<LF>
+"<ItemTbl: 0 67 0>"!!<Button><0xF8: 12><0xF8: 16><0xF8: 8><CR>
+!---------------------!
+<0xF8: 0><0xF8: 4 24><0xF6: 0 96 1>Lan recebeu o PowerUp<LF>
+"<ItemTbl: 0 96 0>"!!<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx205>
+<0xF3: 0 38 1 208 255><0xF2: 0 38 1><Char: 0 53><0xF1: 0>Oi, Lan! Muito obrigado<LF>
+por nos ajudar daquela
+<LF>
+vez!<Button><CR>
+!---------------------!
+Tome, um presentinho<LF>
+para você de todos os<LF>
+NetLutadores daqui.<Button><CR>
+!---------------------!
+Esperamos que seja<LF>
+do seu agrado!<Button><CR>
+!---------------------!
+<Jmp: 0 206><@PointerIdx206>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 86 1>Lan recebeu<LF>
+"<ItemTbl: 0 86 0>"!!<0xF8: 12><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 207><@PointerIdx207>
+<Char: 0 53><0xF1: 0>Com esse código, você<LF>
+pode abrir os cubos de<LF>
+segurança dos Oficiais!<Button><CR>
+!---------------------!
+Espero que seja útil!<Button><EB>
+!*********************!
+<@PointerIdx208>
+<Char: 0 53><0xF1: 0>Vamos treinar duro<LF>
+para ficarmos tão bons<LF>
+quanto você, Lan!<Button><EB>
+!*********************!
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>Um mapa-múndi. Nele<LF>
+estão expostas as<LF>
+alterações climáticas.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>É o emblema dos Oficiais.<LF>
+Esse é só um deles, há<LF>
+dezenas por aí.<Button><CR>
+!---------------------!
+Todos os Oficiais juram<LF>
+lealdade a este<LF>
+símbolo<Button><CR>
+!---------------------!
+e compromisso com o<LF>
+dever de defender a<LF>
+liberdade.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>Vários Oficiais estão<LF>
+trabalhando duro aqui.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>Um monitor enorme.<LF>
+Deve ser necessário<LF>
+ser grande assim<Button><CR>
+!---------------------!
+para exibir as condições<LF>
+mundiais.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

@@ -5,27 +5,26 @@ churrasco tá pronto!<Button><CR>
 !---------------------!
 Tchau, dieta!<Button><CR>
 !---------------------!
-<Char: 0 7><0xF1: 0>Esse "tchau" me fez<LF>
-lembrar... onde é que<LF>
-foi parar o Chaud?<Button><CR>
+<Char: 0 7><0xF1: 0>Falando em "tchau"...<LF>
+Cadê o Chaud?<Button><CR>
 !---------------------!
 <Char: 0 0><0xF1: 0>Eu sei lá!<LF>
-Esquece aquele cara.<LF>
+Esquece ele.<LF>
 Bora comer!<Button><CR>
 !---------------------!
 <Char: 0 7><0xF1: 0>Lan! Você prometeu que<LF>
 ia se comportar!<Button><CR>
 !---------------------!
 <Char: 0 0><0xF1: 0>Tá bom então, Mayl.<LF>
-E você, faz alguma ideia<LF>
-de onde ele tá?<Button><CR>
+Você faz alguma ideia<LF>
+de onde ele teja?<Button><CR>
 !---------------------!
-<Char: 0 7><0xF1: 0>Bom.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+<Char: 0 7><0xF1: 0>Bom.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<Char: 0 1><0xF1: 0>E como ninguém sabe, a<LF>
-gente tem que ficar aqui.<LF>
-<Dly: 1 30 0>Concorda?<Button><CR>
+<Char: 0 1><0xF1: 0>É. E como ninguém sabe,<LF>
+é melhor a gente ficar<LF>
+aqui. <0xEA: 1 30 0>Não concorda?<Button><CR>
 !---------------------!
 <Char: 0 7><0xF1: 0>Acho que sim...<Button><CR>
 !---------------------!
@@ -44,15 +43,15 @@ churrasco!<Button><CR>
 <Char: 0 0><0xF1: 0>aum! humm!<LF>
 aum! humm!<Button><CR>
 !---------------------!
-<Char: 0 1><0xF1: 0>...eu eu fiquei tipo...<LF>
+<Char: 0 1><0xF1: 0>... e eu fiquei tipo...<LF>
 e eles ficaram tipo...<Button><CR>
 !---------------------!
-<Char: 0 7><0xF1: 0>Jura? Hihihi!<Button><CR>
+<Char: 0 7><0xF1: 0>Jura? Hi hi hi!<Button><CR>
 !---------------------!
 ?<Button><EB>
 !*********************!
 <@PointerIdx3>
-<0xFA: 4 14 0><Char: 0 2><0xF1: 0>O-O quê!?<Button><CR>
+<0xFA: 4 14 0><Char: 0 2><0xF1: 0>O-o quê!?<Button><CR>
 !---------------------!
 <Char: 0 1><0xF1: 0>O q-que foi isso?!?<Button><CR>
 !---------------------!
@@ -68,7 +67,7 @@ Não tem sinal aqui!<Button><CR>
 parece ter vindo da<LF>
 Represa Okuden!<Button><CR>
 !---------------------!
-Se a represa romper...<Dly: 1 30 0><LF>
+Se a represa quebrar...<0xEA: 1 30 0><LF>
 A água vai descer pra<LF>
 cá!<Button><CR>
 !---------------------!
@@ -77,8 +76,8 @@ Então a gente tem que<LF>
 dar o fora daqui!<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
-<Char: 0 2><0xF1: 0>P-Peraí! Mas e como<LF>
-fica aquele cara,<LF>
+<Char: 0 2><0xF1: 0>P-peraí! Mas e como é<LF>
+que fica aquele cara,<LF>
 o Chaud!?<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
@@ -86,17 +85,18 @@ o Chaud!?<Button><CR>
 idiota!<Button><CR>
 !---------------------!
 Eu procuro por ele.<LF>
-E vocês vão pra um<LF>
-lugar seguro, ouviram?<Button><CR>
+Vão pra um lugar seguro,<LF>
+ouviram?<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
 <Char: 0 7><0xF1: 0>Toma cuidado, Lan!<LF>
 E não demora!<Button><CR>
 !---------------------!
 <Jmp: 0 9><@PointerIdx9>
-<Char: 0 0><0xF1: 0>Calma! Não precisa se<LF>
+<Char: 0 0><0xF1: 0>Relaxa! Não precisa se<LF>
 preocupar comigo!<Button><CR>
 !---------------------!
 <Jmp: 0 10><@PointerIdx10>
 <Char: 0 64><0xF1: 0>Lan! Hora do show!<Button><EB>
 !*********************!
+

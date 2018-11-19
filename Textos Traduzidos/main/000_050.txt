@@ -16,7 +16,7 @@ Qual é o seu nome?<Button><CR>
 <Char: 0 70><0xF1: 0>MegaMan.EXE...<LF>
 certo!<Button><CR>
 !---------------------!
-<0xf4> <0xFA: 12><0xFA: 0 10 1>clique clique<0xEA: 0 91 0><0xf4>0<LF>
+<0xf4> <0xFA: 12><0xFA: 0 10 1>clic clic<0xEA: 0 91 0><0xf4>0<LF>
 <0xFA: 0 139 0>plim!<Button><CR>
 !---------------------!
 <0xFA: 8>Cadastro concluído!<Button><CR>

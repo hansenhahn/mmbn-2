@@ -1,0 +1,493 @@
+<@PointerIdx0>
+<@PointerIdx1>
+<@PointerIdx2>
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<0xF3: 4 56 61 35 255><0xF3: 4 55 55 30 255><0xF3: 4 32 33 25 255><0xF3: 4 22 31 20 255><0xF3: 4 20 21 17 255><Char: 0 1><0xF1: 0>Ah... realmente não há<LF>
+lugar como o nosso lar.<Button><EB>
+!*********************!
+<@PointerIdx16>
+<@PointerIdx17>
+<Char: 0 1><0xF1: 0>Eu acho muito melhor ir a<LF>
+Saborya pessoalmente,<LF>
+não só via Rede.<Button><CR>
+!---------------------!
+A comida lá é uma delícia!<LF>
+E as praias são lindas<LF>
+de morrer.<Button><CR>
+!---------------------!
+Mas sabe, não sou<LF>
+especialista também. Só<LF>
+estive lá três vezes...<Button><EB>
+!*********************!
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<Char: 0 1><0xF1: 0>O Glide me contou que<LF>
+tem alguma coisa<LF>
+acontecendo na Rede.<Button><CR>
+!---------------------!
+Nessas horas, o melhor
+<LF>
+a se fazer é ficar longe<LF>
+da Rede.<Button><CR>
+!---------------------!
+E talvez sentar na minha<LF>
+poltrona e ler um bom<LF>
+livro.<Button><CR>
+!---------------------!
+É aquele velho ditado.<LF>
+"Quem busca o perigo,<LF>
+no perigo morre."<Button><EB>
+!*********************!
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<Char: 0 1><0xF1: 0>É claro que, pra MIM,<LF>
+a Ameropa não é assim<LF>
+tãããão exótica.<Button><CR>
+!---------------------!
+Não que eu tenha ido<LF>
+nos bairros mais<LF>
+perigosos de lá.<Button><CR>
+!---------------------!
+Sem souvenirs, eu<LF>
+insisto. Não quero acabar<LF>
+com a sua mesada!<Button><EB>
+!*********************!
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<0xF3: 0 63 2 33 255><0xF6: 3 27 1 31 31 255><0xF2: 0 63 2><Char: 0 1><0xF1: 0>Nossa! Já voltou?<Button><CR>
+!---------------------!
+E então, como foi a sua<LF>
+primeira viagem ao<LF>
+exterior, Lan?<Button><CR>
+!---------------------!
+O serviço lá é ultrajante,<LF>
+eu sei. Tira a gente<LF>
+do sério.<Button><CR>
+!---------------------!
+Eu recomendo fortemente<LF>
+Saborya como o seu<LF>
+próximo destino.<Button><EB>
+!*********************!
+<@PointerIdx31>
+<0xF2: 0 63 2><0xF6: 1 27 1><Char: 0 1><0xF1: 0>Nossa! Já voltou?<Button><CR>
+!---------------------!
+E então, como foi a sua<LF>
+primeira viagem ao<LF>
+exterior, Lan?<Button><CR>
+!---------------------!
+O quê? Um souvenir?<LF>
+Pra mim?<LF>
+Ai, não precisava!<Button><CR>
+!---------------------!
+Mas me deixou muito<LF>
+feliz!<Button><CR>
+!---------------------!
+Toma, um agradozinho<LF>
+pra compensar.<LF>
+Só uns trocados.<Button><CR>
+!---------------------!
+<Jmp: 0 32><@PointerIdx32>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 48 16 39 0 0 255 255 255>Lan recebeu:<LF>
+10000 zennys!!<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
+!*********************!
+<@PointerIdx33>
+<Char: 0 1><0xF1: 0>Viajar pro exterior<LF>
+realmente expande os<LF>
+nossos horizontes, né?<Button><CR>
+!---------------------!
+Agora você está um<LF>
+passo mais perto do meu<LF>
+nível, Lan!<Button><EB>
+!*********************!
+<@PointerIdx34>
+<@PointerIdx35>
+<Char: 0 1><0xF1: 0>Esta casa foi construída<LF>
+com o mais moderno<LF>
+sistema anti-terremotos.<Button><CR>
+!---------------------!
+Nem um 9 na escala<LF>
+Richter derruba ela.<Button><CR>
+!---------------------!
+Aliás, pensando bem,<LF>
+ela é literalmente o lugar<LF>
+mais seguro de ACDC.<Button><CR>
+!---------------------!
+Se precisar de abrigo,<LF>
+pode ficar aqui.<Button><EB>
+!*********************!
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<0xF3: 4 65 72 45 255><Char: 0 1><0xF1: 0>É tão difícil encontrar<LF>
+vírus quando se tem<LF>
+tantos pertences.<Button><CR>
+!---------------------!
+É verdade mesmo que<LF>
+você derrubou a<LF>
+Gospel...<Dly: 1 30 0> Lan?<Button><EB>
+!*********************!
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<Char: 0 1><0xF1: 0>Sabe, o Glide é um Navi<LF>
+altamente poderoso...<Button><CR>
+!---------------------!
+Por isso, eu vou usá-lo<LF>
+para derrotar a Gospel!<Button><CR>
+!---------------------!
+Ou melhor... eu IRIA, se<LF>
+isso aqui fosse um<LF>
+pouquinho maior.<Button><CR>
+!---------------------!
+O meu PET é pequeno<LF>
+demais para eu usá-lo<LF>
+devidamente!<Button><EB>
+!*********************!
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>Um bonequinho do Data,<LF>
+o rival do servebot!<Button><CR>
+!---------------------!
+Parece tão desgastado...<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>Há várias louças aqui.<LF>
+Antiguidades genuínas.<Button><CR>
+!---------------------!
+Quanto será que tudo<LF>
+isso custa?<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF6: 3 3 1 255 255 230><0xF1: 0>A coleção de leques<LF>
+da Yai fica guardada<LF>
+aqui.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF3: 4 6 6 237 255><0xF1: 0>O computador da Yai.<LF>
+Possui uma entrada de<LF>
+conexão.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<0xF3: 4 6 6 238 255><0xF1: 0>Um telefone modelo<LF>
+"vintage". Possui uma<LF>
+entrada de conexão.<Button><EB>
+!*********************!
+<@PointerIdx225>
+<0xF3: 4 7 7 234 255><0xF3: 4 6 6 233 255><0xF6: 3 82 1 255 255 236><0xF1: 0>Quantas aves tiveram<LF>
+que ser depenadas pra<LF>
+fazer este colchão?<Button><EB>
+!*********************!
+<@PointerIdx226>
+<0xF1: 0>Uma estueta do<LF>
+ancestral deus da<LF>
+guerra, Melpos...<Button><CR>
+!---------------------!
+Sinistra.<Button><EB>
+!*********************!
+<@PointerIdx227>
+<0xF1: 0>É um retrato da Yai.<Button><CR>
+!---------------------!
+O artista a fez 3 vezes<LF>
+mais bonita do que a<LF>
+versão real.<Button><EB>
+!*********************!
+<@PointerIdx228>
+<0xF1: 0>Um pequeno espelho.<Button><CR>
+!---------------------!
+O tamanho é perfeito
+<LF>
+para a Yai.<Button><EB>
+!*********************!
+<@PointerIdx229>
+<0xF1: 0>A cabeça empalhada<LF>
+de um estranho animal.<Button><EB>
+!*********************!
+<@PointerIdx230>
+<0xF1: 0>mexe mexe.<Dly: 1 10 0>.<Dly: 1 10 0>.<Button><CR>
+!---------------------!
+<Jmp: 0 231><@PointerIdx231>
+<Char: 0 0><0xF1: 0>Ah! Achei!<Button><CR>
+!---------------------!
+<Jmp: 0 232><@PointerIdx232>
+<0xF2: 0 142 2><Char: 1 241 0><0xF8: 4 24><0xF6: 0 3 1>Lan recebeu:<LF>
+"<ItemTbl: 0 3 0>"!!<0xF8: 12><0xF8: 16><Button><EB>
+!*********************!
+<@PointerIdx233>
+<0xF1: 0>Quantas aves tiveram<LF>
+que ser depenadas pra<LF>
+fazer esse colchão?<Button><EB>
+!*********************!
+<@PointerIdx234>
+<0xF6: 3 82 1 235 235 255><0xF1: 0>A Yai está dormindo<LF>
+tranquilamente...<Button><CR>
+!---------------------!
+Há um bilhete ao lado<LF>
+de seu travesseiro.<Button><CR>
+!---------------------!
+Lan lê o bilhete...<LF>
+<Dly: 1 30 0>Parece ser um tipo<LF>
+de senha!<Button><CR>
+!---------------------!
+"A senha de acesso à<LF>
+minha homepage. Talvez<LF>
+eu a dê ao Lan"...<Button><CR>
+!---------------------!
+<0xF8: 4 24><0xF6: 0 82 1>Lan recebeu:<LF>
+"<ItemTbl: 0 82 0>"!!<0xF8: 12><0xF8: 16><Button><EB>
+!*********************!
+<@PointerIdx235>
+<0xF1: 0>A Yai continua em um<LF>
+sono profundo...<Button><CR>
+!---------------------!
+Há um bilhete ao lado<LF>
+de seu travesseiro.<Button><CR>
+!---------------------!
+Lan lê o bilhete...<LF>
+<Dly: 1 30 0>Parece ser um tipo<LF>
+de senha!<Button><CR>
+!---------------------!
+"A senha de acesso à<LF>
+minha homepage. Talvez<LF>
+eu a dê ao Lan"...<Button><EB>
+!*********************!
+<@PointerIdx236>
+<0xF1: 0>Quantas aves tiveram<LF>
+que ser depenadas para<LF>
+fazer esse colchão?<Button><CR>
+!---------------------!
+... Espera, tem um bilhete<LF>
+ao lado do travesseiro<LF>
+dela...<Button><CR>
+!---------------------!
+Lan lê o bilhete... <Dly: 1 30 0><LF>
+É um tipo de senha!<Button><CR>
+!---------------------!
+"A senha de acesso à<LF>
+minha homepage. Talvez<LF>
+eu a dê ao Lan"...<Button><CR>
+!---------------------!
+<0xF8: 4 24><0xF6: 0 82 1>Lan recebeu:<LF>
+"<ItemTbl: 0 82 0>"!!<0xF8: 12><0xF8: 16><Button><EB>
+!*********************!
+<@PointerIdx237>
+<0xF1: 0>O computador da Yai.<LF>
+Dá pra se conectar nele,<LF>
+mas agora não é hora!<Button><EB>
+!*********************!
+<@PointerIdx238>
+<0xF1: 0>Um telefone bem antigo.<LF>
+Dá pra se conectar nele,<LF>
+mas agora não é hora!<Button><EB>
+!*********************!
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

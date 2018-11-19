@@ -22,12 +22,12 @@ Fala baixo!!<Button><CR>
 <Char: 0 62><0xF1: 0>Ah, sim. Desculpe aí.<Button><CR>
 !---------------------!
 Então você quer<LF>
-capturá-la... Bom, vamos<LF>
+capturá-la... Bom, é só<LF>
 armar uma armadilha!<Button><CR>
 !---------------------!
 Você terá que reunir os<LF>
 materiais necessários<LF>
-para fazê-la.<Button><CR>
+para construi-la.<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
 <Char: 0 0><0xF1: 0>Que tipo de armadilha<LF>

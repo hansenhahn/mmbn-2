@@ -17,7 +17,7 @@ altitute!<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 59><0xF1: 0>E estávamos tão perto<LF>
-de chegar na Electopia!<Button><CR>
+de chegar em Ni-Hon!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 0><0xF1: 0>O que foi dessa vez?<Button><CR>

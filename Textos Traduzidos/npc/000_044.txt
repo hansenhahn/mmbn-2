@@ -1,0 +1,367 @@
+<@PointerIdx0>
+<Char: 0 64><0xF1: 0>Lan!<LF>
+Já chegamos longe<LF>
+demais pra fugir agora!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<@PointerIdx2>
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF6: 3 56 1 198 198 255><0xF3: 0 145 12 198 255><0xF3: 0 29 1 194 255><0xF2: 0 29 1><Char: 0 34><0xF1: 0>Hi hi hi hi! As minhas irmãs<LF>
+me falaram sobre você.<Button><CR>
+!---------------------!
+Como elas nunca domina-<LF>
+ram a língua ameropana,<LF>
+foram fáceis de achar.<Button><CR>
+!---------------------!
+Mas eu sou <LF>
+completamente<LF>
+diferente delas!<Button><CR>
+!---------------------!
+<Jmp: 0 191><@PointerIdx191>
+<Char: 0 0><0xF1: 0>Devolva as joias que<LF>
+vocês roubaram!<Button><CR>
+!---------------------!
+<Jmp: 0 192><@PointerIdx192>
+<Char: 0 34><0xF1: 0>Nem pensar, queridinho!<Button><CR>
+!---------------------!
+Estas joias são<LF>
+importantes demais<LF>
+para nós.<Button><CR>
+!---------------------!
+Se realmente as quer,<LF>
+terá que tirá-las de<LF>
+mim a força!<Button><CR>
+!---------------------!
+<0xFB: 12 255 0 0 1 1 1 56 65 27><@PointerIdx193>
+<Char: 1 241 0><@PointerIdx194>
+<0xF2: 0 170 0><Char: 0 34><0xF1: 0>Eu... perdi...<Button><CR>
+!---------------------!
+.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0><LF>
+Não tenho saída.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0><LF>
+tudo bem, eu as devolvo.<Button><CR>
+!---------------------!
+Essas joias foram<LF>
+uma lembrança do<LF>
+nosso avô.<Button><CR>
+!---------------------!
+Ele as colecionava, até<LF>
+que um dia um joalheiro<LF>
+corrupto as tiraram dele.<Button><CR>
+!---------------------!
+O vovô nos disse que<LF>
+queria vê-las de novo...<LF>
+pouco antes de morrer.<Button><CR>
+!---------------------!
+Foi então que nós três<LF>
+decidimos recuperá-las,<LF>
+por ele!<Button><CR>
+!---------------------!
+Joias ficam mais felizes<LF>
+quando estão nas mãos<LF>
+de quem lhes dá valor!<Button><CR>
+!---------------------!
+<Jmp: 0 195><@PointerIdx195>
+<Char: 0 0><0xF1: 0>Eu entendo o seu<LF>
+passado trágico, mas<LF>
+roubar é errado!<Button><CR>
+!---------------------!
+Ele ficaria muito triste<LF>
+se visse as netas<LF>
+envolvidas com roubos.<Button><CR>
+!---------------------!
+<Jmp: 0 196><@PointerIdx196>
+<Char: 0 34><0xF1: 0>É... acho que isso<LF>
+decepcionaria ele.<LF>
+Muito.<Button><CR>
+!---------------------!
+Enfim, aqui estão as<LF>
+joias. Mas eu voltarei pra<LF>
+compra-las um dia.<Button><CR>
+!---------------------!
+Isso eu garanto...<Button><CR>
+!---------------------!
+E... diga à dona da<LF>
+joalheria que eu sinto<LF>
+muito...<Button><CR>
+!---------------------!
+<Jmp: 0 197><@PointerIdx197>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 56 1>Lan recebeu:<LF>
+"<ItemTbl: 0 56 0>"!!<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
+!*********************!
+<@PointerIdx198>
+<Char: 0 34><0xF1: 0>Nós, as 3 Irmãs<LF>
+Bandidas, mudamos de<LF>
+rumo.<Button><CR>
+!---------------------!
+Agora planejamos juntar<LF>
+dinheiro pra comprar<LF>
+aquelas joias.<Button><EB>
+!*********************!
+<@PointerIdx199>
+<@PointerIdx200>
+<0xF2: 0 51 1><Char: 0 45><0xF1: 0>Você está aqui pela<LF>
+prova da LicençaSSS,<LF>
+certo?<Button><CR>
+!---------------------!
+Eis aqui minhas<LF>
+palavras-chave:<Button><CR>
+!---------------------!
+"Um dos ataúdes para<LF>
+coisas de que os humanos<LF>
+se desfazem."<Button><EB>
+!*********************!
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF3: 4 48 255 221 255><0xF1: 0>Há um transmissor<LF>
+wireless acoplado ao<LF>
+painel de controle!<Button><CR>
+!---------------------!
+Você pode se conectar<LF>
+nele!<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>Há um transmissor<LF>
+wireless acoplado ao<LF>
+painel de controle!<Button><CR>
+!---------------------!
+Você pode se conectar<LF>
+nele!<Button><EB>
+!*********************!
+<@PointerIdx222>
+<@PointerIdx223>
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

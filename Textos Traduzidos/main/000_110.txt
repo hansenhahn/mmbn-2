@@ -9,7 +9,7 @@ Tiveram uns momentos<LF>
 difíceis, mas pelo menos<LF>
 foi marcante!<Button><CR>
 !---------------------!
-Tchau, Netopia.<LF>
+Tchau, Ameropa.<LF>
 Pelo menos, por<LF>
 enquanto.<Button><CR>
 !---------------------!
@@ -17,8 +17,9 @@ enquanto.<Button><CR>
 mas com certeza eu<LF>
 vou te ver de novo...<Button><CR>
 !---------------------!
-O nosso avião tá quase<LF>
-chegando em Electopia.<Button><CR>
+Nossa aeronave está<LF>
+quase chegando em<LF>
+Ni-Hon.<Button><CR>
 !---------------------!
 Eu passei bem pouquinho<LF>
 tempo fora, sabe, como<LF>
@@ -42,8 +43,7 @@ esperando você chegar!<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 1><0xF1: 0>Ouvimos tudinho sobre as<LF>
-suas aventuras na<LF>
-Netopia!<Button><CR>
+suas aventuras na<LF>Ameropa!<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 7><0xF1: 0>......<Button><CR>
@@ -134,7 +134,7 @@ contar pro pessoal...!<Button><CR>
 <Jmp: 0 18><@PointerIdx18>
 <Char: 0 0><0xF1: 0>A-Aí! Eu não falei nada,<LF>
 ouviu!? Se eu te pegar<LF>
-falando pra...<Button><CR>
+falando isso pra...<Button><CR>
 !---------------------!
 <Jmp: 0 19><@PointerIdx19>
 <Char: 0 64><0xF1: 0>Relaxa, era brincadeira!<LF>
@@ -163,7 +163,7 @@ lá fácil desse jeito.<Button><CR>
 jeitinho.<Button><CR>
 !---------------------!
 <Jmp: 0 24><@PointerIdx24>
-<Char: 0 0><0xF1: 0>.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>É, vamos! Mal não vai<LF>
+<Char: 0 0><0xF1: 0>.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0> É, vamos! Mal não vai<LF>
 fazer. E é mais uma coisa<LF>
 pra contar pro pessoal!<Button><EB>
 !*********************!

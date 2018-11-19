@@ -14,7 +14,7 @@ armadilhas agora!<Button><CR>
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 64><0xF1: 0>Beleza!<Button><CR>
 !---------------------!
-.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Pronto!<LF>
+.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0> Pronto!<LF>
 Isso deve dar um jeito<LF>
 nelas!<Button><EB>
 !*********************!

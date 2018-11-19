@@ -15,7 +15,7 @@ E aí? Animados pras<LF>
 férias de verão?<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<Char: 0 2><0xF1: 0>Urrúúú!<Button><CR>
+<Char: 0 2><0xF1: 0>Uhuuullll!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 3><0xF1: 0>Já sabem o que vão<LF>
@@ -26,8 +26,8 @@ fazer durante ela?<Button><CR>
 do vovô!<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
-<Char: 0 1><0xF1: 0>Só planos modestos...<LF>
-<Dly: 1 30 0>Tipo um cruzeiro ao redor<LF>
+<Char: 0 1><0xF1: 0>Só planos modestos... <Dly: 1 30 0><LF>
+Um cruzeiro ao redor<LF>
 do mundo, talvez?<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
@@ -36,7 +36,7 @@ todos vocês têm planos<LF>
 fantásticos!<Button><CR>
 !---------------------!
 Dito isso...!<Dly: 1 30 0><LF>
-Não vão esquecer do<LF>
+Não vão esquecer o<LF>
 dever de casa!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
@@ -51,7 +51,7 @@ verdade! Os boletins!<Button><CR>
 <Char: 0 2><0xF1: 0>Nãããããããoo!<Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
-<Char: 0 0><0xF1: 0>Aaaaaaaaahhhhh!<Button><EB>
+<Char: 0 0><0xF1: 0>Aaaaaahhhhh!<Button><EB>
 !*********************!
 <@PointerIdx12>
 <0xFA: 4 3 0><Char: 0 3><0xF1: 0>É isso, turma. Desejo a<LF>
@@ -75,7 +75,8 @@ O que foi, algum<LF>
 problema?<Button><CR>
 !---------------------!
 <Jmp: 0 17><@PointerIdx17>
-<Char: 0 64><0xF1: 0>E então, Lan? Tem<LF>
-alguma coisa pra me<LF>
-contar?<Button><EB>
+<Char: 0 64><0xF1: 0>Diz aí, Lan.<LF>
+Alguma coisa que<LF>
+queira me contar?<Button><EB>
 !*********************!
+

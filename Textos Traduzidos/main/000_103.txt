@@ -50,15 +50,15 @@ inventadas mais tarde...<LF>
 mas antes disso...<Button><CR>
 !---------------------!
 Vamos deletar o Navi...<LF>
-não...<Dly: 1 30 0> vamos deletar 
-o<LF>
+não...<Dly: 1 30 0> vamos deletar
+ o<LF>
 VÍRUS MegaMan.EXE!<Button><CR>
 !---------------------!
 ProtoMan!<LF>
-Time for a little<LF>
-virus busting!<Button><CR>
+Hora de limpar esses<LF>
+vírus!<Button><CR>
 !---------------------!
 <Jmp: 0 9><@PointerIdx9>
-<Char: 0 74><0xF1: 0>...Sim, senhor!!<Button><EB>
+<Char: 0 74><0xF1: 0>... Sim, senhor!!<Button><EB>
 !*********************!
 

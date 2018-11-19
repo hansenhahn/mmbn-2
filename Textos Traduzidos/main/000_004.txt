@@ -17,11 +17,12 @@ mesmo!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 0><0xF1: 0>Ah, é mesmo!<LF>
-Cara, eu tinha esquecido<LF>
-completamente disso!<Button><CR>
+Puxa, eu tinha esquecido<LF>
+completamente disso!!<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
 <Char: 0 64><0xF1: 0>Bom, eu vou lá! E se<LF>
-brotar vírus no caminho<LF>
+brotar vírus no caminho,<LF>
 a gente acaba com eles!<Button><EB>
 !*********************!
+

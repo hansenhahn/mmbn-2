@@ -1,10 +1,9 @@
 <@AbsoluteAddr 7884992>
 <@PointerIdx0>
-<Char: 0 64><0xF1: 0>O-O que aconteceu por<LF>
-aqui? Não tem ninguém,<LF>
-Lan...<Button><CR>
+<Char: 0 64><0xF1: 0>O-o que aconteceu aqui?<LF>
+Não tem ninguém, Lan...<Button><CR>
 !---------------------!
-O Plaza fica sempre<LF>
+O Plaza tá sempre<LF>
 cheio de gente!<LF>
 Isso é muito estranho...<Button><CR>
 !---------------------!
@@ -16,17 +15,17 @@ aqui! Eu sinto isso!<Button><CR>
 <Char: 0 0><0xF1: 0>Eu também... mas o quê?<Button><EB>
 !*********************!
 <@PointerIdx2>
-<Char: 1 241> <0xf4> <0xFA: 12><0xFA: 0 12 1>clique clique clique...<0xEA: 0 86 0><0xf4>0<0xFA: 8><Button><EB>
+<Char: 1 241> <0xf4> <0xFA: 12><0xFA: 0 12 1>clic clic clic...<0xEA: 0 86 0><0xf4>0<0xFA: 8><Button><EB>
 !*********************!
 <@PointerIdx3>
-<Char: 0 64><0xF1: 0>Lan! Ouviu isso?<Button><CR>
+<Char: 0 64><0xF1: 0>Lan! Você ouviu isso?<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 0><0xF1: 0>Tem alguém aí?<Button><CR>
 !---------------------!
-MegaMan, descubra de<LF>
-onde esse barulho<LF>
-tá vindo!<Button><CR>
+MegaMan, você tem que<LF>
+descobrir de onde esse<LF>
+barulho tá vindo!<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
 <Char: 0 64><0xF1: 0>Entendido!<Button><EB>

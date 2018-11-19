@@ -5,7 +5,7 @@ A Roll desapareceu<LF>
 enquanto tava na Rede!<Button><CR>
 !---------------------!
 E além disso começaram<LF>
-a cair esses blocos de<LF>
+a brotar esses blocos de<LF>
 gelo esquisitos por lá...<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
@@ -66,14 +66,14 @@ remover o gelo.<Button><CR>
 A única que conseguimos<LF>
 criar por enquanto...<Button><CR>
 !---------------------!
-é a"<ItemTbl: 0 35 0>",<LF>
+foi a "<ItemTbl: 0 35 0>",<LF>
 que quebra o gelo
 <LF>
 vermelho.<Button><CR>
 !---------------------!
 Mas precisamos de<LF>
 dados-amostra de gelo<LF>
-vermelho para fazê-la!<Button><CR>
+vermelho para seguir!<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
 <Char: 0 0><0xF1: 0>Uma amostra?<LF>
@@ -112,7 +112,7 @@ há décadas, será<LF>
 liberada de uma vez,<LF>
 destruindo o nosso mundo!<Button><CR>
 !---------------------!
-Tenho que ir consertar<LF>
+Preciso ir consertar<LF>
 o Sistema Ambiental.<Button><CR>
 !---------------------!
 Posso demorar um pouco<LF>

@@ -9,11 +9,11 @@ NetNavis tolos.<Button><CR>
 !---------------------!
 O Sr. ShadowMan já<LF>
 deve ter chegado no<LF>
-computador matriz.<Button><CR>
+computador-matriz.<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 0><0xF1: 0>Droga! Fizeram isso pra<LF>
-nos despistar!?<Button><CR>
+despistar a gente!?<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 75><0xF1: 0>Agora já é tarde demais<LF>
@@ -21,7 +21,7 @@ pra se darem conta<LF>
 disso!<Button><CR>
 !---------------------!
 Eu vou deletá-lo, assim<LF>
-como deletei os outros<LF>
-Navis!<Button><EB>
+como deletei aqueles<LF>
+outros Navis!<Button><EB>
 !*********************!
 

@@ -1,0 +1,326 @@
+<@PointerIdx0>
+<@PointerIdx1>
+<@PointerIdx2>
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<Char: 0 7><0xF1: 0>Eu finalmente terminei<LF>
+o meu dever de casa.<Button><CR>
+!---------------------!
+Você também devia fazer<LF>
+um pouco do seu antes<LF>
+do acampamento, Lan!<Button><EB>
+!*********************!
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<0xF3: 4 28 31 27 255><0xF3: 4 27 27 26 255><0xF3: 4 22 26 25 255><0xF3: 4 21 21 24 255><0xF3: 4 20 20 22 255><Char: 0 7><0xF1: 0>Você tá prestes a<LF>
+começar o seu projeto?<LF>
+Porque eu já terminei!<Button><EB>
+!*********************!
+<@PointerIdx21>
+<@PointerIdx22>
+<Char: 0 7><0xF1: 0>Você vai pra área de<LF>
+Saborya? Então você<LF>
+tem uma <ItemTbl: 0 60 0>?<Button><CR>
+!---------------------!
+Nossa! Tô admirada, 
+Lan!<Button><EB>
+!*********************!
+<@PointerIdx23>
+<@PointerIdx24>
+<Char: 0 7><0xF1: 0>Talvez eu também
+<LF>
+devesse tentar tirar<LF>
+uma <ItemTbl: 0 60 0>, né?<Button><EB>
+!*********************!
+<@PointerIdx25>
+<Char: 0 7><0xF1: 0>Eu resolvi fazer a prova,<LF>
+daí eu entrei na Rede...<Button><CR>
+!---------------------!
+Mas aí aconteceu toda<LF>
+essa zona... e eu<LF>
+resolvi esperar.<Button><EB>
+!*********************!
+<@PointerIdx26>
+<Char: 0 7><0xF1: 0>O que será que tá<LF>
+acontecendo na Rede?<Button><EB>
+!*********************!
+<@PointerIdx27>
+<Char: 0 7><0xF1: 0>Alguém hackeou o<LF>
+computador-matriz do<LF>
+Centro Oficial?<Button><CR>
+!---------------------!
+Que horror! Isso é um<LF>
+grande problema! Não,<LF>
+um ENORME problema!<Button><EB>
+!*********************!
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>Um lindo vaso com<LF>
+plantas ornamentais.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>Um sofá bem fofinho.<LF>
+Parece tão confortável!<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF3: 4 4 47 226 255><0xF1: 0>Este piano elétrico é<LF>
+o favorito da Mayl.<LF>
+Mas ela nunca o toca.<Button><CR>
+!---------------------!
+Possui uma entrada de<LF>
+conexão.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<@PointerIdx224>
+<0xF1: 0>Este é o painel de<LF>
+controle de todos os<LF>
+aparelhos da casa.<Button><CR>
+!---------------------!
+É um modelo antigo...<LF>
+Não tem entrada de<LF>
+conexão.<Button><EB>
+!*********************!
+<@PointerIdx225>
+<0xF1: 0>Bonitas essas cortinas...<Button><EB>
+!*********************!
+<@PointerIdx226>
+<0xF1: 0>Este piano elétrico é<LF>
+o favorito da Mayl.<LF>
+Mas ela nunca o toca.<Button><CR>
+!---------------------!
+Deve ser por isso que<LF>
+está fora da tomada.<Button><EB>
+!*********************!
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

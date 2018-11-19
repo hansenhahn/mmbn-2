@@ -49,7 +49,7 @@ cair uma coisa!<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
 <Char: 0 64><0xF1: 0>Agora temos dois<LF>
-"FragAzu"s...<Button><CR>
+"FragAzul"s...<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
 <Char: 0 0><0xF1: 0>MegaMan, vamos logo<LF>

@@ -17,22 +17,23 @@ mocinho! O seu B<Dly: 1 10 0>O<Dly: 1 10 0>L<Dly: 1 10 0>E<Dly: 1 10 0>T<Dly: 1 
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 0><0xF1: 0>Poxa... eu tava rezando<LF>
 pra senhora ter<LF>
-esquecido...<Dly: 1 30 0> tá bom.<Button><CR>
+esquecido...<Dly: 1 30 0> 
+tá bom.<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
-<Char: 0 11><0xF1: 0>Ótimo. Vamos ver...<Dly: 1 30 0><LF>
-M-mas que história é<LF>
-essa!?<Dly: 1 30 0> ...Lan!!<Button><CR>
+<Char: 0 11><0xF1: 0>Ótimo. Vamos ver.<Dly: 1 30 0><LF>
+M-Mas que história é<LF>
+essa!?<Dly: 1 30 0> ... Lan!!<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
-<Char: 0 0><0xF1: 0>Vixe!<Button><CR>
+<Char: 0 0><0xF1: 0>Eita!<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
 <Char: 0 11><0xF1: 0>Não me venha com<LF>
-"vixe" não!<Button><CR>
+"eita", não!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
-<Char: 0 64><0xF1: 0>Ei, Lan? Talvez fosse<LF>
+<Char: 0 64><0xF1: 0>Ahn, Lan? Talvez fosse<LF>
 melhor você pedir<LF>
 desculpa...<Button><CR>
 !---------------------!
@@ -47,7 +48,7 @@ Só depois de fazer o<LF>
 dever de casa!<Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
-<Char: 0 0><0xF1: 0>Aaahhhhh!<Button><0xF1: 1><0xF2: 0 6 2><EB>
+<Char: 0 0><0xF1: 0>Aaaahhhh!<Button><0xF1: 1><0xF2: 0 6 2><EB>
 !*********************!
 <@PointerIdx12>
 <Char: 0 64><0xF1: 0>Ordens são ordens,<LF>
@@ -58,3 +59,4 @@ Use o botão R para se<LF>
 conectar no seu<LF>
 computador!<Button><EB>
 !*********************!
+

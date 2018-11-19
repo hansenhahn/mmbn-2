@@ -23,11 +23,11 @@ Deixa que eu leio.<Button><CR>
 <Jmp: 0 5><@PointerIdx5>
 <Char: 1 241 0>Os desastres naturais<LF>
 mundo afora estão cada<LF>
-vez mais fortes..<Button><CR>
+vez mais fortes...<Button><CR>
 !---------------------!
 Tremores intermitentes<LF>
 estão assolando<LF>
-Electopia,<Button><CR>
+Ni-Hon,<Button><CR>
 !---------------------!
 e uma ordem de
 <LF>

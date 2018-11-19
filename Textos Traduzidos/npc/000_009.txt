@@ -34,9 +34,9 @@ ainda agora.<Button><EB>
 amiguinho! Já sei o que<LF>
 você quer...<Button><CR>
 !---------------------!
-...Quer ouvir sobre a<LF>
-minha coleção, certo?<LF>
-<Arrow: 17 0><Pos: 0 2>Quero <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 128 8 7 255>
+... Quer ouvir sobre a<LF>
+minha coleção de leques!<LF>
+<Arrow: 17 0><Pos: 0 2>Quero sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 128 8 7 255>
 !---------------------!
 <EB>
 !*********************!
@@ -50,7 +50,7 @@ ouvir, não QUER?<LF>
 <@PointerIdx8>
 <Char: 0 1><0xF1: 0>Pois é: eu estou<LF>
 colecionando leques<LF>
-de toda a Electopia!<Button><CR>
+de toda a Ni-Hon!<Button><CR>
 !---------------------!
 São obras de arte em<LF>
 singelo formato<LF>
@@ -68,9 +68,9 @@ não entenderia.<LF>
 Não precisa fingir.<Button><EB>
 !*********************!
 <@PointerIdx9>
-<Char: 0 1><0xF1: 0>Pois é, é claro que não<LF>
+<Char: 0 1><0xF1: 0>Pois é, claro que não<LF>
 entende!<Dly: 1 30 0> Mas está tudo<LF>
-bem. São minhas, mesmo.<Button><EB>
+bem. São meus, mesmo.<Button><EB>
 !*********************!
 <@PointerIdx10>
 <Char: 0 8><0xF1: 0>Tem um livro aqui sobre<LF>
@@ -107,12 +107,12 @@ e-mails e organizar o<LF>
 seu diretório de chips.<Button><CR>
 !---------------------!
 Aperte o botão L para<LF>
-conversar com Navi<LF>
+conversar com o Navi<LF>
 dentro do seu PET.<Button><CR>
 !---------------------!
-Mas eu provavelment vou<LF>
-me esquecer de tudo<LF>
-isso, então...<Button><0xF2: 0 14 2><EB>
+Mas eu provavelmente<LF>
+vou esquecer disso tudo.<LF>
+Plim, esqueci.<Button><0xF2: 0 14 2><EB>
 !*********************!
 <@PointerIdx14>
 <Char: 0 64><0xF1: 0>Lan! A gente já veio<LF>
@@ -147,9 +147,9 @@ Tipo um celular, mas<LF>
 capaz de fazer muito<LF>
 mais coisas.<Button><CR>
 !---------------------!
-Dá para mandar e-mails,<LF>
+Dá pra mandar e-mails,<LF>
 usar dinheiro virtual e<LF>
-ler livros nele!<Button><CR>
+até ler livros nele!<Button><CR>
 !---------------------!
 O programa NetNavi<LF>
 dentro dele te ajuda se<LF>
@@ -167,7 +167,7 @@ se chama "MegaMan.EXE".<Button><EB>
 chips escondidos na sala<LF>
 de aula.<Button><CR>
 !---------------------!
-...Só não aqui. Aqui eu<LF>
+... Só não aqui. Aqui eu<LF>
 não tô vendo nenhum.<LF>
 Hmm...<Button><EB>
 !*********************!
@@ -176,7 +176,7 @@ Hmm...<Button><EB>
 escondi na minha<LF>
 carteira!<Button><CR>
 !---------------------!
-...Aff, tanto faz.<Dly: 1 10 0><LF>
+... Affe. Tanto faz.<Dly: 1 10 0><LF>
 Como eu não tô usando<LF>
 ele, pode ficar, Lan.<Button><EB>
 !*********************!
@@ -229,7 +229,7 @@ Não quero perder a<LF>
 minha ablução<LF>
 vespertina diária!<Button><CR>
 !---------------------!
-...Significa "banho". Sei<LF>
+... Significa "banho". Sei<LF>
 que deve ser inédito<LF>
 pra você.<Button><EB>
 !*********************!
@@ -257,7 +257,7 @@ nós, NetNavis.<Button><CR>
 !---------------------!
 Lá dá pra fazer compras<LF>
 e papear com outros<LF>
-Navis. <Dly: 1 15 0>É muito legal!<Button><EB>
+Navis... <Dly: 1 15 0>É muito legal!<Button><EB>
 !*********************!
 <@PointerIdx32>
 <@PointerIdx33>
@@ -287,8 +287,8 @@ casa.<Button><EB>
 <@PointerIdx43>
 <@PointerIdx44>
 <@PointerIdx45>
-<Char: 0 7><0xF1: 0>Eu tenho dever da aula<LF>
-de Netopianês pra<LF>
+<Char: 0 7><0xF1: 0>Eu tenho um trabalho da<LF>
+aula de ameropês pra<LF>
 fazer...<Dly: 1 30 0> desculpa!<Button><0xF2: 0 81 2><EB>
 !*********************!
 <@PointerIdx46>
@@ -327,8 +327,7 @@ memórias...<Button><EB>
 <@PointerIdx59>
 <@PointerIdx60>
 <Char: 0 3><0xF1: 0>Fica meio solitário aqui<LF>
-sem as crianças em<LF>
-suas carteiras.<Button><EB>
+sem as crianças na sala.<Button><EB>
 !*********************!
 <@PointerIdx61>
 <@PointerIdx62>
@@ -349,7 +348,8 @@ bicho de estimação<LF>
 agora nas férias...<Button><CR>
 !---------------------!
 Um "pet" fora do "PET",<LF>
-heh! Qual é? É segredo!<Button><CR>
+heh!<LF>
+Qual? É segredo!<Button><CR>
 !---------------------!
 Mas ele cresce mais e<LF>
 mais sempre que troca<LF>
@@ -363,7 +363,7 @@ He he he...<Button><EB>
 <@PointerIdx74>
 <@PointerIdx75>
 <Char: 0 8><0xF1: 0>Vim ver como o meu<LF>
-bichinho está depois<LF>
+bichinho ficou depois<LF>
 desses tremores todos!<Button><EB>
 !*********************!
 <@PointerIdx76>
@@ -375,15 +375,15 @@ desses tremores todos!<Button><EB>
 !*********************!
 <@PointerIdx81>
 <Char: 0 19><0xF1: 0>Humanos simplesmente<LF>
-não são páreos para as<LF>
+não são páreos pras<LF>
 forças da natureza!<Button><CR>
 !---------------------!
-Teremos de deixar a<LF>
+Temos de deixar a<LF>
 natureza seguir o seu<LF>
 curso...<Button><EB>
 !*********************!
 <@PointerIdx82>
-<Char: 0 13><0xF1: 0>Eu já vivi um terremoto<LF>
+<Char: 0 13><0xF1: 0>Eu já vi um terremoto<LF>
 enorme, muito antes de<LF>
 você nascer, rapazinho!<Button><CR>
 !---------------------!
@@ -391,13 +391,13 @@ AQUILO sim foi tremor!<LF>
 Não como esses<LF>
 tremeliques de agora.<Button><CR>
 !---------------------!
-Então eu não devia<LF>
-ficar com todo esse<LF>
-medo, não é?<Button><CR>
+Então eu não tem pra<LF>
+que eu ficar com tanto<LF>
+medo, né?<Button><CR>
 !---------------------!
-A questão é, a situação<LF>
-toda trouxe essas<LF>
-memórias à tona.<Button><EB>
+Se bem que... essa<LF>
+situação toda trouxe<LF>
+essas memórias à tona.<Button><EB>
 !*********************!
 <@PointerIdx83>
 <Char: 0 3><0xF1: 0>Nunca imaginei que a<LF>
@@ -426,16 +426,15 @@ no Vale Okuden agora.<Button><CR>
 Não dá nem pra ligar pra<LF>
 ela daqui.<Button><CR>
 !---------------------!
-Droga, estou é morrendo<LF>
-de preocupação!<LF>
-Espero que esteja bem.<Button><EB>
+Droga, eu tô morrendo<LF>
+de preocupação! Espero<LF>
+que ela esteja bem.<Button><EB>
 !*********************!
 <@PointerIdx88>
 <Char: 0 8><0xF1: 0>Já acabou os<LF>
 terremotos, né?<Button><CR>
 !---------------------!
-Cara, eu fiquei morrendo
-<LF>
+Cara, eu tava morrendo<LF>
 de medo!<Button><EB>
 !*********************!
 <@PointerIdx89>
@@ -560,19 +559,19 @@ por aí e agora eu não<LF>
 consigo achar ela!<Button><CR>
 !---------------------!
 Eu tô preocupada. Queria<LF>
-que você fosse procurar<LF>
-por ela no meu lugar...<Button><CR>
+que você fosse atrás<LF>
+dela no meu lugar...<Button><CR>
 !---------------------!
 Diferente de mim, ela<LF>
 é uma menina esperta,<LF>
-com futuro promissor.<Button><CR>
+com um futuro promissor.<Button><CR>
 !---------------------!
 Pode até ter pego a<LF>
 Metrolinha e ido parar<LF>
 em outra área da cidade!<Button><CR>
 !---------------------!
-Vai saber onde ela vai<LF>
-parar se a gente não<LF>
+Vai saber onde até onde<LF>
+ela vai se a gente não<LF>
 achar ela logo!?<Button><CR>
 !---------------------!
 Você só precisa<LF>
@@ -595,7 +594,7 @@ Ela é muito esperta,<LF>
 então pode estar em<LF>
 qualquer lugar!<Button><CR>
 !---------------------!
-Pode até mesmo ter pego<LF>
+Pode até ter pego<LF>
 a Metrolinha e ido pra um<LF>
 outro canto da cidade!<Button><CR>
 !---------------------!
@@ -616,7 +615,7 @@ recompensa!<Button><CR>
 !---------------------!
 <Jmp: 0 193><@PointerIdx193>
 <Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 98 1>Lan ganhou um PowerUp:<LF>
-"<ItemTbl: 0 98 0>!!"<0xF8: 12><0xF8: 8><Button><CR>
+"<ItemTbl: 0 98 0>"!!<0xF8: 12><0xF8: 8><Button><CR>
 !---------------------!
 Memória padrão<LF>
 aumentada em 1 MB!!<Button><CR>
@@ -665,7 +664,7 @@ também.<Button><EB>
 !---------------------!
 Ainda bem que não tem<LF>
 aula durante as férias!<LF>
-Cyber-luia!<Button><EB>
+Aleluia irmãos!<Button><EB>
 !*********************!
 <@PointerIdx222>
 <0xF1: 0>Uma estante de livros.<LF>
@@ -704,13 +703,13 @@ dele parece dizer:<Button><CR>
 !---------------------!
 "Aí, parça! Tá querendo<LF>
 sapinho assado, é?<LF>
-Tá um forno isso aqui!"<Button><EB>
+Tá um forno isso aqui"!<Button><EB>
 !*********************!
 <@PointerIdx226>
 <0xF1: 0>Não tem nada dentro<LF>
 deste aqui...<Button><CR>
 !---------------------!
-.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>Ou pelo menos é o que<LF>
+.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0> Ou pelo menos é o que<LF>
 você acha.<Button><EB>
 !*********************!
 <@PointerIdx227>
@@ -723,7 +722,7 @@ limpinha e reluzente.<Button><EB>
 <@PointerIdx228>
 <0xF1: 0>A carteira da Mayl.<Button><CR>
 !---------------------!
-Ela lustrou ela com<LF>
+Ela a lustrou com<LF>
 vontade. Dá até para<LF>
 ver seu reflexo nela!<Button><EB>
 !*********************!
@@ -742,7 +741,7 @@ Ela continua meio grande<LF>
 demais pra Yai.<Button><EB>
 !*********************!
 <@PointerIdx231>
-<0xF1: 0>Esta sala vai ficar<LF>
+<0xF1: 0>Esta sala vai continuar<LF>
 bem vazia até a volta<LF>
 às aulas.<Button><0xF3: 0 59 1 240 255><CR>
 !---------------------!
@@ -750,18 +749,18 @@ Tem alguma coisa dentro<LF>
 desta carteira!<Button><CR>
 !---------------------!
 <0xF2: 0 59 1><0xF8: 4 24><0xF6: 16 130 0 15 1>Lan adquiriu o chip<LF>
-"<ItemTbl: 0 130 1> <ItemTbl: 0 15 3>!!"<0xF8: 12><0xF8: 16><Button><EB>
+"<ItemTbl: 0 130 1> <ItemTbl: 0 15 3>"!!<0xF8: 12><0xF8: 16><Button><EB>
 !*********************!
 <@PointerIdx232>
 <0xF1: 0>A mesa da professora.<Button><CR>
 !---------------------!
-Também foi muito bem<LF>
+Também está muito bem<LF>
 lustrada.<Button><EB>
 !*********************!
 <@PointerIdx233>
 <0xF1: 0>O quadro negro.<LF>
 Dá pra se conectar nele,<LF>
-mas por que faria isso?<Button><EB>
+mas pra que, amigo?<Button><EB>
 !*********************!
 <@PointerIdx234>
 <@PointerIdx235>
@@ -772,14 +771,13 @@ Em suma, o seu "PET" é<LF>
 um aparelho portátil de<LF>
 conexão com a Rede.<Button><CR>
 !---------------------!
-
 Tipo um celular, mas<LF>
 capaz de fazer muito<LF>
 mais coisas.<Button><CR>
 !---------------------!
 Dá para mandar e-mails,<LF>
 usar dinheiro virtual e<LF>
-ler livros nele!<Button><CR>
+até ler livros nele!<Button><CR>
 !---------------------!
 O programa NetNavi<LF>
 dentro dele te ajuda se<LF>

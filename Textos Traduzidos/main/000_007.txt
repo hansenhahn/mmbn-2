@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7857560>
 <@PointerIdx0>
-<Char: 0 70><0xF1: 0>Você achou as duas!<LF>
+<Char: 0 70><0xF1: 0>Você achou os dois!<LF>
 Impressionante!<Button><CR>
 !---------------------!
 Bom, aqui está a sua<LF>
@@ -21,12 +21,12 @@ Se você se sair bem<LF>
 nela, ganhará sua<LF>
 licença completa!<Button><CR>
 !---------------------!
-Ah, e também vamos lhe<LF>
-dar um presente! É uma<LF>
-oferta de tempo limitado,<Button><CR>
+Ah, e também temos um<LF>
+presente! É uma oferta<LF>
+de tempo limitado.<Button><CR>
 !---------------------!
 Tome. Pode deixar que<LF>
-eu o instalo em seu<LF>
+eu o instalo no seu<LF>
 PET pra você...<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
@@ -47,3 +47,4 @@ E isso é tudo!<LF>
 Desejo a vocês boa<LF>
 sorte e boas lutas!<Button><EB>
 !*********************!
+

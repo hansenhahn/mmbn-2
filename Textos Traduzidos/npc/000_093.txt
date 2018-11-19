@@ -1,0 +1,322 @@
+<@PointerIdx0>
+<Char: 0 66><0xF1: 0>O programa de pressão<LF>
+atmosférica fica logo<LF>
+à frente.<Button><EB>
+!*********************!
+<@PointerIdx1>
+<@PointerIdx2>
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<Char: 0 0><0xF1: 0>Vamos lá consertar o<LF>
+programa de pressão<LF>
+atmosférica!<Button><EB>
+!*********************!
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF3: 4 48 63 255 221><0xF3: 0 119 2 221 255><0xF1: 0>MegaMan reconfigurou<LF>
+o desmagnetizador<LF>
+vermelho!<Button><CR>
+!---------------------!
+<0xF2: 0 119 2><0xF2: 0 121 2>O campo magnético<LF>
+vermelho foi neutralizado!<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>É um aparelho para<LF>
+desmagnetizar<LF>
+aeronaves.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF3: 4 48 63 255 223><0xF3: 0 120 2 223 255><0xF1: 0>MegaMan reconfigurou o<LF>
+desmagnetizador<LF>
+azul!<Button><CR>
+!---------------------!
+<0xF2: 0 120 2><0xF2: 0 122 2>O campo magnético<LF>
+azul foi neutralizado!<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>É um aparelho para<LF>
+desmagnetizar<LF>
+aeronaves.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<0xF3: 4 48 63 255 225><0xF3: 0 43 2 225 255><0xF3: 0 48 2 255 225><0xF1: 0>MegaMan corrigiu o erro<LF>
+no programa de pressão<LF>
+atmosférica.<Button><CR>
+!---------------------!
+O programa de pressão<LF>
+atmosférica começou a<LF>
+operar normalmente!!!<Button><0xF2: 0 43 2><Dly: 0 1 0><EB>
+!*********************!
+<@PointerIdx225>
+<0xF1: 0>É o painel de controle
+<LF>
+para monitorar a<LF>
+pressão atmosférica.<Button><EB>
+!*********************!
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<0xF1: 0>MegaMan acessou os<LF>
+dados misteriosos.<Dly: 0 10 0>.<Dly: 0 10 0>.<Dly: 0 10 0><Button><CR>
+!---------------------!
+<0xF2: 0 40 6><0xF8: 0><0xF8: 4 24><0xF6: 16 126 0 18 1>MegaMan recebeu o chip<LF>
+"<ItemTbl: 0 126 1> <ItemTbl: 0 18 3>"!!<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx231>
+<0xF1: 0>MegaMan acessou os<LF>
+dados misteriosos.<Dly: 0 10 0>.<Dly: 0 10 0>.<Dly: 0 10 0><Button><CR>
+!---------------------!
+<0xF2: 0 42 6><0xF8: 0><0xF8: 4 24><0xF6: 48 8 7 0 0 255 255 255>MegaMan recebeu<LF>
+1800 zennys!!<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx232>
+<0xF1: 0>MegaMan acessou os<LF>
+dados misteriosos.<Dly: 0 10 0>.<Dly: 0 10 0>.<Dly: 0 10 0><Button><CR>
+!---------------------!
+<0xF2: 0 43 6><0xF8: 0><0xF8: 4 24><0xF6: 16 112 0 11 1>MegaMan recebeu o chip<LF>
+"<ItemTbl: 0 112 1> <ItemTbl: 0 11 3>"!!<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx233>
+<0xF1: 0>MegaMan acessou os<LF>
+dados misteriosos.<Dly: 0 10 0>.<Dly: 0 10 0>.<Dly: 0 10 0><Button><CR>
+!---------------------!
+<0xF2: 0 44 6><0xF8: 0><0xF8: 4 24><0xF6: 48 232 3 0 0 255 255 255>MegaMan recebeu<LF>
+1000 zennys!!<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

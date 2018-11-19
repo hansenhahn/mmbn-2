@@ -58,9 +58,9 @@ da gente também!<Button><0xF2: 0 15 2><EB>
 !*********************!
 <@PointerIdx15>
 <Char: 0 0><0xF1: 0>Caramba! Pessoal...<LF>
-O que é que vocês tão
+O que vocês tão fazendo
 <LF>
-fazendo aqui!?<Button><CR>
+aqui!?<Button><CR>
 !---------------------!
 <Jmp: 0 16><@PointerIdx16>
 <Char: 0 7><0xF1: 0>Não é óbvio? Nós<LF>
@@ -78,7 +78,7 @@ nunca diria uma coisa
 essas pra uma dama!<Button><CR>
 !---------------------!
 <Jmp: 0 19><@PointerIdx19>
-<Char: 0 0><0xF1: 0>O quê!? Ah, vai, eu
+<Char: 0 0><0xF1: 0>O quê!? Ah, vai, eu só
 <LF>tava preocupado com<LF>
 vocês...<Button><CR>
 !---------------------!
@@ -89,11 +89,11 @@ vi que eu terei que ser<LF>
 a voz da razão aqui.<Button><CR>
 !---------------------!
 Estamos todos vestindo<LF>
-"RoupMag"s especiais,<LF>
-feitas na Netopia. Viu?<Button><CR>
+"RoupaMag"s especiais,<LF>
+feitas na Ameropa. Viu?<Button><CR>
 !---------------------!
 O meu pai conhece o<LF>
-presidente da Netopia,<LF>
+presidente da Ameropa,<LF>
 é claro, daí... sabe, né?<Button><CR>
 !---------------------!
 <Jmp: 0 21><@PointerIdx21>
@@ -103,7 +103,7 @@ em cima?<Button><CR>
 !---------------------!
 <Jmp: 0 22><@PointerIdx22>
 <Char: 0 2><0xF1: 0>Cê não vai acreditar:<LF>
-este prédio na verdade
+esse prédio na verdade
 <LF>
 é um servidor gigante!<Button><CR>
 !---------------------!
@@ -122,12 +122,12 @@ tipo... máquinas?<Button><CR>
 !---------------------!
 <Jmp: 0 25><@PointerIdx25>
 <Char: 0 1><0xF1: 0>Ela tá falando a verdade!<LF>
-Esses servidores tavam<LF>
+Os servidores tavam<LF>
 saindo do chão!<Button><CR>
 !---------------------!
 Tá, mas enfim: a gente<LF>
 tem que se livrar da<LF>
-radiação de Rede...<Button><CR>
+radiação cibernética...<Button><CR>
 !---------------------!
 Só assim a gente vai<LF>
 poder acessar o último<LF>
@@ -141,22 +141,22 @@ que deu, então...<Dly: 1 30 0> agck!<Button><0xF2: 0 13 2><EB>
 <Char: 0 0><0xF1: 0>Dex!? O que foi?<Button><CR>
 !---------------------!
 <Jmp: 0 28><@PointerIdx28>
-<Char: 0 7><0xF1: 0>O Dex se conectou por<LF>
-aqui mais vezes do que<LF>
-a gente, e a radiação...<Button><CR>
+<Char: 0 7><0xF1: 0>O Dex se conectou aqui<LF>
+mais vezes do que a<LF>
+gente, e a radiação...<Button><CR>
 !---------------------!
 <Jmp: 0 29><@PointerIdx29>
 <Char: 0 1><0xF1: 0>Disse que "precisava, ou<LF>
 não ia ter moral pra<LF>
-mostrar a cara".<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>aff.<Button><CR>
+mostrar a cara".<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0> aff.<Button><CR>
 !---------------------!
 <Jmp: 0 30><@PointerIdx30>
-<Char: 0 0><0xF1: 0>Dex... e Mayl, Yay...<LF>
+<Char: 0 0><0xF1: 0>Dex... e Mayl, Yai...<LF>
 muito obrigado! Agora<LF>
-achem um lugar seguro!<Button><CR>
+vão pra um lugar seguro!<Button><CR>
 !---------------------!
 Podem deixar o resto<LF>
-disso aqui comigo!<Button><CR>
+comigo!<Button><CR>
 !---------------------!
 <Jmp: 0 31><@PointerIdx31>
 <Char: 0 7><0xF1: 0>Obrigada, Lan!<Button><EB>
@@ -172,6 +172,6 @@ achar um jeito de subir!<Button><CR>
 !---------------------!
 E se a gente não achar<LF>
 um caminho, é só a gente<LF>
-construir um!<Button><EB>
+fazer um!<Button><EB>
 !*********************!
 

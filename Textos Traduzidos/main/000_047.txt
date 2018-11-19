@@ -1,11 +1,11 @@
 <@AbsoluteAddr 7881124>
 <@PointerIdx0>
 <Char: 0 0><0xF1: 0>Erm... moço?<LF>
-Eu vim fazer o exame<LF>
+Eu vim fazer a prova<LF>
 pra tirar a LicençaA.<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<Char: 0 36><0xF1: 0>Tudo bem eu dar uma<LF>
+<Char: 0 36><0xF1: 0>Ah. Tudo bem eu dar uma<LF>
 olhada no seu PET?<Button><CR>
 !---------------------!
 Vou conferir os seus
@@ -13,15 +13,15 @@ Vou conferir os seus
 dados. Só vai levar um<LF>
 segundo.<Button><CR>
 !---------------------!
-<0xf4> <0xFA: 12><0xFA: 0 10 1><Char: 3 0>clique clique plim!<0xEA: 0 86 0><0xf4>0<Button><CR>
+<0xf4> <0xFA: 12><0xFA: 0 10 1><Char: 3 0>clic clic plim!<0xEA: 0 86 0><0xf4>0<Button><CR>
 !---------------------!
 <0xFA: 8><Char: 3 1>Hmm... aqui diz que você<LF>
 ainda não está<LF>
-qualificado pro exame.<Button><CR>
+qualificado para a prova.<Button><CR>
 !---------------------!
 Um NetLutador Municipal<LF>
 como você precisa antes<LF>
-cumprir certos deveres.<Button><CR>
+cumprir alguns pedidos.<Button><CR>
 !---------------------!
 A população requisita<LF>
 nossa ajuda, e nós re-<LF>
@@ -45,14 +45,14 @@ bastante experiência.<Button><CR>
 !---------------------!
 Marcarei eles como<LF>
 "missões especiais"<LF>
-no quadro de relatos.<Button><CR>
+no quadro.<Button><CR>
 !---------------------!
-É só resolver os<LF>
-problemas e voltar aqui<LF>
-quando terminado.<Button><CR>
+É só fazer essas pe-<LF>
+quenas missões e voltar<LF>
+aqui após terminar.<Button><CR>
 !---------------------!
 Tome bastante cuidado<LF>
-com o que for fazer,<LF>
-ouviu?<Button><EB>
+no que for fazer,<LF>
+viu?<Button><EB>
 !*********************!
 

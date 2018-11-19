@@ -13,7 +13,7 @@ comigo?)<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 11><0xF1: 0>O seu pai ligou.<LF>
-Já estou sabendo de<LF>
+Já fiquei sabendo de<LF>
 tudo.<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
@@ -56,8 +56,8 @@ Realmente está no<LF>
 sangue...<Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
-<Char: 0 0><0xF1: 0>Que foi, mãe?<LF>
-Eu sujei a minha<LF>
+<Char: 0 0><0xF1: 0>Que foi, mamãe?<LF>
+Tem uma sujeira na minha<LF>
 bandana?<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>

@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7950000>
 <@PointerIdx0>
-<Char: 0 0><0xF1: 0>Pai! A gente acabou de<LF>
+<Char: 0 0><0xF1: 0>Papai! A gente acabou de<LF>
 conferir o Plaza de<LF>
 Kotobuki!<Button><CR>
 !---------------------!
@@ -13,7 +13,7 @@ O senhor não quer a<LF>
 minha ajuda?<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
-<Char: 0 23><0xF1: 0>Ah...<Dly: 1 20 0> queria sim,<LF>
+<Char: 0 23><0xF1: 0>Ah...<Dly: 1 20 0> quero sim,<LF>
 obrigado.<Button><CR>
 !---------------------!
 Eu só... queria que você<LF>
@@ -35,7 +35,7 @@ daquela outra...<Button><CR>
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 23><0xF1: 0>Ha ha, eu sei, filhão.<Dly: 1 30 0><LF>
 É só que... estou com um<LF>
-pressentimento agora...<Button><CR>
+pressentimento...<Button><CR>
 !---------------------!
 Sinto que esta batalha
 <LF>
@@ -64,7 +64,7 @@ pra nos prepararmos...<Dly: 1 30 0><LF>
 Se tivesse mais tempo...<Button><CR>
 !---------------------!
 <Jmp: 0 9><@PointerIdx9>
-<Char: 0 23><0xF1: 0>...Enfim, vocês dois<LF>
+<Char: 0 23><0xF1: 0>... Enfim, vocês dois<LF>
 fizeram um ótimo<LF>
 trabalho.<Button><CR>
 !---------------------!
@@ -80,7 +80,7 @@ Ouçam com atenção!<Button><CR>
 <Char: 0 64><0xF1: 0>Certo!<Button><EB>
 !*********************!
 <@PointerIdx11>
-<Char: 0 23><0xF1: 0>...Nossas pesquisas<LF>
+<Char: 0 23><0xF1: 0>... Nossas pesquisas<LF>
 revelaram uma coisa<LF>
 muito estranha...<Button><CR>
 !---------------------!
@@ -93,8 +93,8 @@ esteja relacionado com o
 <LF>quadro do KotoPlaza.<Button><CR>
 !---------------------!
 E tudo aponta para a<LF>
-Gospel. Lá deve ser seu<LF>
-verdadeiro QG!<Button><CR>
+Gospel. Lá deve ser o<LF>
+seu verdadeiro QG!<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
 <Char: 0 0><0xF1: 0>O quartel-general<LF>
@@ -109,7 +109,7 @@ sendo liberada?<Button><CR>
 acima dos níveis normais<LF>
 de radiação.<Button><CR>
 !---------------------!
-Claro esse nível de<LF>
+Claro que esse nível de<LF>
 radiação é nocivo para<LF>
 nós, seres humanos.<Button><CR>
 !---------------------!
@@ -140,7 +140,7 @@ Duas delas. A primeira<LF>
 é a sua ida para a<LF>
 região de Kotobuki...<Button><CR>
 !---------------------!
-...através da Metrolinha<LF>
+... através da Metrolinha<LF>
 de Kotobuki, que nunca<LF>
 foi inaugurada.<Button><CR>
 !---------------------!
@@ -153,8 +153,8 @@ parte da radiação.<Button><CR>
 chegar lá?<Button><CR>
 !---------------------!
 <Jmp: 0 20><@PointerIdx20>
-<Char: 0 23><0xF1: 0>Bom, também criamos<LF>
-um "TrajMag", um traje<LF>
+<Char: 0 23><0xF1: 0>Bom, criamos também<LF>
+um "TrajeMag", um traje<LF>
 especial de contenção.<Button><CR>
 !---------------------!
 Ele irá proteger você de<LF>
@@ -167,28 +167,27 @@ médio de radiação.<Button><CR>
 a Gospel por dentro!<Button><CR>
 !---------------------!
 <Jmp: 0 22><@PointerIdx22>
-<Char: 0 23><0xF1: 0>É isso aí...<Dly: 1 30 0> mas eu ainda<LF>
+<Char: 0 23><0xF1: 0>Exato...<Dly: 1 30 0> mas eu ainda<LF>
 preferiria que não fosse<LF>
 você que tivesse que ir.<Button><CR>
 !---------------------!
 <Jmp: 0 23><@PointerIdx23>
 <0xFA: 4 16 0><Char: 0 0><0xF1: 0>Mas eu QUERO fazer<LF>
-isso, pai!<Button><CR>
+isso, papai!<Button><CR>
 !---------------------!
 <Jmp: 0 24><@PointerIdx24>
-<Char: 0 23><0xF1: 0>Filho...! Isso é perigoso<LF>
-demais!<Button><CR>
+<Char: 0 23><0xF1: 0>Filho...! É perigoso demais!<Button><CR>
 !---------------------!
 <Jmp: 0 25><@PointerIdx25>
 <Char: 0 0><0xF1: 0>Então não seria ainda<LF>
 mais difícil pro senhor<LF>
-pedir pra outra pessoa?<Button><CR>
+mandar outra pessoa?<Button><CR>
 !---------------------!
 E... mesmo se eu...<Dly: 1 30 0><LF>
 não voltar...<Button><CR>
 !---------------------!
 Pelo menos o senhor vai<LF>
-saber pelo quê eu morri<LF>
+saber pelo que eu morri<LF>
 lutando!<Button><CR>
 !---------------------!
 E além disso...<Dly: 1 30 0> o meu<LF>
@@ -202,7 +201,7 @@ cresceu.<Button><CR>
 !---------------------!
 Tudo bem, você venceu.<LF>
 Tome, um "KotoTckt" e<LF>
-um "TrajMag"...<Button><CR>
+um "TrajeMag"...<Button><CR>
 !---------------------!
 <Jmp: 0 27><@PointerIdx27>
 <Char: 1 241 0><0xF8: 4 24><0xFA: 0 133 0>Lan recebeu:<LF>

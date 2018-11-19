@@ -14,7 +14,7 @@ o alerta de apertar<LF>
 cintos.<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<Char: 0 64><0xF1: 0>Parece que já acabou<LF>
+<Char: 0 64><0xF1: 0>Parece que já passou<LF>
 a turbulência.<Button><CR>
 !---------------------!
 Já tá quase na hora do<LF>

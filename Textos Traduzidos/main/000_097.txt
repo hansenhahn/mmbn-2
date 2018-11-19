@@ -10,7 +10,7 @@
 castelo estão ativas!<Button><CR>
 !---------------------!
 Tem algum lugar aqui<LF>
-para nos conectarmos?<LF>
+pra nos conectarmos?<LF>
 Eu cuido disso!<Button><EB>
 !*********************!
 

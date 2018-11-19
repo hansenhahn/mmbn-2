@@ -1,0 +1,379 @@
+<@PointerIdx0>
+<0xF3: 4 64 72 40 255><0xF3: 4 56 61 30 255><0xF3: 4 55 55 25 255><0xF3: 4 32 33 20 255><0xF3: 4 22 31 10 255><Char: 0 20><0xF1: 0>Recebemos vários<LF>
+campistas nesta época<LF>
+do ano.<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 10><0xF1: 0>Eu vim aqui pra pegar<LF>
+insetos.<Button><CR>
+!---------------------!
+Já juntei um montão!<Button><CR>
+!---------------------!
+Quanto dinheiro será<LF>
+que eles valem na<LF>
+internet?<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 18><0xF1: 0>Eu fugi do trabalho<LF>
+dizendo que estava<LF>
+doente e vim pra cá.<Button><CR>
+!---------------------!
+É importante tirar um<LF>
+dia ou dois pra relaxar<LF>
+na natureza.<Button><CR>
+!---------------------!
+Aham!<Dly: 1 15 0><LF>
+Importante sim!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<Char: 0 20><0xF1: 0>Problemas na Rede?<LF>
+Que aflição.<Button><CR>
+!---------------------!
+Nessas horas, o melhor<LF>
+a fazer é dar uma volta<LF>
+no Vale Okuden.<Button><EB>
+!*********************!
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<Char: 0 20><0xF1: 0>Bem-vindo ao Vale<LF>
+Okuden, o grande jardim<LF>
+de DenCity!<Button><CR>
+!---------------------!
+É uma área simples e<LF>
+pacata, apesar dos<LF>
+turistas estrangeiros.<Button><EB>
+!*********************!
+<@PointerIdx21>
+<Char: 0 18><0xF1: 0>É um lugar bem isolado...<Dly: 1 30 0><LF>
+a 2 horas e meia de<LF>
+metrô do centro.<Button><EB>
+!*********************!
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<Char: 0 20><0xF1: 0>Ah, você esteve na<LF>
+Ameropa?<Button><CR>
+!---------------------!
+A Ameropa é conhecida<LF>
+pelos seus ônibus, não<LF>
+pelo metrô.<Button><EB>
+!*********************!
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<Char: 0 20><0xF1: 0>Nem terremotos podem<LF>
+deter a Metrolinha!<Button><CR>
+!---------------------!
+Tal é o orgulho dos<LF>
+funcionários dela!<Button><EB>
+!*********************!
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<Char: 0 20><0xF1: 0>Não andamos recebendo<LF>
+muitos visitantes esses
+<LF>
+dias.<Button><CR>
+!---------------------!
+Ninguém consegue acam-<LF>
+par com todos esses<LF>
+vírus fazendo bagunça!<Button><CR>
+!---------------------!
+E o que vai ser de mim!?<LF>
+Eu nunca vou achar<LF>
+outro emprego! NUNCA!<Button><CR>
+!---------------------!
+Opa... er, desculpa.<Button><CR>
+!---------------------!
+Mas eu fico preocupado.<LF>
+Minha esposa não enten-<LF>
+de nada de tecnologia.<Button><EB>
+!*********************!
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>Uma lata de lixo com<LF>
+um adorável design<LF>
+popular.<Button><CR>
+!---------------------!
+É fofo demais pra<LF>
+jogar lixo nela!<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>Um panfleto turístico do<LF>
+Vale Okuden. "Okuden,<LF>
+Um Oásis Moderno"<Button><EB>
+!*********************!
+<@PointerIdx222>
+<@PointerIdx223>
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<0xF6: 3 23 1 231 231 255><0xF3: 0 23 0 236 255><0xF1: 0>Escolha seu destino.<LF>
+<Arrow: 17 34><Pos: 0 2>ACDC <Arrow: 0 18><Pos: 0 2>Porto<LF>
+<Arrow: 17 0><Pos: 0 2>Ficar<CondJmp: 7 128 233 234 255>
+!---------------------!
+<0xff><EB>
+!*********************!
+<@PointerIdx231>
+<0xF3: 0 23 0 236 255><0xF1: 0>Escolha seu destino.<LF>
+<Arrow: 17 34><Pos: 0 2>ACDC <Arrow: 0 51><Pos: 0 2>Porto<LF>
+<Arrow: 51 0><Pos: 0 2>Aerporto <Arrow: 34 17><Pos: 0 2>Ficar<CondJmp: 8 128 233 234 235>
+!---------------------!
+<0xff><0xff><EB>
+!*********************!
+<@PointerIdx232>
+<@PointerIdx233>
+<0xF2: 0 23 0><0xF6: 0 88 1><0xF1: 0><0xF8: 4 24>Lan recebeu:<LF>
+"<ItemTbl: 0 88 0>"!!<0xF8: 12><0xF8: 4 4><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx234>
+<0xF2: 0 23 0><0xF6: 0 89 1><0xF1: 0><0xF8: 4 24>Lan recebeu:<LF>
+"<ItemTbl: 0 89 0>"!!<0xF8: 12><0xF8: 4 4><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx235>
+<0xF2: 0 23 0><0xF6: 0 91 1><0xF1: 0><0xF8: 4 24>Lan recebeu:<LF>
+"<ItemTbl: 0 91 0>"!!<0xF8: 12><0xF8: 4 4><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx236>
+<0xF1: 0>Comprar um novo bilhete?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 128 237 255 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx237>
+<0xF6: 1 88 1><0xF6: 1 89 1><0xF6: 1 91 1><0xF2: 4 23 0><0xF1: 0>Lan devolveu o bilhete<LF>
+que tinha tirado!<Button><CR>
+!---------------------!
+<Jmp: 0 230><@PointerIdx238>
+<0xF6: 1 88 1><0xF1: 0>Lan usou:<LF>
+"<ItemTbl: 0 88 0>"!<Button><EB>
+!*********************!
+<@PointerIdx239>
+<0xF6: 1 89 1><0xF1: 0>Lan usou:<LF>
+"<ItemTbl: 0 89 0>"!<Button><EB>
+!*********************!
+<@PointerIdx240>
+<@PointerIdx241>
+<0xF6: 1 91 1><0xF1: 0>Lan usou:<LF>
+"<ItemTbl: 0 91 0>"!<Button><EB>
+!*********************!
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

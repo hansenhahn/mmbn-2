@@ -1,12 +1,12 @@
 <@AbsoluteAddr 7900332>
 <@PointerIdx0>
 <0xF3: 4 20 31 16 255><0xF3: 4 18 18 19 255><0xF6: 3 60 1 16 16 255><0xF3: 0 137 2 13 255><0xF3: 0 27 2 9 255><0xF3: 0 28 2 8 255><0xF3: 0 29 2 7 255><0xF3: 0 30 2 3 255><0xF3: 0 31 2 4 255><Char: 0 70><0xF1: 0>Sou o examinador<LF>
-da prova pra<LF>
+da prova da<LF>
 <ItemTbl: 0 60 0>.<Button><CR>
 !---------------------!
 Veio fazer a prova?<LF>
-Ela tem três partes,<LF>
-ou três testes.<Button><CR>
+Ela tem três partes.<LF>
+Três testes.<Button><CR>
 !---------------------!
 Se você passar, ganha<LF>
 uma <ItemTbl: 0 60 0>.<LF>
@@ -24,7 +24,7 @@ Não é possível recuperar<LF>
 o HP durante as lutas,<LF>
 então tome cuidado.<Button><CR>
 !---------------------!
-Eu vou restaurar o<LF>
+Eu vou restaurar<LF>
 seu HP antes e depois<LF>
 do teste.<Button><CR>
 !---------------------!
@@ -35,8 +35,9 @@ do teste.<Button><CR>
 <Arrow: 17 2><Pos: 0 2>Tentarei depois<LF>
 <Arrow: 34 16><Pos: 0 2>Explique de novo<CondJmp: 7 192 17 255 1>
 !---------------------!
-<0xff>Muito bem. Por favor,<LF>
-fale comigo novamente.<Button><EB>
+<0xff>Tudo bem. Por favor,<LF>
+venha falar comigo<LF>
+novamente.<Button><EB>
 !*********************!
 <@PointerIdx3>
 <0xF2: 4 30 2><Char: 0 70><0xF1: 0>Que pena...<Dly: 1 30 0><LF>
@@ -45,7 +46,7 @@ Quer tentar de novo?<LF>
 !---------------------!
 Certo. Por favor,<LF>
 venha falar comigo<LF>
-de novo.<Button><EB>
+novamente.<Button><EB>
 !*********************!
 <@PointerIdx4>
 <Char: 0 70><0xF1: 0>Vai tentar fazer o<LF>
@@ -72,14 +73,14 @@ do mal estão na Rede."<Button><CR>
 !---------------------!
 Por favor, encontre<LF>
 esses Navis e aplique<LF>
-punição sobre eles.<Button><CR>
+a punição sobre eles.<Button><CR>
 !---------------------!
 Assim que fizer isso,<LF>
 por favor, volte e fale<LF>
 comigo.<Button><CR>
 !---------------------!
 Esse é o Teste 2.<LF>
-Quer que eu repita?<LF>
+Quer que eu o repita?<LF>
 <Arrow: 17 0><Pos: 0 2>Quero <Arrow: 0 17><Pos: 0 2>Não precisa<CondJmp: 6 129 6 255 255>
 !---------------------!
 Pois bem, então. Boa<LF>

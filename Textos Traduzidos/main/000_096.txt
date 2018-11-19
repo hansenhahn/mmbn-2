@@ -23,7 +23,7 @@ Eu arranhei o joelho...<LF>
 Mas fora isso, tô bem!<Button><EB>
 !*********************!
 <@PointerIdx5>
-<0xF1: 0>biiiiipe-biiiiipe!<Dly: 0 60 0><Button><CR>
+<0xF1: 0>biiiiip-biiiiip!<Dly: 0 60 0><Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
 <Char: 0 0><0xF1: 0>Quem será que é?<Button><EB>
@@ -33,17 +33,17 @@ Mas fora isso, tô bem!<Button><EB>
 espero que não tenham<LF>
 se ferido gravemente.<Button><CR>
 !---------------------!
-De acordo com nossa<LF>
-Central, nossa reunião<LF>
-vazou para a Gospel.<Button><CR>
+De acordo com a Central,<LF>
+nossa reunião vazou<LF>
+para a Gospel.<Button><CR>
 !---------------------!
-A Gospel mandou<LF>
-NetLutadores para<LF>
-preparar uma emboscada.<Button><CR>
+E a Gospel mandou Net-<LF>
+Lutadores para prepa-<LF>
+rarem uma emboscada.<Button><CR>
 !---------------------!
-Nossos arquivos para<LF>
-atrasar o "SuperNavi"<LF>
-foram roubados.<Button><CR>
+Roubaram nossos arqui-<LF>
+vos para atrasar a<LF>
+criação do "SuperNavi".<Button><CR>
 !---------------------!
 Os NetLutadores deles<LF>
 hackearam o nosso<LF>
@@ -65,17 +65,17 @@ de nós!<Button><CR>
 <Jmp: 0 10><@PointerIdx10>
 <Char: 1 241 0><0xFA: 12><0xFA: 0 4 1>tuuuuu <Dly: 0 57 0><0xFA: 0 4 1>tuuuuu <Dly: 0 57 0><0xFA: 0 4 1>tuuuuu <Dly: 0 57 0><Button><CR>
 !---------------------!
-<0xFA: 0 26 1>bi-bipe!<Button><CR>
+<0xFA: 0 26 1>bi-bip!<Button><CR>
 !---------------------!
 <0xFA: 8><Jmp: 0 11><@PointerIdx11>
 <0xFA: 4 36 0><Char: 0 55><0xF1: 0>Todos ouviram isso!?<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
 <Char: 0 51><0xF1: 0>Eu ouvi! E ainda estou<LF>
-processando isso...!<Button><CR>
+processando...!<Button><CR>
 !---------------------!
 Esse homem...<LF>
-ele mo...<Button><CR>
+ele mor...<Button><CR>
 !---------------------!
 <Jmp: 0 13><@PointerIdx13>
 <Char: 0 55><0xF1: 0>É perigoso ficarmos isola-<LF>
@@ -98,7 +98,7 @@ dada nesses patifes!<Button><CR>
 !---------------------!
 <Jmp: 0 16><@PointerIdx16>
 <Char: 0 55><0xF1: 0>Vocês concordam,<LF>
-jovens Electopianos?<Button><CR>
+jovens ni-honenses?<Button><CR>
 !---------------------!
 <Jmp: 0 17><@PointerIdx17>
 <Char: 0 6><0xF1: 0>Pode ser...<Button><CR>

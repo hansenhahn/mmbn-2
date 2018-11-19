@@ -11,7 +11,7 @@ Gospel está aumentando.<Button><CR>
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 23><0xF1: 0>Temos que achar o QG<LF>
 da Gospel e acabar com<LF>
-ela, e rápido.<Button><CR>
+ele, e rápido.<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 22><0xF1: 0>Dr. Hikari, o senhor<LF>
@@ -36,7 +36,7 @@ depois que isso acabar.<Button><CR>
 !*********************!
 <@PointerIdx6>
 <Char: 0 22><0xF1: 0>Terremoto!!<LF>
-E é dos grandes!<Button><EB>
+E dos grandes!<Button><EB>
 !*********************!
 <@PointerIdx7>
 <Char: 0 23><0xF1: 0>Você está bem?<Button><CR>
@@ -61,13 +61,13 @@ Sistema Ambiental.<Button><EB>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
 <Char: 0 22><0xF1: 0>Desastres em grande<LF>
-escala ocorrendo em<LF>
-Saborya e Netopia.<Button><CR>
+escala foram relatados<LF>
+em Saborya e Ameropa.<Button><CR>
 !---------------------!
 Enchentes em Saborya<LF>
 e forte radiação ultra-
 <LF>
-violeta na Netopia!!<Button><CR>
+violeta na Ameropa!!<Button><CR>
 !---------------------!
 <Jmp: 0 13><@PointerIdx13>
 <Char: 0 23><0xF1: 0>Mas como...?<LF>

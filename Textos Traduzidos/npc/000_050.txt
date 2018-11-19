@@ -1,0 +1,375 @@
+<@PointerIdx0>
+<0xF1: 0>Voltar para Porto das<LF>
+Águas?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 128 1 255 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx1>
+<0xFB: 28 0><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 2><0xF1: 0>Eu tô bem! O Dex aqui<LF>
+não ia perder pra uma<LF>
+besteirinha dessas!<Button><CR>
+!---------------------!
+<Jmp: 0 181><@PointerIdx3>
+<Char: 0 1><0xF1: 0>Nossos trajes anti-<LF>
+radiação nos protegem<LF>
+contra a desta área.<Button><CR>
+!---------------------!
+<0xF3: 0 88 2 255 7><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 7><0xF1: 0>Lan! Boa sorte!<Button><CR>
+!---------------------!
+Ah, e...<Dly: 1 30 0><LF>
+Não...<Dly: 1 15 0> deixa pra lá.<Button><EB>
+!*********************!
+<@PointerIdx5>
+<Char: 0 15><0xF1: 0>O condomínio tem estado<LF>
+muito estranho desde<LF>
+ontem.<Button><CR>
+!---------------------!
+Todo mundo abandonou<LF>
+o lugar, mas...<Button><CR>
+!---------------------!
+Ah... que dor...!<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 18><0xF1: 0>E-eu não consigo chegar<LF>
+onde quero ir por causa<LF>
+da radiação...<Button><EB>
+!*********************!
+<@PointerIdx7>
+<0xF2: 0 88 2><Char: 0 1><0xF1: 0>Leve isto com você<LF>
+e acabe logo com a<LF>
+Gospel!<Button><CR>
+!---------------------!
+<Jmp: 0 8><@PointerIdx8>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 16 47 0 26 1>Lan recebeu o chip<LF>
+"<ItemTbl: 0 47 1> <ItemTbl: 0 26 3>"!!<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 9><@PointerIdx9>
+<Char: 0 1><0xF1: 0>Você consegue!<Button><EB>
+!*********************!
+<@PointerIdx10>
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<0xF3: 4 67 71 2 255><EB>
+!*********************!
+<@PointerIdx181>
+<Char: 0 64><0xF1: 0>Lan, desafiar o Dex para<LF>
+uma NetLuta?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 129 182 184 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx182>
+<0xF3: 0 9 0 185 255><0xF3: 0 6 0 197 196><EB>
+!*********************!
+<@PointerIdx183>
+<0xF2: 0 9 0><0xF1: 1><Dly: 255 0 0><@PointerIdx184>
+<0xF2: 4 44 0><0xF2: 4 45 0><0xF2: 4 46 0><Char: 0 2><0xF1: 0>Se você precisar<LF>
+treinar, é só vir falar<LF>
+com o Dex aqui!<Button><EB>
+!*********************!
+<@PointerIdx185>
+<0xF2: 4 44 0><0xF2: 4 45 0><0xF2: 4 46 0><Char: 0 2><0xF1: 0>... Só dá mais um tempo<LF>
+pro GutsMan se recupe-<LF>
+rar, pode ser? Pode?<Button><EB>
+!*********************!
+<@PointerIdx186>
+<0xF3: 0 44 0 187 255><0xF3: 0 45 0 189 255><0xF3: 0 46 0 191 191><@PointerIdx187>
+<0xF3: 0 6 0 194 255><Char: 0 2><0xF1: 0>Ô! Ei!<LF>
+Relaxa, cara!<Button><CR>
+!---------------------!
+Tá aqui o que cê quer...<Dly: 1 30 0><LF>
+Pega logo, vai!<Button><CR>
+!---------------------!
+<Jmp: 0 188><@PointerIdx188>
+<0xF2: 0 6 0><0xF2: 4 44 0><Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 81 1>Lan recebeu<LF>
+"<ItemTbl: 0 81 0>"!!<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 193><@PointerIdx189>
+<0xF3: 0 7 0 194 255><Char: 0 2><0xF1: 0>Droga!! Nem com isso<LF>
+eu consigo vencer!?<Button><CR>
+!---------------------!
+<Jmp: 0 190><@PointerIdx190>
+<0xF2: 0 7 0><0xF2: 4 45 0><EB>
+!*********************!
+<@PointerIdx191>
+<0xF3: 0 8 0 194 255><Char: 0 2><0xF1: 0>Ah, cara! Eu não<LF>
+<0x49>acredito<0x49> que você<LF>
+venceu! Robalheira!<Button><CR>
+!---------------------!
+<Jmp: 0 192><@PointerIdx192>
+<0xF2: 0 8 0><0xF2: 4 46 0><EB>
+!*********************!
+<@PointerIdx193>
+<Char: 0 2><0xF1: 0>Da próxima vez eu não<LF>
+perco!<Button><EB>
+!*********************!
+<@PointerIdx194>
+<Char: 0 2><0xF1: 0>Ah, cara!! Eu não<LF>
+<0x49>acredito<0x49> que você<LF>
+venceu! Robalheira!<Button><EB>
+!*********************!
+<@PointerIdx195>
+<Char: 0 2><0xF1: 0>Sabia! Cê nunca ia<LF>
+vencer a Gospel sem<LF>
+a minha ajuda...<Button><EB>
+!*********************!
+<@PointerIdx196>
+<Char: 0 2><0xF1: 0>Há!! Não vai chorar<LF>
+quando perder, hein!?<Button><CR>
+!---------------------!
+<Jmp: 0 183><@PointerIdx197>
+<0xF3: 0 60 1 196 255><0xF2: 0 60 1><Char: 0 2><0xF1: 0>Eu tô usando o chip de<LF>
+apoio que eu ganhei<LF>
+ontem!<Button><CR>
+!---------------------!
+Sente só o poder do<LF>
+GutSoco Atômico do<LF>
+GutsMan!<Button><CR>
+!---------------------!
+<Jmp: 0 183><@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>Um condomínio. Foi<LF>
+abandonado por conta<LF>
+da radiação.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>Um condomínio. Foi<LF>
+abandonado por conta<LF>
+da radiação.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>Uma máquina de<LF>
+refrigerante!<Button><CR>
+!---------------------!
+E tem uma entrada de<LF>
+conexão nela para<LF>
+manutenção!<Button><EB>
+!*********************!
+<@PointerIdx223>
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

@@ -1,0 +1,521 @@
+<@PointerIdx0>
+<0xF3: 4 64 72 70 255><0xF3: 4 15 15 12 255><Char: 0 22><0xF1: 0>Aquela última explosão<LF>
+danificou parte da<LF>
+represa!<Button><CR>
+!---------------------!
+E eu sinto que.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0><LF>
+ainda há outra explosão<LF>
+por vir!<Button><CR>
+!---------------------!
+E quando isso
+<LF>
+acontecer... a represa<LF>
+irá se romper!!!!<Button><CR>
+!---------------------!
+Eu vou é dar o fora<LF>
+daqui!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<0xF3: 4 15 15 10 255><Char: 0 18><0xF1: 0>Um menino entrou na<LF>
+sala de controle da<LF>
+represa e não quer sair.<Button><CR>
+!---------------------!
+A gente salva ele<LF>
+ou vai embora?<LF>
+Hmm...<Button><EB>
+!*********************!
+<@PointerIdx2>
+<0xF3: 4 15 15 11 255><Char: 0 22><0xF1: 0>Está perguntando se fui<LF>
+eu quem explodiu a<LF>
+represa?<Button><CR>
+!---------------------!
+Não, claro que não fui<LF>
+eu! Eu nunca ousaria!<LF>
+Nunquinha! "Never"!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<Char: 0 18><0xF1: 0>Quer dizer então que o<LF>
+menino é um<LF>
+NetLutador Oficial?<Button><CR>
+!---------------------!
+Nesse caso, acho que<LF>
+ele se vira sozinho<LF>
+mesmo se a gente fugir.<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 22><0xF1: 0>Adivinha só o que eu<LF>
+acabei de ouvir?<Button><CR>
+!---------------------!
+Com o uso de técnicas de<LF>
+acampamento, é possível<LF>
+achar os detonadores!<Button><CR>
+!---------------------!
+Não é fácil, mas por<LF>
+favor, experimente!<Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 22><0xF1: 0>Eu sou um aspirante a<LF>
+cientista! Direi o seguinte
+<LF>
+a você antes de fugir:<Button><CR>
+!---------------------!
+tanto vírus quanto chips<LF>
+têm propriedades<LF>
+especiais.<Button><CR>
+!---------------------!
+Se você atacar certos<LF>
+vírus com chips de<LF>
+propriedade certa,<Button><CR>
+!---------------------!
+poderá causar duas<LF>
+vezes mais dano neles<LF>
+que o normal!!<Button><CR>
+!---------------------!
+Fogo vence Mdra, Mdra<LF>
+vence Elet, Elet vence<LF>
+Água, Água vence Fogo.<Button><CR>
+!---------------------!
+Também há chips que não<LF>
+oferecem nenhuma van-<LF>
+tagem ou desvantagem.<Button><CR>
+!---------------------!
+Use suas propriedades<LF>
+sabiamente para enfren-<LF>
+tar vírus mais fortes.<Button><CR>
+!---------------------!
+Agora manda brasa!<Button><EB>
+!*********************!
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<Char: 0 22><0xF1: 0>Estamos estudando os<LF>
+detonadores para impedir<LF>
+futuros incidentes.<Button><CR>
+!---------------------!
+E olha... eles são<LF>
+absurdamente<LF>
+bem-feitos.<Button><EB>
+!*********************!
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<Char: 0 6><0xF1: 0>É o meu primeiro dia de<LF>
+folga em meses. Tente<LF>
+não me incomodar.<Button><CR>
+!---------------------!
+<Jmp: 0 161><@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<0xF3: 4 61 61 60 255><Char: 0 30><0xF1: 0>Evacuamos a área por<LF>
+causa do tremor, mas se<LF>
+a represa se romper...<Button><CR>
+!---------------------!
+Fico arrepiado só de<LF>
+pensar.<Button><EB>
+!*********************!
+<@PointerIdx46>
+<0xF3: 4 61 61 61 255><Char: 0 34><0xF1: 0>Haha. Aposto que o meu<LF>
+marido está<LF>
+preocupado comigo.<Button><EB>
+!*********************!
+<@PointerIdx47>
+<0xF3: 4 61 61 62 255><Char: 0 8><0xF1: 0>Nunca imaginei que uma<LF>
+coisa dessas ia aconte-<LF>
+cer num acampamento.<Button><EB>
+!*********************!
+<@PointerIdx48>
+<0xF3: 4 61 61 63 255><Char: 0 29><0xF1: 0>Eu vim lá da Ameropa<LF>
+só pra ver isso.<Button><EB>
+!*********************!
+<@PointerIdx49>
+<@PointerIdx50>
+<Char: 0 6><0xF1: 0>Estou ocupado. E inde-<LF>
+pendente disso não tenho<LF>
+obrigação de ajudá-lo.<Button><CR>
+!---------------------!
+<Jmp: 0 161><@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<Char: 0 30><0xF1: 0>Nenhum tremor pós-<LF>
+terremoto. Acho que<LF>
+vamos ficar bem.<Button><EB>
+!*********************!
+<@PointerIdx61>
+<Char: 0 34><0xF1: 0>Preciso voltar pra onde<LF>
+o meu marido está,<LF>
+urgente!<Button><EB>
+!*********************!
+<@PointerIdx62>
+<Char: 0 8><0xF1: 0>Este foi um dia<LF>
+inesquecível. Vô<LF>
+guardá no coração.<Button><EB>
+!*********************!
+<@PointerIdx63>
+<Char: 0 29><0xF1: 0>Agora sim eu posso<LF>
+começar o meu tour<LF>
+do Vale!<Button><EB>
+!*********************!
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<Char: 0 22><0xF1: 0>Fortalecemos os nossos<LF>
+Sistemas de Resposta<LF>
+a NetTerrorismo.<Button><CR>
+!---------------------!
+Por isso estou<LF>
+patrulhando a represa<LF>
+em busca de bombas.<Button><EB>
+!*********************!
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<0xF3: 4 56 63 50 255><0xF3: 4 55 55 40 255><EB>
+!*********************!
+<@PointerIdx161>
+<Char: 0 64><0xF1: 0>Lan, quer desafiar o<LF>
+Chaud para uma luta?<LF>
+<Arrow: 17 0><Pos: 0 2>Quero <Arrow: 0 17><Pos: 0 2>Não<LF>
+<CondJmp: 6 129 162 164 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx162>
+<0xF3: 0 186 0 165 255><Char: 0 6><0xF1: 0>Acho que não é má ideia<LF>
+reunir dados de<LF>
+combate...<Button><CR>
+!---------------------!
+<Jmp: 0 163><@PointerIdx163>
+<0xF2: 0 186 0><0xF1: 1><Dly: 255 0 0><@PointerIdx164>
+<0xF2: 4 187 0><0xF2: 4 188 0><0xF2: 4 189 0><Char: 0 6><0xF1: 0>Sua covardia não é<LF>
+louvável, mas é<LF>
+compreensível.<Button><EB>
+!*********************!
+<@PointerIdx165>
+<0xF2: 4 187 0><0xF2: 4 188 0><0xF2: 4 189 0><Char: 0 6><0xF1: 0>Não seja teimoso. Você<LF>
+só venceu por mera<LF>
+sorte, e nada mais.<Button><EB>
+!*********************!
+<@PointerIdx166>
+<0xF3: 0 187 0 167 255><0xF3: 0 188 0 169 255><0xF3: 0 189 0 171 171><@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<0xF3: 0 192 0 174 255><Char: 0 6><0xF1: 0>Este resultado era<LF>
+teoricamente...<LF>
+inconcebível...<Button><CR>
+!---------------------!
+<Jmp: 0 170><@PointerIdx170>
+<0xF2: 0 192 0><0xF2: 4 188 0><EB>
+!*********************!
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<Char: 0 6><0xF1: 0>Você só teve sorte de<LF>
+principante antes...<Dly: 1 15 0><LF>
+Como acabo de provar.<Button><EB>
+!*********************!
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<0xF3: 8 17 255 182><Char: 0 22><0xF1: 0>Eu sou um mercador de<LF>
+subchips. Quer ver o<LF>
+meu repertório?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Quero <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 0 255 181 255>
+!---------------------!
+<0xFB: 20 17><@PointerIdx181>
+<CR>
+!---------------------!
+Volte sempre.<Button><EB>
+!*********************!
+<@PointerIdx182>
+<Char: 0 22><0xF1: 0>Eu sinto muito, mas<LF>meu repertório está<LF>
+vazio no momento.<Button><EB>
+!*********************!
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 149 0 191 255><0xF2: 0 149 0><Char: 0 50><0xF1: 0>O que eu estou fazendo<LF>
+aqui? Turismo. Por que<LF>
+a pergunta, garoto?<Button><CR>
+!---------------------!
+Criminoso? Eu não sou<LF>
+criminoso, não. Só um<LF>
+turista estrangeiro!<Button><CR>
+!---------------------!
+Ha ha ha!<LF>
+"Criminoso". Essa foi boa!<Button><CR>
+!---------------------!
+Escuta... esquece isso<LF>
+e vai pra casa. Digo isso<LF>
+pro seu próprio bem.<Button><EB>
+!*********************!
+<@PointerIdx191>
+<Char: 0 50><0xF1: 0>ESCUTA AQUI, PIVETE!<LF>
+Eu tô de MUITO mau<LF>
+humor agora.<Button><CR>
+!---------------------!
+Vai pra casa.<Button><CR>
+!---------------------!
+E esquece que me<LF>
+viu aqui. Capiche?<Button><EB>
+!*********************!
+<@PointerIdx192>
+<@PointerIdx193>
+<0xF2: 0 49 1><Char: 0 36><0xF1: 0>Você está aqui por causa<LF>
+da prova para tirar a<LF>
+LicençaSSS, certo?<Button><CR>
+!---------------------!
+Eis a minha frase<LF>
+pista:<Button><CR>
+!---------------------!
+"Cérebro do Maior dos<LF>
+Pássaro".<Button><EB>
+!*********************!
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>Veja só como a água
+<LF>
+cai com tamanha força.<Button><CR>
+!---------------------!
+É realmente uma visão<LF>
+espetacular.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>Um mapa do Vale Okuden,<LF>
+com uma anotação na<LF>
+parte de baixo:<Button><CR>
+!---------------------!
+"Tomem cuidado com<LF>
+ursos"!<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>Não tem saída.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>Águas caindo com um<LF>
+estrondoso impacto.<Button><CR>
+!---------------------!
+Essas águas afluem em<LF>
+um rio que segue até<LF>
+DenCity.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<@PointerIdx225>
+<0xF3: 4 15 15 226 255><0xF3: 4 14 14 227 255><0xF1: 0>A porta de acesso<LF>
+à sala de controle<LF>
+da represa.<Button><EB>
+!*********************!
+<@PointerIdx226>
+<Char: 0 64><0xF1: 0>Vamos deixar isso aqui<LF>
+com o Chaud e ir achar<LF>
+o detonador!<Button><EB>
+!*********************!
+<@PointerIdx227>
+<0xF3: 0 128 2 226 255><0xF2: 0 129 2><EB>
+!*********************!
+<@PointerIdx228>
+<0xF1: 0>PET usado no crime.<LF>
+Está configurado como<LF>
+a primeira entrada.<Button><EB>
+!*********************!
+<@PointerIdx229>
+<0xF1: 0>Cantil usado no crime.<LF>
+Está configurado como<LF>
+a segunda entrada.<Button><EB>
+!*********************!
+<@PointerIdx230>
+<0xF1: 0>PET usado no crime.<LF>
+Está configurado como<LF>
+a terceira entrada.<Button><EB>
+!*********************!
+<@PointerIdx231>
+<0xF1: 0>PET usado no crime.<LF>
+Está configurado como<LF>
+a quarta entrada.<Button><EB>
+!*********************!
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

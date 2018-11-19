@@ -1,8 +1,7 @@
 <@AbsoluteAddr 7926836>
 <@PointerIdx0>
-<Char: 0 64><0xF1: 0>Lan! Já é quase<LF>
-meio dia! Hora de<LF>
-almoçar!<Button><CR>
+<Char: 0 64><0xF1: 0>Lan! Já é quase meio-dia!<LF>
+Hora de almoçar!<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <Char: 0 0><0xF1: 0>É, acho que eu vou<LF>

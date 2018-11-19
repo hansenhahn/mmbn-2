@@ -8,7 +8,7 @@ até aqui, MegaMan.EXE.<Button><CR>
 <Char: 0 64><0xF1: 0>E quem é você!?<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
-<Char: 0 89><0xF1: 0>O Comandante-Chefe
+<Char: 0 89><0xF1: 0>OComandante-Chefe
 <LF>
 da Gospel...<LF>
 FreezeMan.<Button><CR>
@@ -28,9 +28,9 @@ que ele causará?<Button><CR>
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 64><0xF1: 0>Eu nunca vou deixar isso
 <LF>
-contecera! Entregue
+acontecer! Entregue o
 <LF>
-o "FragAzu" agora mesmo!<Button><CR>
+"FragAzul" agora mesmo!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 89><0xF1: 0>Ha ha... não seja ridículo.<LF>
@@ -38,8 +38,8 @@ Sabem que o gelo na<LF>
 Rede é parte de mim...<Button><CR>
 !---------------------!
 Mas talvez não saibam<LF>
-que o terceiro "FragAzu"<LF>
-SOU eu!<Button><CR>
+que EU sou o terceiro<LF>
+"FragAzul"!<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
 <Char: 0 64><0xF1: 0>O quê!?<Button><CR>
@@ -54,12 +54,12 @@ Terão de me vencer e<LF>
 me deletar se quiserem<LF>
 salvar o mundo.<Button><CR>
 !---------------------!
-Então se quiser mesmo<LF>
+Então, se quiser mesmo<LF>
 impedir o apocalipse...<Button><CR>
 !---------------------!
 Me ataque com tudo<LF>
 que tiver!<LF>
-MegaMan!<Button><CR>
+MegaMan.EXE!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
 <Char: 0 64><0xF1: 0>Lan, a rotina de<LF>

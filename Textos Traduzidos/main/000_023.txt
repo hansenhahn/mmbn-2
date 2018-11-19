@@ -1,7 +1,7 @@
 <@AbsoluteAddr 7865800>
 <@PointerIdx0>
 <0xF1: 0>Alguns dias após o<LF>
-início das férias...<Dly: 0 60 0><Button><EB>
+início das férias...<0xEA: 0 60 0><Button><EB>
 !*********************!
 <@PointerIdx1>
 <0xFA: 4 4 0><Char: 0 64><0xF1: 0>Devia fazer o seu dever<LF>
@@ -11,11 +11,11 @@ vez por semana, Lan.<Button><CR>
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 0><0xF1: 0>Relaxa! A gente ainda<LF>
 tem tempo de sobra pra<LF>
-fazer isso!<Button><CR>
+isso!<Button><CR>
 !---------------------!
-Férias são demais!<LF>
-Preciso pensar no que eu<LF>
-vou fazer hoje... Hmm...<Button><CR>
+As férias são demaaais!<LF>
+Vejamos, o que eu faço<LF>
+hoje...? Hmm...<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 64><0xF1: 0>Tá bom, mas não vem<LF>
@@ -27,21 +27,22 @@ vamos curtir o dia ao<LF>
 máximo!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
-<Char: 0 0><0xF1: 0>Agora sim!<Dly: 1 30 0><LF>
+<Char: 0 0><0xF1: 0>Agora sim!<0xEA: 1 30 0><LF>
 Que tal a praia?<LF>
 Ou um acampamento!<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
-<Char: 0 64><0xF1: 0>As duas opções parecem<LF>
-legais...<Button><CR>
+<Char: 0 64><0xF1: 0>Difícil escolher... eu<LF>
+gostei das duas opções.<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
-<Char: 0 0><0xF1: 0>Vamos acampar!<Dly: 1 30 0><LF>
+<Char: 0 0><0xF1: 0>Acampar! Vamos acampar!<0xEA: 1 30 0><LF>
 O chamado da natureza<LF>
 me... er, chama!<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
 <Char: 0 64><0xF1: 0>Tá resolvido, então!<LF>
 Vamos lá falar com a<LF>
-Mayl e os outros!<Button><EB>
+Mayl e com os outros!<Button><EB>
 !*********************!
+

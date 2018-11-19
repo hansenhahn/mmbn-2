@@ -3,10 +3,12 @@
 <Char: 0 0><0xF1: 0>E-mail?<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<Char: 0 64><0xF1: 0>Lan... parece que é<LF>
-uma ligação pra você.<Button><CR>
+<Char: 0 64><0xF1: 0>Não, Lan...
+<Dly: 1 30 0> parece<LF>
+que é uma ligação<LF>
+pra você.<Button><CR>
 !---------------------!
-Espera! É o Navi da Yai,<LF>
+Quê? É o Navi da Yai,<LF>
 o Glide! <Dly: 1 30 0>Glide!<LF>
 Algum problema?<Button><CR>
 !---------------------!
@@ -23,8 +25,8 @@ apuros!<Button><CR>
 banho e ainda não saiu!<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
-<Char: 0 0><0xF1: 0>E daí? Deve estar só<LF>
-relaxando.<Button><CR>
+<Char: 0 0><0xF1: 0>E daí? Deve tá só<LF>
+relaxando!<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
 <Char: 0 68><0xF1: 0>A Srta. Yai nunca toma<LF>
@@ -37,14 +39,14 @@ errático!<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
 <Char: 0 64><0xF1: 0>O que deu nele, um bug?<Dly: 1 30 0><LF>
-Ou foi um...<Button><CR>
+Oi foi um...<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
 <Char: 0 68><0xF1: 0>Não tenho certeza,<LF>
 mas o alarme do<LF>
-aquecedor está apitando!<Button><CR>
+aquecedor está apitando<Button><CR>
 !---------------------!
-Vou verificar o programa<LF>
+Vou conferir o programa<LF>
 do aquecedor e ver se<LF>
 acho algum bug.<Button><CR>
 !---------------------!
@@ -72,3 +74,4 @@ casa da Yai!<Button><CR>
 <Jmp: 0 13><@PointerIdx13>
 <Char: 0 7><0xF1: 0>Obrigada, Lan!<Button><EB>
 !*********************!
+

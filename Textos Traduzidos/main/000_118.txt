@@ -13,7 +13,7 @@ doutor?<Button><CR>
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 15><0xF1: 0>Acredito que vai, mas é<LF>
 melhor descansar até<LF>
-chegarmos em Electopia.<Button><CR>
+chegarmos em Ni-Hon.<Button><CR>
 !---------------------!
 Ele parece estar em<LF>
 choque por causa do<LF>
@@ -24,9 +24,9 @@ veneno...<Button><CR>
 aranha...<Button><EB>
 !*********************!
 <@PointerIdx5>
-<Char: 0 15><0xF1: 0>Tem uma aranha<LF>
-venenosa à bordo!? Por<LF>
-que não nos contaram!?<Button><CR>
+<Char: 0 15><0xF1: 0>Tem uma aranha peço-<LF>
+nhenta à bordo!? Por que<LF>
+não nos contaram!?<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
 <Char: 0 58><0xF1: 0>Peço desculpas, senhor!<LF>
@@ -34,7 +34,7 @@ Mas não sabíamos se<LF>
 era venenosa...<Button><EB>
 !*********************!
 <@PointerIdx7>
-<Char: 0 15><0xF1: 0>...Bom, de nada adianta<LF>
+<Char: 0 15><0xF1: 0>... Bom, de nada adianta<LF>
 ficar brigando com a<LF>
 mensageira...<Button><CR>
 !---------------------!

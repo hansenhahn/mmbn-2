@@ -10,14 +10,14 @@ tem que correr!<Button><EB>
 <@PointerIdx2>
 <Char: 0 0><0xF1: 0>Eu sei...<Button><CR>
 !---------------------!
-...Tá bom, tá bom! Eu já<LF>
+... Tá bom, tá bom! Já<LF>
 vou!<Button><EB>
 !*********************!
 <@PointerIdx3>
 <Char: 0 2><0xF1: 0>Ah, trouxe mais uns<LF>
 galhos pra gente. Legal.<Button><CR>
 !---------------------!
-Mesmo assim... atrasado<LF>
+Mesmo assim... atrasado!<LF>
 Tem que aprender a<LF>
 seguir as ordens do líder!<Button><CR>
 !---------------------!
@@ -27,7 +27,7 @@ Eu trouxe os galhos<LF>
 pra você, não trouxe!?<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
-<Char: 0 2><0xF1: 0>...Bom,<Dly: 1 30 0> É graças a você<LF>
+<Char: 0 2><0xF1: 0>... Bom,<Dly: 1 30 0> é graças a você<LF>
 que a gente pode<LF>
 acampar de novo...<Button><CR>
 !---------------------!
@@ -40,7 +40,7 @@ Todo mundo ajudou!<Button><EB>
 !*********************!
 <@PointerIdx7>
 <Char: 0 2><0xF1: 0>Laaaan! Como você<LF>
-éééé...<Dly: 1 30 0>! Buyoo yo yo!<Button><CR>
+é...<Dly: 1 30 0>! Buyoo yo yooo!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
 <Char: 0 0><0xF1: 0>De novo com esse<LF>
@@ -81,9 +81,9 @@ Aaaaaiiiiiiaaahhh!!!<Button><EB>
 <Char: 1 241 0><0xFA: 12><0xFA: 0 248 0>TCHIBUM!<0xFA: 8><Button><EB>
 !*********************!
 <@PointerIdx18>
-<Char: 0 0><0xF1: 0>Hahahaha! <Dly: 1 30 0>...Foi mal!<LF>
+<Char: 0 0><0xF1: 0>Hahahaha! <Dly: 1 30 0>... Foi mal!<LF>
 Eu tenho voltar pra Yai.<LF>
-'Té mais, Sr. Higsby!<Button><CR>
+Té mais, Sr. Higsby!<Button><CR>
 !---------------------!
 <Jmp: 0 19><@PointerIdx19>
 <Char: 0 5><0xF1: 0>É...<Button><EB>
@@ -112,7 +112,7 @@ tá brincando!<Button><EB>
 <@PointerIdx23>
 <Char: 0 0><0xF1: 0>Você é pequenininha,<LF>
 então toma cuidado aí<LF>
-pra grelhar esse peixe.<Button><EB>
+grelhando esse peixe.<Button><EB>
 !*********************!
 <@PointerIdx24>
 <Char: 0 1><0xF1: 0>Ei!<LF>
@@ -138,7 +138,7 @@ Me desculpa, querida?<Button><CR>
 <Char: 0 11><0xF1: 0>Desculpo sim, querido.<Button><CR>
 !---------------------!
 Além disso, Yuichiro, eu<LF>
-sei muito bem como<LF>
+sei muito bem como o<LF>
 seu trabalho é puxado...<Button><CR>
 !---------------------!
 <Jmp: 0 29><@PointerIdx29>
@@ -204,7 +204,7 @@ pessoal!<Button><EB>
 !---------------------!
 <Jmp: 0 46><@PointerIdx46>
 <0xF8: 4 3><0xF2: 4 14 2><Char: 0 7><0xF1: 0>Ah, oi, Lan. O Chaud já<LF>
-arranjou aquela faca<LF>
+arranjou uma faca<LF>
 pra mim.<Button><CR>
 !---------------------!
 Obrigada, Chaud!<Button><CR>
@@ -223,7 +223,7 @@ Diferente de você, o<LF>
 Chaud é atencioso!<Button><EB>
 !*********************!
 <@PointerIdx50>
-<Char: 0 7><0xF1: 0>...Mas eu tambem gosto<LF>
+<Char: 0 7><0xF1: 0>... Mas eu tambem gosto<LF>
 da sua faca...<Dly: 1 30 0><LF>
 Qual das duas eu uso...?<Button><CR>
 !---------------------!
@@ -255,7 +255,7 @@ a cozinheira! Xô, xô!<Button><EB>
 <Char: 0 0><0xF1: 0>Chaud.<Button><CR>
 !---------------------!
 <Jmp: 0 58><@PointerIdx58>
-<Char: 0 6><0xF1: 0>...Sim?<Button><CR>
+<Char: 0 6><0xF1: 0>... Sim?<Button><CR>
 !---------------------!
 <Jmp: 0 59><@PointerIdx59>
 <Char: 0 0><0xF1: 0>Eu odeio ter que
@@ -290,8 +290,8 @@ E eu também não vou<LF>
 perder pro ProtoMan!<Button><CR>
 !---------------------!
 <Jmp: 0 63><@PointerIdx63>
-<Char: 0 74><0xF1: 0>...Eu apenas...<Dly: 1 30 0><LF>
-sigo ordens do Mestre<LF>
+<Char: 0 74><0xF1: 0>... Eu apenas...<Dly: 1 30 0><LF>
+sigo as ordens do Mestre<LF>
 Chaud...<Button><CR>
 !---------------------!
 <Jmp: 0 64><@PointerIdx64>
@@ -359,7 +359,7 @@ fazê-los por um terceiro.<Button><CR>
 <Jmp: 0 77><@PointerIdx77>
 <Char: 0 23><0xF1: 0>A paz voltou, mas o<LF>
 trabalho do seu pai aqui<LF>
-está longe de acabar.<Button><CR>
+tá longe de acabar.<Button><CR>
 !---------------------!
 <Jmp: 0 78><@PointerIdx78>
 <Char: 0 0><0xF1: 0>Eu sei...<Dly: 1 30 0> bom, se rolar<LF>
@@ -369,7 +369,7 @@ contar com a gente!<Button><CR>
 <Jmp: 0 79><@PointerIdx79>
 <Char: 0 64><0xF1: 0>É!<Button><CR>
 !---------------------!
-...Mas eu fico meio<LF>
+... Mas eu fico meio<LF>
 aliviado de saber que<LF>
 não foi tudo culpa dele.<Button><CR>
 !---------------------!
@@ -403,9 +403,9 @@ Vamos lá!<Button><EB>
 <Char: 0 0><0xF1: 0>Hora da bóia!!<Button><CR>
 !---------------------!
 <Jmp: 0 88><@PointerIdx88>
-<Char: 0 64><0xF1: 0>Isso é tão bom, né?<Dly: 1 30 0> Hoje<LF>
+<Char: 0 64><0xF1: 0>Isso é tão gostoso.<Dly: 1 30 0> Hoje<LF>
 podemos acampar sem<LF>
-compromisso! <Dly: 1 30 0>Não acha?<Button><CR>
+compromisso! <Dly: 1 30 0>Né?<Button><CR>
 !---------------------!
 <Jmp: 0 89><@PointerIdx89>
 <Char: 0 0><0xF1: 0>Chomp nhac croc glup<LF>
@@ -457,7 +457,7 @@ fogo por dentro!<Button><CR>
 <0xF2: 0 73 2><Jmp: 0 99><@PointerIdx99>
 <Char: 0 7><0xF1: 0>Não!!!!!<Dly: 1 30 0><Button><CR>
 !---------------------!
-<0xFA: 16>...Espera, é CLARO que<LF>
+<0xFA: 16>... Espera, é CLARO que<LF>
 tem fogo dentro da<LF>
 grelha! É uma grelha!!<Button><CR>
 !---------------------!

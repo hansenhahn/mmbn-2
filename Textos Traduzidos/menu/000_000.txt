@@ -1,0 +1,401 @@
+<@PointerIdx0>
+<EB>
+!*********************!
+<@PointerIdx1>
+Dir.1<LF>
+Dir.2<LF>
+Dir.3<EB>
+!*********************!
+<@PointerIdx2>
+<CR>
+!---------------------!
+0<EB>
+!*********************!
+<@PointerIdx3>
+<CR>
+!---------------------!
+ã<EB>
+!*********************!
+<@PointerIdx4>
+Organizar<LF>
+<LF>
+ID<LF>
+Alfabeto<LF>
+Código<LF>
+Ataque<LF>
+Elemento<LF>
+Quantidade<LF>
+Capacidade<EB>
+!*********************!
+<@PointerIdx5>
+<0xEC: 0 0><0xF1: 4>b<Pos: 2 1 1>Escolhe<LF>
+diretório!<Dly: 255 0 0><@PointerIdx6>
+<0xEC: 0 0><0xF1: 4>b<Pos: 2 1 1><Arrow: 0 17><Pos: 0 2>Mudar<LF>
+<Arrow: 17 0><Pos: 0 2>Usar<CondJmp: 6 48 255 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx7>
+<0xEC: 0 0><0xF1: 4>b<Pos: 2 1 1>Usando<LF>
+diretório<ItemTbl: 12 0 1><Button><Dly: 255 0 0><@PointerIdx8>
+<CR>
+!---------------------!
+ã<EB>
+!*********************!
+<@PointerIdx9>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Use um diretório!<Button><Dly: 255 0 0><@PointerIdx10>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Chips Navi<LF>
+demais!<Button><Dly: 255 0 0><@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Escolha 30 chips!<Button><0xF1: 3><EB>
+!*********************!
+<@PointerIdx16>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Só pode ter cinco<LF>
+por tipo<Button><0xF1: 3><EB>
+!*********************!
+<@PointerIdx17>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Só pode ter<LF>
+5 NaviChips<Button><0xF1: 3><EB>
+!*********************!
+<@PointerIdx18>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Só pode ter<LF>
+8 NaviChips<Button><0xF1: 3><EB>
+!*********************!
+<@PointerIdx19>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Memória padrão<LF>
+insificiente pra fazer<LF>
+deste um chip padrão.<Button><0xF1: 3><EB>
+!*********************!
+<@PointerIdx20>
+<0xF3: 0 93 8 25 255><0xF1: 2><Char: 0 64><0xEC: 0 0>Tem e-mail novo!<Dly: 255 0 0><@PointerIdx21>
+<0xF3: 0 93 8 26 255><0xF1: 2><Char: 0 64><0xEC: 0 0>Qual e-mail ler?<Dly: 255 0 0><@PointerIdx22>
+<0xF3: 0 93 8 27 255><0xF1: 2><Char: 0 64><0xEC: 0 0>Nenhum e-mail novo...<Dly: 255 0 0><@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<0xF1: 2><0xEC: 0 0>Chegou novo e-mail<Dly: 255 0 0><@PointerIdx26>
+<0xF1: 2><0xEC: 0 0>Escolher e-mail<Dly: 255 0 0><@PointerIdx27>
+<0xF1: 2><0xEC: 0 0>Nenhum e-mail novo<Dly: 255 0 0><@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+?<EB>
+!*********************!
+<@PointerIdx31>
+<CR>
+!---------------------!
+â<EB>
+!*********************!
+<@PointerIdx32>
+<CR>
+!---------------------!
+ç<EB>
+!*********************!
+<@PointerIdx33>
+<EB>
+!*********************!
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Meu status!<Dly: 255 0 0><@PointerIdx41>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Aumentar o quê?<Dly: 255 0 0><@PointerIdx42>
+<@PointerIdx43>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Estilo Normal!<Button><Dly: 255 0 0><@PointerIdx44>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Mudar para <ItemTbl: 0 0 16>!<Button><Dly: 255 0 0><@PointerIdx45>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Aumentar Ataque?<LF>
+(Você tem <ItemTbl: 4 0 97> PowerUPs)<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 16 46 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx46>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Ataque aumentado!<Button><Dly: 255 0 0><@PointerIdx47>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Aumentar velocidade?<LF>
+(Você tem <ItemTbl: 4 0 97> PowerUPs)<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 16 48 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx48>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Velocidade aumentada!<Button><Dly: 255 0 0><@PointerIdx49>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Aumentar Carga?<LF>
+(Você tem <ItemTbl: 4 0 97> PowerUPs)<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 16 50 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx50>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Carga aumentada!<Button><Dly: 255 0 0><@PointerIdx51>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Já está no máximo!<Button><Dly: 255 0 0><@PointerIdx52>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Você não tem PowerUPs<Button><Dly: 255 0 0><@PointerIdx53>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Você não tem estilos<Button><Dly: 255 0 0><@PointerIdx54>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Que estilo usar?<LF>
+<Arrow: 17 0><Pos: 0 2><ItemTbl: 0 0 16><Pos: 1 11><Arrow: 0 17><Pos: 0 2>Cancelar<CondJmp: 6 16 255 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx55>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Que estilo usar?<LF>
+<Arrow: 17 34><Pos: 0 2><ItemTbl: 0 0 16><Pos: 1 11><Arrow: 0 34><Pos: 0 2><ItemTbl: 0 0 32><LF>
+<Arrow: 17 0><Pos: 0 2>Cancelar<CondJmp: 7 16 255 255 255>
+!---------------------!
+<0xff><Dly: 255 0 0><@PointerIdx56>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Que estilo usar?<LF>
+<Arrow: 17 34><Pos: 0 2><ItemTbl: 0 0 16><Pos: 1 11><Arrow: 0 51><Pos: 0 2><ItemTbl: 0 0 32><LF>
+<Arrow: 51 0><Pos: 0 2><ItemTbl: 0 0 48><Pos: 1 11><Arrow: 34 17><Pos: 0 2>Cancel<CondJmp: 8 16 255 255 255>
+!---------------------!
+<0xff><0xff><Dly: 255 0 0><@PointerIdx57>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Há ChipsNavi demais no<LF>
+diretório para usar<LF>
+esse estilo<Button><CR>
+!---------------------!
+Remover tudo menos<LF>
+5 ChipsNavi do diretório<LF>
+e tentar de novo<Button><Dly: 255 0 0><@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<0xF3: 0 93 8 75 255><Char: 0 64><0xF1: 2><0xEC: 0 0>Salvar o jogo?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 0 255 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx61>
+<0xF3: 0 93 8 76 255><Char: 0 64><0xF1: 2><0xEC: 0 0>Isso irá apagar<LF>
+os dados antigos. OK?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 0 255 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx62>
+<0xF3: 0 93 8 77 255><Char: 0 64><0xF1: 2><0xEC: 0 0>Hmm... Parece que o<LF>
+salvamento falhou...<Button><CR>
+!---------------------!
+Tentar de novo?<LF>
+<Arrow: 17 0><Pos: 0 2>Som <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 0 255 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx63>
+<0xF3: 0 93 8 78 255><Char: 0 64><0xF1: 2><0xEC: 0 0>O seu jogo foi salvo!<Button><Dly: 255 0 0><@PointerIdx64>
+Tempo de jogo<EB>
+!*********************!
+<@PointerIdx65>
+Coleção<EB>
+!*********************!
+<@PointerIdx66>
+Chips<EB>
+!*********************!
+<@PointerIdx67>
+Créditos<EB>
+!*********************!
+<@PointerIdx68>
+<CR>
+!---------------------!
+<0xc2>:<CR>
+!---------------------!
+0<0xc2><EB>
+!*********************!
+<@PointerIdx69>
+<CR>
+!---------------------!
+â/250<EB>
+!*********************!
+<@PointerIdx70>
+<CR>
+!---------------------!
+â/260<EB>
+!*********************!
+<@PointerIdx71>
+<CR>
+!---------------------!
+ê<EB>
+!*********************!
+<@PointerIdx72>
+<CR>
+!---------------------!
+êz<EB>
+!*********************!
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<0xF1: 2><0xEC: 0 0>Salvar jogo?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 0 255 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx76>
+<0xF1: 2><0xEC: 0 0>Isso irá apagar<LF>
+os dados antigos. OK?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 0 255 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx77>
+<0xF1: 2><0xEC: 0 0>Salvamento mal-<LF>
+sucedido...!<Button><CR>
+!---------------------!
+Tentar de novo?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 0 255 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx78>
+<0xF1: 2><0xEC: 0 0>Salvamento bem-<LF>
+sucedido.<Button><Dly: 255 0 0><@PointerIdx79>
+<@PointerIdx80>
+<CR>
+!---------------------!
+á/<CR>
+!---------------------!
+0á<EB>
+!*********************!
+<@PointerIdx81>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Você não tem nada...<Dly: 255 0 0><@PointerIdx82>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Usar "<ItemTbl: 0 0 16>?"<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 0 255 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx83>
+<0xF1: 2><0xEC: 0 0>O HP do MegaMan se<LF>
+recuperou!<Button><Dly: 255 0 0><@PointerIdx84>
+<0xF1: 2><0xEC: 0 0>Todo o HP do MegaMan<LF>
+se recuperou!<Button><Dly: 255 0 0><@PointerIdx85>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>HP no máximo!<Button><Dly: 255 0 0><@PointerIdx86>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>"<ItemTbl: 0 0 16>" em uso<Button><Dly: 255 0 0><@PointerIdx87>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Nenhum vírus encon-<LF>
+trado aqui ainda<Button><Dly: 255 0 0><@PointerIdx88>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Use isto em dados<LF>
+misteriosos trancados!<Button><Dly: 255 0 0><@PointerIdx89>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Use isso após conectar!<Button><Dly: 255 0 0><@PointerIdx90>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Vamos salvar primeiro!<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 0 255 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx91>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Isso irá apagar dados<LF>
+antigos. OK?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 0 255 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx92>
+<Char: 0 64><0xF1: 2><0xEC: 0 0>Hmm... Parece que o<LF>
+salvamento não deu<LF>
+certo...<Button><CR>
+!---------------------!
+Tentar de novo?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 0 255 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx93>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Seu jogo foi salvo!<Button><Dly: 255 0 0><@PointerIdx94>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>NetLutar com um(a)<LF>
+amigo(a). Só pra treinar<LF>
+e se divertir<Dly: 255 0 0><@PointerIdx95>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>NetLutar com um(a)<LF>
+amigo(a). Pra valer!<LF>
+Apostando 1 chip!<Dly: 255 0 0><@PointerIdx96>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Trocar chips com<LF>
+um(a) amigo(a)<Dly: 255 0 0><@PointerIdx97>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Trocar estilos<LF>
+com um(a) amigo(a)<Dly: 255 0 0><@PointerIdx98>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Erro de comunicação!<LF>
+Tente de novo!<Button><Dly: 255 0 0><@PointerIdx99>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Você precisa de 1<LF>
+chip para dar ao seu<LF>
+amigo(a) caso perca<Button><Dly: 255 0 0><@PointerIdx100>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>O seu amigo(a) ainda<LF>
+não está pronto...<LF>
+Espere, OK?<Dly: 255 0 0><@PointerIdx101>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Você conseguiu, Lan!<LF>
+Mandou bem na operação!<Button><Dly: 255 0 0><@PointerIdx102>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Que pena,Lan...<LF>
+Eu vou me sair melhor<LF>
+da próxima vez<Button><Dly: 255 0 0><@PointerIdx103>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Essa foi por pouco, Lan!<LF>
+Empatamos!<Button><Dly: 255 0 0><@PointerIdx104>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Erro de comunicação!<LF>
+Cancelando luta...<Button><Dly: 255 0 0><@PointerIdx105>
+<CR>
+!---------------------!
+ê<EB>
+!*********************!
+<@PointerIdx106>
+<CR>
+!---------------------!
+â  <CR>
+!---------------------!
+0â<EB>
+!*********************!
+<@PointerIdx107>
+Treino<LF>
+NetLuta<LF>
+Trocar Chips<LF>
+Trocar Estilos<EB>
+!*********************!
+<@PointerIdx108>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Hã...?<LF>
+Seu amigo(a) escolheu<LF>
+um modo diferente!<Button><Dly: 255 0 0><@PointerIdx109>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Escolher Estilo Normal<LF>
+primeiro<Button><Dly: 255 0 0><@PointerIdx110>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Seu amigo(a) ainda está<LF>
+escolhendo um chip<LF>
+para trocar...<Dly: 255 0 0><@PointerIdx111>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Trocar estes 2?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<LF>
+<CondJmp: 6 0 112 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx112>
+<CR>
+!---------------------!
+Espere, OK?<Dly: 255 0 0><@PointerIdx113>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Troca concluída!<Button><Dly: 255 0 0><@PointerIdx114>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Seu amigo(a) também<LF>
+escolheu "nenhum"! Alguém<LF>
+tem que escolher um chip.<Button><0xF1: 3><EB>
+!*********************!
+<@PointerIdx115>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Troca concluída!<LF>
+Mas qual foi o<LF>
+propósito disso?<Button><Dly: 255 0 0><@PointerIdx116>
+Nenhum<EB>
+!*********************!
+<@PointerIdx117>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Seu amigo(a) também<LF>
+escolheu "nenhum"! Alguém<LF>
+tem que dizer um chip.<Button><Dly: 255 0 0><@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Qual estilo trocar?<LF>
+<Arrow: 17 0><Pos: 0 2><ItemTbl: 0 0 16><Pos: 1 11><Arrow: 0 17><Pos: 0 2>Cancelar<CondJmp: 6 16 255 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx121>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Qual estilo trocar?<LF>
+<Arrow: 17 34><Pos: 0 2><ItemTbl: 0 0 16><Pos: 1 11><Arrow: 0 34><Pos: 0 2><ItemTbl: 0 0 32><LF>
+<Arrow: 17 0><Pos: 0 2>Cancelar<CondJmp: 7 16 255 255 255>
+!---------------------!
+<0xff><Dly: 255 0 0><@PointerIdx122>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Qual estilo trocar?<LF>
+<Arrow: 17 34><Pos: 0 2><ItemTbl: 0 0 16><Pos: 1 11><Arrow: 0 51><Pos: 0 2><ItemTbl: 0 0 32><LF>
+<Arrow: 51 0><Pos: 0 2><ItemTbl: 0 0 48><Pos: 1 11><Arrow: 34 17><Pos: 0 2>Cancelar<CondJmp: 8 16 255 255 255>
+!---------------------!
+<0xff><0xff><Dly: 255 0 0><@PointerIdx123>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Seu amigo(a) ainda tá<LF>
+escolhendo o estilo...<Dly: 255 0 0><@PointerIdx124>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Trocar estes 2?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<LF>
+<CondJmp: 6 0 112 255 255>
+!---------------------!
+<Dly: 255 0 0><@PointerIdx125>
+<CR>
+!---------------------!
+Espere, OK?<Dly: 255 0 0><@PointerIdx126>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Troca concluída!<Button><Dly: 255 0 0><@PointerIdx127>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Troca concluída!<LF>
+Mas qual foi o<LF>
+propósito dela?<Button><Dly: 255 0 0><@PointerIdx128>
+<0xF1: 2><Char: 0 64><0xEC: 0 0>Seu amigo(a) já tem<LF>
+esse estilo!<Button><CR>
+!---------------------!
+Bom, vocês PODEM<LF>
+trocar o mesmo estilo...<Button><Dly: 255 0 0><@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<Char: 0 64><0xF1: 0>Lan!<LF>
+Você já usou todos<LF>
+os "<ItemTbl: 0 114 0>s"!<Button><EB>
+!*********************!
+<@PointerIdx141>
+<Char: 0 64><0xF1: 0>Lan!<LF>
+Você já usou todos<LF>
+os "<ItemTbl: 0 116 0>s"!<Button><EB>
+!*********************!
+<@PointerIdx142>

@@ -1,0 +1,437 @@
+<@PointerIdx0>
+<0xF3: 4 56 255 56 255><0xF3: 4 55 55 50 255><0xF3: 4 20 20 38 255><0xF3: 4 18 19 30 255><0xF3: 0 92 2 14 255><0xF3: 4 9 9 10 255><Char: 0 37><0xF1: 0>Esta é a sala de provas.<Button><CR>
+!---------------------!
+Conecte-se onde quiser<LF>
+e mande o seu Navi para<LF>
+a Rede.<Button><EB>
+!*********************!
+<@PointerIdx1>
+<0xF3: 4 55 55 51 255><0xF3: 4 20 20 39 255><0xF3: 4 18 19 31 255><0xF3: 4 9 9 11 255><Char: 0 39><0xF1: 0>Hoje eu vou enfim fazer<LF>
+a prova da LicençaS!<LF>
+Cara, eu tô animadaço!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<0xF3: 4 55 55 52 255><0xF3: 4 20 20 40 255><0xF3: 4 18 19 32 255><0xF3: 4 9 9 12 255><Char: 0 14><0xF1: 0>O meu marido é<LF>
+basicamente o pior<LF>
+NetLutador do universo.<Button><CR>
+!---------------------!
+Por isso decidi tentar<LF>
+tirar uma LicençaB para<LF>
+proteger a família.<Button><EB>
+!*********************!
+<@PointerIdx3>
+<0xF3: 4 55 55 53 255><0xF3: 4 20 20 41 255><0xF3: 4 18 19 33 255><0xF3: 0 95 2 15 255><0xF3: 4 9 9 13 255><Char: 0 15><0xF1: 0>Um menino da sua idade,<LF>
+fazendo a prova pra<LF>
+tirar a LicençaB?<Button><CR>
+!---------------------!
+Essa eu quero ver!<Button><EB>
+!*********************!
+<@PointerIdx4>
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<Char: 0 37><0xF1: 0>Esta é a sala de provas.<Button><CR>
+!---------------------!
+O que foi? Não veio<LF>
+fazer uma prova?<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 39><0xF1: 0>A prova da LicençaS<LF>
+é difícil pra caramba!<Button><CR>
+!---------------------!
+Vai! Canhão A,<LF>
+Canhão B, Canhão C!<LF>
+Ativar... Z-Canhão!<Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 14><0xF1: 0>Nunca consigo passar<LF>
+na batalha de<LF>
+sobrevivência.<Button><CR>
+!---------------------!
+Acho que nunca vou
+<LF>passar na prova da<LF>
+licença.<Button><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 0 15><0xF1: 0>Eu cheguei no terceiro<LF>
+problema!<Button><CR>
+!---------------------!
+Você ainda tá no<LF>
+segundo? É, ele é bem<LF>
+difícil.<Button><EB>
+!*********************!
+<@PointerIdx14>
+<Char: 0 37><0xF1: 0>Meus parabéns! Você<LF>
+passou! Nos vemos na<LF>
+prova da LicençaA!<Button><EB>
+!*********************!
+<@PointerIdx15>
+<Char: 0 15><0xF1: 0>Eu reprovei.<Button><EB>
+!*********************!
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<Char: 0 37><0xF1: 0>Veio fazer a prova para<LF>
+tirar a <ItemTbl: 0 60 0><LF>
+desta vez?<Button><CR>
+!---------------------!
+Boa sorte!<Button><EB>
+!*********************!
+<@PointerIdx31>
+<Char: 0 39><0xF1: 0>Ah, cara! Será que eu<LF>
+não sou bom o bastante<LF>
+pra tirar a LicençaS?<Button><CR>
+!---------------------!
+Não! Eu não posso<LF>
+desistir! Tenho que<LF>
+continuar tentando!<Button><EB>
+!*********************!
+<@PointerIdx32>
+<Char: 0 14><0xF1: 0>Nossa! Quase que eu<LF>
+consigo tirar a<LF>
+LicençaB!<Button><EB>
+!*********************!
+<@PointerIdx33>
+<Char: 0 15><0xF1: 0>Eu vou tentar só mais<LF>
+uma vez. Se falhar, eu<LF>
+desisto.<Button><EB>
+!*********************!
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<Char: 0 37><0xF1: 0>Você passou?<LF>
+Meus parabéns!<Button><CR>
+!---------------------!
+Tirar uma <ItemTbl: 0 60 0><LF>
+na sua idade é um<LF>
+feito e tanto.<Button><EB>
+!*********************!
+<@PointerIdx39>
+<Char: 0 39><0xF1: 0>Essa não!<LF>
+Eu não passei!<Button><CR>
+!---------------------!
+Mais uma vez!<Button><CR>
+!---------------------!
+De novo não passei!<LF>
+Como pode isso!?<Button><EB>
+!*********************!
+<@PointerIdx40>
+<Char: 0 14><0xF1: 0>Eu não passei na prova.<LF>
+Mas cheguei tão perto<LF>
+de passar!<Button><CR>
+!---------------------!
+Mas agora eu sei como<LF>
+funciona. Da próxima<LF>
+vez eu passo!<Button><EB>
+!*********************!
+<@PointerIdx41>
+<Char: 0 15><0xF1: 0>.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>.<Button><CR>
+!---------------------!
+Eu vou tentar só mais<LF>
+uma vez.<Button><EB>
+!*********************!
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<Char: 0 37><0xF1: 0>Reabrimos as salas de<LF>
+provas para reunir<LF>
+mais pessoal.<Button><EB>
+!*********************!
+<@PointerIdx51>
+<Char: 0 39><0xF1: 0>Eu consegui... até que<LF>
+enfim, consegui!<Button><CR>
+!---------------------!
+Eu tirei a minha LicençaS!<Button><CR>
+!---------------------!
+Acabou que continuar<LF>
+tentando vingou mesmo!<Button><EB>
+!*********************!
+<@PointerIdx52>
+<Char: 0 14><0xF1: 0>Eu consegui, menino!<LF>
+Tirei a LicençaB!<Button><CR>
+!---------------------!
+Me sinto... INVENCÍVEL!<LF>
+Acho que vou tentar<LF>
+tirar a LicençaA, também!<Button><EB>
+!*********************!
+<@PointerIdx53>
+<Char: 0 15><0xF1: 0>Essa não... reprovei<LF>
+de novo.<Button><CR>
+!---------------------!
+Talvez NetLutar não<LF>
+seja pra mim.<Button><EB>
+!*********************!
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<Char: 0 37><0xF1: 0>Agora que é possível<LF>
+fazer a prova<LF>
+diretamente pela Rede,<Button><CR>
+!---------------------!
+não vamos mais usar<LF>
+esta sala.<Button><CR>
+!---------------------!
+É meio triste,<Button><CR>
+!---------------------!
+mas o mais importante<LF>
+para Ni-Hon agora<Button><CR>
+!---------------------!
+é reunir mais<LF>
+NetLutadores<LF>
+capacitados.<Button><EB>
+!*********************!
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<Char: 0 19><0xF1: 0>Os NetLutadores me<LF>
+ajudaram muito no<LF>
+passado.<Button><CR>
+!---------------------!
+E agora eu vou fazer a<LF>
+prova para ajudar<LF>
+pessoas também!<Button><CR>
+!---------------------!
+Conec-TAAAARRR!<Button><EB>
+!*********************!
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>Um enorme painel.<LF>
+Se você se conectar<LF>
+nele,<Button><CR>
+!---------------------!
+irá para a área de<LF>
+provas para<LF>
+NetLutadores.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>Um enorme painel.<LF>
+Se você se conectar<LF>
+aqui,<Button><CR>
+!---------------------!
+irá para a área de<LF>
+provas para<LF>
+NetLutadores.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>Um enorme painel.<LF>
+Se você se conectar<LF>
+nele,<Button><CR>
+!---------------------!
+irá para a área de<LF>
+provas para<LF>
+NetLutadores.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

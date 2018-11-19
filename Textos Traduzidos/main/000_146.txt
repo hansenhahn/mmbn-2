@@ -4,7 +4,7 @@
 Uma semana depois...<Dly: 0 120 0><Button><EB>
 !*********************!
 <@PointerIdx1>
-<Char: 0 74><0xF1: 0>...Hmpf!!<Button><EB>
+<Char: 0 74><0xF1: 0>... Hmpf!!<Button><EB>
 !*********************!
 <@PointerIdx2>
 <Char: 0 6><0xF1: 0>De novo...<Button><EB>

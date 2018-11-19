@@ -7,7 +7,7 @@
 chegou até aqui.<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
-<Char: 0 64><0xF1: 0>Para enfrentar...<Dly: 1 30 0><LF>
+<Char: 0 64><0xF1: 0>Pra enfrentar...<Dly: 1 30 0><LF>
 Bass, o "SuperNavi"...<Button><EB>
 !*********************!
 <@PointerIdx3>
@@ -23,8 +23,8 @@ delete o Navi que se<LF>
 posta diante de você!<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
-<Char: 0 90><0xF1: 0>...Com prazer.<Dly: 1 30 0><LF>
-...Lutar é o meu forte!<Button><EB>
+<Char: 0 90><0xF1: 0>... Com prazer.<Dly: 1 30 0><LF>
+... Lutar é o meu forte!<Button><EB>
 !*********************!
 <@PointerIdx6>
 <Char: 0 0><0xF1: 0>Ele despertou...!<Dly: 1 30 0><LF>

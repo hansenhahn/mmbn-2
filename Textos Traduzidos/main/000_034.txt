@@ -1,42 +1,43 @@
 <@AbsoluteAddr 7870104>
 <@PointerIdx0>
-<Char: 0 6><0xF1: 0>Mas o que..?<0xFA: 16><Button><EB>
+<Char: 0 6><0xF1: 0>Mas o que...?<0xFA: 16><Button><EB>
 !*********************!
 <@PointerIdx1>
-<Char: 1 241 0><0xFA: 12><0xFA: 4 14 0><0xFA: 0 8 1>Raaaurrr!!!!<Dly: 0 60 0><0xFA: 8><Button><EB>
+<Char: 1 241> <0xFA: 12><0xFA: 4 14 0><0xFA: 0 8 1>Raaaurrr!!!!<0xEA: 0 60 0><0xFA: 8><Button><EB>
 !*********************!
 <@PointerIdx2>
-<Char: 0 1><0xF1: 0>Isso é mau!<LF>
+<Char: 0 1><0xF1: 0>Que horror!<LF>
 Eu vou voltar pra casa.<Button><CR>
 !---------------------!
-(Na verdade porque eu...<LF>
-molhei a calça!)<Button><CR>
+(Na verdade é porque<LF>
+eu... fiz pipi na calça!)<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<Char: 1 241 0><0xFA: 12><0xFA: 0 8 1>Raaaaurrr!!!!<Dly: 0 60 0><Button><CR>
+<Char: 1 241> <0xFA: 12><0xFA: 0 8 1>Raaaaurrr!!!!<0xEA: 0 60 0><Button><CR>
 !---------------------!
 <0xFA: 8><Jmp: 0 4><@PointerIdx4>
 <Char: 0 7><0xF1: 0>Lan! O que é que a<LF>
 gente faz!?<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
-<Char: 0 2><0xF1: 0>Galera! Todo mundo calmo!<Dly: 1 30 0><LF>
-Tá bom? <Dly: 1 30 0>V-vamos só.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0><LF>
-Dar o fora daqui!!<Button><EB>
+<Char: 0 2><0xF1: 0>Galera! Calma!<0xEA: 1 30 0><LF>
+Tá bom? <0xEA: 1 30 0>V-vamos só.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0><LF>
+Dar no pééé!!<Button><EB>
 !*********************!
 <@PointerIdx6>
-<0xF1: 0><0xFA: 12><0xFA: 0 8 1>Rraaauurrr!!!!<Dly: 0 60 0><LF>
-<0xFA: 0 8 1>Rraaauurrr!!!!<Dly: 0 60 0><Button><CR>
+<0xF1: 0><0xFA: 12><0xFA: 0 8 1>Rraaauurrr!!!!<0xEA: 0 60 0><LF>
+<0xFA: 0 8 1>Rraaauurrr!!!!<0xEA: 0 60 0><Button><CR>
 !---------------------!
 <0xFA: 8><Jmp: 0 7><@PointerIdx7>
 <Char: 0 2><0xF1: 0>Cuidado, Lan!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
-<Char: 0 7><0xF1: 0>...Que estranho, né?<LF>
-O urso tá rugindo que<LF>
-nem ainda agora.<Button><CR>
+<Char: 0 7><0xF1: 0>... Que estranho.<LF>
+O urso deu o mesmo<LF>
+rugido de ainda agora.<Button><CR>
 !---------------------!
 Talvez tenha mais aí do<LF>
 que a gente pensa, mas<LF>
 daqui não dá pra dizer...<Button><EB>
 !*********************!
+

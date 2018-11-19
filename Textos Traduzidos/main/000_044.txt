@@ -1,7 +1,7 @@
 <@AbsoluteAddr 7876196>
 <@PointerIdx0>
 <0xF3: 0 97 2 13 255><0xF3: 0 95 2 9 255><0xF6: 3 6 1 8 8 255><0xF3: 0 88 2 7 255><0xF3: 0 89 2 3 255><0xF3: 0 87 2 4 255><Char: 0 70><0xF1: 0>Eu sou o examinador<LF>
-do teste para a<LF>
+da prova da<LF>
 <ItemTbl: 0 59 0>.<Button><CR>
 !---------------------!
 Veio fazer a prova?<LF>
@@ -20,18 +20,18 @@ Delete as cinco baterias<LF>
 seguidas de vírus<LF>
 para passar.<Button><CR>
 !---------------------!
-Não será permitido<LF>
-recuperação de HP<LF>
-durante elas. Cuidado!<Button><CR>
+Mas cuidado: você não<LF>
+poderá recuperar o seu<LF>
+HP durante elas!<Button><CR>
 !---------------------!
 Antes do primeiro teste,<LF>
-e após o término de cada<LF>
-um, eu curarei você.<Button><CR>
+e após o seu término,<LF>
+eu curarei você.<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 70><0xF1: 0>Preparado?<Button><CR>
 !---------------------!
-<Char: 1 241> <Arrow: 0 33><Pos: 0 2>Estou!<LF>
+<Char: 1 241> <Arrow: 0 33><Pos: 0 2>Estou sim!<LF>
 <Arrow: 17 2><Pos: 0 2>Deixarei para depois<LF>
 <Arrow: 34 16><Pos: 0 2>Explique de novo<CondJmp: 7 192 22 255 1>
 !---------------------!
@@ -61,8 +61,8 @@ Agora, vamos ao<LF>
 Teste 2!<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
-<Char: 0 70><0xF1: 0>O Teste 2 é para ver<LF>
-se você está apto a<LF>
+<Char: 0 70><0xF1: 0>O Teste 2 serve para<LF>
+ver se você está apto a<LF>
 ajudar os necessitados.<Button><CR>
 !---------------------!
 Eu tenho aqui um informe<LF>
@@ -81,12 +81,12 @@ E esse é o Teste 2.<LF>
 Quer que eu repita?<LF>
 <Arrow: 17 0><Pos: 0 2>Quero <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 129 6 255 255>
 !---------------------!
-Então... boa sorte!<Button><EB>
+Assim sendo... boa sorte!<Button><EB>
 !*********************!
 <@PointerIdx7>
 <Char: 0 70><0xF1: 0>Você ainda não terminou<LF>
 o teste. Ainda não tem<LF>
-provas disso...<Button><CR>
+a prova...<Button><CR>
 !---------------------!
 Ou será que quer que<LF>
 eu repita o teste?<LF>
@@ -133,7 +133,7 @@ pronto?<Button><CR>
 <Arrow: 34 16><Pos: 0 2>Explique de novo<CondJmp: 7 192 23 255 10>
 !---------------------!
 <0xff>Bom saber. Então,<LF>
-fale comigo de novo.<Button><EB>
+volte a falar comigo.<Button><EB>
 !*********************!
 <@PointerIdx12>
 <Char: 0 70><0xF1: 0>Que pena...<0xEA: 1 30 0> Vai querer<LF>
@@ -183,7 +183,7 @@ aumentada em 1 MB!!<Button><CR>
 !---------------------!
 <Jmp: 0 20><@PointerIdx20>
 <Char: 0 64><0xF1: 0>Pode crer!<0xEA: 1 30 0><LF>
-...<0xEA: 1 30 0>Mas demorou demais.<LF>
+...<0xEA: 1 30 0> Mas demorou, viu?<LF>
 Vamos pra casa?<Button><EB>
 !*********************!
 <@PointerIdx21>

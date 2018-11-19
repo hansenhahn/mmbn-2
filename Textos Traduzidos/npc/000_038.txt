@@ -1,0 +1,573 @@
+<@PointerIdx0>
+<@PointerIdx1>
+<@PointerIdx2>
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 24 1 193 255><0xF3: 0 23 1 191 255><0xF2: 0 23 1><Char: 0 13><0xF1: 0>EU OUVI alguém chamar<LF>
+o Questionador Rei!?<Button><CR>
+!---------------------!
+Rei! Rei! Rei!<LF>
+Rei! Rei! Rei!<Button><CR>
+!---------------------!
+Quem é o rei!? Eu sou o<LF>
+rei! Tá na hora...
+<LF>
+(pééém) do Questionário!<Button><CR>
+!---------------------!
+.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>ca-hem!<Button><CR>
+!---------------------!
+Eu sou o Questionador<LF>
+Rei, destruído 230 anos<LF>
+atrás.<Button><CR>
+!---------------------!
+Minha carcaça mortal<LF>
+apodreceu, mas minh'alma<LF>
+ainda vive...<Button><CR>
+!---------------------!
+E agora, estou tomando<LF>
+emprestado o corpo<LF>
+deste homem.<Button><CR>
+!---------------------!
+Espero alguém capaz de<LF>
+acertar todas as<LF>
+perguntas e me libertar.<Button><CR>
+!---------------------!
+Tente então acertar<LF>
+estas 15 perguntas...<Button><CR>
+!---------------------!
+Será você capaz de<LF>
+me libertar...?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Serei sim! <Arrow: 0 17><Pos: 0 2>Serei não!<CondJmp: 6 128 194 255 255>
+!---------------------!
+Então continuarei a<LF>
+esperar por alguém que<LF>
+liberte minh'alma!<Button><EB>
+!*********************!
+<@PointerIdx191>
+<0xFA: 32><Char: 0 13><0xF1: 0>EU OUVI alguém chamar<LF>
+o Questionador Rei!?<Button><CR>
+!---------------------!
+Rei! Rei! Rei!<LF>
+Rei! Rei! Rei!<Button><CR>
+!---------------------!
+Quem é o rei!? Eu sou o<LF>
+rei! Tá na hora...
+<LF>
+(pééém) do Questionário!<Button><CR>
+!---------------------!
+E então, vai responder<LF>
+minhas perguntas e me<LF>
+libertar?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Vou! <Arrow: 0 17><Pos: 0 2>Não vou!<CondJmp: 6 128 194 255 255>
+!---------------------!
+Fugir é uma forma de<LF>
+não perder.<Button><CR>
+!---------------------!
+Porém...<Button><CR>
+!---------------------!
+não há vergonha maior
+<LF>
+do que virar as costas<LF>
+para o inimigo!!<Button><EB>
+!*********************!
+<@PointerIdx192>
+<Char: 0 13><0xF1: 0><0xFA: 0 24 1><Dly: 1 40 0>Você não foi capaz de<LF>
+libertar minh'alma...<Button><CR>
+!---------------------!
+Mas continuarei a<LF>
+esperar... até minh'alma<LF>
+ser liberta!<Button><EB>
+!*********************!
+<@PointerIdx193>
+<Char: 0 13><0xF1: 0>Hmm... o que tenho feito<LF>
+todo esse tempo? É como<LF>
+se eu tivesse acordado.<Button><CR>
+!---------------------!
+Não... eu me lembro.<LF>
+No meu 13o. aniversário,<Button><CR>
+!---------------------!
+eu fui visitar o castelo...<Button><CR>
+!---------------------!
+E depois...?<LF>
+Não... não consigo<LF>
+me lembrar de mais nada.<Button><EB>
+!*********************!
+<@PointerIdx194>
+<0xFA: 36><Char: 0 13><0xF1: 0>Bom, comecemos!<Button><CR>
+!---------------------!
+Pergunta 1:<Button><CR>
+!---------------------!
+Qual é o elemento do<LF>
+ShadowMan?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Água<LF>
+<Arrow: 17 2><Pos: 0 2>Não tem<LF>
+<Arrow: 34 16><Pos: 0 2>Mdra<CondJmp: 7 192 192 255 192>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Certa a resposta...<LF>
+Próxima pergunta.<Button><CR>
+!---------------------!
+<Jmp: 0 195><@PointerIdx195>
+<0xFA: 36><Char: 0 13><0xF1: 0>Pergunta 2:<Button><CR>
+!---------------------!
+Qual é o nome do vírus<LF>
+que atira bolas de<LF>
+canhão da boca?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>CannBall<LF>
+<Arrow: 17 2><Pos: 0 2>Handy<LF>
+<Arrow: 34 16><Pos: 0 2>HardHead<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Certa a resposta...<LF>
+Próxima pergunta.<Button><CR>
+!---------------------!
+<Jmp: 0 196><@PointerIdx196>
+<0xFA: 36><Char: 0 13><0xF1: 0>Pergunta 3:<Button><CR>
+!---------------------!
+Somando os ataques de<LF>
+<ItemTbl: 0 232 1>, <ItemTbl: 0 49 1><LF>
+e <ItemTbl: 0 193 1>, dá...?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>190<LF>
+<Arrow: 17 2><Pos: 0 2>220<LF>
+<Arrow: 34 16><Pos: 0 2>240<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Certa a resposta...<LF>
+Próxima pergunta.<Button><CR>
+!---------------------!
+<Jmp: 0 197><@PointerIdx197>
+<0xFA: 36><Char: 0 13><0xF1: 0>Pergunta 4:<Button><CR>
+!---------------------!
+Quem dentre estes é um<LF>
+ex-membro da WWW?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Arashi<LF>
+<Arrow: 17 2><Pos: 0 2>Chaud<LF>
+<Arrow: 34 16><Pos: 0 2>Sr. Match<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Certa a resposta...<LF>
+Próxima pergunta.<Button><CR>
+!---------------------!
+<Jmp: 0 198><@PointerIdx198>
+<0xFA: 36><Char: 0 13><0xF1: 0>Pergunta 5:<Button><CR>
+!---------------------!
+Qual é o nome do irmão<LF>
+do operador de<LF>
+MagnetMan, o Gauss?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Anpere Gauss<LF>
+<Arrow: 17 2><Pos: 0 2>Hippopotamus Gauss<LF>
+<Arrow: 34 16><Pos: 0 2>Jack Elec<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Certa a resposta...<LF>
+Próxima pergunta.<Button><CR>
+!---------------------!
+<Jmp: 0 199><@PointerIdx199>
+<0xFA: 36><Char: 0 13><0xF1: 0>Pergunta 6:<Button><CR>
+!---------------------!
+Qual destes Navis é<LF>
+vulnerável a ataques<LF>
+de Mdra?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>MagnetMan<LF>
+<Arrow: 17 2><Pos: 0 2>HeatMan<LF>
+<Arrow: 34 16><Pos: 0 2>KnightMan<CondJmp: 7 192 255 192 192>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Certa a resposta...<LF>
+Próxima pergunta.<Button><CR>
+!---------------------!
+<Jmp: 0 200><@PointerIdx200>
+<0xFA: 36><Char: 0 13><0xF1: 0>Pergunta 7:<Button><CR>
+!---------------------!
+Qual é a temperatura<LF>
+do frigobar do hotel<LF>
+em Ameropa?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>-3 graus<LF>
+<Arrow: 17 2><Pos: 0 2>0 graus<LF>
+<Arrow: 34 16><Pos: 0 2>3 graus<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Certa a resposta...<LF>
+Próxima pergunta.<Button><CR>
+!---------------------!
+<Jmp: 0 201><@PointerIdx201>
+<0xFA: 36><Char: 0 13><0xF1: 0>Pergunta 8:<Button><CR>
+!---------------------!
+Qual é o nome do popular<LF>
+robô da Ameropa?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Rondam<LF>
+<Arrow: 17 2><Pos: 0 2>RoboX<LF>
+<Arrow: 34 16><Pos: 0 2>RottaRobo<CondJmp: 7 192 192 255 192>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Certa a resposta...<LF>
+Próxima pergunta.<Button><CR>
+!---------------------!
+<Jmp: 0 202><@PointerIdx202>
+<0xFA: 36><Char: 0 13><0xF1: 0>Pergunta 9:<Button><CR>
+!---------------------!
+Quantas casas existem<LF>
+em ACDC?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>7<LF>
+<Arrow: 17 2><Pos: 0 2>8<LF>
+<Arrow: 34 16><Pos: 0 2>9<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Certa a resposta...<LF>
+Próxima pergunta.<Button><CR>
+!---------------------!
+<Jmp: 0 211><@PointerIdx203>
+<0xFA: 36><Char: 0 13><0xF1: 0>Pergunta 11:<Button><CR>
+!---------------------!
+Qual dessas coisas<LF>
+existe em DenCity<LF>
+mas não na Ameropa?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Metrolinha<LF>
+<Arrow: 17 2><Pos: 0 2>Parada de ônibus<LF>
+<Arrow: 34 16><Pos: 0 2>Plaza na Rede<CondJmp: 7 192 255 192 192>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Certa a resposta...<LF>
+Próxima pergunta.<Button><CR>
+!---------------------!
+<Jmp: 0 204><@PointerIdx204>
+<0xFA: 36><Char: 0 13><0xF1: 0>Pergunta 12:<Button><CR>
+!---------------------!
+A partir de que área<LF>
+pode-se acessar a<LF>
+Undernet?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>AmePz.Ent.<LF>
+<Arrow: 17 2><Pos: 0 2>Ameropa 2<LF>
+<Arrow: 34 16><Pos: 0 2>Ameropa 3<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Certa a resposta...<LF>
+Próxima pergunta.<Button><CR>
+!---------------------!
+<Jmp: 0 205><@PointerIdx205>
+<0xFA: 36><Char: 0 13><0xF1: 0>Pergunta 13:<Button><CR>
+!---------------------!
+Onde estava o<LF>
+primeiro Questionador?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Vale Okuden<LF>
+<Arrow: 17 2><Pos: 0 2>Centro<LF>
+<Arrow: 34 16><Pos: 0 2>Aeroporto Den<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Certa a resposta...<LF>
+Próxima pergunta.<Button><CR>
+!---------------------!
+<Jmp: 0 206><@PointerIdx206>
+<0xFA: 36><Char: 0 13><0xF1: 0>Pergunta 14:<Button><CR>
+!---------------------!
+Qual é a segunda<LF>
+senha de Mother<LF>
+Comp1?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>WATCH<LF>
+<Arrow: 17 2><Pos: 0 2>RIVER<LF>
+<Arrow: 34 16><Pos: 0 2>UCANGO<CondJmp: 7 192 192 255 192>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Certa a resposta...<LF>
+Pergunta final...<LF>
+Liberte-me!<Button><CR>
+!---------------------!
+<Jmp: 0 207><@PointerIdx207>
+<0xFA: 36><Char: 0 13><0xF1: 0>Pergunta 15:<Button><CR>
+!---------------------!
+Quem é o líder da WWW?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Gospel<LF>
+<Arrow: 17 2><Pos: 0 2>Dark<LF>
+<Arrow: 34 16><Pos: 0 2>Wily<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xFA: 0 45 1><Dly: 1 20 0>Ahhhhhhhh!<LF>
+Após quase dez mil anos<LF>
+estou livre!<Button><CR>
+!---------------------!
+Qual é o seu nome,<LF>
+mocinho?<Button><CR>
+!---------------------!
+<Jmp: 0 208><@PointerIdx208>
+<0xF2: 0 24 1><Char: 0 0><0xF1: 0>Lan... Hikari...<Button><CR>
+!---------------------!
+<Jmp: 0 209><@PointerIdx209>
+<Char: 0 13><0xF1: 0>Lan Hikari...<LF>
+Obrigado...<Button><CR>
+!---------------------!
+Posso enfim descansar<LF>
+em paz...<Button><CR>
+!---------------------!
+... Quem é o rei?<LF>
+Quem é... o rei...?<Button><CR>
+!---------------------!
+<Jmp: 0 210><@PointerIdx210>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 100 1>Lan recebeu o PowerUp<LF>
+"<ItemTbl: 0 100 0>"!!<0xF8: 12><0xF8: 8><Button><CR>
+!---------------------!
+Memória padrão<LF>
+aumentada em 3 MB!!<Button><EB>
+!*********************!
+<@PointerIdx211>
+<0xFA: 36><Char: 0 13><0xF1: 0>Pergunta 10:<Button><CR>
+!---------------------!
+Qual desses vírus tem o<LF>
+maior poder de ataque?<Button><CR>
+!---------------------!
+<Arrow: 0 33><Pos: 0 2>Swordy2<LF>
+<Arrow: 17 2><Pos: 0 2>Swordy<LF>
+<Arrow: 34 16><Pos: 0 2>Swordy3<CondJmp: 7 192 192 192 255>
+!---------------------!
+<0xff><0xFA: 0 231 0><Dly: 1 20 0>Certa a resposta...<LF>
+Próxima pergunta.<Button><CR>
+!---------------------!
+<Jmp: 0 203><@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF3: 4 48 255 223 255><0xF3: 0 43 2 223 255><0xF3: 0 42 2 222 255><0xF1: 0>Um velho interruptor<LF>
+de luz... Não deve<LF>
+estar funcionando.<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>Não vão mais sair<LF>
+flechas daí...<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>Um velho interruptor<LF>
+de luz... Não deve<LF>
+estar funcionando.<Button><CR>
+!---------------------!
+... Mas olhando mais<LF>
+de perto, há uma entra-<LF>
+da de conexão nele!<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>... Mas olhando mais<LF>
+de perto, há uma entra-<LF>
+da de conexão nele!<Button><EB>
+!*********************!
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

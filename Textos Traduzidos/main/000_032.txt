@@ -17,7 +17,7 @@ acampamento!<Button><CR>
 <Char: 0 6><0xF1: 0>...<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
-<Char: 0 0><0xF1: 0>Chaud!?<Dly: 1 30 0><LF>
+<Char: 0 0><0xF1: 0>Chaud!?<0xEA: 1 30 0><LF>
 Achei que vocÍ tinha<LF>
 recusado o convite.<Button><CR>
 !---------------------!
@@ -26,12 +26,11 @@ recusado o convite.<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
 <Char: 0 0><0xF1: 0>Se queria vir, era sÛ<LF>
-falar!<Button><CR>
+ter falado!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
 <Char: 0 6><0xF1: 0>Eu n„o vim aqui porque<LF>
-queria ficar com VOC ,<LF>
-ouviu?<Button><CR>
+queria ver VOC , ouviu?<Button><CR>
 !---------------------!
 <Jmp: 0 9><@PointerIdx9>
 <Char: 0 0><0xF1: 0>Ai, ai... de volta ‡ estaca<LF>
@@ -39,30 +38,30 @@ Chaud. VocÍ È o quÍ,<LF>
 alÈrgico a divers„o!?<Button><CR>
 !---------------------!
 <Jmp: 0 10><@PointerIdx10>
-<Char: 0 7><0xF1: 0>Lan!<Dly: 1 30 0> Ele veio de muito<LF>
-longe atÈ chegar aqui.<LF>
-Comporte-se!<Button><CR>
+<Char: 0 7><0xF1: 0>Lan!<0xEA: 1 30 0> Ele veio de muito<LF>
+longe pra chegar atÈ<LF>
+aqui. Comporte-se!<Button><CR>
 !---------------------!
-E Chaud...<Dly: 1 30 0><LF>
+E Chaud...<0xEA: 1 30 0><LF>
 Ser· que a gente pode<LF>
 ficar sem brigar hoje?<Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
-<Char: 0 6><0xF1: 0>Hmm...<Dly: 1 30 0> Que seja.<LF>
-Se È o que querem, por<LF>
-mim tudo bem.<Button><CR>
+<Char: 0 6><0xF1: 0>Hmm...<0xEA: 1 30 0> Que seja.<LF>
+Se È o que querem,<LF>
+por mim tudo bem.<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
 <Char: 0 1><0xF1: 0>Viram? O Chaud se<LF>
-comporta perto da Mayl.<Dly: 1 30 0><LF>
+comporta perto da Mayl.<0xEA: 1 30 0><LF>
 Pode isso, Lan?<Button><CR>
 !---------------------!
 <Jmp: 0 13><@PointerIdx13>
 <Char: 0 0><0xF1: 0>Hmpf! Eu n„o tÙ nem aÌ!<Button><CR>
 !---------------------!
 <Jmp: 0 14><@PointerIdx14>
-<Char: 0 2><0xF1: 0>‘! Gente? <Dly: 1 30 0>VocÍs esque-<LF>
-ceram? EU sou o chefe<LF>
+<Char: 0 2><0xF1: 0>‘! Gente? <0xEA: 1 30 0>J· esquece-<LF>
+ram? EU sou o chefe<LF>
 do acampamento aqui!<Button><CR>
 !---------------------!
 Entenderam?<LF>
@@ -70,5 +69,6 @@ Ent„o chega de birra e<LF>
 vamos andando!<Button><CR>
 !---------------------!
 <Jmp: 0 15><@PointerIdx15>
-<Char: 1 241 56>·······!!!<Button><EB>
+<Char: 1 241>T·······!!!<Button><EB>
 !*********************!
+

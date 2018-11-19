@@ -2,7 +2,7 @@
 <@PointerIdx0>
 <Char: 0 0><0xF1: 0>Ahhh... O hotel!<LF>
 Até que enfim!<Dly: 1 30 0> Mas sabe,<LF>
-só tem um probleminha...<Button><CR>
+tem só um probleminha...<Button><CR>
 !---------------------!
 Aaaahhhh! Que tipo de<LF>
 país é esse!?<Button><CR>
@@ -13,10 +13,10 @@ sofrida até agora...<Button><CR>
 !---------------------!
 Acho que, realmente, é<LF>
 perigoso crianças<LF>
-viajando sozinha...<Button><CR>
+viajarem sozinhas...<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
-<Char: 0 0><0xF1: 0>A culpa é sua,<LF>
+<Char: 0 0><0xF1: 0>A culpa é toda sua,<LF>
 MegaMan!<Button><CR>
 !---------------------!
 Foi você que disse que<LF>

@@ -1,12 +1,13 @@
 <@AbsoluteAddr 7858988>
 <@PointerIdx0>
 <Char: 0 2><0xF1: 0>Agora não é hora de<LF>
-conversar. É hora de<LF>
-agir!<Button><CR>
+ficar de papo.<LF>
+É hora de agir!<Button><CR>
 !---------------------!
-Fiquem aqui fora, tá?<Dly: 1 30 0><LF>
-Eu vou lá,<Dly: 1 30 0> podem<LF>
-ficar só esperando!<Button><CR>
+Vocês ficam aqui fora!<Dly: 1 30 0><LF>
+Eu vou lá,<Dly: 1 30 0> 
+podem ficar<LF>
+só esperando!<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <Char: 0 7><0xF1: 0>Tem certeza disso?<LF>
@@ -19,7 +20,7 @@ arriscar nossas vidas!<LF>
 É perigoso demais!<Button><CR>
 !---------------------!
 Não temam!<LF>
-Estarei de volta aqui em<LF>
+Estarei de volta em<LF>
 5 minutos, no máximo!<Button><EB>
 !*********************!
 <@PointerIdx3>
@@ -36,3 +37,4 @@ Estarei de volta aqui em<LF>
 <Char: 0 64><0xF1: 0>Vamos lá! Aqueles dois<LF>
 precisam da nossa ajuda!<Button><EB>
 !*********************!
+

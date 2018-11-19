@@ -4,14 +4,14 @@
 Navi destruir todo o meu<LF>
 país!?<Button><CR>
 !---------------------!
-I.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>Isso é imperdoável!<LF>
+I.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0> Isso é imperdoável!<LF>
 Minha punição cairá
 <LF>
 sobre você!<Button><CR>
 !---------------------!
-Não há como escapar!<LF>
+Não há escapatório!<LF>
 Prepare-se para o seu<LF>
-dia de julgamento final!<Button><CR>
+julgamento final!<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <Char: 0 81><0xF1: 0>......<Button><CR>
@@ -23,17 +23,17 @@ dia de julgamento final!<Button><CR>
 <Char: 0 73><0xF1: 0>Certo, Majestade!!<Button><EB>
 !*********************!
 <@PointerIdx4>
-<Char: 0 83><0xF1: 0>O-<0xEA: 1 20 0>O que você fez<LF>
+<Char: 0 83><0xF1: 0>O-<0xEA: 1 20 0>o que você fez<LF>
 com os meus valentes<LF>
-soldados Saboryanos?<Button><CR>
+soldados saboryanos?<Button><CR>
 !---------------------!
 Não.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0><Button><CR>
 !---------------------!
-P-Por que fez isso?<LF>
+P-por que fez isso?<LF>
 O que quer de nós?<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
-<Char: 0 81><0xF1: 0>Hmpf... Bem, esse tal<LF>
+<Char: 0 81><0xF1: 0>Hmpf... Bom, esse tal<LF>
 clube do gospel ou<LF>
 sei-lá-o-que me...<Button><CR>
 !---------------------!
@@ -58,13 +58,13 @@ Digamos que simplesmente<LF>
 não foi um dia de sorte<LF>
 para Saborya!<Button><CR>
 !---------------------!
-Com minhas desculpas!!<Button><EB>
+Meus pêsames!!<Button><EB>
 !*********************!
 <@PointerIdx6>
-<Char: 0 83><0xF1: 0>Gos...pe...urgh!<0xEA: 0 90 0><CR>
+<Char: 0 83><0xF1: 0>Gos... pe... urgh!<0xEA: 0 90 0><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
-<Char: 1 241> <0xF2: 4 66 2>arrrgh!<Button><0xF2: 0 66 2><EB>
+<Char: 1 241> <0xF2: 4 66 2>Arrrgh!<Button><0xF2: 0 66 2><EB>
 !*********************!
 <@PointerIdx8>
 <Char: 0 81><0xF1: 0>Missão cumprida,<LF>
@@ -77,7 +77,7 @@ para você...<Button><CR>
 !---------------------!
 O seu próximo alvo é...<Button><CR>
 !---------------------!
-...entendido?<Button><CR>
+... entendido?<Button><CR>
 !---------------------!
 <Jmp: 0 10><@PointerIdx10>
 <Char: 0 81><0xF1: 0>Com prazer, mestre...!<Button><0xFA: 0 222 0><0xF2: 4 66 2><EB>
@@ -86,9 +86,9 @@ O seu próximo alvo é...<Button><CR>
 <Char: 0 70><0xF1: 0>Majestade! Majestade!<0xFA: 4 15 0><Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
-<Char: 0 83><0xF1: 0>Ah... V-Você vive!<LF>
-Conseguiu se proteger!<LF>
-argh! cof!<Button><CR>
+<Char: 0 83><0xF1: 0>Ah... V-você vive!<LF>
+Conseguiu se salvar!<LF>
+Argh! Cof!<Button><CR>
 !---------------------!
 <Jmp: 0 13><@PointerIdx13>
 <Char: 0 70><0xF1: 0>Majestade! Não desper-<LF>
@@ -97,13 +97,13 @@ palavras para depois!<Button><CR>
 !---------------------!
 <Jmp: 0 14><@PointerIdx14>
 <Char: 0 83><0xF1: 0>Perdoe-me.<LF>
-Falhei como rei...<Button><CR>
+Eu falhei como rei...<Button><CR>
 !---------------------!
 O Navi... ele voltará...<LF>
 a nos... atacar...<Button><CR>
 !---------------------!
 Ele trabalhava... para...<LF>
-.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0>a Gospel.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<Button><CR>
+.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0> a Gospel.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<Button><CR>
 !---------------------!
 Depressa... avise os...<LF>
 outros países...<Button><CR>
@@ -112,14 +112,14 @@ Não podemos permitir
 <LF>que isso se.<0xEA: 1 20 0>..<0xEA: 1 20 0> repita<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<Button><CR>
 !---------------------!
 <Jmp: 0 15><@PointerIdx15>
-<Char: 1 241> <0xF2: 4 67 2>aah...!<0xEA: 0 90 0><CR>
+<Char: 1 241> <0xF2: 4 67 2>Aah...!<0xEA: 0 90 0><CR>
 !---------------------!
 <0xF2: 0 67 2><0xF2: 0 136 2><Jmp: 0 16><@PointerIdx16>
 <Char: 0 70><0xF1: 0>Majestade! Majestade!!<Button><CR>
 !---------------------!
 .<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<Button><CR>
 !---------------------!
-Gos...pel...<Button><CR>
+Gos... pel...<Button><CR>
 !---------------------!
 Preciso avisar...<Button><EB>
 !*********************!

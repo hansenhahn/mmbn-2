@@ -7,7 +7,7 @@
 Eu... deletei o ProtoMan...<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
-<Char: 0 6><0xF1: 0>...Eu sou fraco.<Button><CR>
+<Char: 0 6><0xF1: 0>... Eu sou fraco.<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 0><0xF1: 0>?<Button><CR>
@@ -55,7 +55,7 @@ Fomos todos enganados...<Button><CR>
 <Char: 0 6><0xF1: 0>Não pode ser!<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
-<Char: 0 55><0xF1: 0>Vocês têm que confiar<LF>
+<Char: 0 55><0xF1: 0>Vocês têm que acreditar<LF>
 em mim...<Button><CR>
 !---------------------!
 Ela seguiu por esse<LF>

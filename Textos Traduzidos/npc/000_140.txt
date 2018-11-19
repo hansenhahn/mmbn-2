@@ -1,0 +1,462 @@
+<@PointerIdx0>
+<0xF3: 8 8 255 2><Char: 0 70><0xF1: 0>Sou um NetVendedor...<LF>
+Quer ver meu acervo?<LF>
+<Arrow: 17 0><Pos: 0 2>Sim <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 0 255 1 255>
+!---------------------!
+<0xFB: 20 8><@PointerIdx1>
+<CR>
+!---------------------!
+Volte sempre!<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 70><0xF1: 0>Sou um NetVendedor.<LF>
+Mas já vendi tudo...<Button><EB>
+!*********************!
+<@PointerIdx3>
+<0xF3: 4 22 31 16 255><0xF3: 4 21 21 10 255><Char: 0 70><0xF1: 0>Hm? Está estranhamente<LF>
+vazio aqui hoje...<Button><CR>
+!---------------------!
+E eu vim de tão longe!<LF>
+Lá da Área Den!<Button><CR>
+!---------------------!
+Aconteceu alguma coisa<LF>
+aqui?<Button><EB>
+!*********************!
+<@PointerIdx4>
+<Char: 0 71><0xF1: 0>Saborya é conhecida por<LF>
+ter a maior população<LF>
+de Navis do mundo.<Button><CR>
+!---------------------!
+Estou me sentindo<LF>
+desconfortável. Acho<LF>
+que vou voltar...<Button><EB>
+!*********************!
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<Char: 0 70><0xF1: 0>Não tinha ninguém em<LF>
+Saborya!?<Button><CR>
+!---------------------!
+Isso só pode significar
+<LF>
+que alguma aconteceu<LF>
+alguma coisa ruim!<Button><EB>
+!*********************!
+<@PointerIdx11>
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<Char: 0 70><0xF1: 0>Ainda não consigo<LF>
+acreditar no que<LF>
+aconteceu...<Button><CR>
+!---------------------!
+É melhor eu ficar longe<LF>
+do SaboPlaza por<LF>
+um tempo.<Button><EB>
+!*********************!
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<@PointerIdx46>
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<Char: 0 66><0xF1: 0>Eu vi uma Navi cor-de-<LF>
+rosa indo em direção a<LF>
+Saborya 2.<Button><EB>
+!*********************!
+<@PointerIdx61>
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 150 0 194 255><0xF2: 0 150 0><Char: 0 75><0xF1: 0>O NetLutador Municipal<LF>
+já chegou?<Button><CR>
+!---------------------!
+Ah, é você o<LF>
+NetLutador?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Sim! <Arrow: 0 17><Pos: 0 2>Não!<CondJmp: 6 128 191 255 255>
+!---------------------!
+Então cai fora.<Button><EB>
+!*********************!
+<@PointerIdx191>
+<Char: 0 75><0xF1: 0>Muito obrigado pelo seu<LF>
+tempo.<Button><CR>
+!---------------------!
+Por favor, fique com isto.<LF>
+Prefiro pagar adiantado.<Button><CR>
+!---------------------!
+<Jmp: 0 192><@PointerIdx192>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 66 1>MegaMan recebeu:<LF>
+"<ItemTbl: 0 66 0>"!!<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 193><@PointerIdx193>
+<0xF2: 0 136 12><0xF2: 4 82 0><Char: 0 75><0xF1: 0>NetLutadores Municipais<LF>
+sempre cuidam de mim.<Button><CR>
+!---------------------!
+Eles baixam a guarda<LF>
+assim que recebem seu<LF>
+pagamento...<Button><CR>
+!---------------------!
+São tão fáceis de<LF>
+enganar. He he...<Button><CR>
+!---------------------!
+Eis aqui o meu pedido:<Button><CR>
+!---------------------!
+Passe pra cá todos os<LF>
+seus chips! AGORA!<Button><CR>
+!---------------------!
+NetLutadores Municipais<LF>
+são alvos tão fáceis!<Button><CR>
+!---------------------!
+Eu faço pedidos falsos<LF>
+pra eles.<Button><CR>
+!---------------------!
+Daí roubo seus chips<LF>
+e os vendo no mercado<LF>
+negro.<Button><CR>
+!---------------------!
+É uma mina de ouro!<Button><CR>
+!---------------------!
+Não quer dar?<LF>
+É o que vamos ver!<Button><CR>
+!---------------------!
+Toma essa!!<Button><CR>
+!---------------------!
+<0xFB: 12 255 0 0 1 1 1 49 0 27><@PointerIdx194>
+<Char: 0 75><0xF1: 0>Você é um NetLutador<LF>
+Municipal?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Sim! <Arrow: 0 17><Pos: 0 2>Não!<CondJmp: 6 128 191 255 255>
+!---------------------!
+Então cai fora.<Button><EB>
+!*********************!
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<0xF6: 3 35 1 255 255 211><Char: 1 241 0>MegaMan usou:<LF>
+"<ItemTbl: 0 35 0>"!<Button><CR>
+!---------------------!
+O gelo se despedaçou<LF>
+com um alto "crec"!<Button><CR>
+!---------------------!
+<0xF2: 0 86 2><Dly: 0 18 0>Saiu um vírus do gelo<LF>
+despedaçado!<Button><CR>
+!---------------------!
+<0xF2: 0 123 2><0xFB: 12 255 0 0 1 1 1 26 65 27><@PointerIdx211>
+<Char: 1 241 0>O MegaMan não é forte<LF>
+o bastante para quebrar<LF>
+o gelo!<Button><EB>
+!*********************!
+<@PointerIdx212>
+<0xF6: 3 35 1 255 255 213><Char: 1 241 0>MegaMan usou:<LF>
+"<ItemTbl: 0 35 0>"!<Button><CR>
+!---------------------!
+O gelo se despedaçou<LF>
+com um alto "crec"!<Button><CR>
+!---------------------!
+<0xF2: 0 87 2><Dly: 0 18 0>Saiu um vírus do gelo<LF>
+despedaçado!<Button><CR>
+!---------------------!
+<0xF2: 0 123 2><0xFB: 12 255 0 0 1 1 1 27 65 27><@PointerIdx213>
+<Char: 1 241 0>O MegaMan não é forte<LF>
+o bastante para quebrar<LF>
+o gelo!<Button><EB>
+!*********************!
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>Direita: NetVendedor<LF>
+Confira nossos produtos!<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>Saborya2 fica logo<LF>
+após este ponto.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF6: 3 87 1 223 223 255><0xF1: 0>É um CuboDeSegurança<LF>
+misterioso.<Button><CR>
+!---------------------!
+Não pode ser aberto<LF>
+sem a senha certa.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>MegaMan usou:<LF>
+"<ItemTbl: 0 87 0>"!!<Button><CR>
+!---------------------!
+O CuboDeSegurança<LF>
+se abriu!<Button><0xF1: 1><0xF2: 0 211 0><Dly: 0 102 0><EB>
+!*********************!
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<0xF1: 0>MegaMan acessou os<LF>
+dados misteriosos.<Dly: 0 10 0>.<Dly: 0 10 0>.<Dly: 0 10 0><Button><CR>
+!---------------------!
+<0xF2: 0 29 5><0xF8: 0><0xF8: 4 24><0xF6: 0 98 1>MegaMan recebeu o<LF>
+PowerUp:<LF>
+"<ItemTbl: 0 98 0>"!!<0xF8: 12><0xF8: 8><Button><CR>
+!---------------------!
+Memória padrão<LF>
+aumentada em 1 MB!!<Button><EB>
+!*********************!
+<@PointerIdx231>
+<0xF3: 0 95 8 255 238><0xF1: 0>MegaMan acessou os<LF>
+dados misteriosos.<Dly: 0 10 0>.<Dly: 0 10 0>.<Dly: 0 10 0><Button><CR>
+!---------------------!
+<0xF8: 4 24><0xF6: 16 118 0 18 1>MegaMan recebeu o chip<LF>
+"<ItemTbl: 0 118 1> <ItemTbl: 0 18 3>"!!<0xF8: 12><Button><0xF1: 1><0xF2: 0 30 5><EB>
+!*********************!
+<@PointerIdx232>
+<0xF1: 0>MegaMan acessou os<LF>
+dados misteriosos.<Dly: 0 10 0>.<Dly: 0 10 0>.<Dly: 0 10 0><Button><CR>
+!---------------------!
+<0xF3: 0 96 8 255 233>O subchip<LF>
+"<ItemTbl: 0 115 0>"<LF>
+se ativou!!<Button><CR>
+!---------------------!
+O vírus que se escondia<LF>
+nos dados misteriosos<LF>
+foi deletado!<Button><CR>
+!---------------------!
+<Jmp: 0 233><@PointerIdx233>
+<0xF2: 0 31 5><Jmp: 131 16>L <0x40><Dly: 235 0 236><0xF2: 4 96 8><@PointerIdx234>
+<0xF1: 0>Era um vírus<LF>
+disfarçado!!<Button><CR>
+!---------------------!
+<0xFB: 8><EB>
+!*********************!
+<@PointerIdx235>
+<0xF1: 0><0xFB: 4 15 7 15 7 15 7 15 7 15 7 15 13 13 13 13 13 13 13 13 13 13 144 1 144 1 144 1 144 1 51 14 51 14 248 0 248 4 24 49 15 17 11 49 11 24 0 17 25 30 0 11 232 13 18 19 26 0 16 25 28 232 84><ItemTbl: 0 0 17> <ItemTbl: 0 0 35>"!!<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx236>
+<0xF1: 0><0xFB: 0 15 244 1 0 0 244 1 0 0 244 1 0 0 244 1 0 0 244 1 0 0 244 1 0 0 232 3 0 0 232 3 0 0 232 3 0 0 232 3 0 0 232 3 0 0 220 5 0 0 220 5 0 0 220 5 0 0 208 7 0 0 208>6  <0xF8: 0><0xF8: 4 24>MegaMan recebeu<LF>
+<ItemTbl: 12 0 1> zennys!!<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx237>
+<0xF3: 0 95 8 255 238><0xF1: 0>MegaMan acessou os<LF>
+dados misteriosos.<Dly: 0 10 0>.<Dly: 0 10 0>.<Dly: 0 10 0><Button><CR>
+!---------------------!
+<0xF8: 4 24><0xF6: 16 60 0 17 1>MegaMan recebeu o chip<LF>
+"<ItemTbl: 0 60 1> <ItemTbl: 0 17 3>"!!<0xF8: 12><Button><0xF1: 1><0xF2: 0 32 5><EB>
+!*********************!
+<@PointerIdx238>
+<0xF1: 0>Estes dados misteriosos<LF>
+estão bloqueados e não<LF>
+podem ser analisados.<Button><CR>
+!---------------------!
+Para analisá-los, ?<LF>
+preciso o subchip<LF>
+"<ItemTbl: 0 117 0>".<Button><EB>
+!*********************!
+<@PointerIdx239>
+<0xF1: 0>MegaMan acessou os<LF>
+dados misteriosos.<Dly: 0 10 0>.<Dly: 0 10 0>.<Dly: 0 10 0><Button><CR>
+!---------------------!
+<0xF2: 0 33 5><0xF8: 0><0xF8: 4 24><0xF6: 0 69 1>MegaMan recebeu:<LF>
+"<ItemTbl: 0 69 0>"!!<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

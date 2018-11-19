@@ -5,8 +5,8 @@ coisa por você,<LF>
 rapazinho?<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<Char: 0 0><0xF1: 0>Bom, eu tô atrás de<LF>
-alguém que entende<LF>
+<Char: 0 0><0xF1: 0>Bom, é que eu tô atrás<LF>
+de alguém que entende<LF>
 de insetos...<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
@@ -30,7 +30,7 @@ e pelo preto?<Button><CR>
 aranhas não são insetos,<LF>
 mas conheço sim...<Button><CR>
 !---------------------!
-Só que são várias.<LF>
+Só que existem várias.<LF>
 Alguma outra<LF>
 característica?<Button><CR>
 !---------------------!
@@ -41,8 +41,7 @@ vermelhos.<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
 <Char: 0 62><0xF1: 0>Ah! Essa é fácil!<LF>
-É uma aranha da<LF>
-Netopia.<Button><CR>
+É uma aranha da<LF>Ameropa.<Button><CR>
 !---------------------!
 A aranha peluda de<LF>
 olhos vermelhos.<Button><CR>
@@ -57,7 +56,7 @@ bem raro...<Button><CR>
 !---------------------!
 Fácil de identificar pelo<LF>
 seu grosso pelo preto<LF>
-e seus olhos vermelhos.<Button><CR>
+e olhos vermelhos.<Button><CR>
 !---------------------!
 Ah, e por seu veneno<LF>
 incrivelmente mortal!<Button><CR>

@@ -1,0 +1,418 @@
+<@PointerIdx0>
+<0xF3: 4 64 72 60 255><Char: 0 53><0xF1: 0>Bem-vindo ao Castelo<LF>
+Ameropa. Um símbolo da<LF>
+história ameropana.<Button><CR>
+!---------------------!
+A Ameropa sempre foi<LF>
+uma civilização pioneira<LF>
+no mundo.<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 6><0xF1: 0>Hmph...<Button><EB>
+!*********************!
+<@PointerIdx2>
+<0xF3: 4 64 72 61 255><Char: 0 49><0xF1: 0>Eu ser ameropano...<Button><CR>
+!---------------------!
+É minha primeira vez fora<LF>
+do interior. Então essa<LF>
+é a cidade grande. Oxe!<Button><EB>
+!*********************!
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<0xF2: 0 33 2><Char: 0 51><0xF1: 0>Olha...<LF>
+você parece ser um<LF>
+menino confiável.<Button><CR>
+!---------------------!
+Eu já achei a passagem<LF>
+secreta pra sala de<LF>
+reuniões.<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 14><0xF1: 0>Também está fazendo<LF>
+um tour de várias horas<LF>
+pelo castelo, menino?<Button><EB>
+!*********************!
+<@PointerIdx12>
+<@PointerIdx13>
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<Char: 0 18><0xF1: 0>O castelo é incrível.<LF>
+Tenho muita coisa pra<LF>
+contar pros meus amigos.<Button><EB>
+!*********************!
+<@PointerIdx31>
+<Char: 0 17><0xF1: 0>U-uau! Uau!<LF>
+Castelo! Castelo!<LF>
+Uaaaaaaauuu!<Button><EB>
+!*********************!
+<@PointerIdx32>
+<0xF3: 4 61 61 54 255><0xF3: 4 58 60 45 255><0xF3: 4 56 56 37 255><Char: 0 45><0xF1: 0>Este castelo cumpre uma<LF>
+dupla função de<LF>
+instalação do Centro<Button><CR>
+!---------------------!
+e centro turístico<LF>
+mundialmente famoso.<Button><CR>
+!---------------------!
+Mas a parte "instalação<LF>
+do Centro" é mantida em<LF>
+segredo do público.<Button><EB>
+!*********************!
+<@PointerIdx33>
+<0xF3: 4 64 72 62 255><0xF3: 4 61 61 55 255><Char: 0 51><0xF1: 0>Esses pilares estilo<LF>
+Birroko são notáveis...<Button><EB>
+!*********************!
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<Char: 0 45><0xF1: 0>Não temos quase nenhum<LF>
+turista hoje... isso nunca<LF>
+acontece.<Button><CR>
+!---------------------!
+O turismo é a principal<LF>
+fonte de renda da<LF>
+Ameropa.<Button><CR>
+!---------------------!
+Essa falta de turistas<LF>
+é um problema sério.<Button><EB>
+!*********************!
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<@PointerIdx45>
+<Char: 0 45><0xF1: 0>Parece que todos vieram<LF>
+para se proteger da<LF>
+situação lá fora.<Button><CR>
+!---------------------!
+O sol está absurdamente<LF>
+forte.<Button><EB>
+!*********************!
+<@PointerIdx46>
+<Char: 0 13><0xF1: 0>Aqui é muito mais fresco<LF>
+do que lá fora. Quanto<LF>
+falta pro sol se pôr?<Button><EB>
+!*********************!
+<@PointerIdx47>
+<Char: 0 29><0xF1: 0>Poder se refugiar aqui<LF>
+é bom, mas não poder<LF>
+sair...<Button><EB>
+!*********************!
+<@PointerIdx48>
+<Char: 0 48><0xF1: 0>Claramente esse clima<LF>
+anormal é a fúria da<LF>
+mãe natureza.<Button><CR>
+!---------------------!
+Nós a machucamos demais<LF>
+e agora estamos sendo<LF>
+punidos por isso!<Button><EB>
+!*********************!
+<@PointerIdx49>
+<Char: 0 52><0xF1: 0>Esse clima esquisito<LF>
+é cruel demais pra<LF>
+suportar!<Button><EB>
+!*********************!
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<Char: 0 45><0xF1: 0>Com o clima de volta ao<LF>
+normal, os turistas<LF>
+voltaram também.<Button><CR>
+!---------------------!
+Isso me deixa bem mais<LF>
+tranquila.<Button><EB>
+!*********************!
+<@PointerIdx55>
+<Char: 0 51><0xF1: 0>Ficar aqui dentro do<LF>
+castelo faz eu me sentir<LF>
+mais... abençoada.<Button><EB>
+!*********************!
+<@PointerIdx56>
+<Char: 0 50><0xF1: 0>Oh Yeah, Baby!<Button><CR>
+!---------------------!
+Este castelo é um<LF>
+verdadeiro agregado<LF>
+artístico.<Button><EB>
+!*********************!
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<Char: 0 53><0xF1: 0>O Castelo Ameropa é<LF>
+adorado pelos<LF>
+ameropanos.<Button><CR>
+!---------------------!
+Mesmo se o QG não fosse<LF>
+aqui, eu o defenderia<LF>
+com a minha vida!<Button><EB>
+!*********************!
+<@PointerIdx61>
+<Char: 0 49><0xF1: 0>Eu deixei a minha terra<LF>
+para vir protegê o<LF>
+Castelo Ameropa!<Button><CR>
+!---------------------!
+Num vô deixar a Gospel<LF>
+mexer com o nosso<LF>
+castelo, não!<Button><EB>
+!*********************!
+<@PointerIdx62>
+<Char: 0 51><0xF1: 0>Falou e disse!<Button><CR>
+!---------------------!
+O Castelo Ameropa é<LF>
+a o pilar de suporte dos<LF>
+nossos corações!<Button><EB>
+!*********************!
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<0xF3: 8 19 255 182><Char: 0 22><0xF1: 0>É sempre bom comprar<LF>
+subchips durante<LF>
+viagens... nunca se sabe.<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Comprar <Arrow: 0 17><Pos: 0 2>Não comprar<CondJmp: 6 0 255 181 255>
+!---------------------!
+<0xFB: 20 19><@PointerIdx181>
+<CR>
+!---------------------!
+Se bem que tem gente<LF>
+que "sabe", sim. Por isso<LF>
+viajam.<Button><EB>
+!*********************!
+<@PointerIdx182>
+<Char: 0 22><0xF1: 0>Hmmm... parando para<LF>
+analisar, não tenho<LF>
+mais nenhum aqui...<Button><EB>
+!*********************!
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>A estátua de uma<LF>
+deusa. Possui entrada<LF>
+de conexão!<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>Essa escadaria não é
+<LF>
+acessível ao público.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF3: 0 33 2 223 255><0xF1: 0>Parece ser uma insígnia<LF>
+real. Este é único lugar<LF>
+em que está exposta.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>Lan tateou a área<LF>
+próxima à insígnia<LF>
+com cautela<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
+!---------------------!
+Um holograma apareceu<LF>
+ao redor da insígnia!<LF>
+Dá para entrar aqui!<Button><EB>
+!*********************!
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

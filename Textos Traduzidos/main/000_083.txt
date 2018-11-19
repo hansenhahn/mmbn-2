@@ -21,8 +21,8 @@ que você me deu não<LF>
 eram muito precisas.<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<Char: 0 18><Char: 2 1><0xF1: 0>P-Perdão, mestre! Fica-<LF>
-mos monitorando Eugene<LF>
+<Char: 0 18><Char: 2 1><0xF1: 0>P-Perdão, mestre! Nós<LF>
+monitoramos Eugene<LF>
 Chaud e Lan Hikari,<Button><CR>
 !---------------------!
 mas os níveis de<LF>
@@ -60,7 +60,7 @@ Me perdoe!<Button><CR>
 !---------------------!
 <0xFA: 8><0xFA: 24 249 0><Jmp: 0 9><@PointerIdx9>
 <0xF1: 0><0xFA: 12><0xFA: 0 10 1>teque teque teque<Dly: 0 88 0><LF>
-<0xFA: 8>...seu cadastro excluído...<Button><CR>
+<0xFA: 8>...cadastro excluído...<Button><CR>
 !---------------------!
 <Jmp: 0 10><@PointerIdx10>
 <Char: 0 10><0xF1: 0>Hmpf. Estou cercado de<LF>
@@ -68,7 +68,7 @@ idiotas...<Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
 <Char: 1 241 0><0xFA: 12><0xFA: 0 10 1>teque teque teque...<Dly: 0 88 0><LF>
-<0xFA: 8>...acesso garantido ao<LF>
+<0xFA: 8>... acesso aprovado ao<LF>
 salão.<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
@@ -80,7 +80,7 @@ Perdoe o atraso.<Button><CR>
 "projeto"?<Button><CR>
 !---------------------!
 <Jmp: 0 14><@PointerIdx14>
-<Char: 0 64><0xF1: 0>Tudo andando conforme<LF>
+<Char: 0 64><0xF1: 0>Tudo seguindo conforme<LF>
 planejado.<Button><CR>
 !---------------------!
 <Jmp: 0 15><@PointerIdx15>

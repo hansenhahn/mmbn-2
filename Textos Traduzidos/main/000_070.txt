@@ -5,13 +5,13 @@ programa. Mas pra isso,<LF>
 viramos foras-da-lei...<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<Char: 0 0><0xF1: 0>A gente não tinha outra<LF>
+<Char: 0 0><0xF1: 0>A gente não tinha<LF>
 escolha. Foi pra salvar
 <LF>
-a Electopia.<Button><CR>
+Ni-Hon.<Button><CR>
 !---------------------!
 Vamos lá contar pro<LF>
-papai e depois a gente<LF>
+papai. Depois a gente<LF>
 põe de volta na surdina.<Button><CR>
 !---------------------!
 Além do quê, a gente só<LF>

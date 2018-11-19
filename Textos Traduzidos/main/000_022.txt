@@ -1,7 +1,7 @@
 <@AbsoluteAddr 7865044>
 <@PointerIdx0>
 <0xF1: 0>Aproximadamente ao<LF>
-mesmo tempo.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0><Button><CR>
+mesmo tempo.<0xEA: 1 30 0>.<0xEA: 1 30 0>.<0xEA: 1 30 0><Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <0xF2: 0 56 2><Char: 0 38><0xF1: 0>Alô? É o Arashi.<Button><CR>
@@ -13,7 +13,7 @@ planejado...<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 38><0xF1: 0>E-eu cometi um erro, eu<LF>
-sei.<Dly: 1 30 0> Mas da próxima vez<LF>
+sei.<0xEA: 1 30 0> Mas da próxima vez<LF>
 dará tudo certo!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
@@ -23,12 +23,12 @@ de "exigência" da Gospel!<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
 <Char: 0 38><0xF1: 0>Ora, vamos... não seja<LF>
-dramático.<Button><CR>
+tão dramático.<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
 <Char: 0 18><Char: 2 1><0xF1: 0>Somos a netmáfia.<LF>
-Logo toda a Electopia<LF>
-também ficará sabendo.<Button><CR>
+Logo toda a Ni-Hon<LF>
+entenderá isso também.<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
 <Char: 0 38><0xF1: 0>E daí!?<Button><CR>
@@ -41,20 +41,16 @@ também ficará sabendo.<Button><CR>
 <Char: 0 38><0xF1: 0>Ha! Por mim tudo bem!<Button><CR>
 !---------------------!
 <Jmp: 0 10><@PointerIdx10>
-<Char: 0 18><Char: 2 1><0xF1: 0>Pois bem...<Dly: 1 30 0> Adeus...<LF>
-<Dly: 1 30 0>O senhor tem 3 segundos<LF>
+<Char: 0 18><Char: 2 1><0xF1: 0>Pois bem...<0xEA: 1 30 0> Adeus...<LF>
+<0xEA: 1 30 0>O senhor tem 3 segundos<LF>
 até a explosão.<Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
 <Char: 0 38><0xF1: 0>O quê!?<0xFA: 16><Button><EB>
 !*********************!
 <@PointerIdx12>
-<Char: 1 241 0><Rst: 0>
-!+++++++++++++++++++++!
-<0xFA: 12><0xFA: 0 1 1>Tique <Dly: 0 45 0><0xFA: 0 1 1>Taque <Dly: 0 45 0><0xFA: 0 1 1>Tique <Dly: 0 45 0><0xFA: 8><Jmp: 0 13><@PointerIdx13>
-<Rst: 1>
-!+++++++++++++++++++++!
-<Char: 0 38><0xF1: 0>Aquele...!<0xF2: 4 56 2><Button><EB>
+<Char: 1 241> <0xf4> <0xFA: 12><0xFA: 0 1 1>Tique <0xEA: 0 45 0><0xFA: 0 1 1>Taque <0xEA: 0 45 0><0xFA: 0 1 1>Tique <0xEA: 0 45 0><0xFA: 8><Jmp: 0 13><@PointerIdx13>
+<0xf4>0<Char: 0 38><0xF1: 0>Aquele...!<0xF2: 4 56 2><Button><EB>
 !*********************!
 <@PointerIdx14>
 <Char: 0 18><Char: 2 1><0xF1: 0>Hmpf. Não podíamos<LF>
@@ -64,5 +60,6 @@ bestimar o nosso grupo...<Button><CR>
 A Gospel!<Button><CR>
 !---------------------!
 <Jmp: 0 15><@PointerIdx15>
-<Char: 1 241 0><0xFA: 12><0xFA: 0 4 1>Bipe <Dly: 0 57 0><0xFA: 0 4 1>Bipe <Dly: 0 57 0><0xFA: 0 4 1>Bipe<Dly: 0 57 0><0xFA: 8><Button><EB>
+<Char: 1 241> <0xFA: 12><0xFA: 0 4 1>Biip <0xEA: 0 57 0><0xFA: 0 4 1>Biip <0xEA: 0 57 0><0xFA: 0 4 1>Biiip<0xEA: 0 57 0><0xFA: 8><Button><EB>
 !*********************!
+

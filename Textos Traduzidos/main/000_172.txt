@@ -11,14 +11,14 @@ O menino foi preso, e<LF>
 está sendo interrogado<LF>
 diariamente...<Button><CR>
 !---------------------!
-...mas eu contei pro papai<LF>
+... mas eu falei pro papai<LF>
 sobre o que a gente leu<LF>
 no diário...<Button><CR>
 !---------------------!
-...então acho que vão<LF>
-pegar mais leve com ele.<Button><CR>
+... então acho que vão<LF>
+pegar leve com ele.<Button><CR>
 !---------------------!
-...Ah, já a gente?<Dly: 1 30 0><LF>
+... Ah, já a gente?<Dly: 1 30 0><LF>
 Bom.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><EB>
 !*********************!
 

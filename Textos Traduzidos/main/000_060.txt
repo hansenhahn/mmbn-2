@@ -1,11 +1,11 @@
 <@AbsoluteAddr 7888788>
 <@PointerIdx0>
-<Char: 0 64><0xF1: 0>Lan, Electopia está<LF>
+<Char: 0 64><0xF1: 0>Lan, Ni-Hon está<LF>
 no meio de uma crise!<LF>
 Vamos rápido...<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<Char: 0 0><0xF1: 0>Deixa comigo!<LF>
+<Char: 0 0><0xF1: 0>Pode deixar!<LF>
 Vamos lá pro escritório<LF>
 do papai!<Button><CR>
 !---------------------!

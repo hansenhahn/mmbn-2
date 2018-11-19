@@ -4,7 +4,7 @@
 prova da <ItemTbl: 0 62 0>.<Button><CR>
 !---------------------!
 Veio fazer a prova?<LF>Ela é composta por<LF>
-doistestes.<Button><CR>
+dois testes.<Button><CR>
 !---------------------!
 Se você passar,
 <LF>
@@ -20,9 +20,9 @@ Sob influência da Gospel,<LF>
 4 Navis formaram uma<LF>
 gangue:<Button><CR>
 !---------------------!
-os "Navis de Preto".<Button><CR>
+os "Navis Negros".<Button><CR>
 !---------------------!
-Só têm 4 membros no<LF>
+Só tem 4 membros no<LF>
 total, mas são todos<LF>
 criminosos renomados.<Button><CR>
 !---------------------!
@@ -34,9 +34,8 @@ podem vir a se tornar<LF>
 uma grande organização<LF>
 criminosa.<Button><CR>
 !---------------------!
-E você será o<LF>
-responsável por destruir<LF>
-os Navis de Preto.<Button><CR>
+E cabe a você destruir<LF>
+os Navis Negros.<Button><CR>
 !---------------------!
 Os membros da gangue<LF>
 estão espalhados<LF>
@@ -46,11 +45,10 @@ Obviamente, são todos<LF>
 Navis pretos, e todos<LF>
 têm alta cara de mau.<Button><CR>
 !---------------------!
-Um dos membros dela<LF>
-foi localizado na área<LF>
-de Saborya.<Button><CR>
+Um dos membros foi visto<LF>
+na área de Saborya.<Button><CR>
 !---------------------!
-Este é o Teste 1.<LF>
+Esse é o Teste 1.<LF>
 Quer que eu o repita?<LF>
 <Arrow: 17 0><Pos: 0 2>Quero <Arrow: 0 17><Pos: 0 2>Não precisa<CondJmp: 6 129 1 255 255>
 !---------------------!
@@ -60,7 +58,7 @@ Boa sorte!<Button><EB>
 <@PointerIdx2>
 <Char: 0 70><0xF1: 0>Já derrotou todos os<LF>
 4 membros dos Navis<LF>
-de Preto?<Button><CR>
+Negros?<Button><CR>
 !---------------------!
 Ainda não?<Button><CR>
 !---------------------!
@@ -69,7 +67,7 @@ caçada.<Button><CR>
 !---------------------!
 Ou quer que eu repita<LF>
 o enunciado?<LF>
-<Arrow: 17 0><Pos: 0 2>Please <Arrow: 0 17><Pos: 0 2>That's OK<CondJmp: 6 129 1 255 255>
+<Arrow: 17 0><Pos: 0 2>Por favor <Arrow: 0 17><Pos: 0 2>Não precisa<CondJmp: 6 129 1 255 255>
 !---------------------!
 Pois bem, então.<LF>
 Boa sorte!<Button><EB>
@@ -95,7 +93,7 @@ HP durante as lutas,
 então tome cuidado.<LF>
 <Button><CR>
 !---------------------!
-Recuperarei o seu<LF>
+Recuperarei todo o seu<LF>
 HP antes e depois<LF>
 do teste.<Button><CR>
 !---------------------!
@@ -140,7 +138,7 @@ aqui como bônus!<Button><CR>
 !---------------------!
 <Char: 1 248 0><0xF8: 4 24><0xF6: 0 98 1>MegaMan recebeu um<LF>
 PowerUp:<LF>
-"<ItemTbl: 0 98 0>!!"<Button><0xF8: 12><0xF8: 8><CR>
+"<ItemTbl: 0 98 0>"!!<Button><0xF8: 12><0xF8: 8><CR>
 !---------------------!
 Memória padrão<LF>
 aumentada em 1 MB!!<Button><EB>

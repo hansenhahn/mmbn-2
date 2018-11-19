@@ -1,7 +1,8 @@
 <@AbsoluteAddr 7882656>
 <@PointerIdx0>
 <Char: 0 0><0xF1: 0>Beleza! A gente<LF>
-conseguiu a LicençaA!!<Button><CR>
+conseguiu tirar<LF>
+a LicençaA!!<Button><CR>
 !---------------------!
 Você foi demais,<LF>
 MegaMan!<Button><CR>
@@ -27,16 +28,17 @@ importante projeto!<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
 <Char: 0 64><0xF1: 0>Além disso, não dá pra<LF>
-comer comida Saboryana<LF>
-através da Rede, Lan!<Button><CR>
+comer comida saboryana<LF>
+pela Rede, Lan!<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
 <Char: 0 0><0xF1: 0>Eu sei. Por isso a gente<LF>
-vai fazer amizade lá...<Button><CR>
+vai fazer uma amizade<LF>
+lá...<Button><CR>
 !---------------------!
 e esse amigo vai nos<LF>
 convidar pra visitar ele<LF>
-lá em Saborya! Dã!<Button><CR>
+em Saborya! Dã!<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
 <Char: 0 64><0xF1: 0>Ahá! Então é POR ISSO<LF>
@@ -44,8 +46,8 @@ que você tá tão animado<LF>
 com o projeto!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
-<Char: 0 0><0xF1: 0>A-Ah, eu também vou<LF>
-fazer minha pesquisa!<LF>
+<Char: 0 0><0xF1: 0>A-ah, eu também vou<LF>
+fazer a minha pesquisa!<LF>
 Juro de pés juntos!<Button><CR>
 !---------------------!
 <Jmp: 0 9><@PointerIdx9>
@@ -62,7 +64,7 @@ Vamos logo embora daqui!<Button><CR>
 !---------------------!
 <Jmp: 0 10><@PointerIdx10>
 <Char: 0 0><0xF1: 0>É! Agora não tem nada<LF>
-barrando a gente de<LF>
+entre a gente e<LF>
 Saborya!<Button><EB>
 !*********************!
 

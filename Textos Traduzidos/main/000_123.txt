@@ -22,8 +22,7 @@ foi picado pela aranha<LF>
 venenosa naquela hora.<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
-<Char: 0 59><0xF1: 0>Santa mãe do 
-Céu...!<Button><CR>
+<Char: 0 59><0xF1: 0>Santa mãe do Céu...!<Button><CR>
 !---------------------!
 Pergunte e veja se tem<LF>
 algum outro NetLutador<LF>

@@ -15,7 +15,7 @@ Ele tá bem!?<Button><CR>
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 53><0xF1: 0>Já foi levado ao hospital.<LF>
 Ainda bem que não
-<LF>demoramos a achá-lo!<Button><CR>
+<LF>tardamos a achá-lo!<Button><CR>
 !---------------------!
 E já estamos resgatando<LF>
 os demais. Estão feridos,<LF>
@@ -30,8 +30,8 @@ Ela... morreu?<Button><CR>
 e tiramos de lá. Está<LF>
 se recuperando agora...<Button><CR>
 !---------------------!
-Mas ela será interrogada<LF>
-no segundo em que<LF>
+Mas será interrogada<LF>
+no instante em que<LF>
 receber alta!<Button><CR>
 !---------------------!
 Acho que vocês não<LF>
@@ -40,7 +40,7 @@ bom tempo.<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
 <Char: 0 6><0xF1: 0>De acordo com as<LF>
-histórias que eu ouvi...<Button><CR>
+histórias que ouvi...<Button><CR>
 !---------------------!
 A Dolcerya foi um dos<LF>
 primeiros países a<LF>
@@ -103,7 +103,7 @@ então que o ProtoMan<LF>
 ainda...!<Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
-<Char: 0 6><0xF1: 0>...Não vejo por que isso<LF>
+<Char: 0 6><0xF1: 0>... Não vejo por que isso<LF>
 deixaria VOCÊ feliz.<Button><CR>
 !---------------------!
 Quero deixar bem claro<LF>

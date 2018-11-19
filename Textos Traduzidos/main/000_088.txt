@@ -1,7 +1,7 @@
 <@AbsoluteAddr 7906940>
 <@PointerIdx0>
-<Char: 0 0><0xF1: 0>Bom, a Netopia tá bem<LF>
-ali! Como será que é o<LF>
+<Char: 0 0><0xF1: 0>Bom, a Ameropa tá bem<LF>
+aí! Como será que é o<LF>
 centro da cidade?<Button><CR>
 !---------------------!
 E aliás... como é que a<LF>
@@ -55,7 +55,7 @@ um zenny sequer!<Button><CR>
 tudo é meio suspeito.<Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
-<Char: 0 64><0xF1: 0>Talvez... mas talvez<LF>
+<Char: 0 64><0xF1: 0>Talvez... ou talvez<LF>
 ele seja só gentil<LF>
 mesmo.<Button><CR>
 !---------------------!

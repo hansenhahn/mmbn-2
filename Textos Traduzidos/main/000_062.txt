@@ -1,8 +1,8 @@
 <@AbsoluteAddr 7890228>
 <@PointerIdx0>
-<Char: 0 64><0xF1: 0>Vamos postar uma men-<LF>
-sagem pra reunir infor-<LF>
-mações! Mas qual?<Button><CR>
+<Char: 0 64><0xF1: 0>Vamos fazer uma posta-<LF>
+gem pra reunir informa-<LF>
+ções! Mas qual?<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <Char: 0 0><0xF1: 0>Que tal...<Button><CR>
@@ -11,27 +11,27 @@ mações! Mas qual?<Button><CR>
 <ItemTbl: 0 21 0>.info, me<LF>
 ajudem! -MegaMan.EXE"<Button><CR>
 !---------------------!
-Fica perfeito!<Button><CR>
+É perfeito!<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 64><0xF1: 0>Beleza, mensagem<LF>
 postada!<Button><CR>
 !---------------------!
-Agora só precisamos<LF>
-esperar aparecer<LF>
-a informação.<Button><CR>
+Agora é só a gente<LF>
+esperar a informação<LF>
+aparecer.<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 0><0xF1: 0>Esperar quanto tempo?<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
-<Char: 0 64><0xF1: 0>Temos que ser pacientes.<LF>
+<Char: 0 64><0xF1: 0>Paciência, Lan.<LF>
 "Toda falha humana<LF>
 provém da impaciência."<Button><CR>
 !---------------------!
-A gente pode passar o<LF>
-tempo reunindo informa-<LF>
-ções aqui no Plaza.<Button><CR>
+Enquanto a gente espe-<LF>
+ra, vamos reunir infor-<LF>
+mações aqui no Plaza.<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
 <Char: 0 0><0xF1: 0>Boa ideia.<Button><EB>

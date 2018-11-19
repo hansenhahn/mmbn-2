@@ -8,8 +8,8 @@ Mestre Dark...<Button><CR>
 Tamanha humilhação!<Button><EB>
 !*********************!
 <@PointerIdx1>
-<Char: 0 64><0xF1: 0>Essa luta... 
-foi intensa.<Button><CR>
+<Char: 0 64><0xF1: 0>Essa luta...
+ foi intensa.<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 0><0xF1: 0>MegaMan!<LF>
@@ -34,7 +34,7 @@ O ProtoMan deve estar<LF>
 muito danificado.<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
-<Char: 0 6><0xF1: 0>...Obrigado, mas não.<LF>
+<Char: 0 6><0xF1: 0>... Obrigado, mas não.<LF>
 Eu mesmo cuido do<LF>
 ProtoMan.<Button><EB>
 !*********************!
@@ -52,7 +52,7 @@ Todos os sistemas<LF>
 operantes.<0xFA: 4 7 0><Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
-<0xF2: 0 130 2><Char: 0 23><0xF1: 0>Ótimo trabalho, garotos!<Button><CR>
+<0xF2: 0 130 2><Char: 0 23><0xF1: 0>Ótimo trabalho, meninos!<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
 <Char: 0 0><0xF1: 0>Essa vitória não foi só<LF>
@@ -69,7 +69,7 @@ A gente venceu graças<LF>
 <Char: 0 23><0xF1: 0>He... é verdade.<Button><CR>
 !---------------------!
 <Jmp: 0 14><@PointerIdx14>
-<Char: 0 0><0xF1: 0>Ah, é mesmo! Pai!<LF>
+<Char: 0 0><0xF1: 0>Ah, é mesmo! Papai!<LF>
 Os Navis dos oficiais...<Button><CR>
 !---------------------!
 <Jmp: 0 15><@PointerIdx15>
@@ -78,7 +78,7 @@ Eu já executei seus<LF>
 arquivos de backup.<Button><CR>
 !---------------------!
 <Jmp: 0 16><@PointerIdx16>
-<0xF2: 4 130 2><Char: 0 0><0xF1: 0>Valeu, pai!!<Button><EB>
+<0xF2: 4 130 2><Char: 0 0><0xF1: 0>Valeu, papai!!<Button><EB>
 !*********************!
 <@PointerIdx17>
 <Char: 0 23><0xF1: 0>E mais uma coisa, Lan...<LF>
@@ -104,7 +104,7 @@ que tá até vermelhinho!<Button><CR>
 !---------------------!
 <Jmp: 0 21><@PointerIdx21>
 <Char: 0 23><0xF1: 0>Ah, é mesmo... o Lan já<LF>
-tem 11 anos, não? Já<LF>
+tem 11 anos, né? Já<LF>
 está crescido... ha ha.<Button><CR>
 !---------------------!
 <Jmp: 0 22><@PointerIdx22>

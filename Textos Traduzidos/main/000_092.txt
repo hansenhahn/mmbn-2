@@ -17,7 +17,7 @@ Eu é que tava errado!<Button><CR>
 <Char: 0 0><0xF1: 0>Você... não me perdoa?<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
-<Char: 0 64><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.Lan...<Dly: 1 30 0><LF>
+<Char: 0 64><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>. Lan...<Dly: 1 30 0><LF>
 Não é...<Button><CR>
 !---------------------!
 <0xFA: 4 13 0><Jmp: 0 6><@PointerIdx6>
@@ -29,8 +29,9 @@ MegaMan!<Button><CR>
 conectou no seu PET!<Button><CR>
 !---------------------!
 Ele mandou um vírus, e<LF>
-eu consegui deletá-lo<LF>
-sozinho...<Button><CR>
+eu consegui dar conta
+<LF>
+dele sozinho mesmo...<Button><CR>
 !---------------------!
 Mas o homem levou o<LF>
 seu passaporte...<Button><CR>

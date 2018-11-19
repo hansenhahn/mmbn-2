@@ -3,8 +3,8 @@
 <0xF1: 0><0xFA: 12><0xFA: 0 255 0>Crííííc! Blam!<Button><CR>
 !---------------------!
 <0xFA: 8><Jmp: 0 1><@PointerIdx1>
-<Char: 0 64><0xF1: 0>Mas o que é que...? A<LF>
-porta se trancou!<Button><CR>
+<Char: 0 64><0xF1: 0>Mas o que é que...?<LF>
+A porta se trancou!<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 0><0xF1: 0>Yai! Dex!<LF>
@@ -12,10 +12,10 @@ Tão me ouvindo?<Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 64><0xF1: 0>Espera! Lan, que cheiro<LF>
-é esse!?<Button><CR>
+é esse?<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
-<Char: 0 0><0xF1: 0>Whoa! That stinks!<Button><CR>
+<Char: 0 0><0xF1: 0>Urrgh! Que fedor!<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
 <Char: 0 64><0xF1: 0>É gás! Essa não! Se<LF>
@@ -33,7 +33,7 @@ Se você inalar muito<LF>
 dele... espera!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
-<Char: 1 241 0><0xFA: 12><0xFA: 0 3 1>blípe blípe blípe<Dly: 0 30 0><Button><CR>
+<Char: 1 241 0><0xFA: 12><0xFA: 0 3 1>blip blip blip<Dly: 0 30 0><Button><CR>
 !---------------------!
 <0xFA: 8><Jmp: 0 9><@PointerIdx9>
 <Char: 0 64><0xF1: 0>Pronto! Agora o seu<LF>
@@ -51,3 +51,4 @@ aqueles dois!<Button><CR>
 <Jmp: 0 12><@PointerIdx12>
 <Char: 0 64><0xF1: 0>Positivo!<Button><EB>
 !*********************!
+

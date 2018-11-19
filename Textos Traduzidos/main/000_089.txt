@@ -1,11 +1,11 @@
 <@AbsoluteAddr 7907784>
 <@PointerIdx0>
 <Char: 0 0><0xF1: 0>Caramba!!<LF>
-Então essa é a Netopia!<Button><CR>
+Então essa é a Ameropa!<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<Char: 0 64><0xF1: 0>É tão diferente da<LF>
-Electopia...<Button><CR>
+<Char: 0 64><0xF1: 0>É tão diferente de<LF>
+Ni-Hon...<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 50><Char: 2 1><0xF1: 0>Pronto, leque!<LF>
@@ -20,7 +20,7 @@ Tchau!<Button><CR>
 <0xFA: 0 162 0>fup!<Dly: 0 10 0><0xFA: 0 162 0> fup!<0xFA: 8><Button><CR>
 !---------------------!
 <0xFA: 16><Jmp: 0 5><@PointerIdx5>
-<Char: 0 0><0xF1: 0>...Hã? A porta não<LF>
+<Char: 0 0><0xF1: 0>... Hã? A porta não<LF>
 quer abrir... ela tá
 <LF>
 quebrada, por acaso?<Button><CR>
@@ -38,7 +38,7 @@ não é gentil, não!<Button><CR>
 !---------------------!
 <Jmp: 0 9><@PointerIdx9>
 <0xFA: 4 14 0><Char: 0 50><Char: 2 1><0xF1: 0>Aí, moleque! Se não<LF>
-quiser morrer, passa pra<LF>
+quer morrer, passa pra<LF>
 cá todos os chips<Button><CR>
 !---------------------!
 que tão na sua mochila!<Button><CR>
@@ -48,8 +48,7 @@ que tão na sua mochila!<Button><CR>
 Mas nem pensar!<Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
-<Char: 0 50><Char: 2 1><0xF1: 0>Ah, vai sim! Chips de<LF>
-Electopia valem uma boa<LF>
+<Char: 0 50><Char: 2 1><0xF1: 0>Ah, vai sim! Chips de<LF>Ni-Hon valem uma boa<LF>
 nota por aqui...!<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
@@ -91,7 +90,7 @@ chips!<Button><CR>
 <Jmp: 0 18><@PointerIdx18>
 <Char: 0 64><0xF1: 0>Ele já saiu de vista.<Dly: 1 20 0>.<Dly: 1 20 0>.<Button><CR>
 !---------------------!
-...Lan? É melhor a gente<LF>
+... Lan? É melhor a gente<LF>
 ir pro hotel e bolar um<LF>
 plano...<Button><EB>
 !*********************!

@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7905080>
 <@PointerIdx0>
-<Char: 0 64><0xF1: 0>É aqui que eles revistam<LF>
+<Char: 0 64><0xF1: 0>É aqui que eles veem<LF>
 pra ver se a gente tá<LF>
 com bagagem perigosa...<Button><EB>
 !*********************!
@@ -15,7 +15,7 @@ pelo detector de novo?<Button><EB>
 <@PointerIdx3>
 <Char: 0 64><0xF1: 0>Você não tá com nada<LF>
 fora do comum...<LF>
-Está, Lan?<Button><CR>
+Tá, Lan?<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 0><0xF1: 0>Não! Nadinha!<Button><EB>
@@ -34,7 +34,7 @@ netmáfia e tudo mais.<Button><CR>
 !---------------------!
 Desculpa. Poderá pegar<LF>
 o seu PET assim que<LF>
-aterrissar, tá bom?<Button><CR>
+aterrissarmos, tá bom?<Button><CR>
 !---------------------!
 <Jmp: 0 7><@PointerIdx7>
 <Char: 0 0><0xF1: 0>Mas o MegaMan é meu<LF>
@@ -66,11 +66,11 @@ PET, então...<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
 <Char: 0 46><0xF1: 0>...Pronto.<LF>
-Valeu, rapazinho.<Button><EB>
+Obrigado, rapazinho.<Button><EB>
 !*********************!
 <@PointerIdx13>
-<Char: 0 46><0xF1: 0>Poderia levar este<LF>
-PET lá?<Button><EB>
+<Char: 0 46><0xF1: 0>Poderia levar este PET,<LF>
+por favor?<Button><EB>
 !*********************!
 <@PointerIdx14>
 <Char: 0 44><0xF1: 0>Claro, senhor.<LF>

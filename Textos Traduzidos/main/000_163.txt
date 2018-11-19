@@ -64,9 +64,9 @@ Não há nenhuma<LF>
 sujeira em minhas mãos...<Button><CR>
 !---------------------!
 <Jmp: 0 11><@PointerIdx11>
-<Char: 0 0><0xF1: 0>Você sequer já tentou
+<Char: 0 0><0xF1: 0>Você já pelo menos
 <LF>
-falar com alguma das<LF>
+FALOU com alguma das<LF>
 suas vítimas!?<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
@@ -80,7 +80,7 @@ Este meu monitor é mais<LF>
 honesto e confiável<LF>
 do que todas elas!<Button><CR>
 !---------------------!
-Sim... percebi eu que a<LF>
+Sim... eu percebi que a<LF>
 realidade é repugnante<LF>
 e não tem valor!<Button><CR>
 !---------------------!
@@ -119,7 +119,7 @@ ao SuperNavi!?<Button><CR>
 !---------------------!
 Você me decepciona,<LF>
 Lan... é tão estúpido<LF>
-quanto o resto!<Button><CR>
+quanto todo o resto!<Button><CR>
 !---------------------!
 Se ao menos você<LF>
 enxergasse a glória que<LF>
@@ -134,7 +134,7 @@ MegaMan!<Button><CR>
 <Jmp: 0 19><@PointerIdx19>
 <Char: 0 64><0xF1: 0>É! Nenhum SuperNavi<LF>
 tenta destruir o nosso<LF>
-mundo e sai impune!<Button><CR>
+mundo e sai impune dessa!<Button><CR>
 !---------------------!
 Lan! Conectar!<Button><CR>
 !---------------------!

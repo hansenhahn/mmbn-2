@@ -28,7 +28,7 @@ Olha sÛ! Os servidores<LF>
 pararam completamente!<Button><CR>
 !---------------------!
 <Jmp: 0 8><@PointerIdx8>
-<0xF2: 0 13 2><Char: 0 0><0xF1: 0>...<Dly: 1 30 0>… verdade!<Button><EB>
+<0xF2: 0 13 2><Char: 0 0><0xF1: 0>...<Dly: 1 30 0> … verdade!<Button><EB>
 !*********************!
 <@PointerIdx9>
 <Char: 0 0><0xF1: 0>T·...<Button><EB>
@@ -57,7 +57,7 @@ H„?<Button><CR>
 !---------------------!
 <Jmp: 0 15><@PointerIdx15>
 <Char: 0 64><0xF1: 0>Tem alguma coisa ali no<LF>
-ch„o ao lado dele...<Dly: 1 30 0><LF>
+ch„o, do lado dele...<Dly: 1 30 0><LF>
 um livro, eu acho?<Button><CR>
 !---------------------!
 <Jmp: 0 16><@PointerIdx16>
@@ -93,9 +93,9 @@ esse menino?<Button><CR>
 lendo.<Button><CR>
 !---------------------!
 <Jmp: 0 22><@PointerIdx22>
-<0xFA: 4 15 0><Char: 1 241 0>...Os dois aprenderam<LF>
-v·rias coisas atravÈs<LF>
-do di·rio...<Button><CR>
+<0xFA: 4 15 0><Char: 1 241 0>... Os dois aprenderam<LF>
+v·rias coisas ao ler<LF>
+o di·rio...<Button><CR>
 !---------------------!
 Como os pais do menino<LF>
 haviam morrido naquele<LF>
@@ -137,7 +137,7 @@ se fazer de adulto,<LF>
 fazer amigos virtuais...<Button><CR>
 !---------------------!
 <Jmp: 0 27><@PointerIdx27>
-<Char: 0 64><0xF1: 0>E reuni-los para formar...<LF>
+<Char: 0 64><0xF1: 0>E reuni-los pra formar...<LF>
 a Gospel...<Button><CR>
 !---------------------!
 <Jmp: 0 28><@PointerIdx28>
@@ -155,13 +155,13 @@ injustiÁou ele...<Button><EB>
 <0xF2: 4 14 2><Char: 0 40><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>!!!!<Button><EB>
 !*********************!
 <@PointerIdx32>
-<Char: 0 40><0xF1: 0>E-eu fui derrotado!<LF>
+<Char: 0 40><0xF1: 0>E-eu sei que perdi!<LF>
 Pode fazer o que<LF>
 quiser comigo!<Button><CR>
 !---------------------!
 Eu n„o tenho mais pra<LF>
 que viver...<Dly: 1 30 0> È melhor<LF>
-morrer logo<Button><EB>
+morrer logo...<Button><EB>
 !*********************!
 <@PointerIdx33>
 <Char: 0 0><0xF1: 0>N„o fala besteira!<Dly: 1 30 0><LF>
@@ -177,7 +177,7 @@ que quer que eu morra!<Button><CR>
 <Char: 0 0><0xF1: 0>N„o!!<Dly: 1 30 0> Quero dizer, sim,
 <LF>
 vocÍ vai ter que pagar<LF>
-pelo que vocÍ fez...<Button><CR>
+pelo que fez...<Button><CR>
 !---------------------!
 <Jmp: 0 36><@PointerIdx36>
 <Char: 0 40><0xF1: 0>Viu!?<Button><CR>
@@ -189,14 +189,14 @@ pelo que vocÍ fez...<Button><CR>
 <Char: 0 40><0xF1: 0>O quÍ!?<Button><CR>
 !---------------------!
 <Jmp: 0 39><@PointerIdx39>
-<Char: 0 0><0xF1: 0>Depois que vocÍ se<LF>
-redimir pelas suas<LF>
+<Char: 0 0><0xF1: 0>Depois que vocÍ terminar<LF>
+de se redimir pelas suas<LF>
 maldades...<Button><CR>
 !---------------------!
-Vou ficar feliz em ser<LF>
+Ficarei feliz em ser<LF>
 o seu primeiro amigo!<Button><EB>
 !*********************!
 <@PointerIdx40>
-<Char: 0 40><0xF1: 0>.<Dly: 0 30 0>.<Dly: 0 30 0>.<Dly: 0 30 0>.<Dly: 0 30 0>.<Dly: 0 30 0>.<Dly: 0 30 0>Bu·······!<Button><EB>
+<Char: 0 40><0xF1: 0>.<Dly: 0 30 0>.<Dly: 0 30 0>.<Dly: 0 30 0>.<Dly: 0 30 0>.<Dly: 0 30 0>.<Dly: 0 30 0> Bu·······!<Button><EB>
 !*********************!
 

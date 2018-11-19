@@ -1,7 +1,7 @@
 <@AbsoluteAddr 7964324>
 <@PointerIdx0>
 <Char: 0 40><0xF1: 0>Droga! Parece que a<LF>
-fusão-bug não chegou
+fusão bug não chegou
 <LF>
 a ser concluída...<Button><CR>
 !---------------------!
@@ -11,13 +11,13 @@ deve ter sido<LF>
 insuficiente!<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<Char: 0 0><0xF1: 0>...O quê!?<Dly: 1 30 0> Você é o...!?<Dly: 1 30 0><LF>
+<Char: 0 0><0xF1: 0>... O quê!?<Dly: 1 30 0> Você é o...!?<Dly: 1 30 0><LF>
 M-mas você é da nossa<LF>
 idade!<Button><EB>
 !*********************!
 <@PointerIdx2>
 <Char: 0 40><0xF1: 0>O-o que aconteceu com<LF>
-o meu cybertraje!?<Dly: 0 60 0><Button><CR>
+o meu cibertraje!?<Dly: 0 60 0><Button><CR>
 !---------------------!
 <Jmp: 0 3><@PointerIdx3>
 <Char: 0 0><0xF1: 0>Aí!<Dly: 1 30 0> A gente já deletou<LF>
@@ -28,7 +28,7 @@ Então pode já parar<LF>
 com essa história toda!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
-<Char: 0 40><0xF1: 0>Arrogante de repente...!<LF>
+<Char: 0 40><0xF1: 0>Ficou arrogante agora...!<LF>
 Sabia que você só queria<LF>
 me fazer de idiota...<Button><CR>
 !---------------------!
@@ -66,7 +66,7 @@ vezes acima do normal!<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
 <Char: 0 0><0xF1: 0>E-Ei! Já chega! Você tem<LF>
-quer parar de aumentar<LF>
+que parar de aumentar<LF>
 a energia do servidor!<Button><CR>
 !---------------------!
 <Jmp: 0 13><@PointerIdx13>
@@ -92,7 +92,7 @@ Sem os trajes, vocês<LF>
 vão acabar morrendo!<Button><CR>
 !---------------------!
 <Jmp: 0 18><@PointerIdx18>
-<Char: 0 6><0xF1: 0>...<Dly: 1 30 0>O Hikari tem razão...<Button><EB>
+<Char: 0 6><0xF1: 0>...<Dly: 1 30 0> O Hikari tem razão...<Button><EB>
 !*********************!
 <@PointerIdx19>
 <Char: 0 7><0xF1: 0>Nem pensar! E você,<LF>
@@ -109,7 +109,7 @@ Eu também vou lutar!<Button><EB>
 <Jmp: 0 21><@PointerIdx21>
 <Char: 0 7><0xF1: 0>E é justamente por isso<LF>
 que eu não posso te<LF>
-largar aqui!<Button><CR>
+deixar aqui!<Button><CR>
 !---------------------!
 <Jmp: 0 22><@PointerIdx22>
 <Char: 0 2><0xF1: 0>Mayl, o Lan tá certo.<LF>
@@ -125,7 +125,7 @@ Depois eu alcanço vocês,<LF>
 prometo!<Button><CR>
 !---------------------!
 <Jmp: 0 25><@PointerIdx25>
-<Char: 0 7><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Promete mesmo?<Dly: 1 30 0><LF>
+<Char: 0 7><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0> Promete mesmo?<Dly: 1 30 0><LF>
 Jura jurado?<Button><CR>
 !---------------------!
 <Jmp: 0 26><@PointerIdx26>
@@ -133,13 +133,13 @@ Jura jurado?<Button><CR>
 Juro de pés juntos!<Button><CR>
 !---------------------!
 <Jmp: 0 27><@PointerIdx27>
-<Char: 0 7><0xF1: 0>...Tá bom.<Dly: 1 30 0><Button><CR>
+<Char: 0 7><0xF1: 0>... Tá bom.<Dly: 1 30 0><Button><CR>
 !---------------------!
 Eu vou, Lan...<Dly: 1 30 0><LF>
 Mas deixo o meu<LF>
 coração aqui com você...<Dly: 1 30 0><Button><CR>
 !---------------------!
-...Chuif!<Button><CR>
+... Chuif!<Button><CR>
 !---------------------!
 <Jmp: 0 28><@PointerIdx28>
 <Char: 0 0><0xF1: 0>Eu vou guardá-lo com<LF>
@@ -156,7 +156,7 @@ que nem um pimentão!<Button><CR>
 Vamos dar o fora daqui!<Button><EB>
 !*********************!
 <@PointerIdx31>
-<Char: 0 6><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Espero que saiba o<LF>
+<Char: 0 6><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0> Espero que saiba o<LF>
 que está fazendo...<LF>
 Espero mesmo...<Button><EB>
 !*********************!

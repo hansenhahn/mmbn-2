@@ -18,7 +18,7 @@ previu... quase 30 mil<LF>
 vezes acima do normal!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
-<Char: 0 0><0xF1: 0>Acho que o TrajMag<LF>
+<Char: 0 0><0xF1: 0>Acho que o TrajeMag<LF>
 consegue me proteger...<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>

@@ -8,7 +8,7 @@ topo do prédio?<Button><EB>
 <@PointerIdx1>
 <Char: 0 64><0xF1: 0>É o que parece...<Button><CR>
 !---------------------!
-A radiação está<LF>
+A radiação tá<LF>
 distorcendo e fundindo<LF>
 o seu mundo com o meu!<Button><CR>
 !---------------------!

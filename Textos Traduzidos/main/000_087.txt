@@ -4,15 +4,14 @@
 depois<0xEC: 0 30>...<Button><CR>
 !---------------------!
 <0xEC: 0 3>O voo chegou em<LF>
-Netopia<0xEC: 0 30>...<0xEC: 0 2><Button><EB>
+Ameropa<0xEC: 0 30>...<0xEC: 0 2><Button><EB>
 !*********************!
 <@PointerIdx1>
 <Char: 0 0><0xF1: 0>Até que enfim!<LF>
 Que voo longo!<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
-<Char: 0 64><0xF1: 0>Pode crer! Aqui estamos,<LF>
-em Netopia! Quer dar<LF>
+<Char: 0 64><0xF1: 0>Pode crer! Aqui estamos,<LF>na Ameropa! Quer dar<LF>
 uma volta na cidade?<Button><EB>
 !*********************!
 

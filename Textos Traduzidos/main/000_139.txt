@@ -20,9 +20,9 @@ De acordo com o que<LF>
 disseram, se a gente<LF>
 postar essa palavra...<Button><CR>
 !---------------------!
-ele aparecerá lá pelo<LF>
+ele aparece lá pelo<LF>
 UnderPlaza. Que tal a<LF>
-gente dar uma olhada?<Button><CR>
+gente ir dar uma olhada?<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
 <Char: 0 64><0xF1: 0>Eu realmente espero<LF>
@@ -30,8 +30,8 @@ que não seja só<LF>
 boato mesmo.<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
-<Char: 0 0><0xF1: 0>Vamos lá ver pra ter<LF>
-certeza!<Button><CR>
+<Char: 0 0><0xF1: 0>Vamos lá ver pra<LF>
+confirmar!<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
 <Char: 0 64><0xF1: 0>É... vamos.<Button><EB>

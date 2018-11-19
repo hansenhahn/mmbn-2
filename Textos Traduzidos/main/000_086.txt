@@ -31,7 +31,7 @@ aqui está. Eu dar ele<LF>
 parra você!<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
-<Char: 0 0><0xF1: 0>Oh! O meu MiniPET...<Dly: 1 30 0><LF>
+<Char: 0 0><0xF1: 0>Ah! O meu MiniPET...<Dly: 1 30 0><LF>
 Obrigado, moço.<Button><CR>
 !---------------------!
 <Jmp: 0 6><@PointerIdx6>
@@ -47,7 +47,7 @@ Bom, agorra... adieu!<Button><0xF2: 0 7 2><EB>
 <@PointerIdx7>
 <Char: 0 0><0xF1: 0>Que sotaque estranho.<LF>
 Será que todo mundo na<LF>
-Netopia fala assim?<Button><CR>
+Ameropa fala assim?<Button><CR>
 !---------------------!
 Enfim...<Dly: 1 30 0> toda essa <Dly: 1 30 0>loucura<LF>
 do check-in me deu a<LF>
@@ -58,7 +58,7 @@ maior sede!<Button><EB>
 comprar um.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0> Aaahh!<LF>
 O meu zenny sumiu!<Button><CR>
 !---------------------!
-Aí! Aquele esquisitou<LF>
+Aí! Aquele esquisitão<LF>
 roubou os meus zennies!<Button><CR>
 !---------------------!
 Arrgggh!!!<Button><EB>

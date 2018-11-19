@@ -1,0 +1,666 @@
+<@PointerIdx0>
+<0xF3: 4 55 55 67 255><0xF3: 4 54 54 60 255><0xF3: 4 53 53 41 255><0xF3: 4 52 52 25 255><0xF3: 4 51 51 18 255><0xF3: 4 50 50 12 255><Char: 0 50><0xF1: 0>Pode crer, mano.<LF>
+Primeira classe!<LF>
+Delícia delícia!<Button><CR>
+!---------------------!
+E sabe por quê? Porque<LF>
+eu sou top das paradas,<LF>
+mano, tá ligado?<Button><EB>
+!*********************!
+<@PointerIdx1>
+<0xF3: 4 55 55 68 255><0xF3: 4 54 54 61 255><0xF3: 4 53 53 40 255><0xF3: 4 52 52 26 255><0xF3: 4 51 51 19 255><0xF3: 4 50 50 13 255><Char: 0 48><0xF1: 0>Eu adoro viajar.<Button><CR>
+!---------------------!
+Antigamente eu viajava<LF>
+ao redor do mundo com<LF>
+o meu marido.<Button><CR>
+!---------------------!
+Mas agora viajo<LF>
+sozinha...<Button><CR>
+!---------------------!
+Posso ter dinheiro, mas<LF>
+isso não compra<LF>
+felicidade.<Button><EB>
+!*********************!
+<@PointerIdx2>
+<@PointerIdx3>
+<@PointerIdx4>
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<0xF3: 0 16 2 11 255><0xF1: 0><Char: 0 62>Que confortável...<LF>
+Eu também adoraria voar<LF>
+de primeira classe.<Button><CR>
+!---------------------!
+Mas a Sociedade<LF>
+Ni-Honense de Insetos<LF>
+não tem tanto dinheiro.<Button><0xF2: 0 16 2><EB>
+!*********************!
+<@PointerIdx11>
+<0xF1: 0><Char: 0 62>Estou vindo do Simpósio<LF>
+Mundial de Insetos na<LF>
+Ameropa.<Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 50><0xF1: 0>A primeira classe tem<LF>
+de tudo, bróder!<Button><CR>
+!---------------------!
+Assentos confortáveis,<LF>
+uísque de primeira...<Button><CR>
+!---------------------!
+Se tivessem umas<LF>
+novinhas também,<LF>
+seria o paraíso!<Button><CR>
+!---------------------!
+Aê! Qualé a do coroa aí?<Button><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 0 48><0xF1: 0>Essa turbulência foi das<LF>
+grandes! Você se<LF>
+machucou?<Button><CR>
+!---------------------!
+Sabe, esse homem da
+<LF>
+frente não para de se<LF>
+contorcer.<Button><CR>
+!---------------------!
+O que há de errado com
+<LF>ele?<Button><EB>
+!*********************!
+<@PointerIdx14>
+<@PointerIdx15>
+<@PointerIdx16>
+<@PointerIdx17>
+<@PointerIdx18>
+<Char: 0 50><0xF1: 0>'Saqui é firmeza, mano!<LF>
+É chavoso!<Button><CR>
+!---------------------!
+Tô precisando é mandar<LF>
+um som pra agitar a<LF>
+parada agora!<Button><EB>
+!*********************!
+<@PointerIdx19>
+<Char: 0 48><0xF1: 0>Me diga, meu filho...<LF>
+você está indo para<LF>
+Ni-Hon?<Button><CR>
+!---------------------!
+Eu amo Ni-Hon. Visito o<LF>
+país todo ano.<Button><CR>
+!---------------------!
+Até estou pensando em<LF>
+construir uma casa de<LF>
+férias lá.<Button><EB>
+!*********************!
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<Char: 0 50><0xF1: 0>É, É, É, É!<LF>
+NA MORAL!!!<Button><CR>
+!---------------------!
+MC Sangue Bom na<LF>
+ÁREA!<Button><CR>
+!---------------------!
+Bora batidão do SB!!!!<Button><CR>
+!---------------------!
+É! É! É! É! É! UHUM!<Button><EB>
+!*********************!
+<@PointerIdx26>
+<Char: 0 48><0xF1: 0>Eu achava esse rapaz<LF>
+só barulhento, mas até<LF>
+que a voz dele é boa.<Button><EB>
+!*********************!
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<Char: 0 48><0xF1: 0>Ouvir esse bródi na<LF>
+moral até que me anima<LF>
+um pouco, sabia?<Button><CR>
+!---------------------!
+Ah! Eu falei que nem<LF>
+ele!<Button><EB>
+!*********************!
+<@PointerIdx41>
+<0xF6: 3 32 1 53 53 255><0xF3: 0 31 2 52 255><0xF1: 0><Char: 0 50>Falaê de menor!<Button><CR>
+!---------------------!
+É o quê? Tu quer esse<LF>
+uísque?<Button><CR>
+!---------------------!
+Tu mal saiu das fraldas,<LF>
+moleque! Vai lá, tua mãe<LF>
+tá te chamando!<Button><CR>
+!---------------------!
+'Méquié? Tu não vai<LF>
+parar de encher o<LF>
+saco, não?<Button><CR>
+!---------------------!
+.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>.<Dly: 1 20 0>.<LF>
+Beleza então, moleque.<LF>Bora vê.<Button><CR>
+!---------------------!
+Quer issaqui?<LF>
+Pois se liga na parada...<Button><CR>
+!---------------------!
+Porque nada nessa vida<LF>
+sai de mão beijada!<Button><CR>
+!---------------------!
+Vai ter que mostrar<LF>
+o que tu sabe fazer,<LF>
+sagaz!<Button><CR>
+!---------------------!
+Eu vou soltar uns<LF>
+verso aqui e tu tem<LF>
+que me acompanhar.<Button><CR>
+!---------------------!
+Se tu for capaz, eu<LF>
+descolo essa birita,<LF>
+mano!<Button><CR>
+!---------------------!
+Pronto pro agito?<LF>
+<Arrow: 17 0><Pos: 0 2>Sóóó! <Arrow: 0 17><Pos: 0 2>Neeem<CondJmp: 6 128 44 43 255>
+!---------------------!
+<@PointerIdx42>
+<0xF2: 0 31 2><0xF1: 0><Char: 0 50>Pô, achei que tu era<LF>
+mais moral.<Button><CR>
+!---------------------!
+Bora lá, de menor!<LF>
+Pronto pro agito?<LF>
+<Arrow: 17 0><Pos: 0 2>Sóóóó! <Arrow: 0 17><Pos: 0 2>Neeeeem<CondJmp: 6 128 44 43 255>
+!---------------------!
+<@PointerIdx43>
+<0xF1: 0><Char: 0 50>Ah, tu gela, moleque?<Button><EB>
+!*********************!
+<@PointerIdx44>
+<0xF1: 0><Char: 0 50>É nóis! Vamo lá!<Button><CR>
+!---------------------!
+1, <Dly: 1 20 0>2, <Dly: 1 20 0>1-2-3 YO!<Button><CR>
+!---------------------!
+Princesa do ROLÊ!<LF>
+Como tu me faz PIRAR!<LF>
+Razão do meu VIVER!<Button><CR>
+!---------------------!
+Incendeia coração!<LF>
+Vamo lá fazer ROLAR!<Button><CR>
+!---------------------!
+Curtiu o freestyle,<LF>
+moleque? É, foi<LF>
+tudo NA LATA!<Button><CR>
+!---------------------!
+Firmeza então. Pegou?<LF>
+Pois agora é CONTIGO,
+<LF>
+garoto!<Button><CR>
+!---------------------!
+1,<Dly: 1 20 0> 2, <Dly: 1 20 0>1-2-3 YO!<Button><CR>
+!---------------------!
+<Jmp: 0 45><@PointerIdx45>
+<0xF1: 0><Char: 1 239 0>w<Pos: 0 2>Gatinha do ROLÊ!<LF>
+<Arrow: 17 2><Pos: 0 2>Princesa do ROLÊ!<LF>
+<Arrow: 34 16><Pos: 0 2>Princesa do LAQUÊ!<CondJmp: 7 192 42 46 42>
+!---------------------!
+<0xff><@PointerIdx46>
+<0xF1: 0><Char: 1 239 0>w<Pos: 0 2>Como tu me faz PIRAR!<LF>
+<Arrow: 17 2><Pos: 0 2>Como cê me faz GIRAR!<LF>
+<Arrow: 34 16><Pos: 0 2>Mina tu faz eu DELIRAR!<CondJmp: 7 192 47 42 42>
+!---------------------!
+<0xff><@PointerIdx47>
+<0xF1: 0><Char: 1 239 0>w<Pos: 0 2>Razão do meu SER!<LF>
+<Arrow: 17 2><Pos: 0 2>Cê é o meu VIVER!<LF>
+<Arrow: 34 16><Pos: 0 2>Razão do meu VIVER!<CondJmp: 7 192 42 42 48>
+!---------------------!
+<0xff><@PointerIdx48>
+<0xF1: 0><Char: 1 239 0>w<Pos: 0 2>Incendeia a RAZÃO!<LF>
+<Arrow: 17 2><Pos: 0 2>Incandesce CORAÇÃO!<LF>
+<Arrow: 34 16><Pos: 0 2>Incendeia CORAÇÃO!<CondJmp: 7 192 42 42 49>
+!---------------------!
+<0xff><@PointerIdx49>
+<0xF1: 0><Char: 1 239 0>w<Pos: 0 2>Vamo lá fazer ROLAR!<LF>
+<Arrow: 17 2><Pos: 0 2>Bora lá fazer ROLAR!<LF>
+<Arrow: 34 16><Pos: 0 2>Vamos lá fazer ROLAR<CondJmp: 7 192 50 42 42>
+!---------------------!
+<0xff><@PointerIdx50>
+<0xF1: 0><Char: 0 50>Aê garoto! Isso é que<LF>
+RITMO! Toma aqui,<LF>
+moleque!<Button><CR>
+!---------------------!
+<Jmp: 0 51><@PointerIdx51>
+<0xF1: 0><Char: 1 248 0><0xF8: 4 24><0xF6: 0 32 1>Lan recebeu<LF>
+"<ItemTbl: 0 32 0>"!!<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
+!*********************!
+<@PointerIdx52>
+<0xF1: 0><Char: 0 50>Oi? Quer tentar de<LF>
+novo, guri?<LF>
+<Arrow: 17 0><Pos: 0 2>Sóóó! <Arrow: 0 17><Pos: 0 2>Neeeem<CondJmp: 6 128 44 43 255>
+!---------------------!
+<@PointerIdx53>
+<0xF1: 0><Char: 0 50>Cê tem sagacidade,<LF>
+moleque!<Button><EB>
+!*********************!
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<0xF1: 0><Char: 0 50>HM! UH-HUM! HM! UH-HUM!<LF>
+É! É! É! É! PODE CRER!<LF>
+PODE CRER YO, YO, YO!<Button><CR>
+!---------------------!
+FALAÊ GALEEERAAAA!???<Button><EB>
+!*********************!
+<@PointerIdx61>
+<Char: 0 48><0xF1: 0>Deus Pai Todo-Poderoso,<LF>
+rogai por nós.<Button><EB>
+!*********************!
+<@PointerIdx62>
+<@PointerIdx63>
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<0xF1: 0><Char: 0 50>Falaí, de menor!<Button><CR>
+!---------------------!
+Se não fosse você,<LF>
+a gente aqui já era,<LF>
+meu!<Button><CR>
+!---------------------!
+Cê é o MC Milagre!<Button><EB>
+!*********************!
+<@PointerIdx68>
+<Char: 0 48><0xF1: 0>O Senhor nos salvou!<LF>
+O sangue de Jesus tem<LF>
+poder!<Button><EB>
+!*********************!
+<@PointerIdx69>
+<@PointerIdx70>
+<0xF3: 4 61 61 85 255><0xF3: 4 58 60 80 255><Char: 0 14><0xF1: 0>Considerando o terremoto<LF>
+e tudo mais, talvez não<LF>
+seja a melhor hora pra<Button><CR>
+!---------------------!
+dizer isso, MAS... eu<LF>
+adoraria voar de<LF>
+primeira classe um dia!<Button><EB>
+!*********************!
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<Char: 0 14><0xF1: 0>Será que é burrice<LF>
+vir pra primeira classe<LF><Button><CR>
+!---------------------!
+quando todos os outros<LF>
+estão evacuando a<LF>
+área?<Button><EB>
+!*********************!
+<@PointerIdx81>
+<@PointerIdx82>
+<@PointerIdx83>
+<@PointerIdx84>
+<@PointerIdx85>
+<Char: 0 14><0xF1: 0>Tá decidido! Da próxima<LF>
+vez, eu VOU voar de<LF>
+primeira classe!<Button><EB>
+!*********************!
+<@PointerIdx86>
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<@PointerIdx91>
+<@PointerIdx92>
+<@PointerIdx93>
+<@PointerIdx94>
+<@PointerIdx95>
+<Char: 0 16><0xF1: 0>Nós moramos em um<LF>
+luxuoso prédio lá em<LF>
+Kotobuki,<Button><CR>
+!---------------------!
+mas começamos a sentir<LF>
+dor de cabeça desde<LF>
+ontem, daí fujimos de lá<Button><CR>
+!---------------------!
+e viemos pra cá. É tão<LF>
+luxuoso aqui quanto era<LF>
+lá, então tudo bem.<Button><EB>
+!*********************!
+<@PointerIdx96>
+<Char: 0 26><0xF1: 0>Mamãe! Mamãe!!<Button><EB>
+!*********************!
+<@PointerIdx97>
+<Char: 0 10><0xF1: 0>A comida acabou!<Button><EB>
+!*********************!
+<@PointerIdx98>
+<Char: 0 17><0xF1: 0>Eu quero ir pra casa!<Button><EB>
+!*********************!
+<@PointerIdx99>
+<Char: 0 58><0xF1: 0>Normalmente eu não teria<LF>
+cabeça pra isso, mas<LF>
+nestas circunstâncias...<Button><EB>
+!*********************!
+<@PointerIdx100>
+<@PointerIdx101>
+<@PointerIdx102>
+<@PointerIdx103>
+<@PointerIdx104>
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 20 1 193 255><0xF3: 0 19 1 194 255><0xF2: 0 19 1><Char: 0 52><0xF1: 0>Cara! Ni-Hon é super<LF>
+legal!<Button><CR>
+!---------------------!
+Daqui a pouco eu vou<LF>
+voltar pra Ameropa...<Button><CR>
+!---------------------!
+E eu quero dar pro meu<LF>
+irmão lá uns chips<LF>
+ni-honenses,<Button><CR>
+!---------------------!
+mas eu não consigo<LF>
+achar os que eu quero!<Button><CR>
+!---------------------!
+Você tem aí<LF>
+"<ItemTbl: 0 212 1> <ItemTbl: 0 18 3>",<LF>
+"<ItemTbl: 0 213 1> <ItemTbl: 0 18 3>" e<Button><CR>
+!---------------------!
+"<ItemTbl: 0 214 1> <ItemTbl: 0 18 3>"?<Button><CR>
+!---------------------!
+Se tiver, topa trocar<LF>
+eles por esse meu<LF>
+"<ItemTbl: 0 184 1> <ItemTbl: 0 18 3>"?<Button><CR>
+!---------------------!
+Vai, por favoooor! Pelo<LF>
+meu irmãozinho!<LF>
+<Arrow: 17 0><Pos: 0 2>Claro<Arrow: 0 17><Pos: 0 2> Não<CondJmp: 6 128 191 255 255>
+!---------------------!
+Pô, meu! E como eu fico?<Button><EB>
+!*********************!
+<@PointerIdx191>
+<0xF6: 20 212 0 18 1 255 255 195><0xF6: 20 213 0 18 1 255 255 195><0xF6: 20 214 0 18 1 255 255 195><0xF2: 0 20 1><0xF6: 17 212 0 18 1><0xF6: 17 213 0 18 1><0xF6: 17 214 0 18 1><Char: 0 52><0xF1: 0>Êba! Valeu!<LF>
+Agora eu posso voltar<LF>
+pra casa com orgulho!<Button><CR>
+!---------------------!
+Na verdade, eu e o meu<LF>
+irmão tivemos uma briga<LF>
+antes desta viagem.<Button><CR>
+!---------------------!
+E agora eu quero usar<LF>
+esses chips pra fazer<LF>
+as pazes com ele.<Button><CR>
+!---------------------!
+Toma.<Button><CR>
+!---------------------!
+<Jmp: 0 192><@PointerIdx192>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 16 184 0 18 1>Lan recebeu o chip<LF>
+"<ItemTbl: 0 184 1> <ItemTbl: 0 18 3>"!!<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx193>
+<Char: 0 52><0xF1: 0>Os chips que você me<LF>
+deu sempre me farão<LF>
+lembrar de Ni-Hon!<Button><CR>
+!---------------------!
+Obrigado!<Button><EB>
+!*********************!
+<@PointerIdx194>
+<Char: 0 52><0xF1: 0>Imaginei que você ia<LF>
+voltar!<Button><CR>
+!---------------------!
+Vai trocar os seus<LF>
+"<ItemTbl: 0 212 1> <ItemTbl: 0 18 3>",<LF>
+"<ItemTbl: 0 213 1> <ItemTbl: 0 18 3>" e<Button><CR>
+!---------------------!
+"<ItemTbl: 0 214 1> <ItemTbl: 0 18 3>" pelo<LF>meu
+"<ItemTbl: 0 184 1> <ItemTbl: 0 18 3>"?<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Vou <Arrow: 0 17><Pos: 0 2>Não!<CondJmp: 6 128 191 255 255>
+!---------------------!
+Eu sei que é da boca pra<LF>
+fora. Você vai voltar.<Button><CR>
+!---------------------!
+Certeza. É o seu rosto,<LF>
+ele é o rosto de um<LF>
+homem gentil.<Button><EB>
+!*********************!
+<@PointerIdx195>
+<Char: 0 52><0xF1: 0>Hm? "<ItemTbl: 0 212 1> <ItemTbl: 0 18 3>",<LF>
+"<ItemTbl: 0 213 1> <ItemTbl: 0 18 3>" e<LF>
+"<ItemTbl: 0 214 1> <ItemTbl: 0 18 3>"<Button><CR>
+!---------------------!
+não tão aí!<Button><CR>
+!---------------------!
+Sem eles, sem troca.<Button><CR>
+!---------------------!
+Eles não tão no seu<LF>
+diretório, tão?<Button><CR>
+!---------------------!
+Dá lá uma olhada.<Button><CR>
+!---------------------!
+Se eles tiverem lá,<LF>
+tem que tirar antes de<LF>
+trocar.<Button><EB>
+!*********************!
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>Que poltrona incrível!<LF>
+É a perfeita descrição<LF>
+de "sublime".<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>Pode não parecer, mas<LF>
+esta é a TV mais<LF>
+moderna do mercado.<Button><CR>
+!---------------------!
+Foi especificamente<LF>
+projetada para não ter<LF>
+entrada de conexão.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>Os cortinas fechadas<LF>
+significam que você<LF>
+não pode entrar aí.<Button><CR>
+!---------------------!
+As cortinas da primeira<LF>
+classe parecem ser<LF>
+de um material caro.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF1: 0>Essas flores não são<LF>
+falsas. São orgânicas<LF>
+mesmo!<Button><EB>
+!*********************!
+<@PointerIdx224>
+<0xF1: 0>Uma doce fragrância<LF>
+exala no ar.<Button><EB>
+!*********************!
+<@PointerIdx225>
+<0xF1: 0>Uma revista feminina.<LF>
+Contém as últimas notícias<LF>
+do mundo fashion.<Button><CR>
+!---------------------!
+Ao que parece "a cor<LF>
+do outono é o preto".<Button><EB>
+!*********************!
+<@PointerIdx226>
+<0xF1: 0>Uma revista de música,<LF>
+com as últimas notícias<LF>
+do mundo musical.<Button><EB>
+!*********************!
+<@PointerIdx227>
+<0xF1: 0>Nem dá para imaginar<LF>
+quanto custa uma<LF>
+garrafa disso.<Button><EB>
+!*********************!
+<@PointerIdx228>
+<0xF1: 0>A julgar pela aparência,<LF>
+uma garrafa potente<LF>
+de uísque.<Button><EB>
+!*********************!
+<@PointerIdx229>
+<0xF1: 0>Esta porta é uma das<LF>
+saídas.<Button><EB>
+!*********************!
+<@PointerIdx230>
+<0xF1: 0>Um painel de controle<LF>
+de ar condicionado.<Button><CR>
+!---------------------!
+Não há como se<LF>
+conectar nele.<Button><EB>
+!*********************!
+<@PointerIdx231>
+<0xF3: 4 55 255 233 255><0xF1: 0>O lindo azul do céu se
+<LF>
+posta diante de você.<Button><EB>
+!*********************!
+<@PointerIdx232>
+<@PointerIdx233>
+<0xF1: 0>Daqui dá para ver o<LF>
+aeroporto. Com vários<LF>
+aviões enfileirados.<Button><EB>
+!*********************!
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

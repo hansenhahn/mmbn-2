@@ -3,9 +3,9 @@
 <Char: 0 64><0xF1: 0>O quê?<Button><EB>
 !*********************!
 <@PointerIdx1>
-<Char: 0 64><0xF1: 0>Pessoal! Resolveram<LF>
-mudar de ideia e<LF>
-vieram pra cá!?<Button><CR>
+<Char: 0 64><0xF1: 0>Pessoal! Vocês<LF>
+resolveram mudar de<LF>
+ideia e vieram pra cá!?<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 69><0xF1: 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
@@ -36,7 +36,7 @@ que entraram aqui...<Button><CR>
 !---------------------!
 E os customizei<LF>
 levemente... para que<LF>
-deletassem MegaMan.EXE!<Button><CR>
+deletem MegaMan.EXE!<Button><CR>
 !---------------------!
 O que foi? Não consegue<LF>
 mandar o seu MegaMan<LF>
@@ -70,7 +70,7 @@ me reconhecendo?<Button><EB>
 !*********************!
 <@PointerIdx13>
 <Char: 0 64><0xF1: 0>Droga...<Dly: 1 30 0><LF>
-Se continuar assim!<Button><CR>
+Se continuar assim...!<Button><CR>
 !---------------------!
 <Jmp: 0 14><@PointerIdx14>
 <Char: 0 0><0xF1: 0>MegaMan! Rotina de...<LF>
@@ -83,7 +83,7 @@ bom... eu não vou<LF>
 mais aguentar<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>.<Button><CR>
 !---------------------!
 <Jmp: 0 16><@PointerIdx16>
-<Char: 0 63><0xF1: 0>Hahahahaha! Quer ver<LF>
+<Char: 0 63><0xF1: 0>Hahahahaha! Quero ver<LF>
 essa sua "amizade"
 <LF>
 salvá-lo agora! Hah hah!<Button><CR>
@@ -94,7 +94,7 @@ no fim das contas!<Button><EB>
 !*********************!
 <@PointerIdx17>
 <Char: 0 64><0xF1: 0>!? Roll, NÃO!!!!<Dly: 1 30 0><LF>
-.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0>Droga!!<LF>
+.<Dly: 1 30 0>.<Dly: 1 30 0>.<Dly: 1 30 0> Droga!!<LF>
 Quem fez isso!?<Button><CR>
 !---------------------!
 <Jmp: 0 18><@PointerIdx18>
@@ -107,7 +107,7 @@ de uma cópia barata?<Button><EB>
 !*********************!
 <@PointerIdx20>
 <Char: 0 64><0xF1: 0>Pessoal! Roll!?<Dly: 1 30 0><LF>
-...O que é que tá
+... O que é que tá
 <LF>
 acontecendo aqui?<Button><CR>
 !---------------------!
@@ -165,7 +165,7 @@ Oi, Lan!<Button><CR>
 !---------------------!
 <Jmp: 0 33><@PointerIdx33>
 <Char: 0 1><0xF1: 0>Alguém tinha que vir<LF>
-cuidar de vocês, né?<Button><CR>
+pra cuidar de vocês, né?<Button><CR>
 !---------------------!
 <Jmp: 0 34><@PointerIdx34>
 <Char: 0 0><0xF1: 0>Obrigado, gente!<Button><CR>

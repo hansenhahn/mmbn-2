@@ -1,0 +1,558 @@
+<@PointerIdx0>
+<0xF3: 4 31 31 16 255><0xF3: 4 22 30 12 255><Char: 0 70><0xF1: 0>Você está se divertindo?<LF>
+Kotobuki é um lugar para<LF>
+diversão!<Button><CR>
+!---------------------!
+Kotobuki é o bairro da<LF>
+alegria!<Button><EB>
+!*********************!
+<@PointerIdx1>
+<0xF3: 4 31 31 17 255><0xF3: 4 22 30 13 255><Char: 0 71><0xF1: 0>Já chegou a ir na<LF>
+Loja de FragBugs?<Button><CR>
+!---------------------!
+Fica do outro lado desta<LF>
+porta.<Button><CR>
+!---------------------!
+Lá você pode trocar<LF>
+"<ItemTbl: 0 69 0>" por<LF>
+chips.<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 70><0xF1: 0>Você conhece os<LF>
+"<ItemTbl: 0 69 0>"?<Button><CR>
+!---------------------!
+Os "<ItemTbl: 0 69 0>" são<LF>
+dados vazios que não<LF>
+servem para nada.<Button><CR>
+!---------------------!
+Mas podem acabar<LF>
+virando bugs se<LF>
+ignorados.<Button><CR>
+!---------------------!
+No KotoPlaza, há quem<LF>
+colete "<ItemTbl: 0 69 0>"<LF>
+para se livrar deles.<Button><EB>
+!*********************!
+<@PointerIdx3>
+<0xF3: 4 31 31 18 255><0xF3: 4 22 30 14 255><Char: 0 66><0xF1: 0>Receio que você não<LF>
+tenha permissão para<LF>
+entrar aqui.<Button><EB>
+!*********************!
+<@PointerIdx4>
+<0xF3: 4 31 31 19 255><0xF3: 4 22 30 15 255><Char: 0 71><0xF1: 0>Esta é minha primeira
+<LF>
+vez aqui...<Button><CR>
+!---------------------!
+Minha cabeça está<LF>
+girando, mas apesar dos<LF>
+pesares, estou bem.<Button><CR>
+!---------------------!
+Todo mundo aqui foi<LF>
+muito gentil comigo.<Button><EB>
+!*********************!
+<@PointerIdx5>
+<@PointerIdx6>
+<@PointerIdx7>
+<@PointerIdx8>
+<@PointerIdx9>
+<@PointerIdx10>
+<@PointerIdx11>
+<@PointerIdx12>
+<Char: 0 70><0xF1: 0>Oferecemos a Ni-Hon<LF>
+nossas orações para<LF>
+que superem a crise.<Button><CR>
+!---------------------!
+Rezemos pela paz em<LF>
+Ni-Hon.<Button><CR>
+!---------------------!
+Paz!<LF>
+Paz!!<LF>
+Paz!!!<Button><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 0 71><0xF1: 0>Que a paz caia sobre<LF>
+Ni-Hon!!!<Button><CR>
+!---------------------!
+Paz!<LF>
+Paz!!<LF>
+Paz!!!<Button><EB>
+!*********************!
+<@PointerIdx14>
+<Char: 0 66><0xF1: 0>O povo do KotoPlaza<LF>
+reza pela paz.<Button><CR>
+!---------------------!
+E continuaremos<LF>
+rezando até a crise<LF>
+passar.<Button><CR>
+!---------------------!
+Paz!<LF>
+Paz!!<LF>
+Paz!!!<Button><EB>
+!*********************!
+<@PointerIdx15>
+<Char: 0 71><0xF1: 0>Não consigo explicar<LF>
+por quê, mas também me<LF>
+deu vontade de rezar...<Button><CR>
+!---------------------!
+Paz!<LF>
+Paz!!<LF>
+Paz!!!<Button><EB>
+!*********************!
+<@PointerIdx16>
+<Char: 0 70><0xF1: 0>A crise passou.<LF>
+Acho que nossas<LF>
+orações surtiram efeito.<Button><EB>
+!*********************!
+<@PointerIdx17>
+<Char: 0 71><0xF1: 0>Parece que a ameaça<LF>
+que Ni-Hon encarava<LF>
+se foi...<Button><CR>
+!---------------------!
+Agora o povo de lá<LF>
+poderá viver em paz.<Button><EB>
+!*********************!
+<@PointerIdx18>
+<Char: 0 66><0xF1: 0>O mundo ficou tão<LF>
+perigoso...<Button><CR>
+!---------------------!
+Todo mundo devia é<LF>
+visitar o KotoPlaza e<LF>
+sentir a felicidade!<Button><EB>
+!*********************!
+<@PointerIdx19>
+<Char: 0 71><0xF1: 0>Rezamos pela paz, e a<LF>
+paz recebemos.<LF>
+Que sensação boa.<Button><EB>
+!*********************!
+<@PointerIdx20>
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<@PointerIdx31>
+<@PointerIdx32>
+<@PointerIdx33>
+<@PointerIdx34>
+<@PointerIdx35>
+<@PointerIdx36>
+<@PointerIdx37>
+<@PointerIdx38>
+<@PointerIdx39>
+<@PointerIdx40>
+<0xF3: 0 17 2 42 255><0xF3: 0 14 2 41 255><0xF2: 0 14 2><Char: 0 75><0xF1: 0>É você o NetLutador<LF>
+Municipal? Fui eu quem<LF>
+postou o pedido.<Button><CR>
+!---------------------!
+Por favor, conecte-se<LF>
+na Cafeteira do Centro.<Button><CR>
+!---------------------!
+E recupere um certo<LF>
+programa do Navi que<LF>
+fica por lá.<Button><CR>
+!---------------------!
+É um programa muito<LF>
+importante pra mim.<LF>
+O Navi o roubou.<Button><CR>
+!---------------------!
+É um Navi muito mau.<LF>
+Ele espalha vírus por aí.<Button><CR>
+!---------------------!
+Não temos muito tempo.<LF>
+Vá rápido!<Button><EB>
+!*********************!
+<@PointerIdx41>
+<Char: 0 75><0xF1: 0>Ele está na Cafeteira<LF>
+do Centro.<LF>
+Depressa!<Button><EB>
+!*********************!
+<@PointerIdx42>
+<0xF3: 0 129 12 46 255><0xF2: 0 129 12><0xF2: 4 82 0><Char: 0 75><0xF1: 0>Você conseguiu! Muito<LF>
+obrigado por me ajudar.<Button><CR>
+!---------------------!
+Você recuperou o<LF>
+programa pra mim?<Button><CR>
+!---------------------!
+<Jmp: 0 43><@PointerIdx43>
+<0xF6: 1 15 1><Char: 1 241 0>MegaMan devolveu<LF>
+"<ItemTbl: 0 15 0>"!!<Button><CR>
+!---------------------!
+<Jmp: 0 44><@PointerIdx44>
+<Char: 0 75><0xF1: 0>É ele mesmo...<LF>
+O programa.<Button><CR>
+!---------------------!
+Bom trabalho! Na verdade<LF>
+sou examinador da<LF>
+prova da LicençaA.<Button><CR>
+!---------------------!
+Esse teste foi para<LF>
+ver...<Button><CR>
+!---------------------!
+Se você era capaz de<LF>
+tomar uma ação<LF>
+decisiva.<Button><CR>
+!---------------------!
+Você passou.<LF>
+Bom trabalho.<Button><CR>
+!---------------------!
+Isso aqui estava dentro<LF>
+do programa que você<LF>
+me entregou.<Button><CR>
+!---------------------!
+Pode ficar com ele.<Button><CR>
+!---------------------!
+<Jmp: 0 45><@PointerIdx45>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 16 123 0 26 1>MegaMan recebeu o chip<LF>
+"<ItemTbl: 0 123 1> <ItemTbl: 0 26 3>"!!<0xF8: 12><0xF8: 8><Button><EB>
+!*********************!
+<@PointerIdx46>
+<Char: 0 75><0xF1: 0>Boa sorte na prova!<Button><EB>
+!*********************!
+<@PointerIdx47>
+<@PointerIdx48>
+<@PointerIdx49>
+<@PointerIdx50>
+<@PointerIdx51>
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<@PointerIdx55>
+<@PointerIdx56>
+<@PointerIdx57>
+<@PointerIdx58>
+<@PointerIdx59>
+<@PointerIdx60>
+<0xF6: 3 19 1 62 62 255><0xF6: 3 20 1 255 255 63><0xF6: 1 20 1><0xF2: 0 92 2><Char: 0 71><0xF1: 0>Ouvi dizer que aquele<LF>
+programa está no<LF>
+SaboPlaza.<Button><CR>
+!---------------------!
+Lhe darei isto por me
+<LF>
+trazer a mensagem do<LF>
+meu amigo.<Button><CR>
+!---------------------!
+<Jmp: 0 61><@PointerIdx61>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 19 1>MegaMan recebeu:<LF>
+"<ItemTbl: 0 19 0>"!!<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
+!*********************!
+<@PointerIdx62>
+<Char: 0 71><0xF1: 0>O programa está no<LF>
+SaboPlaza.<LF>
+Tome muito cuidado.<Button><EB>
+!*********************!
+<@PointerIdx63>
+<Char: 0 71><0xF1: 0>Meus amigos se casaram<LF>
+por esses dias.<Button><CR>
+!---------------------!
+Que inveja deles.<Button><EB>
+!*********************!
+<@PointerIdx64>
+<@PointerIdx65>
+<@PointerIdx66>
+<@PointerIdx67>
+<@PointerIdx68>
+<@PointerIdx69>
+<@PointerIdx70>
+<@PointerIdx71>
+<@PointerIdx72>
+<@PointerIdx73>
+<@PointerIdx74>
+<@PointerIdx75>
+<@PointerIdx76>
+<@PointerIdx77>
+<@PointerIdx78>
+<@PointerIdx79>
+<@PointerIdx80>
+<Char: 0 66><0xF1: 0>Bem-vindo ao KotoPlaza!<Button><CR>
+!---------------------!
+Uma pessoa, por favor!<Button><CR>
+!---------------------!
+Feliz. <Dly: 1 15 0>Eu estou feliz!<Button><EB>
+!*********************!
+<@PointerIdx81>
+<Char: 0 71><0xF1: 0>Vim aqui ao invés de ir
+<LF>
+ao Plaza. É minha<LF>
+primeira visita.<Button><CR>
+!---------------------!
+KotoPlaza!<Dly: 1 15 0><LF>
+Até que parece ser bem<LF>
+legal!<Button><EB>
+!*********************!
+<@PointerIdx82>
+<Char: 0 70><0xF1: 0>Hoje tem mais Navis<LF>
+aqui que o normal, não?<Button><CR>
+!---------------------!
+Talvez por causa do<LF>
+ataque sobre o Plaza?<Button><EB>
+!*********************!
+<@PointerIdx83>
+<Char: 0 70><Char: 2 1><0xF1: 0>La-la-la<0x61><Button><EB>
+!*********************!
+<@PointerIdx84>
+<Char: 0 70><0xF1: 0>Eu estou tão<LF>
+feliz de estar aqui!<Button><CR>
+!---------------------!
+La-la-la<0x61><Button><EB>
+!*********************!
+<@PointerIdx85>
+<Char: 0 73><0xF1: 0>Uma área restrita para<LF>
+membros? Parece dez!<LF>
+Quero conhecer!<Button><EB>
+!*********************!
+<@PointerIdx86>
+<Char: 0 66><0xF1: 0>Careta engraçada!<Dly: 1 10 0><LF>
+Carinha feliz!<Dly: 1 10 0><LF>
+Face eufórica!<Dly: 1 10 0><Button><CR>
+!---------------------!
+Um Plaza cheio de<LF>
+rostos sorridentes!<Dly: 1 20 0><LF>
+Esse é o nosso lema!<Button><CR>
+!---------------------!
+Ha-ha-ha-ha-ha!<Button><EB>
+!*********************!
+<@PointerIdx87>
+<@PointerIdx88>
+<@PointerIdx89>
+<@PointerIdx90>
+<0xF3: 4 56 59 100 255><Char: 0 70><0xF1: 0>Ah, o alegre KotoPlaza!<LF>
+Cidade da alegria.<Button><CR>
+!---------------------!
+Espero que você também<LF>
+esteja feliz!<Button><EB>
+!*********************!
+<@PointerIdx91>
+<0xF3: 4 56 59 101 255><Char: 0 71><0xF1: 0>Desejamos uma coisa, e<LF>
+uma coisa somente:<LF>
+a paz mundial.<Button><CR>
+!---------------------!
+Lutar é errado!<LF>
+Falo sério!<Button><EB>
+!*********************!
+<@PointerIdx92>
+<0xF3: 4 56 59 102 255><Char: 0 70><0xF1: 0>O povo do KotoPlaza<LF>
+é tão caridoso.<Button><CR>
+!---------------------!
+Só visitar o lugar já<LF>
+acalma a alma.<Button><EB>
+!*********************!
+<@PointerIdx93>
+<0xF3: 4 56 59 103 255><Char: 0 66><0xF1: 0>Estamos transmitindo<LF>
+ondas de alegria mundo<LF>
+afora!<Button><EB>
+!*********************!
+<@PointerIdx94>
+<0xF3: 4 56 59 104 255><Char: 0 71><0xF1: 0>Me tornei um<LF>
+frequentador do<LF>
+KotoPlaza!<Button><CR>
+!---------------------!
+Porque eu estou feliz!<Button><EB>
+!*********************!
+<@PointerIdx95>
+<@PointerIdx96>
+<@PointerIdx97>
+<@PointerIdx98>
+<@PointerIdx99>
+<@PointerIdx100>
+<Char: 0 70><0xF1: 0>O mundo real parece<LF>
+estar mergulhado no<LF>
+caos.<Button><CR>
+!---------------------!
+Agora é a hora de <LF>
+rezarmos pelo fim<LF>
+dos incidentes.<Button><EB>
+!*********************!
+<@PointerIdx101>
+<Char: 0 71><0xF1: 0>Acalenta-te, caos!<Button><CR>
+!---------------------!
+Acalenta-te, caos!<Button><CR>
+!---------------------!
+Rezemos juntos!<Button><EB>
+!*********************!
+<@PointerIdx102>
+<Char: 0 70><0xF1: 0>Jamais achei que uma<LF>
+coisa dessas iria<LF>
+acontecer.<Button><EB>
+!*********************!
+<@PointerIdx103>
+<Char: 0 66><0xF1: 0>O povo do KotoPlaza<LF>
+reza pela paz sempre<LF>
+e sempre.<Button><EB>
+!*********************!
+<@PointerIdx104>
+<Char: 0 71><0xF1: 0>O mundo real está à<LF>
+beira da destruição...<Button><CR>
+!---------------------!
+Tudo que podemos fazer<LF>
+agora é rezar.<Button><CR>
+!---------------------!
+Acalenta-te, caos!<Button><CR>
+!---------------------!
+Acalenta-te, caos!<Button><EB>
+!*********************!
+<@PointerIdx105>
+<@PointerIdx106>
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<@PointerIdx111>
+<@PointerIdx112>
+<@PointerIdx113>
+<@PointerIdx114>
+<@PointerIdx115>
+<@PointerIdx116>
+<@PointerIdx117>
+<@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<@PointerIdx121>
+<@PointerIdx122>
+<@PointerIdx123>
+<@PointerIdx124>
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<@PointerIdx131>
+<@PointerIdx132>
+<@PointerIdx133>
+<@PointerIdx134>
+<@PointerIdx135>
+<@PointerIdx136>
+<@PointerIdx137>
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<@PointerIdx141>
+<@PointerIdx142>
+<@PointerIdx143>
+<@PointerIdx144>
+<@PointerIdx145>
+<@PointerIdx146>
+<@PointerIdx147>
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<Char: 0 66><0xF1: 0>Todo mundo sumiu...<Button><CR>
+!---------------------!
+Mas eu ainda escuto<LF>
+vozes vindas de algum<LF>
+lugar...<Button><EB>
+!*********************!
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<@PointerIdx161>
+<@PointerIdx162>
+<@PointerIdx163>
+<@PointerIdx164>
+<@PointerIdx165>
+<@PointerIdx166>
+<@PointerIdx167>
+<@PointerIdx168>
+<@PointerIdx169>
+<@PointerIdx170>
+<@PointerIdx171>
+<@PointerIdx172>
+<@PointerIdx173>
+<@PointerIdx174>
+<@PointerIdx175>
+<@PointerIdx176>
+<@PointerIdx177>
+<@PointerIdx178>
+<@PointerIdx179>
+<@PointerIdx180>
+<@PointerIdx181>
+<@PointerIdx182>
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<@PointerIdx191>
+<@PointerIdx192>
+<@PointerIdx193>
+<@PointerIdx194>
+<@PointerIdx195>
+<@PointerIdx196>
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF6: 3 40 1 221 221 255><0xF1: 0>"Somente para Membros"<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>MegaMan usou:<LF>
+"<ItemTbl: 0 40 0>"!<Button><0xF2: 0 83 0><EB>
+!*********************!
+<@PointerIdx222>
+<@PointerIdx223>
+<@PointerIdx224>
+<@PointerIdx225>
+<@PointerIdx226>
+<@PointerIdx227>
+<@PointerIdx228>
+<@PointerIdx229>
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<@PointerIdx236>
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

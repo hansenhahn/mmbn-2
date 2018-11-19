@@ -1,11 +1,11 @@
 <@AbsoluteAddr 7867056>
 <@PointerIdx0>
-<Char: 0 64><0xF1: 0>Enfim, a prova...<LF>
-Tá me dando um frio na<LF>
-barriga, sabe...<Button><CR>
+<Char: 0 64><0xF1: 0>Enfim a prova...<LF>
+Eu tô até com um frio<LF>
+na barriga, sabe...?<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
-<Char: 0 0><0xF1: 0>Sim, eu sei! Entende<LF>
+<Char: 0 0><0xF1: 0>Eu sei, sim! Entende<LF>
 agora por que eu odeio<LF>
 estudar?<Button><CR>
 !---------------------!
@@ -18,10 +18,11 @@ se livrar da culpa!<Button><CR>
 Hora de fazer a prova!<Button><CR>
 !---------------------!
 <Jmp: 0 4><@PointerIdx4>
-<Char: 0 64><0xF1: 0>Lan, como você é...!<LF>
-Tá bom, estou pronto.<LF>
+<Char: 0 64><0xF1: 0>Lan, você é tão...!<LF>
+Tá bom. Estou pronto.<LF>
 Não vai me decepcionar!<Button><CR>
 !---------------------!
 <Jmp: 0 5><@PointerIdx5>
 <Char: 0 0><0xF1: 0>Pode deixar comigo!<Button><EB>
 !*********************!
+

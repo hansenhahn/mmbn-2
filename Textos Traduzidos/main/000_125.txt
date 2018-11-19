@@ -1,7 +1,7 @@
 <@AbsoluteAddr 7932464>
 <@PointerIdx0>
 <Char: 0 0><0xF1: 0>Capitão!<LF>Eu sou um NetLutador<LF>
-municipal!<Button><CR>
+Municipal!<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <Char: 0 59><0xF1: 0>Ah, você é o...<Button><CR>
@@ -14,9 +14,9 @@ Não dá para controlar<LF>
 seu equilíbrio. Por isso<LF>
 todo esse tremelique.<Button><CR>
 !---------------------!
-Se não fizermos alguma<LF>
-coisa, corremos um sério<LF>
-risco de cair.<Button><CR>
+Mas se não fizermos al-<LF>
+guma coisa, corremos um<LF>
+sério risco de cair.<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 0><0xF1: 0>Podem deixar! MegaMan,<LF>

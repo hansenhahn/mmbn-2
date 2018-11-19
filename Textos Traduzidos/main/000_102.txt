@@ -1,6 +1,6 @@
 <@AbsoluteAddr 7917824>
 <@PointerIdx0>
-<Char: 0 64><0xF1: 0>Lan! Mais uma ligação!?<Button><CR>
+<Char: 0 64><0xF1: 0>Lan! Outra ligação!?<Button><CR>
 !---------------------!
 <Jmp: 0 1><@PointerIdx1>
 <Char: 0 0><0xF1: 0>Eu sei! Alô?<Button><CR>

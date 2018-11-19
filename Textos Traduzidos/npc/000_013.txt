@@ -1,0 +1,1282 @@
+<@PointerIdx0>
+<0xF3: 4 64 72 140 255><0xF3: 4 61 61 130 255><0xF3: 4 58 60 120 255><0xF3: 4 56 57 110 255><0xF3: 4 55 55 100 255><0xF3: 4 32 47 80 255><0xF3: 4 17 17 40 255><0xF3: 4 16 31 30 255><0xF6: 3 59 1 15 15 255><0xF6: 3 4 1 7 7 255><0xF3: 0 78 2 255 15><Char: 0 37><0xF1: 0>Bem-vindo ao Centro.<Button><CR>
+!---------------------!
+Em que posso ajudá-lo? <Dly: 1 30 0><LF>
+Ah, não veio se inscre-<LF>
+ver para tirar a licença?<Button><CR>
+!---------------------!
+<Char: 1 239 0>g<Pos: 0 2>Não, não vim<LF>
+<Arrow: 17 0><Pos: 0 2>Sim, eu vim sim!<CondJmp: 6 128 255 1 255>
+!---------------------!
+<Char: 0 37><0xF1: 0>Foi o que imaginei.<LF>
+Bom, fique quietinho e<LF>
+não incomode os Oficiais.<Button><EB>
+!*********************!
+<@PointerIdx1>
+<Char: 0 37><0xF1: 0>Mas você ainda deve<LF>
+estar no primário...<Button><CR>
+!---------------------!
+Mostre-me o seu PET.<LF>
+<Arrow: 17 0><Pos: 0 2>Certo <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 128 2 255 255>
+!---------------------!
+Eu preciso dele para lhe<LF>
+dar o formulário para<LF>
+você fazer a prova.<Button><EB>
+!*********************!
+<@PointerIdx2>
+<Char: 0 37><0xF1: 0>Ah, você tem uma <LF>
+<ItemTbl: 0 58 0> <Dly: 1 30 0>. Desculpe<LF>
+por duvidar de você.<Button><CR>
+!---------------------!
+<Jmp: 0 3><@PointerIdx3>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 4 1>Lan recebeu:<LF>
+"<ItemTbl: 0 4 0>"!!<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 7><@PointerIdx4>
+<0xF3: 0 78 2 255 16><Char: 0 36><0xF1: 0>Somente NetLutadores<LF>
+com licenças de B para<LF>
+cima podem entrar aqui.<Button><CR>
+!---------------------!
+Uma <ItemTbl: 0 58 0> não basta.<LF>
+E é preciso também um<LF>
+formulário para entrar.<Button><EB>
+!*********************!
+<@PointerIdx5>
+<0xF3: 4 61 61 131 255><0xF3: 4 56 57 111 255><0xF3: 4 55 55 101 255><0xF3: 4 21 21 50 255><0xF3: 4 20 20 44 255><0xF3: 4 16 19 32 255><0xF6: 3 59 1 20 20 255><0xF6: 3 4 1 6 6 255><0xF3: 0 78 2 255 16><Char: 0 36><0xF1: 0>Aonde pensa que vai?<LF>
+É preciso uma licença de<LF>
+B para cima para entrar.<Button><CR>
+!---------------------!
+Só a <ItemTbl: 0 58 0> não basta<LF>
+E é preciso também um<LF>
+formulário para tirá-la.<Button><EB>
+!*********************!
+<@PointerIdx6>
+<Char: 0 36><0xF1: 0>Você arranjou uma<LF>
+<ItemTbl: 0 4 0>? Nesse<LF>
+caso, por aqui.<Button><EB>
+!*********************!
+<@PointerIdx7>
+<Char: 0 37><0xF1: 0>A sala de provas fica<LF>
+por ali, passando o<LF>
+balcão.<Button><EB>
+!*********************!
+<@PointerIdx8>
+<0xF3: 4 61 61 133 255><0xF3: 4 56 57 113 255><0xF3: 4 55 55 103 255><0xF3: 4 32 33 89 255><0xF3: 4 16 21 33 255><Char: 0 36><0xF1: 0>Aqui no Centro, fazemos<LF>
+provas de licenças para<LF>
+NetLutadores<Button><CR>
+!---------------------!
+e atendemos a pedidos<LF>
+online de civis para<LF>
+resolver problemas.<Button><CR>
+!---------------------!
+E lá no último andar<LF>
+fica a unidade de<LF>
+netcrimes.<Button><EB>
+!*********************!
+<@PointerIdx9>
+<0xF3: 4 64 72 141 255><0xF3: 4 61 61 132 255><0xF3: 4 58 60 122 255><0xF3: 4 56 57 112 255><0xF3: 4 55 55 102 255><0xF3: 4 32 33 83 255><0xF3: 4 16 21 34 255><Char: 0 37><0xF1: 0>Há muita gente preocu-<LF>
+pada com o aumento nos<LF>
+netcrimes.<Button><EB>
+!*********************!
+<@PointerIdx10>
+<Char: 0 14><0xF1: 0>Eu preciso de ajuda!<LF>
+O meu fogão tá<LF>
+soltando fogo!<Button><CR>
+!---------------------!
+Como assim "essa<LF>
+história já tá batida"!?<Button><EB>
+!*********************!
+<@PointerIdx11>
+<Char: 0 10><0xF1: 0>Eles consertaram o meu<LF>
+som depois que ele<LF>
+quebrou!<Button><CR>
+!---------------------!
+Parece que foi vírus.<Button><EB>
+!*********************!
+<@PointerIdx12>
+<Char: 0 15><0xF1: 0>Existe um menino que já<LF>
+é NetLutador Oficial.<LF>
+E acima da Classe S!<Button><EB>
+!*********************!
+<@PointerIdx13>
+<Char: 0 13><0xF1: 0>Eu também ouvi falar<LF>
+disso. Parece que o nome<LF>
+dele é Eugene.<Button><EB>
+!*********************!
+<@PointerIdx14>
+<0xF3: 4 64 72 142 255><0xF3: 4 32 33 93 255><Char: 0 39><0xF1: 0>Nós, Oficiais, lutamos<LF>
+para impedir todo tipo<LF>
+de netcrime.<Button><CR>
+!---------------------!
+E vamos impedir a<LF>
+netmáfia de entrar<LF>
+em nosso país!<Button><EB>
+!*********************!
+<@PointerIdx15>
+<Char: 0 37><0xF1: 0>Bem-vindo ao Centro.<Button><EB>
+!*********************!
+<@PointerIdx16>
+<0xF6: 3 4 1 6 6 255><Char: 0 36><0xF1: 0>Aonde pensa que vai?<LF>
+É preciso uma licença de<LF>
+B pra cima para entrar.<Button><CR>
+!---------------------!
+Se já tem uma <ItemTbl: 0 58 0>,<LF>
+logo virá uma notificação<LF>
+pra prova da LicençaB.<Button><EB>
+!*********************!
+<@PointerIdx17>
+<Char: 0 16><0xF1: 0>Quem, eu? Sou uma<LF>
+NetLutadora Oficial,<LF>
+também.<Button><CR>
+!---------------------!
+Ai, tipo, não se pode<LF>
+julgar um livro pela<LF>
+capa! Isso é caô!<Button><EB>
+!*********************!
+<@PointerIdx18>
+<@PointerIdx19>
+<@PointerIdx20>
+<Char: 0 36><0xF1: 0>Todo esse tumulto vem<LF>
+mantendo os nossos<LF>
+Oficiais bem ocupados.<Button><CR>
+!---------------------!
+Especialmente o nosso<LF>
+melhor NetLutador,<LF>
+Eugene Chaud.<Button><EB>
+!*********************!
+<@PointerIdx21>
+<@PointerIdx22>
+<@PointerIdx23>
+<@PointerIdx24>
+<@PointerIdx25>
+<@PointerIdx26>
+<@PointerIdx27>
+<@PointerIdx28>
+<@PointerIdx29>
+<@PointerIdx30>
+<Char: 0 37><0xF1: 0>Bem-vindo ao Centro.<Button><EB>
+!*********************!
+<@PointerIdx31>
+<0xF3: 4 64 72 144 255><0xF3: 4 56 60 117 255><0xF3: 4 22 31 54 255><Char: 0 21><0xF1: 0>E aí, NetLutadores?<LF>
+Dando duro? É a sua<LF>
+tarefa diária, afinal!<Button><CR>
+!---------------------!
+<Jmp: 0 161><@PointerIdx32>
+<Char: 0 36><0xF1: 0>Você tem a licença,<LF>
+certo?<Button><CR>
+!---------------------!
+Sabia que o Centro é o<LF>
+sistema de segurança<LF>
+de Ni-Hon?<Button><CR>
+!---------------------!
+Ele simboliza nossa<LF>
+paz de espírito e<LF>
+segurança.<Button><CR>
+!---------------------!
+Ter uma licença de<LF>
+NetLutador significa<Button><CR>
+!---------------------!
+que você representa<LF>
+os Oficiais.<Button><CR>
+!---------------------!
+Nunca se esqueça disso<LF>
+durante suas<LF>
+aventuras.<Button><EB>
+!*********************!
+<@PointerIdx33>
+<Char: 0 36><0xF1: 0>Netcrimes terríveis estão<LF>
+em ascenção desde o<LF>
+incidente da WWW.<Button><CR>
+!---------------------!
+Os Oficiais andam muito<LF>
+ocupados com esse caos<LF>
+na sociedade virtual...<Button><CR>
+!---------------------!
+De onde será que<LF>
+aquele aparelho estranho<LF>
+saiu? Quem o plantou?<Button><EB>
+!*********************!
+<@PointerIdx34>
+<Char: 0 37><0xF1: 0>Não adianta agir depois<LF>
+que um crime já se deu.<LF>
+É tarde demais.<Button><CR>
+!---------------------!
+Por isso promovemos<LF>
+a prevenção dos crimes.<Button><EB>
+!*********************!
+<@PointerIdx35>
+<0xF3: 4 21 21 51 255><0xF3: 4 20 20 45 255><Char: 0 39><0xF1: 0>Só hoje, a gente já<LF>
+resolveu três casos.<Button><CR>
+!---------------------!
+Não só atendemos a
+<LF>
+pedidos de neutralizar<LF>
+vírus<Button><CR>
+!---------------------!
+como também de achar<LF>
+pessoas desaparecidas,<LF>
+trocar chips e mais!<Button><EB>
+!*********************!
+<@PointerIdx36>
+<0xF3: 4 61 61 136 255><0xF3: 4 56 57 116 255><0xF3: 4 20 21 46 255><Char: 0 10><0xF1: 0>Eu adoro o Centro!<Button><CR>
+!---------------------!
+É tão da hora!<Button><EB>
+!*********************!
+<@PointerIdx37>
+<0xF3: 4 61 61 134 255><0xF3: 4 56 57 114 255><0xF3: 4 55 55 104 255><0xF3: 4 20 21 47 255><Char: 0 15><0xF1: 0>Crianças e adultos ficam<LF>
+em igual patamar no<LF>
+mundo cibernético.<Button><CR>
+!---------------------!
+Uma criança pode ser<LF>
+melhor que muito adulto<LF>
+em exterminar vírus.<Button><EB>
+!*********************!
+<@PointerIdx38>
+<0xF3: 4 61 61 135 255><0xF3: 4 56 57 115 255><0xF3: 4 55 55 105 255><0xF3: 4 20 21 48 255><Char: 0 13><0xF1: 0>Isso é bem verdade...<Button><CR>
+!---------------------!
+As crianças absorvem<LF>
+novas técnicas e ideias<LF>
+feito umas esponjas.<Button><EB>
+!*********************!
+<@PointerIdx39>
+<@PointerIdx40>
+<Char: 0 37><0xF1: 0>Bem-vindo ao Centro.<Button><CR>
+!---------------------!
+Ah, está aqui para tirar<LF>
+sua LicençaA?<Button><CR>
+!---------------------!
+Mas você não acabou de<LF>
+tirar sua LicençaB?<Button><CR>
+!---------------------!
+Que menino ambicioso,<LF>
+você!<Button><EB>
+!*********************!
+<@PointerIdx41>
+<@PointerIdx42>
+<@PointerIdx43>
+<@PointerIdx44>
+<Char: 0 36><0xF1: 0>Então você tirou sua<LF>
+<ItemTbl: 0 60 0>?<Button><CR>
+!---------------------!
+Fantástico. Bom, continue<LF>
+aprimorando suas<LF>
+habilidades.<Button><EB>
+!*********************!
+<@PointerIdx45>
+<Char: 0 39><0xF1: 0>Você tem a <ItemTbl: 0 60 0>?<LF>
+Mesmo sendo tão<LF>
+novinho assim?<Button><CR>
+!---------------------!
+Parece até o Chaud.<LF>
+Essas crianças de hoje<LF>
+em dia tão com tudo!<Button><EB>
+!*********************!
+<@PointerIdx46>
+<Char: 0 10><0xF1: 0>Oficial de la Barbarossa...<LF>
+Canhão Perigo!!<Button><CR>
+!---------------------!
+VIUUUCHI!<LF>
+BRUUUUUMMMM!<Button><CR>
+!---------------------!
+Ha ha ha!<Button><EB>
+!*********************!
+<@PointerIdx47>
+<Char: 0 15><0xF1: 0>Ficou sabendo? Um<LF>
+menininho aí tirou a<LF>
+<ItemTbl: 0 60 0>.<Button><EB>
+!*********************!
+<@PointerIdx48>
+<Char: 0 13><0xF1: 0>Mas isso é fantástico!<Button><CR>
+!---------------------!
+O futuro de Ni-Hon já<LF>
+está assegurado. Ho ho!<Button><EB>
+!*********************!
+<@PointerIdx49>
+<@PointerIdx50>
+<Char: 0 36><0xF1: 0>Não tem ninguém no<LF>
+SaboPlaza?<Button><CR>
+!---------------------!
+Talvez estejam offline<LF>
+por causa de algum<LF>
+feriado... né?<Button><EB>
+!*********************!
+<@PointerIdx51>
+<Char: 0 39><0xF1: 0>Você foi pro SaboPlaza?<Button><CR>
+!---------------------!
+Lá fica sempre lotado de<LF>
+gente. É muito legal<LF>
+pra extravasar!<Button><CR>
+!---------------------!
+O quê? Não tinha ninguém<LF>
+lá?<Button><CR>
+!---------------------!
+Ha! Impossível. Você<LF>
+devia estar sonhando.<Button><EB>
+!*********************!
+<@PointerIdx52>
+<@PointerIdx53>
+<@PointerIdx54>
+<Char: 0 21><0xF1: 0>O que eu posso fazer<LF>
+para proteger nossa<LF>
+Ni-Hon...<Button><CR>
+!---------------------!
+é treinar NetLutadores<LF>
+como você! É nisso que<LF>
+eu acredito!<Button><CR>
+!---------------------!
+<Jmp: 0 161><@PointerIdx55>
+<Char: 0 37><0xF1: 0>Nunca estivemos em um<LF>
+estado de alerta tão<LF>
+elevado.<Button><CR>
+!---------------------!
+Não entre na Rede<LF>
+agora, ouviu!? É perigoso<LF>
+demais se conectar!<Button><EB>
+!*********************!
+<@PointerIdx56>
+<Char: 0 36><0xF1: 0>Se o Plaza fosse<LF>
+atacado,<Button><CR>
+!---------------------!
+será que seríamos<LF>
+capazes de defendê-lo?<Button><EB>
+!*********************!
+<@PointerIdx57>
+<Char: 0 37><0xF1: 0>Até nós, balconistas,<LF>
+podemos lutar se<LF>
+necessário!<Button><CR>
+!---------------------!
+Cai dentro!<Button><EB>
+!*********************!
+<@PointerIdx58>
+<Char: 0 36><0xF1: 0>Pra ser sincero, eu não<LF>
+me dou bem com lutas<LF>
+anti-vírus.<Button><CR>
+!---------------------!
+Mas faz parte do<LF>
+trabalho, então...<Button><EB>
+!*********************!
+<@PointerIdx59>
+<Char: 0 39><0xF1: 0>Nós vamos defender<LF>
+estas instalações!<Button><EB>
+!*********************!
+<@PointerIdx60>
+<0xF3: 4 27 31 69 255><Char: 0 16><0xF1: 0>Pros Oficiais estarem<LF>
+nesse pepino todo,<Button><CR>
+!---------------------!
+deve ter, tipo, uma coisa<LF>
+aí que tá acontecendo,<LF>
+e que é séria!<Button><CR>
+!---------------------!
+Olha aqui. Tô toda
+<LF>
+arrepiada!<Button><EB>
+!*********************!
+<@PointerIdx61>
+<0xF3: 4 27 31 70 255><Char: 0 18><0xF1: 0>Ah, os Oficiais sempre<LF>
+resolvem todo tipo de<LF>
+crime.<Button><CR>
+!---------------------!
+Por isso eu não estou<LF>
+nem um pouquinho<LF>
+preocupado. Ha ha!<Button><EB>
+!*********************!
+<@PointerIdx62>
+<0xF3: 4 28 31 78 255><0xF3: 4 27 27 71 255><Char: 0 34><0xF1: 0>Faz tempo desde a<LF>
+última vez que eu vim<LF>
+aqui...<Button><CR>
+!---------------------!
+Pra que todo esse<LF>
+alvoroço?<Button><EB>
+!*********************!
+<@PointerIdx63>
+<0xF3: 4 28 31 79 255><0xF3: 4 27 27 72 255><Char: 0 30><0xF1: 0>Ha! Aposto que é algum<LF>
+tipo de reunião ou<LF>
+treinamento.<Button><CR>
+!---------------------!
+"Sentido"! Ou seja lá<LF>
+como for que eles falam<LF>
+aqui.<Button><EB>
+!*********************!
+<@PointerIdx64>
+<Char: 0 37><0xF1: 0><0xF3: 4 28 31 73 255>O-o Plaza foi tomado...<LF>
+Não posso acreditar...<Button><EB>
+!*********************!
+<@PointerIdx65>
+<0xF3: 4 28 31 74 255><Char: 0 36><0xF1: 0>Não fomos fortes o<LF>
+bastante para encarar<LF>
+o desafio. Eu sinto muito.<Button><EB>
+!*********************!
+<@PointerIdx66>
+<0xF3: 4 28 31 75 255><Char: 0 37><0xF1: 0>Há tempos eu só fico<LF>
+atrás deste balcão.<Button><CR>
+!---------------------!
+Mas agora...<Button><CR>
+!---------------------!
+Precisamos deter os<LF>
+Navis que tomaram o<LF>
+Plaza!<Button><EB>
+!*********************!
+<@PointerIdx67>
+<0xF3: 0 140 2 255 99><0xF3: 4 28 31 76 255><Char: 0 36><0xF1: 0>Eu disse que não era bom<LF>
+nessas lutas anti-<LF>
+vírus...<Button><EB>
+!*********************!
+<@PointerIdx68>
+<0xF3: 4 28 31 77 255><Char: 0 39><0xF1: 0>Droga! O que é que há<LF>
+de errado comigo?<Button><CR>
+!---------------------!
+Eu costumava ser muito<LF>
+mais forte que isso...<Button><EB>
+!*********************!
+<@PointerIdx69>
+<Char: 0 16><0xF1: 0>Aí, o que foi?<LF>
+O que é que tá rolando?<Button><CR>
+!---------------------!
+Os Oficiais?<Button><CR>
+!---------------------!
+Ai, tipo, eu sou linda<LF>
+demais pra morrer!<LF>
+Mas a gente já era.<Button><EB>
+!*********************!
+<@PointerIdx70>
+<Char: 0 18><0xF1: 0>Os Oficiais foram<LF>
+derrotados?<Button><CR>
+!---------------------!
+Isso é terrível!<LF>
+Essa não... essa NÃO!<Button><EB>
+!*********************!
+<@PointerIdx71>
+<Char: 0 34><0xF1: 0>Parece que a operação
+<LF>
+foi um fracasso.<Button><EB>
+!*********************!
+<@PointerIdx72>
+<Char: 0 30><0xF1: 0>Pensei que era só treino,<LF>
+mas acho que aconteceu<LF>
+mesmo alguma coisa aqui.<Button><EB>
+!*********************!
+<@PointerIdx73>
+<Char: 0 37><0xF1: 0>O computador-matriz<LF>
+é o núcleo de Ni-Hon.<Button><CR>
+!---------------------!
+Se perdermos ele, toda<LF>
+a Ni-Hon poderá ser<LF>
+desligada.<Button><EB>
+!*********************!
+<@PointerIdx74>
+<Char: 0 36><0xF1: 0>O quê!? O inimigo se<LF>
+infiltrou no computador-<LF>
+matriz!?<Button><CR>
+!---------------------!
+Esse é o nosso fim.<Button><CR>
+!---------------------!
+Mas... se aquele que<LF>
+abateu os Navis do Plaza<LF>
+vier nos ajudar...<Button><CR>
+!---------------------!
+Pode ser que tenhamos<LF>
+uma chance.<Button><EB>
+!*********************!
+<@PointerIdx75>
+<Char: 0 37><0xF1: 0>Tudo que podemos fazer<LF>
+é rezar para que o<LF>
+Chaud apareça.<Button><CR>
+!---------------------!
+E ainda assim, é possível<LF>
+que nem mesmo ele<LF>
+seja capaz de detê-los.<Button><EB>
+!*********************!
+<@PointerIdx76>
+<Char: 0 36><0xF1: 0>Os Navis que atacaram<LF>
+o Plaza...<Button><CR>
+!---------------------!
+Eles se apresentaram<LF>
+como "a Gospel".<Button><CR>
+!---------------------!
+Se isso for verdade, as<LF>
+redes de todo o mundo<LF>
+estão em risco.<Button><CR>
+!---------------------!
+Temos que detê-los!<Button><EB>
+!*********************!
+<@PointerIdx77>
+<Char: 0 39><0xF1: 0>Os Navis Oficiais aqui<LF>
+já foram praticamente<LF>
+todos vencidos.<Button><CR>
+!---------------------!
+Como vamos proteger o<LF>
+computador-matriz<LF>
+agora?<Button><CR>
+!---------------------!
+Precisamos de um<LF>
+NetLutador mestre.<Button><EB>
+!*********************!
+<@PointerIdx78>
+<Char: 0 34><0xF1: 0>Tá, pelo que deu pra<LF>
+entender, é o seguinte...<Button><CR>
+!---------------------!
+Uns Navis que se<LF>
+auto-intitulam a "Gospel"<LF>
+tomaram o Centro.<Button><CR>
+!---------------------!
+Mas apareceu alguém
+<LF>que os derrotou.<Button><CR>
+!---------------------!
+Só que era tudo parte do<LF>
+plano deles. Seu alvo era<LF>
+o computador-matriz!<Button><CR>
+!---------------------!
+Ou seja, aqueles Navis<LF>
+eram apenas uma<LF>
+distração!<Button><CR>
+!---------------------!
+A Gospel agora<LF>
+está dentro do<LF>
+computador-matriz.<Button><CR>
+!---------------------!
+A Maioria dos Navis<LF>
+Oficiais foram abatidos<LF>
+pelos Navis do Plaza.<Button><CR>
+!---------------------!
+O Centro está sem<LF>
+recursos para reagir.<Button><EB>
+!*********************!
+<@PointerIdx79>
+<Char: 0 30><0xF1: 0>Ah, entendi.<Button><CR>
+!---------------------!
+Espera, é o quê? As<LF>
+coisas estão mesmo tão<LF>
+ruins assim!?<Button><CR>
+!---------------------!
+Isso é péssimo!<Button><EB>
+!*********************!
+<@PointerIdx80>
+<0xF6: 3 23 1 88 88 255><0xF3: 0 3 2 81 255><Char: 0 37><0xF1: 0>Bem-vindo ao Centro.<LF>
+Em que podemos<LF>
+ajudá-lo?<Button><CR>
+!---------------------!
+<Char: 1 241 0><Arrow: 0 33><Pos: 0 2>Quero um passaporte<LF>
+<Arrow: 17 2><Pos: 0 2>Você é bonita<LF>
+<Arrow: 34 16><Pos: 0 2>Nada, não<CondJmp: 7 128 81 82 255>
+!---------------------!
+<0xff><Char: 0 37>Menino estranho.<Button><EB>
+!*********************!
+<@PointerIdx81>
+<0xF2: 0 3 2><Char: 0 37><0xF1: 0>Um passaporte? Siga<LF>
+para aquele balcão,<LF>
+à direita.<Button><EB>
+!*********************!
+<@PointerIdx82>
+<Char: 0 37><0xF1: 0>Ah, obrigada. <Dly: 1 30 0>Mas você<LF>
+ainda é baixinho demais<LF>
+pra namorar.<Button><EB>
+!*********************!
+<@PointerIdx83>
+<0xF6: 3 23 1 87 87 255><0xF3: 0 3 2 84 255><Char: 0 37><0xF1: 0>Por favor, comece<LF>
+na recepção.<Button><EB>
+!*********************!
+<@PointerIdx84>
+<0xF2: 0 86 2><Char: 0 37><0xF1: 0>Você quer um<LF>
+passaporte?<Button><CR>
+!---------------------!
+Certo. É só conectar<LF>
+o seu PET naquele<LF>
+computador.<Button><CR>
+!---------------------!
+<Char: 1 241 0><0xFA: 12><0xFA: 0 3 1>Teque Teque Teque<Dly: 0 30 0><Button><CR>
+!---------------------!
+<0xFA: 8><Char: 0 37><0xF1: 0>Prontinho!<Button><CR>
+!---------------------!
+<Jmp: 0 85><@PointerIdx85>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 23 1>Lan recebeu:<LF>
+"<ItemTbl: 0 23 0>"!!<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 86><@PointerIdx86>
+<Char: 0 37><0xF1: 0>O passaporte ficará<LF>
+guardado em formato<LF>
+digital no seu PET.<Button><CR>
+!---------------------!
+Se você perdê-lo,<LF>
+não haverá como<LF>
+recuperar. Tome cuidado!<Button><EB>
+!*********************!
+<@PointerIdx87>
+<Char: 0 37><0xF1: 0>Como eu disse<LF>
+da última vez...<Button><CR>
+!---------------------!
+<Jmp: 0 86><@PointerIdx88>
+<Char: 0 37><0xF1: 0>Você tem um passaporte.<Dly: 1 30 0><LF>
+Hi hi.<Button><EB>
+!*********************!
+<@PointerIdx89>
+<Char: 0 36><0xF1: 0>Aqui emitimos passaportes<LF>
+para NetLutadores<LF>
+Oficiais e Municipais.<Button><CR>
+!---------------------!
+Fazemos tudo para o<LF>
+maior conforto de nossos<LF>
+NetLutadores.<Button><EB>
+!*********************!
+<@PointerIdx90>
+<Char: 0 18><0xF1: 0>Ei, você sabe o que é<LF>
+um passaporte?<LF>
+<Arrow: 17 0><Pos: 0 2>Sei <Arrow: 0 17><Pos: 0 2>Não sei<CondJmp: 6 128 91 255 255>
+!---------------------!
+O passaporte prova que<LF>
+você é de Ni-Hon.<Button><CR>
+!---------------------!
+Quando se está no exte-<LF>
+rior, ele é tão importante<LF>
+quanto a própria vida.<Button><CR>
+!---------------------!
+Se perdê-lo, ai de você.<LF>
+Só com ele você pode<LF>
+voltar pra cá.<Button><EB>
+!*********************!
+<@PointerIdx91>
+<Char: 0 18><0xF1: 0>Bom, o importante é que<LF>
+você sabe.<Button><EB>
+!*********************!
+<@PointerIdx92>
+<Char: 0 36><0xF1: 0>Você é o filho do Hikari!<Button><CR>
+!---------------------!
+Graças a você, o Centro<LF>
+está operando<LF>
+normalmemnte!<Button><EB>
+!*********************!
+<@PointerIdx93>
+<Char: 0 39><0xF1: 0>Faz parte da vida de<LF>
+NetLutador Oficial<LF>
+treinar duro todo dia.<Button><CR>
+!---------------------!
+Mas teremos que treinar<LF>
+ainda mais duro se qui-<LF>
+sermos vencer a Gospel.<Button><EB>
+!*********************!
+<@PointerIdx94>
+<0xF3: 4 64 72 143 255><Char: 0 13><0xF1: 0>Estamos todo muito<LF>
+gratos a você.<Button><CR>
+!---------------------!
+Mas não se esqueça:<Button><CR>
+!---------------------!
+Você venceu o Dark<LF>
+porque lutou lado a lado<LF>
+com Chaud e os demais.<Button><EB>
+!*********************!
+<@PointerIdx95>
+<Char: 0 64><0xF1: 0>Lan, chegou e-mail!<Button><EB>
+!*********************!
+<@PointerIdx96>
+<0xF2: 12 23 7><Jmp: 0 95><@PointerIdx97>
+<0xF2: 12 24 7><Jmp: 0 95><@PointerIdx98>
+<@PointerIdx99>
+<0xF2: 0 140 2><Char: 0 36><0xF1: 0>Eu perdi...<Button><CR>
+!---------------------!
+Pode ficar. Será inútil<LF>
+em minhas mãos<LF>
+perdedoras...<Button><CR>
+!---------------------!
+<Char: 1 248 0><0xF8: 4 24><0xF6: 16 29 0 17 1>Lan recebeu o chip<LF>
+"<ItemTbl: 0 29 1> <ItemTbl: 0 17 3>"!!<Button><0xF8: 12><0xF8: 16><0xF8: 8><EB>
+!*********************!
+<@PointerIdx100>
+<Char: 0 37><0xF1: 0>Bem-vindo ao Centro!<Button><EB>
+!*********************!
+<@PointerIdx101>
+<Char: 0 36><0xF1: 0>Ouvi dizer que a Gospel<LF>
+anda causando problemas<LF>
+na Ameropa.<Button><CR>
+!---------------------!
+Mas nunca imaginei que<LF>
+ela iria atacar o QG<LF>
+dos Oficiais...<Button><CR>
+!---------------------!
+Quem é essa Gospel,<LF>
+afinal de contas?<Button><EB>
+!*********************!
+<@PointerIdx102>
+<Char: 0 37><0xF1: 0>Os crimes da Gospel<LF>
+estão cada vez piores.<Button><CR>
+!---------------------!
+Será que os nossos<LF>
+Oficiais são capazes de<LF>
+lidar com todos eles?<Button><EB>
+!*********************!
+<@PointerIdx103>
+<Char: 0 36><0xF1: 0>Deter netcrimes de<LF>
+escala global<Button><CR>
+!---------------------!
+é o nosso dever.<Button><EB>
+!*********************!
+<@PointerIdx104>
+<Char: 0 15><0xF1: 0>Os Oficiais parecem<LF>
+tão... determinados.<LF>
+Mais do que o normal.<Button><EB>
+!*********************!
+<@PointerIdx105>
+<Char: 0 13><0xF1: 0>É! Como se tivessem<LF>
+renovado as baterias!<Button><EB>
+!*********************!
+<@PointerIdx106>
+<0xF3: 4 61 61 137 255><Char: 0 14><0xF1: 0>Com todos esses<LF>
+incidentes nesses<LF>
+últimos dias,<Button><CR>
+!---------------------!
+os Oficiais estão se<LF>
+dedicando mais do que<LF>
+nunca!<Button><EB>
+!*********************!
+<@PointerIdx107>
+<@PointerIdx108>
+<@PointerIdx109>
+<@PointerIdx110>
+<Char: 0 37><0xF1: 0>Primeiro terremotos,<LF>
+agora maremotos...<Button><CR>
+!---------------------!
+Como o Centro fica à<LF>
+beira do mar, isso é<LF>
+especialmente perigoso.<Button><CR>
+!---------------------!
+Mas nós nos recusamos<LF>
+a recuar.<Button><EB>
+!*********************!
+<@PointerIdx111>
+<Char: 0 36><0xF1: 0>Parece que a Rede está<LF>
+com problemas agora,<Button><CR>
+!---------------------!
+mas seria uma péssima<LF>
+ideia entrar lá sem um<LF>
+plano de ação.<Button><EB>
+!*********************!
+<@PointerIdx112>
+<Char: 0 37><0xF1: 0>Não param de chegar<LF>
+ligações sobre estragos<LF>
+causados pelo terremoto.<Button><EB>
+!*********************!
+<@PointerIdx113>
+<Char: 0 36><0xF1: 0>Desastres naturais<LF>
+simultâneos ao redor<LF>
+do globo.<Button><CR>
+!---------------------!
+Não pode ser... será<LF>
+que aquele sistema<LF>
+está...?<Button><EB>
+!*********************!
+<@PointerIdx114>
+<Char: 0 15><0xF1: 0>Ouvi dizer que o próprio<LF>
+Centro também corre<LF>
+perigo.<Button><EB>
+!*********************!
+<@PointerIdx115>
+<Char: 0 13><0xF1: 0>Sim, existe risco dele<LF>
+ser atingido por um<LF>
+tsunami.<Button><CR>
+!---------------------!
+É melhor eu ir embora<LF>
+enquanto ainda dá.<LF>
+Eu não sei nadar!<Button><EB>
+!*********************!
+<@PointerIdx116>
+<Char: 0 10><0xF1: 0>Acontecendo o que<LF>
+com Ni-Hon?<Button><CR>
+!---------------------!
+Mas os Oficiais tão aqui,<LF>
+então vai ficar tudo<LF>
+bem... né??<Button><EB>
+!*********************!
+<@PointerIdx117>
+<Char: 0 21><0xF1: 0>Eu sei o que deve ser<LF>
+feito em caso de<LF>
+terremoto!<Button><CR>
+!---------------------!
+Venha! Vamos lutar!<Button><CR>
+!---------------------!
+<Jmp: 0 161><@PointerIdx118>
+<@PointerIdx119>
+<@PointerIdx120>
+<Char: 0 37><0xF1: 0>Acionei um alerta para<LF>
+a segurança de todos.<Button><CR>
+!---------------------!
+Todos os civis foram<LF>
+evacuados.<Button><EB>
+!*********************!
+<@PointerIdx121>
+<Char: 0 36><0xF1: 0>Estamos de olho em in-<LF>
+trusos se aproveitando<LF>
+do caos do terremoto!<Button><EB>
+!*********************!
+<@PointerIdx122>
+<Char: 0 37><0xF1: 0>As pessoas precisam<LF>
+ficar atualizadas.<Button><CR>
+!---------------------!
+Notícias de desastres <LF>
+são de vital importância!<Button><EB>
+!*********************!
+<@PointerIdx123>
+<Char: 0 36><0xF1: 0>Dizem que houve uma<LF>
+pane no Sistema<LF>
+Ambiental.<Button><CR>
+!---------------------!
+O Hikari está fazendo<LF>
+os devidos reparos<LF>
+neste exato instante.<Button><CR>
+!---------------------!
+É um sistema complexo,<LF>
+mas se há alguém que<LF>
+pode contê-lo, é ele!<Button><EB>
+!*********************!
+<@PointerIdx124>
+<Char: 0 39><0xF1: 0>Isso é muito ruim!<Button><CR>
+!---------------------!
+Os perigos dessa nossa<LF>
+sociedade online estão<LF>mais claros que nunca!<Button><EB>
+!*********************!
+<@PointerIdx125>
+<@PointerIdx126>
+<@PointerIdx127>
+<@PointerIdx128>
+<@PointerIdx129>
+<@PointerIdx130>
+<Char: 0 37><0xF1: 0>Bem-vindo ao Centro!<Button><CR>
+!---------------------!
+Não precisamos mais nos<LF>
+preocupar com<LF>
+tremores e tsunamis!<Button><EB>
+!*********************!
+<@PointerIdx131>
+<Char: 0 36><0xF1: 0>O QG da Gospel ficava<LF>
+no KotoPlaza? Incrível.<Button><CR>
+!---------------------!
+Realmente estava bem<LF>
+debaixo do nosso nariz.<Button><EB>
+!*********************!
+<@PointerIdx132>
+<Char: 0 37><0xF1: 0>Recebemos pouquíssimos<LF>
+reclames de danos<LF>
+causados pelos tremores.<Button><CR>
+!---------------------!
+É uma boa notícia.<Button><EB>
+!*********************!
+<@PointerIdx133>
+<Char: 0 36><0xF1: 0>A Gospei foi destruída.<LF>
+Será que o mundo<LF>
+caminhará rumo a paz?<Button><EB>
+!*********************!
+<@PointerIdx134>
+<Char: 0 15><0xF1: 0>Esse foi um terremoto<LF>
+dos grandes.<Button><CR>
+!---------------------!
+Ouvi dizer que ele foi<LF>
+obra da Gospel.<Button><EB>
+!*********************!
+<@PointerIdx135>
+<Char: 0 13><0xF1: 0>Mas agora ela foi<LF>
+destruída, não foi?<Button><CR>
+!---------------------!
+Agora podemos viver em<LF>
+paz, não podemos?<Button><CR>
+!---------------------!
+Mas a Gospel era um<LF>
+grupo sinistro mesmo!<LF>
+... Não era?<Button><EB>
+!*********************!
+<@PointerIdx136>
+<Char: 0 10><0xF1: 0>Os NetLutadores<LF>
+Oficiais salvaram a<LF>
+gente!<Button><CR>
+!---------------------!
+Eu também vou ser um<LF>
+Oficial quando crescer!<Button><EB>
+!*********************!
+<@PointerIdx137>
+<Char: 0 14><0xF1: 0>O terremoto já passou?<LF>
+Ufa! Deu medo, viu?<Button><CR>
+!---------------------!
+Mas temos que ficar<LF>
+atentos. A Gospel pode<LF>
+voltar, cedo ou tarde.<Button><EB>
+!*********************!
+<@PointerIdx138>
+<@PointerIdx139>
+<@PointerIdx140>
+<Char: 0 37><0xF1: 0>Bem-vindo ao Centro.<Button><CR>
+!---------------------!
+Como pode ver,<LF>
+perdemos vários<LF>
+NetLutadores Oficiais.<Button><EB>
+!*********************!
+<@PointerIdx141>
+<Char: 0 37><0xF1: 0>Não temos NetLutadores<LF>
+suficientes para atender<LF>
+a demanda.<Button><EB>
+!*********************!
+<@PointerIdx142>
+<Char: 0 39><0xF1: 0>Rngh...<Dly: 1 30 0> Todos os meus<LF>
+colegas NetLutadores...<Dly: 1 15 0><LF>
+Se foram...<Button><EB>
+!*********************!
+<@PointerIdx143>
+<Char: 0 13><0xF1: 0>As minhas habilidades de<LF>
+operação ainda são<LF>
+páreas para os jovens.<Button><CR>
+!---------------------!
+Mas o meu Navi está<LF>
+velho demais pra lutar<LF>
+contra esses vírus.<Button><EB>
+!*********************!
+<@PointerIdx144>
+<Char: 0 21><0xF1: 0>Eu também quero lutar<LF>
+contra a Gospel!<Button><CR>
+!---------------------!
+Mas as NetLutas são<LF>
+meu dever!<Button><CR>
+!---------------------!
+<Jmp: 0 161><@PointerIdx145>
+<Char: 0 14><0xF1: 0>Já chegou a minha vez?<Button><EB>
+!*********************!
+<@PointerIdx146>
+<Char: 0 51><0xF1: 0>O meu tradutor quebrou!<Button><EB>
+!*********************!
+<@PointerIdx147>
+<Char: 0 18><0xF1: 0>O meu Navi sumiu, e com<LF>
+ele, todos os meus<LF>
+arquivos de trabalho!<Button><EB>
+!*********************!
+<@PointerIdx148>
+<@PointerIdx149>
+<@PointerIdx150>
+<@PointerIdx151>
+<@PointerIdx152>
+<@PointerIdx153>
+<@PointerIdx154>
+<@PointerIdx155>
+<@PointerIdx156>
+<@PointerIdx157>
+<@PointerIdx158>
+<@PointerIdx159>
+<@PointerIdx160>
+<0xF3: 0 182 0 31 255><0xF2: 0 182 0><Char: 0 21><0xF1: 0>Olá! Sou um NetLutador<LF>
+Supremo enviado pelos<LF>
+Laboratórios Hikari!<Button><CR>
+!---------------------!
+Eu sou sem igual. Sei de<LF>
+tudo que há para saber<LF>
+sobre NetLutas!<Button><CR>
+!---------------------!
+Não perdi nenhuma das<LF>
+minhas últimas 69 lutas.<LF>
+Acha que pode comigo?<Button><CR>
+!---------------------!
+<Jmp: 0 161><@PointerIdx161>
+<Char: 0 64><0xF1: 0>Lan, quer desafiar o<LF>
+Sr. Famoso?<LF>
+<Arrow: 17 0><Pos: 0 2>Quero <Arrow: 0 17><Pos: 0 2>Não<LF>
+<CondJmp: 6 129 162 164 255>
+!---------------------!
+<EB>
+!*********************!
+<@PointerIdx162>
+<0xF3: 0 178 0 165 255><0xF3: 0 185 0 178 255><0xF3: 0 184 0 177 255><0xF3: 0 183 0 176 255><Char: 0 21><0xF1: 0>Tudo bem! Mas o GateMan<LF>
+é forte demais. Vou dar<LF>
+uma vantagem...<Dly: 1 30 0> Vamos!<Button><CR>
+!---------------------!
+<Jmp: 0 163><@PointerIdx163>
+<0xF2: 0 178 0><0xF1: 1><Dly: 255 0 0><@PointerIdx164>
+<0xF2: 4 179 0><0xF2: 4 180 0><0xF2: 4 181 0><Char: 0 21><0xF1: 0>Pronto quando você<LF>
+estiver!<Button><EB>
+!*********************!
+<@PointerIdx165>
+<0xF2: 4 179 0><0xF2: 4 180 0><0xF2: 4 181 0><Char: 0 21><0xF1: 0>Só um instante! Estou a<LF>
+segundos de bolar uma<LF>
+nova técnica incrível!<Button><EB>
+!*********************!
+<@PointerIdx166>
+<0xF3: 0 179 0 167 255><0xF3: 0 180 0 169 255><0xF3: 0 181 0 171 171><@PointerIdx167>
+<0xF3: 0 183 0 174 255><Char: 0 21><0xF1: 0>Apesar de ter usufruido<LF>
+da vantagem, você é
+<LF>
+bom! Tome, um presente!<Button><CR>
+!---------------------!
+<Jmp: 0 168><@PointerIdx168>
+<0xF2: 0 183 0><0xF2: 4 179 0><Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 0 96 1>Lan recebeu o<LF>
+PowerUp<LF>
+"<ItemTbl: 0 96 0>"!!<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 173><@PointerIdx169>
+<0xF3: 0 184 0 174 255><Char: 0 21><0xF1: 0>Nada mal! Essa luta<LF>
+foi intensa pra valer!<Button><CR>
+!---------------------!
+Talvez você seja capaz<LF>
+de usar o diretório!<Button><CR>
+!---------------------!
+Experimente!<Button><CR>
+!---------------------!
+<Jmp: 0 170><@PointerIdx170>
+<0xF2: 0 184 0><0xF2: 4 180 0><Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xFB: 52> <0xFA: 0 133 0>Lan recebeu:<LF>
+"Diretório do Famoso"!!<0xF8: 12><0xF8: 16><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 179><EB>
+!*********************!
+<@PointerIdx171>
+<0xF3: 0 185 0 174 255><Char: 0 21><0xF1: 0>Não... somente uma<LF>
+pessoa foi capaz de me<LF>
+vencer até hoje...<Button><CR>
+!---------------------!
+<Jmp: 0 172><@PointerIdx172>
+<0xF2: 0 185 0><0xF2: 4 181 0><EB>
+!*********************!
+<@PointerIdx173>
+<Char: 0 21><0xF1: 0>Nada mal! Continue<LF>
+treinando e depois venha<LF>
+me desafiar de novo!<Button><EB>
+!*********************!
+<@PointerIdx174>
+<Char: 0 21><0xF1: 0>Eu só posso estar<LF>
+sonhando. Não posso<LF>
+continuar perdendo assim!<Button><EB>
+!*********************!
+<@PointerIdx175>
+<Char: 0 21><0xF1: 0>Ha ha! Não desanime!<LF>
+Você é muito bom!<Button><EB>
+!*********************!
+<@PointerIdx176>
+<Char: 0 21><0xF1: 0>Desta vez eu não vou<LF>
+me conter... tanto.<LF>
+Preprare-se!<Button><CR>
+!---------------------!
+<Jmp: 0 163><@PointerIdx177>
+<Char: 0 21><0xF1: 0>Pois bem...<LF>
+contemple A Lenda do<LF>
+SR. FAMOSO!!<Button><CR>
+!---------------------!
+<Jmp: 0 163><@PointerIdx178>
+<Char: 0 21><0xF1: 0>Não vou deixá-lo me<LF>
+humilhar ainda mais! Darei<LF>
+100% de mim agora!<Button><CR>
+!---------------------!
+<Jmp: 0 163><@PointerIdx179>
+<Char: 0 21><0xF1: 0>Eu mandarei as<LF>
+instruções do diretório<LF>
+por e-mail!<Button><CR>
+!---------------------!
+Leia-as com atenção!<Button><EB>
+!*********************!
+<@PointerIdx180>
+<0xF3: 8 16 255 182><Char: 0 22><0xF1: 0>Quer negociar uns<LF>
+subchips com você.<LF>
+Dê só uma olhada.<Button><CR>
+!---------------------!
+<Arrow: 17 0><Pos: 0 2>Certo <Arrow: 0 17><Pos: 0 2>Não<CondJmp: 6 0 255 181 255>
+!---------------------!
+<0xFB: 20 18><@PointerIdx181>
+<CR>
+!---------------------!
+"Velho que se cuida,<LF>
+cem anos dura".<Button><EB>
+!*********************!
+<@PointerIdx182>
+<Char: 0 22><0xF1: 0>Não... pensando bem, eu<LF>
+estou sem subchips<LF>
+agora.<Button><EB>
+!*********************!
+<@PointerIdx183>
+<@PointerIdx184>
+<@PointerIdx185>
+<@PointerIdx186>
+<@PointerIdx187>
+<@PointerIdx188>
+<@PointerIdx189>
+<@PointerIdx190>
+<0xF3: 0 133 12 196 255><0xF3: 0 144 0 194 255><0xF2: 0 144 0><Char: 0 14><0xF1: 0>Quer trocar chips<LF>
+comigo, rapazinho?<Button><CR>
+!---------------------!
+O programa do meu<LF>
+chuveiro está<LF>
+escangalhado.<Button><CR>
+!---------------------!
+Por isso eu quero um<LF>
+"<ItemTbl: 0 26 1> <ItemTbl: 0 5 3>".<Button><CR>
+!---------------------!
+Banho bom é banho<LF>
+quente. Sim, mesmo no
+<LF>
+calor. Não me julgue.<Button><CR>
+!---------------------!
+Troca pelo meu<LF>
+"<ItemTbl: 0 38 1> <ItemTbl: 0 11 3>"?<LF>
+<Arrow: 17 0><Pos: 0 2>Tudo bem <Arrow: 0 17><Pos: 0 2>Não!<CondJmp: 6 128 191 255 255>
+!---------------------!
+Ora, menino! Isso aqui<LF>
+é uma missão, não sabia<LF>
+não?<Button><CR>
+!---------------------!
+Uma vez que você<LF>
+aceita a missão,<Button><CR>
+!---------------------!
+não tem escolha senão<LF>
+trocar o chip para<LF>
+cumpri-la!<Button><EB>
+!*********************!
+<@PointerIdx191>
+<0xF6: 20 26 0 5 1 255 255 195><0xF2: 4 82 0><0xF6: 17 26 0 5 1><Char: 0 14><0xF1: 0>Você aceita? Ah, que<LF>
+amorzinho!<Button><CR>
+!---------------------!
+Aqui, como prometido.<LF>
+É seu.<Button><CR>
+!---------------------!
+<Jmp: 0 192><@PointerIdx192>
+<Char: 1 241 0><0xF8: 0><0xF8: 4 24><0xF6: 16 38 0 11 1>Lan recebeu o chip<LF>
+"<ItemTbl: 0 38 1> <ItemTbl: 0 11 3>"!!<0xF8: 12><0xF8: 8><Button><CR>
+!---------------------!
+<Jmp: 0 193><@PointerIdx193>
+<0xF2: 0 133 12><Char: 0 14><0xF1: 0>Agora posso voltar ao<LF>
+meu paraíso - banhos<LF>
+quentes!<Button><EB>
+!*********************!
+<@PointerIdx194>
+<Char: 0 14><0xF1: 0>Trouxe o<LF>
+"<ItemTbl: 0 26 1> <ItemTbl: 0 5 3>"?<Button><CR>
+!---------------------!
+Vai trocar pelo meu<LF>
+"<ItemTbl: 0 38 1> <ItemTbl: 0 11 3>"?<LF>
+<Arrow: 17 0><Pos: 0 2>Tudo bem <Arrow: 0 17><Pos: 0 2>Não!<CondJmp: 6 128 191 255 255>
+!---------------------!
+Ora, menino! Isso aqui<LF>
+é uma missão, não sabia<LF>
+não?<Button><CR>
+!---------------------!
+Uma vez que você
+<LF>
+aceita a missão,<Button><CR>
+!---------------------!
+não tem escolha senão<LF>
+trocar o chip para<LF>
+cumpri-la!<Button><EB>
+!*********************!
+<@PointerIdx195>
+<Char: 0 14><0xF1: 0>Você tem mesmo um<LF>
+"<ItemTbl: 0 26 1> <ItemTbl: 0 5 3>"<LF>
+na sua mochila?<Button><CR>
+!---------------------!
+Não está no seu<LF>
+diretório, está?<Button><CR>
+!---------------------!
+Se estiver, tire ele<LF>
+de lá.<Button><CR>
+!---------------------!
+Caso contrário não vai<LF>
+ter como trocá-lo.<Button><EB>
+!*********************!
+<@PointerIdx196>
+<Char: 0 14><0xF1: 0>Ah, nada melhor que um<LF>
+banho quente num dia<LF>
+quente!<Button><EB>
+!*********************!
+<@PointerIdx197>
+<@PointerIdx198>
+<@PointerIdx199>
+<@PointerIdx200>
+<@PointerIdx201>
+<@PointerIdx202>
+<@PointerIdx203>
+<@PointerIdx204>
+<@PointerIdx205>
+<@PointerIdx206>
+<@PointerIdx207>
+<@PointerIdx208>
+<@PointerIdx209>
+<@PointerIdx210>
+<@PointerIdx211>
+<@PointerIdx212>
+<@PointerIdx213>
+<@PointerIdx214>
+<@PointerIdx215>
+<@PointerIdx216>
+<@PointerIdx217>
+<@PointerIdx218>
+<@PointerIdx219>
+<@PointerIdx220>
+<0xF1: 0>É uma máquina de café.<LF>
+Parece ter uma<LF>
+entrada de conexão!<Button><EB>
+!*********************!
+<@PointerIdx221>
+<0xF1: 0>Cheirinho bom de café.<Button><EB>
+!*********************!
+<@PointerIdx222>
+<0xF1: 0>Este é o Computador de<LF>
+Acesso do Centro.<LF>
+Um de vários.<Button><EB>
+!*********************!
+<@PointerIdx223>
+<0xF3: 4 22 255 235 255><0xF1: 0>Você aperta o botão,<LF>
+mas nada acontece.<LF>
+Segurança de ponta.<Button><EB>
+!*********************!
+<@PointerIdx224>
+<0xF3: 4 22 255 236 255><Char: 0 64><0xF1: 0>Lan, você precisa<LF>
+apertar o botão pra<LF>
+usar o elevador.<Button><CR>
+!---------------------!
+E a gente não pode<LF>
+agora porque o sistema<LF>
+de segurança tá ligado.<Button><EB>
+!*********************!
+<@PointerIdx225>
+<0xF1: 0>O computador mais<LF>
+moderno parece tão<LF>
+caro...<Button><EB>
+!*********************!
+<@PointerIdx226>
+<0xF1: 0>É um computador. Não é o<LF>
+mais moderno, mas ainda<LF>
+é de alto desempenho.<Button><EB>
+!*********************!
+<@PointerIdx227>
+<0xF1: 0>Um registro de pessoal.<LF>
+Aqui usam computadores<LF>
+para registrar visitantes.<Button><EB>
+!*********************!
+<@PointerIdx228>
+<0xF1: 0>Este computador contém<LF>
+informações das mais<LF>
+confidenciais.<Button><EB>
+!*********************!
+<@PointerIdx229>
+<0xF1: 0>O tipo de computador<LF>
+ultramoderno que se<LF>
+esperaria do Centro.<Button><EB>
+!*********************!
+<@PointerIdx230>
+<@PointerIdx231>
+<@PointerIdx232>
+<@PointerIdx233>
+<@PointerIdx234>
+<@PointerIdx235>
+<0xF1: 0>A porta do elevador se<LF>
+abriu! Ao andar do<LF>
+laboratório do papai!<Button><0xF2: 0 36 0><0xFB: 28 2><EB>
+!*********************!
+<@PointerIdx236>
+<Char: 0 64><0xF1: 0>Lan, você precisa<LF>
+apertar o botão pra usar<LF>
+o elevador.<Button><EB>
+!*********************!
+<@PointerIdx237>
+<@PointerIdx238>
+<@PointerIdx239>
+<@PointerIdx240>
+<@PointerIdx241>
+<@PointerIdx242>
+<@PointerIdx243>
+<@PointerIdx244>
+<@PointerIdx245>
+<@PointerIdx246>
+<@PointerIdx247>
+<@PointerIdx248>
+<@PointerIdx249>
+<@PointerIdx250>
+<@PointerIdx251>
+<@PointerIdx252>
+<@PointerIdx253>
+<@PointerIdx254>

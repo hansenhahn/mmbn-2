@@ -60,8 +60,9 @@ desapareceu da Rede...<Button><CR>
 !---------------------!
 <Jmp: 0 12><@PointerIdx12>
 <Char: 0 0><0xF1: 0>Mas que droga!!<Dly: 1 30 0><LF>
-A Princesa tá em<LF>
-apuros!<Button><CR>
+A Princesa tá correndo
+<LF>
+perigo!<Button><CR>
 !---------------------!
 <Jmp: 0 13><@PointerIdx13>
 <Char: 1 241 0><0xFA: 12><0xF2: 0 87 2>br-tr-trrrrrrrrrr!!!!<Button><CR>

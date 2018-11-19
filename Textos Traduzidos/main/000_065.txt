@@ -1,18 +1,18 @@
 <@AbsoluteAddr 7890784>
 <@PointerIdx0>
-<Char: 1 241> bipe-bipe!<Button><CR>
+<Char: 1 241> bip-bip!<Button><CR>
 !---------------------!
 Sistema de segurança<LF>
 operacional!!<Button><EB>
 !*********************!
 <@PointerIdx1>
-<Char: 0 0><0xF1: 0>O que foi que<LF>
+<Char: 0 0><0xF1: 0>O que 
 aconteceu!?<Button><CR>
 !---------------------!
 <Jmp: 0 2><@PointerIdx2>
 <Char: 0 64><0xF1: 0>Parece que esse<LF>
-programa é a jóia real<LF>
-de Saborya...<Button><CR>
+programa é tipo a<LF>
+jóia real de Saborya...<Button><CR>
 !---------------------!
 O sistema de segurança<LF>
 foi ativado!<Button><CR>
@@ -32,13 +32,13 @@ desconectar daí!<Button><CR>
 <Jmp: 0 6><@PointerIdx6>
 <Char: 0 64><0xF1: 0>Desconectar!<Button><CR>
 !---------------------!
-.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0>O quê?<LF>
+.<0xEA: 1 20 0>.<0xEA: 1 20 0>.<0xEA: 1 20 0> O quê?<LF>
 Eu não consigo me<LF>
 desconectar!?<Button><CR>
 !---------------------!
 Tem alguma coisa bloque-<LF>
-ando a gente. E um<LF>
-programa sendo iniciado!<Button><CR>
+ando a gente. E um pro-<LF>
+grama sendo executado!<Button><CR>
 !---------------------!
 A gente vai ter que<LF>
 voltar por onde a gente<LF>
