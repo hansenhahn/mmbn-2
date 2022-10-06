@@ -1,0 +1,5 @@
+- Menu esquerdo:
+  - Checar bug nos tiles que aparentemente só ocorre no modo hard
+  - Fonte dos números 0-9: subir posição dos caracteres em 1px, pra ficar alinhado com as letras
+- Batalhas:
+  - Checar bug que trava a rom ao ler descrições de chips apertando o R. Mais propenso a travar em descrições com 4 ou mais linhas.

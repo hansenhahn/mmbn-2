@@ -33,20 +33,20 @@
 ;.org 0x086C0968
 ;.incbin "Gráficos/Editados/0x6C0968 - Busy.gba"
 
-;.org 0x086CB908
-;.incbin "Gráficos/Editados/0x6CB908 - PAUSE.gba"
+.org 0x086CB908
+.incbin "Gráficos/Editados/0x6CB908 - PAUSE.gba"
 
 ;.org 0x086CBFC8
 ;.incbin "Gráficos/Editados/0x6CBFC8 - CUSTOM.gba"
 
-;.org 0x086CC0A8
-;.incbin "Gráficos/Editados/0x6CC0A8 - L or R.gba"
+.org 0x086CC0A8
+.incbin "Gráficos/Editados/0x6CC0A8 - L or R.gba"
 
-;.org 0x086CC808
-;.incbin "Gráficos/Editados/0x6CC808 - CHIP SELECT.gba"
+.org 0x086CC7E8
+.incbin "Gráficos/Editados/0x6CC7E8 - CHIP SELECT.gba"
 
-;.org 0x086CD200
-;.incbin "Gráficos/Editados/0x6CD200 - OK slash ADD.gba"
+.org 0x086CD200
+.incbin "Gráficos/Editados/0x6CD200 - OK slash ADD.gba"
 
 ;.org 0x086CDF20
 ;.incbin "Gráficos/Editados/0x6CDF20 - Fontes nomes batalhas.gba"
@@ -114,11 +114,154 @@
 ;.org 0x087AE730
 ;.incbin "Gráficos/Editados/0x7AE730 - Números andares prédio.gba"
 
-;.org 0x087CE9C0
-;.incbin "Gráficos/Editados/0x7CE9C0 - Nomes menus (folder chips mail).gba"
+; Inserindo gráfico dos nomes dos menus, com as letras da fonte
+.org 0x087CE940
+.incbin "Gráficos/Editados/0x7CE940 - Nomes menus (folder chips mail).gba"
 
-;.org 0x087D08DC
-;.incbin "Gráficos/Editados/0x7D08DC - Nomes menus (folder pack PAmemory patttern chips battles).gba"
+; Editando tilemap dos menus, na parte de cima das letras
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Cima.tbl"
+.org 0x087CF280
+.stringn "Pasta    "
+.org 0x087CF2B4
+.stringn "Subchips "
+.org 0x087CF2E8
+.stringn "Coleção  "
+.org 0x087CF31C
+.stringn "MegaMan  "
+.org 0x087CF350
+.stringn "Email    "
+.org 0x087CF384
+.stringn "Itens    "
+.org 0x087CF3B8
+.stringn "Rede     "
+.org 0x087CF3EC
+.stringn "Salvar   "
+.org 0x087CF420
+.stringn "Sair     "
+
+; Editando tilemap dos menus, na parte de baixo das letras
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Baixo.tbl"
+.org 0x087CF29A
+.stringn "Pasta    "
+.org 0x087CF2CE
+.stringn "Subchips "
+.org 0x087CF302
+.stringn "Coleção  "
+.org 0x087CF336
+.stringn "MegaMan  "
+.org 0x087CF36A
+.stringn "Email    "
+.org 0x087CF39E
+.stringn "Itens    "
+.org 0x087CF3D2
+.stringn "Rede     "
+.org 0x087CF406
+.stringn "Salvar   "
+.org 0x087CF43A
+.stringn "Sair     "
+
+;.org 0x087CF260
+;.incbin "Gráficos/Editados/0x7CF260 - Nomes menus (folder chips mail).tilemap"
+
+; Inserindo gráfico dos nomes dos submenus
+.org 0x087D08DC
+.incbin "Gráficos/Editados/0x7D08DC - Nomes menus (folder pack PAmemory patttern chips battles).gba"
+
+; Editando tilemap dos submenus, na parte de cima das letras
+.loadtable "Tabelas/Telas Menus - Nomes Parte Cima.tbl"
+.org 0x087D2E12
+.stringn " Pasta"
+.org 0x087D39D6
+.stringn " Pasta"
+.org 0x087D3310
+.stringn "[Mochila]"
+.org 0x087D61CA
+.stringn "Subchips"
+.org 0x087D3ECC
+.stringn "Coleção"
+.org 0x087D46C4
+.stringn "Lista P.A."
+.org 0x087D43B6
+.stringn "MegaMan.exe"
+.org 0x087D43E0
+.stringn "Nv."
+.org 0x087D448E
+.stringn "ESTILO"
+.org 0x087D450E
+.stringn "ATAQUE"
+.org 0x087D458E
+.stringn "VELOC."
+.org 0x087D460E
+.stringn "CARGA "
+.org 0x087D4D1C
+.stringn "Email"
+.org 0x087D501A
+.stringn " Itens  "
+.org 0x087D531A
+.stringn " Rede  "
+.org 0x087D5ECC
+.stringn "Salvar"
+.org 0x087D65CE
+.stringn "TrocaEst"
+.org 0x087D5626
+.stringn "TrocaChp"
+
+; Editando tilemap dos submenus, na parte de baixo das letras
+.loadtable "Tabelas/Telas Menus - Nomes Parte Baixo.tbl"
+.org 0x087D2E52
+.stringn " Pasta"
+.org 0x087D3A16
+.stringn " Pasta"
+.org 0x087D3350
+.stringn "[Mochila]"
+.org 0x087D620A
+.stringn "Subchips"
+.org 0x087D3F0C
+.stringn "Coleção"
+.org 0x087D4704
+.stringn "Lista P.A."
+.org 0x087D43F6
+.stringn "MegaMan.exe"
+.org 0x087D4420
+.stringn "Nv."
+.org 0x087D44CE
+.stringn "ESTILO"
+.org 0x087D454E
+.stringn "ATAQUE"
+.org 0x087D45CE
+.stringn "VELOC."
+.org 0x087D464E
+.stringn "CARGA "
+.org 0x087D4D5C
+.stringn "Email"
+.org 0x087D505A
+.stringn " Itens  "
+.org 0x087D535A
+.stringn " Rede  "
+.org 0x087D5F0C
+.stringn "Salvar"
+.org 0x087D660E
+.stringn "TrocaEst"
+.org 0x087D5666
+.stringn "TrocaChp"
+
+; Editando tilemap dos nomes dos estilos na tela "MegaMan", na parte de cima das letras
+.loadtable "Tabelas/Tela MegaMan - Nomes Estilos Cima.tbl"
+.org 0x087D7988
+.stringn "EstlNorm"
+.org 0x087D7BA8
+.stringn "EstlHub"
+
+; Editando tilemap dos nomes dos estilos na tela "MegaMan", na parte de baixo das letras
+.loadtable "Tabelas/Tela MegaMan - Nomes Estilos Baixo.tbl"
+.org 0x087D7998
+.stringn "EstlNorm"
+.org 0x087D7BB8
+.stringn "EstlHub"
+
+; Corrigindo bug no tilemap do gráfico "Choosing", na tela de troca de estilos
+.org 0x087D68D0
+.stringn 0xAD,0x40
 
 ;.org 0x087D8B54
 ;.incbin "Gráficos/Editados/0x7D8B54 - Bug Frag.gba"

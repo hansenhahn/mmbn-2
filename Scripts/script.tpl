@@ -1852,9 +1852,9 @@ script 0 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	MegaBuster
-	Shoot with
-	B Button!
+	Use B para
+	usar o
+	MegaTiro!
 	"""
 	keyWait
 	msgCloseQuick
@@ -1865,8 +1865,10 @@ script 1 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Canhão que
-	ataca 1
+	Tiro de
+	canhão
+	reto que
+	atinge um
 	inimigo
 	"""
 	keyWait
@@ -1878,8 +1880,10 @@ script 2 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Canhão que
-	ataca 1
+	Tiro de
+	canhão
+	reto que
+	atinge um
 	inimigo
 	"""
 	keyWait
@@ -1891,8 +1895,10 @@ script 3 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Canhão que
-	ataca 1
+	Tiro de
+	canhão
+	reto que
+	atinge um
 	inimigo
 	"""
 	keyWait
@@ -1904,9 +1910,10 @@ script 4 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode
+	Atinge o
+	inimigo e
 	1 quadro
-	atrás
+	atrás dele
 	"""
 	keyWait
 	msgCloseQuick
@@ -1917,9 +1924,12 @@ script 5 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode
+	Atinge o
+	inimigo e
 	2 quadros
-	diagonais
+	nas diago-
+	nais tra-
+	seiras
 	"""
 	keyWait
 	msgCloseQuick
@@ -1930,9 +1940,11 @@ script 6 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode
+	Atinge o
+	inimigo e
 	4 quadros
-	diagonais
+	nas diago-
+	nais
 	"""
 	keyWait
 	msgCloseQuick
@@ -1943,7 +1955,9 @@ script 7 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Acerta
+	Atinge o
+	inimigo e
+	todos os
 	quadros
 	ao redor
 	"""
@@ -1956,9 +1970,10 @@ script 8 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode
+	Atinge o
+	inimigo e
 	1 quadro
-	atrás
+	atrás dele
 	"""
 	keyWait
 	msgCloseQuick
@@ -1969,9 +1984,12 @@ script 9 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode 2
-	quadros
-	diagonais
+	Atinge o
+	inimigo e
+	2 quadros
+	nas diago-
+	nais tra-
+	seiras
 	"""
 	keyWait
 	msgCloseQuick
@@ -1982,9 +2000,11 @@ script 10 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode
+	Atinge o
+	inimigo e
 	4 quadros
-	diagonais
+	nas diago-
+	nais
 	"""
 	keyWait
 	msgCloseQuick
@@ -1995,7 +2015,9 @@ script 11 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Acerta
+	Atinge o
+	inimigo e
+	todos os
 	quadros
 	ao redor
 	"""
@@ -2008,9 +2030,10 @@ script 12 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode
+	Atinge o
+	inimigo e
 	1 quadro
-	atrás
+	atrás dele
 	"""
 	keyWait
 	msgCloseQuick
@@ -2021,9 +2044,12 @@ script 13 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode 2
-	quadros
-	diagonais
+	Atinge o
+	inimigo e
+	2 quadros
+	nas diago-
+	nais tra-
+	seiras
 	"""
 	keyWait
 	msgCloseQuick
@@ -2034,9 +2060,11 @@ script 14 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode
+	Atinge o
+	inimigo e
 	4 quadros
-	diagonais
+	nas diago-
+	nais
 	"""
 	keyWait
 	msgCloseQuick
@@ -2047,7 +2075,9 @@ script 15 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Acerta
+	Atinge o
+	inimigo e
+	todos os
 	quadros
 	ao redor
 	"""
@@ -2073,9 +2103,12 @@ script 17 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bomba que
-	explode
-	vertical
+	Joga uma
+	bomba a 3
+	quadros
+	que explo-
+	de uma
+	coluna
 	"""
 	keyWait
 	msgCloseQuick
@@ -2086,9 +2119,12 @@ script 18 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bomba que
-	explode
-	em cruz
+	Joga uma
+	bomba a 3
+	quadros
+	que explo-
+	de em for-
+	ma de cruz
 	"""
 	keyWait
 	msgCloseQuick
@@ -2099,8 +2135,11 @@ script 19 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bomba que
-	explode td
+	Joga bomba
+	a 3 qua-
+	dros que
+	explode
+	quadros
 	ao redor
 	"""
 	keyWait
@@ -2112,9 +2151,11 @@ script 20 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Semente!
-	Molhe para
-	mais poder!
+	Joga uma
+	semente.
+	Atinja com
+	água para
+	atacar
 	"""
 	keyWait
 	msgCloseQuick
@@ -2125,9 +2166,11 @@ script 21 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Semente!
-	Molhe para
-	mais poder!
+	Joga uma
+	semente.
+	Atinja com
+	água para
+	atacar
 	"""
 	keyWait
 	msgCloseQuick
@@ -2138,9 +2181,11 @@ script 22 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Semente!
-	Molhe para
-	mais poder!
+	Joga uma
+	semente.
+	Atinja com
+	água para
+	atacar
 	"""
 	keyWait
 	msgCloseQuick
@@ -2151,9 +2196,10 @@ script 23 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Corta em
-	frente!
-	Alcance 1
+	Corta
+	inimigo
+	um quadro
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -2164,9 +2210,10 @@ script 24 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Corta em
-	frente!
-	Alcance 3
+	Corta
+	uma coluna
+	à sua
+	frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -2177,9 +2224,11 @@ script 25 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Corta em
-	frente!
-	Alcance 2
+	Corta
+	inimigo
+	até dois
+	quadros
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -2191,8 +2240,11 @@ script 26 mmbn2 {
 	msgOpenQuick
 	"""
 	Espada de
-	fogo corta
-	3 vertical
+	fogo que
+	corta uma
+	linha ver-
+	tical à
+	frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -2204,8 +2256,11 @@ script 27 mmbn2 {
 	msgOpenQuick
 	"""
 	Espada de
-	água corta
-	3 vertical
+	água que
+	corta uma
+	linha ver-
+	tical à
+	frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -2216,9 +2271,12 @@ script 28 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Espd elé.
-	corta 3
+	Espada
+	elétrica
+	que corta
+	uma linha
 	vertical
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -2230,8 +2288,11 @@ script 29 mmbn2 {
 	msgOpenQuick
 	"""
 	Espada de
-	fogo corta
-	2 horizon.
+	fogo que
+	corta
+	inimigo
+	2 quadros
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -2243,8 +2304,11 @@ script 30 mmbn2 {
 	msgOpenQuick
 	"""
 	Espada de
-	água corta
-	2 horizon.
+	água que
+	corta
+	inimigo
+	2 quadros
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -2255,9 +2319,12 @@ script 31 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Espada elé-
-	trica corta
-	2 horizon.
+	Espada
+	elétrica
+	que corta
+	inimigo
+	2 quadros
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -2268,8 +2335,11 @@ script 32 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Dá dois pas-
-	sos e corte
+	Você avan-
+	ça dois
+	passos e
+	dá um
+	corte
 	vertical
 	"""
 	keyWait
@@ -2282,7 +2352,8 @@ script 33 mmbn2 {
 	msgOpenQuick
 	"""
 	Espada que
-	usa HP para
+	usa PV
+	para
 	atacar
 	"""
 	keyWait
@@ -2294,9 +2365,12 @@ script 34 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Barra Cust
-	= Força do
-	Ataque
+	A força do
+	ataque é
+	igual à
+	barra de
+	customi-
+	zação
 	"""
 	keyWait
 	msgCloseQuick
@@ -2307,9 +2381,12 @@ script 35 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Kunais 1
-	qd p/ cima
-	e p/ baixo
+	Gira ku-
+	nais nas
+	diagonais
+	à sua
+	frente
+	1 vez
 	"""
 	keyWait
 	msgCloseQuick
@@ -2320,9 +2397,12 @@ script 36 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Kunais 2
-	qds p/ cima
-	e p/ baixo
+	Gira ku-
+	nais nas
+	diagonais
+	à sua
+	frente
+	2 vezes
 	"""
 	keyWait
 	msgCloseQuick
@@ -2333,9 +2413,12 @@ script 37 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Kunais 3
-	qds p/ cima
-	e p/ baixo
+	Gira ku-
+	nais nas
+	diagonais
+	à sua
+	frente
+	3 vezes
 	"""
 	keyWait
 	msgCloseQuick
@@ -2346,9 +2429,10 @@ script 38 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Corta en-
-	quanto segu-
-	rar "A"!
+	Corte en-
+	quanto
+	segurar
+	"A"!
 	"""
 	keyWait
 	msgCloseQuick
@@ -2359,8 +2443,10 @@ script 39 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Eletro-
-	cuta os
+	Onda de
+	choque em
+	linha reta
+	atinge
 	inimigos
 	"""
 	keyWait
@@ -2372,8 +2458,10 @@ script 40 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Eletro-
-	cuta os
+	Onda de
+	choque em
+	linha reta
+	atinge
 	inimigos
 	"""
 	keyWait
@@ -2385,8 +2473,10 @@ script 41 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Eletro-
-	cuta os
+	Onda de
+	choque em
+	linha reta
+	atinge
 	inimigos
 	"""
 	keyWait
@@ -2398,9 +2488,10 @@ script 42 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	O ataque
-	racha o
-	solo
+	Cai a três
+	quadros
+	e racha
+	o quadro
 	"""
 	keyWait
 	msgCloseQuick
@@ -2411,9 +2502,12 @@ script 43 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	O ataque
+	Cai a três
+	quadros,
 	racha o
-	solo
+	quadro
+	e explode
+	vertical
 	"""
 	keyWait
 	msgCloseQuick
@@ -2424,9 +2518,12 @@ script 44 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	O ataque
+	Cai a três
+	quadros,
 	racha o
-	solo
+	quadro
+	e explode
+	em cruz
 	"""
 	keyWait
 	msgCloseQuick
@@ -2437,9 +2534,11 @@ script 45 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Soco que
-	empurra em
-	1 quadro
+	Soco no
+	inimigo
+	à frente
+	que o
+	empurra
 	"""
 	keyWait
 	msgCloseQuick
@@ -2450,9 +2549,12 @@ script 46 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Soco de gelo
-	empurra em
-	1 quadro
+	Soco de
+	gelo no
+	inimigo
+	à frente
+	que o
+	empurra
 	"""
 	keyWait
 	msgCloseQuick
@@ -2463,9 +2565,11 @@ script 47 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
+	Adiciona
 	+20 ao
-	ChipAtq
-	escolhido!
+	chip
+	escolhido
+	em seguida
 	"""
 	keyWait
 	msgCloseQuick
@@ -2476,9 +2580,11 @@ script 48 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
+	Adiciona
 	+30 ao
-	ChipAtq
-	escolhido!
+	chip
+	escolhido
+	em seguida
 	"""
 	keyWait
 	msgCloseQuick
@@ -2489,9 +2595,12 @@ script 49 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
+	Adiciona
 	+40 ao
-	ChipNavi
-	escolhido!
+	chip de
+	Navi
+	escolhido
+	em seguida
 	"""
 	keyWait
 	msgCloseQuick
@@ -2502,8 +2611,11 @@ script 50 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Atravessa
-	inimigos!
+	Ataque em
+	linha reta
+	que atra-
+	vessa
+	inimigos
 	"""
 	keyWait
 	msgCloseQuick
@@ -2514,9 +2626,12 @@ script 51 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Pode quebrar
-	3o. quadro
-	à frente
+	Cai 3
+	quadros à
+	frente,
+	pode
+	quebrar
+	o quadro
 	"""
 	keyWait
 	msgCloseQuick
@@ -2527,9 +2642,12 @@ script 52 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Pode quebrar
-	3o. quadro
-	à frente
+	Cai 3
+	quadros à
+	frente,
+	pode
+	quebrar
+	o quadro
 	"""
 	keyWait
 	msgCloseQuick
@@ -2540,8 +2658,9 @@ script 53 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	2 baterias
-	de agulhas
+	Atira 2
+	agulhas em
+	linha reta
 	"""
 	keyWait
 	msgCloseQuick
@@ -2552,8 +2671,9 @@ script 54 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	3 baterias
-	de agulhas
+	Atira 3
+	agulhas em
+	linha reta
 	"""
 	keyWait
 	msgCloseQuick
@@ -2564,8 +2684,9 @@ script 55 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	4 baterias
-	de agulhas
+	Atira 4
+	agulhas em
+	linha reta
 	"""
 	keyWait
 	msgCloseQuick
@@ -2576,8 +2697,9 @@ script 56 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	3 baterias
-	de lanças
+	Atira 3
+	lanças em
+	linha reta
 	"""
 	keyWait
 	msgCloseQuick
@@ -2588,8 +2710,10 @@ script 57 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Um rato ras-
-	teja e dobra
+	Joga um
+	rato que
+	segue reto
+	e dobra
 	uma vez
 	"""
 	keyWait
@@ -2601,8 +2725,10 @@ script 58 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Um rato ras-
-	teja e dobra
+	Joga um
+	rato que
+	segue reto
+	e dobra
 	uma vez
 	"""
 	keyWait
@@ -2614,8 +2740,10 @@ script 59 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Um rato ras-
-	teja e dobra
+	Joga um
+	rato que
+	segue reto
+	e dobra
 	uma vez
 	"""
 	keyWait
@@ -2627,9 +2755,11 @@ script 60 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Incrível
-	quando você
-	usa fogo
+	Atinja-o
+	com fogo e
+	veja o
+	que
+	acontece
 	"""
 	keyWait
 	msgCloseQuick
@@ -2640,9 +2770,11 @@ script 61 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Tornado de
+	Cria um
+	tornado de
 	8 acertos
-	2 à frente
+	2 quadros
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -2653,9 +2785,11 @@ script 62 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Tornado de
+	Cria um
+	tornado de
 	8 acertos
-	2 à frente
+	2 quadros
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -2666,9 +2800,11 @@ script 63 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Tornado de
+	Cria um
+	tornado de
 	8 acertos
-	2 à frente
+	2 quadros
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -2679,9 +2815,12 @@ script 64 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Envolve
-	você em
-	chamas!
+	Ataque
+	de fogo
+	nos 4
+	quadros
+	ao seu
+	redor
 	"""
 	keyWait
 	msgCloseQuick
@@ -2692,9 +2831,11 @@ script 65 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Anéis elé-
-	tricos que
-	paralizam!
+	Atira anel
+	elétrico
+	que
+	paraliza
+	inimigo
 	"""
 	keyWait
 	msgCloseQuick
@@ -2705,9 +2846,11 @@ script 66 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Anéis elé-
-	tricos que
-	paralizam!
+	Atira anel
+	elétrico
+	que
+	paraliza
+	inimigo
 	"""
 	keyWait
 	msgCloseQuick
@@ -2718,9 +2861,11 @@ script 67 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Anéis elé-
-	tricos que
-	paralizam!
+	Atira anel
+	elétrico
+	que
+	paraliza
+	inimigo
 	"""
 	keyWait
 	msgCloseQuick
@@ -2731,9 +2876,12 @@ script 68 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Esporos no-
-	civos sobre
-	toda a grama
+	Solta
+	esporos
+	nocivos
+	nos
+	quadros
+	de grama
 	"""
 	keyWait
 	msgCloseQuick
@@ -2744,9 +2892,12 @@ script 69 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Esporos no-
-	civos sobre
-	toda a grama
+	Solta
+	esporos
+	nocivos
+	nos
+	quadros
+	de grama
 	"""
 	keyWait
 	msgCloseQuick
@@ -2757,9 +2908,12 @@ script 70 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Esporos no-
-	civos sobre
-	toda a grama
+	Solta
+	esporos
+	nocivos
+	nos
+	quadros
+	de grama
 	"""
 	keyWait
 	msgCloseQuick
@@ -2770,9 +2924,11 @@ script 71 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Um satélite
-	flutuante e
-	giratório
+	Atira
+	satélite
+	ondulante
+	que orbita
+	objetos
 	"""
 	keyWait
 	msgCloseQuick
@@ -2783,9 +2939,11 @@ script 72 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Um satélite
-	flutuante e
-	giratório
+	Atira
+	satélite
+	ondulante
+	que orbita
+	objetos
 	"""
 	keyWait
 	msgCloseQuick
@@ -2796,9 +2954,11 @@ script 73 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Um satélite
-	flutuante e
-	giratório
+	Atira
+	satélite
+	ondulante
+	que orbita
+	objetos
 	"""
 	keyWait
 	msgCloseQuick
@@ -2809,9 +2969,10 @@ script 74 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataque de
-	ioiô a 3
-	quadros!
+	Atira
+	ioiô 3
+	quadros
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -2822,9 +2983,10 @@ script 75 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataque de
-	ioiô a 3
-	quadros!
+	Atira
+	ioiô 3
+	quadros
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -2835,9 +2997,10 @@ script 76 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataque de
-	ioiô a 3
-	quadros!
+	Atira
+	ioiô 3
+	quadros
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -2848,6 +3011,9 @@ script 77 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
+	Bomba 3
+	quadros à
+	frente.
 	Imobiliza
 	o inimigo
 	"""
@@ -2860,6 +3026,9 @@ script 78 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
+	Bomba 3
+	quadros à
+	frente.
 	Imobiliza
 	o inimigo
 	"""
@@ -2872,6 +3041,9 @@ script 79 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
+	Bomba 3
+	quadros à
+	frente.
 	Imobiliza
 	o inimigo
 	"""
@@ -2884,9 +3056,11 @@ script 80 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bastão
+	Instala
+	bastão que
 	atira 9
 	meteoros
+	aleatórios
 	"""
 	keyWait
 	msgCloseQuick
@@ -2897,9 +3071,11 @@ script 81 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bastão
+	Instala
+	bastão que
 	atira 12
 	meteoros
+	aleatórios
 	"""
 	keyWait
 	msgCloseQuick
@@ -2910,9 +3086,11 @@ script 82 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bastão
+	Instala
+	bastão que
 	atira 15
 	meteoros
+	aleatórios
 	"""
 	keyWait
 	msgCloseQuick
@@ -2923,9 +3101,11 @@ script 83 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bastão
+	Instala
+	bastão que
 	atira 18
 	meteoros
+	aleatórios
 	"""
 	keyWait
 	msgCloseQuick
@@ -2936,9 +3116,11 @@ script 84 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Martelo
-	que esmaga
-	coisas!
+	Martelada
+	1 quadro
+	à frente.
+	Esmaga
+	objetos!
 	"""
 	keyWait
 	msgCloseQuick
@@ -2949,9 +3131,12 @@ script 85 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Defende,
-	daí morde
-	o inimigo
+	Escudo.
+	Após de-
+	fender,
+	ataca
+	em linha
+	reta
 	"""
 	keyWait
 	msgCloseQuick
@@ -2962,9 +3147,12 @@ script 86 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Defende,
-	daí morde
-	o inimigo
+	Escudo.
+	Após de-
+	fender,
+	ataca
+	em linha
+	reta
 	"""
 	keyWait
 	msgCloseQuick
@@ -2975,9 +3163,12 @@ script 87 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Defende,
-	daí morde
-	o inimigo
+	Escudo.
+	Após de-
+	fender,
+	ataca
+	em linha
+	reta
 	"""
 	keyWait
 	msgCloseQuick
@@ -2988,9 +3179,11 @@ script 88 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bomba-relógio
-	atinge toda
-	a área!
+	Bomba-re-
+	lógio que
+	atinge to-
+	da a área
+	inimiga!
 	"""
 	keyWait
 	msgCloseQuick
@@ -3001,9 +3194,11 @@ script 89 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bomba-relógio
-	atinge toda
-	a área!
+	Bomba-re-
+	lógio que
+	atinge to-
+	da a área
+	inimiga!
 	"""
 	keyWait
 	msgCloseQuick
@@ -3014,9 +3209,11 @@ script 90 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bomba-relógio
-	atinge toda
-	a área!
+	Bomba-re-
+	lógio que
+	atinge to-
+	da a área
+	inimiga!
 	"""
 	keyWait
 	msgCloseQuick
@@ -3027,9 +3224,12 @@ script 91 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Nuvem de
-	chuva que
-	sobe e desce
+	Joga nuvem
+	de chuva
+	a 3 qdos.
+	que tran-
+	sita em
+	coluna
 	"""
 	keyWait
 	msgCloseQuick
@@ -3040,9 +3240,12 @@ script 92 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Nuvem de
-	chuva que
-	sobe e desce
+	Joga nuvem
+	de chuva
+	a 3 qdos.
+	que tran-
+	sita em
+	coluna
 	"""
 	keyWait
 	msgCloseQuick
@@ -3053,9 +3256,12 @@ script 93 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Nuvem de
-	chuva que
-	sobe e desce
+	Joga nuvem
+	de chuva
+	a 3 qdos.
+	que tran-
+	sita em
+	coluna
 	"""
 	keyWait
 	msgCloseQuick
@@ -3066,8 +3272,9 @@ script 94 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Coloca mina
-	no campo do
+	Planta uma
+	mina no
+	campo do
 	inimigo
 	"""
 	keyWait
@@ -3079,8 +3286,12 @@ script 95 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Dinamite
-	automática
+	Explode
+	em linha
+	reta
+	quando
+	inimigo
+	passa
 	"""
 	keyWait
 	msgCloseQuick
@@ -3091,8 +3302,11 @@ script 96 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Dinamite
+	Explode na
 	diagonal
+	quando
+	inimigo
+	passa
 	"""
 	keyWait
 	msgCloseQuick
@@ -3103,9 +3317,11 @@ script 97 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gera um
-	remobit no
-	campo inimigo
+	Remobit
+	tira
+	quadros do
+	inimigo
+	aos poucos
 	"""
 	keyWait
 	msgCloseQuick
@@ -3116,9 +3332,11 @@ script 98 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gera um
-	remobit no
-	campo inimigo
+	Remobit
+	tira
+	quadros do
+	inimigo
+	aos poucos
 	"""
 	keyWait
 	msgCloseQuick
@@ -3129,9 +3347,11 @@ script 99 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gera um
-	remobit no
-	campo inimigo
+	Remobit
+	tira
+	quadros do
+	inimigo
+	aos poucos
 	"""
 	keyWait
 	msgCloseQuick
@@ -3142,8 +3362,11 @@ script 100 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Estoura
-	ao atingir
+	Bolha se-
+	gue linha
+	reta, es-
+	toura ao
+	atingir
 	algo
 	"""
 	keyWait
@@ -3155,8 +3378,11 @@ script 101 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Estoura
-	ao atingir
+	Bolha se-
+	gue linha
+	reta, es-
+	toura ao
+	atingir
 	algo
 	"""
 	keyWait
@@ -3168,8 +3394,11 @@ script 102 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Estoura
-	ao atingir
+	Bolha se-
+	gue linha
+	reta, es-
+	toura ao
+	atingir
 	algo
 	"""
 	keyWait
@@ -3181,8 +3410,10 @@ script 103 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gêiser se
-	em um buraco
+	Cria um
+	gêiser se
+	jogado em
+	buraco
 	aberto
 	"""
 	keyWait
@@ -3196,7 +3427,9 @@ script 104 mmbn2 {
 	"""
 	Invoca um
 	dragão de
-	lava!
+	lava em
+	um buraco
+	aberto!
 	"""
 	keyWait
 	msgCloseQuick
@@ -3221,7 +3454,11 @@ script 106 mmbn2 {
 	msgOpenQuick
 	"""
 	Invoca
-	Old Wood!
+	uma árvore
+	poderosa
+	em um
+	buraco
+	aberto!
 	"""
 	keyWait
 	msgCloseQuick
@@ -3232,9 +3469,12 @@ script 107 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Envenena 1
-	quadro com
-	o botão A!
+	Escudo.
+	Segure A
+	para enve-
+	nenar
+	quadro
+	à frente!
 	"""
 	keyWait
 	msgCloseQuick
@@ -3245,9 +3485,12 @@ script 108 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Espalha
-	veneno com
-	o botão A!
+	Escudo.
+	Segure A
+	para enve-
+	nenar
+	quadros
+	adjasc.
 	"""
 	keyWait
 	msgCloseQuick
@@ -3258,9 +3501,12 @@ script 109 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Redemoinho
-	mata inimi-
-	gos fracos!
+	Cria rede-
+	moinho 3
+	quadros à
+	frente.
+	Destrói
+	fracos
 	"""
 	keyWait
 	msgCloseQuick
@@ -3271,9 +3517,12 @@ script 110 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Buraco negro
-	mata inimi-
-	gos fracos!
+	Cria bura-
+	co negro
+	3 quadros
+	à frente.
+	Destrói
+	fracos
 	"""
 	keyWait
 	msgCloseQuick
@@ -3297,7 +3546,9 @@ script 112 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Anula dano
+	Cria bar-
+	reira que
+	anula dano
 	uma vez!
 	"""
 	keyWait
@@ -3322,9 +3573,10 @@ script 114 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Destrói 3
-	quadros à
-	frente
+	Destrói
+	uma coluna
+	de quadros
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -3337,7 +3589,8 @@ script 115 mmbn2 {
 	"""
 	Destrói 1
 	linha de
-	quadros!
+	quadros
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -3348,9 +3601,11 @@ script 116 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Lança vem
-	da linha
-	de trás
+	Ataca
+	quadros de
+	trás do
+	inimigo
+	com lanças
 	"""
 	keyWait
 	msgCloseQuick
@@ -3361,9 +3616,11 @@ script 117 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Atinge todos
-	se houver
-	quadro
+	Martelada
+	que atinge
+	todos os
+	quadros
+	do campo
 	"""
 	keyWait
 	msgCloseQuick
@@ -3374,8 +3631,10 @@ script 118 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punho da
-	morte!
+	Soco da
+	morte um
+	quadro à
+	frente!
 	"""
 	keyWait
 	msgCloseQuick
@@ -3386,8 +3645,10 @@ script 119 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punho da
-	morte!
+	Soco da
+	morte um
+	quadro à
+	frente!
 	"""
 	keyWait
 	msgCloseQuick
@@ -3398,8 +3659,10 @@ script 120 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punho da
-	morte!
+	Soco da
+	morte um
+	quadro à
+	frente!
 	"""
 	keyWait
 	msgCloseQuick
@@ -3424,7 +3687,7 @@ script 122 mmbn2 {
 	msgOpenQuick
 	"""
 	Recupera
-	10 de HP
+	10 de PV
 	"""
 	keyWait
 	msgCloseQuick
@@ -3436,7 +3699,7 @@ script 123 mmbn2 {
 	msgOpenQuick
 	"""
 	Recupera
-	30 de HP
+	30 de PV
 	"""
 	keyWait
 	msgCloseQuick
@@ -3448,7 +3711,7 @@ script 124 mmbn2 {
 	msgOpenQuick
 	"""
 	Recupera
-	50 de HP
+	50 de PV
 	"""
 	keyWait
 	msgCloseQuick
@@ -3460,7 +3723,7 @@ script 125 mmbn2 {
 	msgOpenQuick
 	"""
 	Recupera
-	80 de HP
+	80 de PV
 	"""
 	keyWait
 	msgCloseQuick
@@ -3472,7 +3735,7 @@ script 126 mmbn2 {
 	msgOpenQuick
 	"""
 	Recupera
-	120 de HP
+	120 de PV
 	"""
 	keyWait
 	msgCloseQuick
@@ -3484,7 +3747,7 @@ script 127 mmbn2 {
 	msgOpenQuick
 	"""
 	Recupera
-	150 de HP
+	150 de PV
 	"""
 	keyWait
 	msgCloseQuick
@@ -3496,7 +3759,7 @@ script 128 mmbn2 {
 	msgOpenQuick
 	"""
 	Recupera
-	200 de HP
+	200 de PV
 	"""
 	keyWait
 	msgCloseQuick
@@ -3508,7 +3771,7 @@ script 129 mmbn2 {
 	msgOpenQuick
 	"""
 	Recupera
-	300 de HP
+	300 de PV
 	"""
 	keyWait
 	msgCloseQuick
@@ -3532,8 +3795,9 @@ script 131 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Rouba lado
-	esquerdo
+	Rouba
+	coluna
+	esquerda
 	do inimigo
 	"""
 	keyWait
@@ -3546,7 +3810,8 @@ script 132 mmbn2 {
 	msgOpenQuick
 	"""
 	Castiga
-	ladrões de
+	inimigo
+	que roubou
 	quadros!
 	"""
 	keyWait
@@ -3558,9 +3823,9 @@ script 133 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Todos os
-	quadros
-	racham!
+	Faz todos
+	os quadros
+	racharem
 	"""
 	keyWait
 	msgCloseQuick
@@ -3571,9 +3836,10 @@ script 134 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Quebra os
+	Quebra
+	todos os
 	quadros
-	vazios!
+	vazios
 	"""
 	keyWait
 	msgCloseQuick
@@ -3584,9 +3850,9 @@ script 135 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Transforma
-	quadros em
-	pântano!
+	Envenena
+	todos os
+	quadros
 	"""
 	keyWait
 	msgCloseQuick
@@ -3610,8 +3876,9 @@ script 137 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Inimigo
-	perde
+	Faz o
+	inimigo
+	perder o
 	controle
 	"""
 	keyWait
@@ -3623,9 +3890,10 @@ script 138 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Foge de
-	certos
-	inimigos
+	Faz você
+	fugir de
+	certas
+	lutas
 	"""
 	keyWait
 	msgCloseQuick
@@ -3636,7 +3904,9 @@ script 139 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ande sobre
+	Permite a
+	você andar
+	sobre
 	quadros
 	vazios
 	"""
@@ -3649,9 +3919,10 @@ script 140 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Preenche
+	Conserta
 	os quadros
-	do seu lado
+	do seu
+	lado
 	"""
 	keyWait
 	msgCloseQuick
@@ -3664,7 +3935,9 @@ script 141 mmbn2 {
 	"""
 	Planta
 	uma vela
-	de cura
+	que cura
+	você aos
+	poucos
 	"""
 	keyWait
 	msgCloseQuick
@@ -3677,7 +3950,9 @@ script 142 mmbn2 {
 	"""
 	Planta
 	uma vela
-	de cura
+	que cura
+	você aos
+	poucos
 	"""
 	keyWait
 	msgCloseQuick
@@ -3690,7 +3965,9 @@ script 143 mmbn2 {
 	"""
 	Planta
 	uma vela
-	de cura
+	que cura
+	você aos
+	poucos
 	"""
 	keyWait
 	msgCloseQuick
@@ -3701,9 +3978,10 @@ script 144 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Planta um
-	cubo de pedra
-	à frente
+	Cria um
+	cubo de
+	pedra à
+	frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -3714,9 +3992,11 @@ script 145 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Atira pra
-	todo lado
-	ao atingir
+	Joga
+	prisma. Se
+	atingí-lo,
+	dano se
+	espalha
 	"""
 	keyWait
 	msgCloseQuick
@@ -3727,9 +4007,11 @@ script 146 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Estátua
-	pune quando
-	atingida
+	Planta es-
+	tátua.
+	Quem a
+	ataca é
+	punido
 	"""
 	keyWait
 	msgCloseQuick
@@ -3753,8 +4035,10 @@ script 148 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
+	Cria
 	VacuumFan
-	aspira área
+	que aspira
+	a área
 	inimiga
 	"""
 	keyWait
@@ -3766,9 +4050,11 @@ script 149 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Anubis
+	Cria
+	Anubis que
 	envenena
-	área inimiga
+	a área
+	inimiga
 	"""
 	keyWait
 	msgCloseQuick
@@ -3779,9 +4065,10 @@ script 150 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Barra Cust
-	desacelera
-	em batalha
+	Desacelera
+	a Barra de
+	Customiza-
+	ção
 	"""
 	keyWait
 	msgCloseQuick
@@ -3792,9 +4079,10 @@ script 151 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Barra Cust
-	acelera
-	em batalha
+	Acelera
+	a Barra de
+	Customiza-
+	ção
 	"""
 	keyWait
 	msgCloseQuick
@@ -3805,9 +4093,10 @@ script 152 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Barra Cust
-	sempre
-	cheia!
+	Mantém a
+	Barra de
+	Customiza-
+	ção cheia!
 	"""
 	keyWait
 	msgCloseQuick
@@ -3818,9 +4107,10 @@ script 153 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Fica invi-
-	sível por
-	um tempo
+	Deixa você
+	invisível
+	por um
+	tempo
 	"""
 	keyWait
 	msgCloseQuick
@@ -3831,9 +4121,10 @@ script 154 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Fica invi-
-	sível por
-	um tempo
+	Deixa você
+	invisível
+	por um
+	tempo
 	"""
 	keyWait
 	msgCloseQuick
@@ -3844,9 +4135,10 @@ script 155 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Fica invi-
-	sível por
-	um tempo
+	Deixa você
+	invisível
+	por um
+	tempo
 	"""
 	keyWait
 	msgCloseQuick
@@ -3857,9 +4149,9 @@ script 156 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Fica invi-
-	sível até
-	atacar!
+	Deixa você
+	invisível
+	até atacar
 	"""
 	keyWait
 	msgCloseQuick
@@ -3883,9 +4175,12 @@ script 158 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Corpo de
-	pedra só leva
-	1 HP de dano
+	Transforma
+	seu corpo
+	em pedra,
+	que só
+	leva 1 PV
+	de dano
 	"""
 	keyWait
 	msgCloseQuick
@@ -3896,9 +4191,12 @@ script 159 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Somente
-	ataques de
-	espada ferem
+	Faz com
+	que você
+	só possa
+	ser ata-
+	cado por
+	espadas
 	"""
 	keyWait
 	msgCloseQuick
@@ -3909,9 +4207,12 @@ script 160 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Somente
-	ataques de
-	espada ferem
+	Faz com
+	que você
+	só possa
+	ser ata-
+	cado por
+	espadas
 	"""
 	keyWait
 	msgCloseQuick
@@ -3922,9 +4223,12 @@ script 161 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Somente
-	ataques de
-	espada ferem
+	Faz com
+	que você
+	só possa
+	ser ata-
+	cado por
+	espadas
 	"""
 	keyWait
 	msgCloseQuick
@@ -3935,9 +4239,12 @@ script 162 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataque letal
+	Um ataque
+	que te
+	venceria
 	te deixa
-	com 1 de HP!
+	com 1 de
+	PV
 	"""
 	keyWait
 	msgCloseQuick
@@ -3948,9 +4255,12 @@ script 163 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Barreira
-	de água
-	regenera
+	Cria bolha
+	de prote-
+	ção que
+	se rege-
+	nera com
+	o tempo
 	"""
 	keyWait
 	msgCloseQuick
@@ -3961,9 +4271,10 @@ script 164 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Próximo
+	Absorve
+	dano do
+	próximo
 	ataque
-	te cura
 	"""
 	keyWait
 	msgCloseQuick
@@ -3974,9 +4285,10 @@ script 165 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Repele ata-
-	ques abai-
-	xo de 10
+	Bloqueia
+	ataques
+	de dano
+	até 10
 	"""
 	keyWait
 	msgCloseQuick
@@ -3987,9 +4299,10 @@ script 166 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Repele ata-
-	ques abai-
-	xo de 40
+	Bloqueia
+	ataques
+	de dano
+	até 40
 	"""
 	keyWait
 	msgCloseQuick
@@ -4000,9 +4313,10 @@ script 167 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Repele ata-
-	ques abai-
-	xo de 80
+	Bloqueia
+	ataques
+	de dano
+	até 80
 	"""
 	keyWait
 	msgCloseQuick
@@ -4013,9 +4327,10 @@ script 168 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Repels non
-	wd attacks
-	under 100
+	Bloqueia
+	ataques
+	de dano
+	até 100
 	"""
 	keyWait
 	msgCloseQuick
@@ -4026,9 +4341,11 @@ script 169 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Repels all
-	attacks
-	under 100
+	Bloqueia
+	todo
+	ataque de
+	dano até
+	100
 	"""
 	keyWait
 	msgCloseQuick
@@ -4039,9 +4356,11 @@ script 170 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Repels all
-	attacks
-	under 150
+	Bloqueia
+	todo
+	ataque de
+	dano até
+	150
 	"""
 	keyWait
 	msgCloseQuick
@@ -4052,9 +4371,11 @@ script 171 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Repels all
-	attacks
-	under 200
+	Bloqueia
+	todo
+	ataque de
+	dano até
+	200
 	"""
 	keyWait
 	msgCloseQuick
@@ -4065,9 +4386,10 @@ script 172 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Changes
-	your line
-	to magnet
+	Transforma
+	uma linha
+	em quadros
+	magnéticos
 	"""
 	keyWait
 	msgCloseQuick
@@ -4078,9 +4400,10 @@ script 173 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Changes
-	your line
-	to lava
+	Transforma
+	uma linha
+	em quadros
+	de lava
 	"""
 	keyWait
 	msgCloseQuick
@@ -4091,9 +4414,10 @@ script 174 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Changes
-	your line
-	to ice
+	Transforma
+	uma linha
+	em quadros
+	de gelo
 	"""
 	keyWait
 	msgCloseQuick
@@ -4104,9 +4428,10 @@ script 175 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Changes
-	your line
-	to grass
+	Transforma
+	uma linha
+	em quadros
+	de grama
 	"""
 	keyWait
 	msgCloseQuick
@@ -4117,9 +4442,11 @@ script 176 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Changes
-	all panels
-	to lava
+	Transforma
+	todos os
+	quadros
+	em quadros
+	de lava
 	"""
 	keyWait
 	msgCloseQuick
@@ -4130,9 +4457,11 @@ script 177 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Changes
-	all panels
-	to ice
+	Transforma
+	todos os
+	quadros
+	em quadros
+	de gelo
 	"""
 	keyWait
 	msgCloseQuick
@@ -4143,9 +4472,11 @@ script 178 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Changes
-	all panels
-	to grass
+	Transforma
+	todos os
+	quadros
+	em quadros
+	de grama
 	"""
 	keyWait
 	msgCloseQuick
@@ -4156,9 +4487,11 @@ script 179 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Makes all
-	panels
-	holy
+	Transforma
+	todos os
+	quadros
+	em quadros
+	sagrados
 	"""
 	keyWait
 	msgCloseQuick
@@ -4169,9 +4502,12 @@ script 180 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	More chips
-	means more
-	damage
+	Quanto
+	mais chips
+	o inimigo
+	tem, mais
+	dano ele
+	leva
 	"""
 	keyWait
 	msgCloseQuick
@@ -4182,9 +4518,12 @@ script 181 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punishes
-	enemy for
-	using fire
+	Previne
+	ataque de
+	fogo do
+	inimigo
+	e contra-
+	ataca
 	"""
 	keyWait
 	msgCloseQuick
@@ -4195,9 +4534,12 @@ script 182 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punishes
-	enemy for
-	using elec
+	Previne
+	ataque
+	elét. do
+	inimigo
+	e contra-
+	ataca
 	"""
 	keyWait
 	msgCloseQuick
@@ -4208,9 +4550,12 @@ script 183 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punishes
-	enemy for
-	using aqua
+	Previne
+	ataque de
+	água do
+	inimigo
+	e contra-
+	ataca
 	"""
 	keyWait
 	msgCloseQuick
@@ -4221,9 +4566,12 @@ script 184 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Fake pain
-	and throw
-	shurikens!
+	Previne
+	ataque do
+	inimigo
+	e contra-
+	ataca c/
+	shurikens
 	"""
 	keyWait
 	msgCloseQuick
@@ -4234,9 +4582,12 @@ script 185 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punishes
-	use of
-	swords
+	Previne
+	ataque de
+	espada do
+	inimigo
+	e contra-
+	ataca
 	"""
 	keyWait
 	msgCloseQuick
@@ -4247,9 +4598,12 @@ script 186 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Take the
-	enemy's
-	Navi away
+	Vira um
+	ataque de
+	Navi do
+	inimigo
+	contra
+	ele
 	"""
 	keyWait
 	msgCloseQuick
@@ -4260,9 +4614,12 @@ script 187 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punish the
-	recovery
-	of HPs!
+	Reverte
+	chips de
+	cura do
+	inimigo
+	e pune
+	ele
 	"""
 	keyWait
 	msgCloseQuick
@@ -4286,9 +4643,12 @@ script 189 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Adds 40 to
-	Fire
-	AttackChip
+	Adiciona
+	+40 de
+	dano ao
+	próximo
+	chip de
+	fogo
 	"""
 	keyWait
 	msgCloseQuick
@@ -4299,9 +4659,12 @@ script 190 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Adds 40 to
-	Aqua
-	AttackChip
+	Adiciona
+	+40 de
+	dano ao
+	próximo
+	chip de
+	água
 	"""
 	keyWait
 	msgCloseQuick
@@ -4312,9 +4675,12 @@ script 191 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Adds 40 to
-	Wood
-	AttackChip
+	Adiciona
+	+40 de
+	dano ao
+	próximo
+	chip de
+	madeira
 	"""
 	keyWait
 	msgCloseQuick
@@ -4325,9 +4691,12 @@ script 192 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Adds 40 to
-	Elec
-	AttackChip
+	Adiciona
+	+40 de
+	dano ao
+	próximo
+	chip
+	elétrico
 	"""
 	keyWait
 	msgCloseQuick
@@ -4338,9 +4707,11 @@ script 193 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	+20 to
-	selected
-	NaviChip!
+	Adiciona
+	+40 de
+	dano ao
+	próximo
+	ChipNavi
 	"""
 	keyWait
 	msgCloseQuick
@@ -4351,9 +4722,10 @@ script 194 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Attacks 1
-	enemy then
-	heals you
+	Roll ataca
+	um inimigo
+	e depois
+	cura você
 	"""
 	keyWait
 	msgCloseQuick
@@ -4364,9 +4736,10 @@ script 195 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Attacks 1
-	enemy then
-	heals you
+	Roll ataca
+	um inimigo
+	e depois
+	cura você
 	"""
 	keyWait
 	msgCloseQuick
@@ -4377,9 +4750,10 @@ script 196 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Attacks 1
-	enemy then
-	heals you
+	Roll ataca
+	um inimigo
+	e depois
+	cura você
 	"""
 	keyWait
 	msgCloseQuick
@@ -4390,9 +4764,11 @@ script 197 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Creeps and
-	smashes
-	panels!
+	Usa três
+	ondas de
+	choque
+	que racham
+	quadros!
 	"""
 	keyWait
 	msgCloseQuick
@@ -4403,9 +4779,11 @@ script 198 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Creeps and
-	smashes
-	panels!
+	Usa três
+	ondas de
+	choque
+	que racham
+	quadros!
 	"""
 	keyWait
 	msgCloseQuick
@@ -4416,9 +4794,11 @@ script 199 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Creeps and
-	smashes
-	panels!
+	Usa três
+	ondas de
+	choque
+	que racham
+	quadros!
 	"""
 	keyWait
 	msgCloseQuick
@@ -4429,9 +4809,12 @@ script 200 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Swings
-	sword at
-	enemy face
+	ProtoMan
+	acerta
+	inimigos
+	com ata-
+	ques de
+	espada
 	"""
 	keyWait
 	msgCloseQuick
@@ -4442,9 +4825,12 @@ script 201 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Swings
-	sword at
-	enemy face
+	ProtoMan
+	acerta
+	inimigos
+	com ata-
+	ques de
+	espada
 	"""
 	keyWait
 	msgCloseQuick
@@ -4455,9 +4841,12 @@ script 202 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Swings
-	sword at
-	enemy face
+	ProtoMan
+	acerta
+	inimigos
+	com ata-
+	ques de
+	espada
 	"""
 	keyWait
 	msgCloseQuick
@@ -4468,9 +4857,11 @@ script 203 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Shoots air
-	twisters
-	in a line
+	Atira
+	tornados
+	de ar em
+	todas as
+	linhas
 	"""
 	keyWait
 	msgCloseQuick
@@ -4481,9 +4872,11 @@ script 204 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Shoots air
-	twisters
-	in a line
+	Atira
+	tornados
+	de ar em
+	todas as
+	linhas
 	"""
 	keyWait
 	msgCloseQuick
@@ -4494,9 +4887,11 @@ script 205 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Shoots air
-	twisters
-	in a line
+	Atira
+	tornados
+	de ar em
+	todas as
+	linhas
 	"""
 	keyWait
 	msgCloseQuick
@@ -4507,9 +4902,10 @@ script 206 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Boomerang
-	attacks
-	whole row
+	Atira
+	bumeran-
+	gue em
+	linha reta
 	"""
 	keyWait
 	msgCloseQuick
@@ -4520,9 +4916,10 @@ script 207 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Boomerang
-	attacks
-	whole row
+	Atira
+	bumeran-
+	gue em
+	linha reta
 	"""
 	keyWait
 	msgCloseQuick
@@ -4533,9 +4930,10 @@ script 208 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Boomerang
-	attacks
-	whole row
+	Atira
+	bumeran-
+	gue em
+	linha reta
 	"""
 	keyWait
 	msgCloseQuick
@@ -4546,9 +4944,10 @@ script 209 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Scissor
-	attacks
-	one square
+	Ataca com
+	tesoura
+	1 quadro
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -4559,9 +4958,10 @@ script 210 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Scissor
-	attacks
-	one square
+	Ataca com
+	tesoura
+	1 quadro
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -4572,9 +4972,10 @@ script 211 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Scissor
-	attacks
-	one square
+	Ataca com
+	tesoura
+	1 quadro
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -4585,9 +4986,9 @@ script 212 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Splits and
-	shoots 3
-	shurikens!
+	Atira 3
+	shurikens
+	no inimigo
 	"""
 	keyWait
 	msgCloseQuick
@@ -4598,9 +4999,9 @@ script 213 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Splits and
-	shoots 3
-	shurikens!
+	Atira 3
+	shurikens
+	no inimigo
 	"""
 	keyWait
 	msgCloseQuick
@@ -4611,9 +5012,9 @@ script 214 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Splits and
-	shoots 3
-	shurikens!
+	Atira 3
+	shurikens
+	no inimigo
 	"""
 	keyWait
 	msgCloseQuick
@@ -4624,9 +5025,10 @@ script 215 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Smashes
-	enemies
-	in circle!
+	Ataca
+	arredores
+	com bola
+	de ferro
 	"""
 	keyWait
 	msgCloseQuick
@@ -4637,9 +5039,10 @@ script 216 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Smashes
-	enemies
-	in circle!
+	Ataca
+	arredores
+	com bola
+	de ferro
 	"""
 	keyWait
 	msgCloseQuick
@@ -4650,9 +5053,10 @@ script 217 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Smashes
-	enemies
-	in circle!
+	Ataca
+	arredores
+	com bola
+	de ferro
 	"""
 	keyWait
 	msgCloseQuick
@@ -4663,9 +5067,11 @@ script 218 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bipolar
-	tackle on
-	1 enemy
+	Agarrão
+	duplo em
+	frente
+	que
+	imobiliza
 	"""
 	keyWait
 	msgCloseQuick
@@ -4676,9 +5082,11 @@ script 219 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bipolar
-	tackle on
-	1 enemy
+	Agarrão
+	duplo em
+	frente
+	que
+	imobiliza
 	"""
 	keyWait
 	msgCloseQuick
@@ -4689,9 +5097,11 @@ script 220 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bipolar
-	tackle on
-	1 enemy
+	Agarrão
+	duplo em
+	frente
+	que
+	imobiliza
 	"""
 	keyWait
 	msgCloseQuick
@@ -4702,9 +5112,11 @@ script 221 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Rains
-	icicles on
-	enemies
+	Faz chover
+	espinhos
+	de gelo
+	nos
+	inimigos
 	"""
 	keyWait
 	msgCloseQuick
@@ -4715,9 +5127,11 @@ script 222 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Rains
-	icicles on
-	enemies
+	Faz chover
+	espinhos
+	de gelo
+	nos
+	inimigos
 	"""
 	keyWait
 	msgCloseQuick
@@ -4728,9 +5142,11 @@ script 223 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Rains
-	icicles on
-	enemies
+	Faz chover
+	espinhos
+	de gelo
+	nos
+	inimigos
 	"""
 	keyWait
 	msgCloseQuick
@@ -4741,9 +5157,10 @@ script 224 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Flame
-	attack!
-	Range is 3
+	Ataque de
+	fogo
+	crescente.
+	Alcance 3
 	"""
 	keyWait
 	msgCloseQuick
@@ -4754,9 +5171,10 @@ script 225 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Flame
-	attack!
-	Range is 3
+	Ataque de
+	fogo
+	crescente.
+	Alcance 3
 	"""
 	keyWait
 	msgCloseQuick
@@ -4767,9 +5185,10 @@ script 226 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Flame
-	attack!
-	Range is 3
+	Ataque de
+	fogo
+	crescente.
+	Alcance 3
 	"""
 	keyWait
 	msgCloseQuick
@@ -4780,9 +5199,11 @@ script 227 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Shocking
-	melody
-	paralyzes!
+	Melodia
+	chocante
+	que segue
+	inimigo e
+	paraliza!
 	"""
 	keyWait
 	msgCloseQuick
@@ -4793,9 +5214,11 @@ script 228 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Shocking
-	melody
-	paralyzes!
+	Melodia
+	chocante
+	que segue
+	inimigo e
+	paraliza!
 	"""
 	keyWait
 	msgCloseQuick
@@ -4806,9 +5229,11 @@ script 229 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Shocking
-	melody
-	paralyzes!
+	Melodia
+	chocante
+	que segue
+	inimigo e
+	paraliza!
 	"""
 	keyWait
 	msgCloseQuick
@@ -4819,9 +5244,11 @@ script 230 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Thunder
-	attacks
-	3rd line
+	Joga uma
+	coluna de
+	raios 3
+	quadros
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -4832,9 +5259,11 @@ script 231 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Thunder
-	attacks
-	3rd line
+	Joga uma
+	coluna de
+	raios 3
+	quadros
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -4845,9 +5274,11 @@ script 232 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Thunder
-	attacks
-	3rd line
+	Joga uma
+	coluna de
+	raios 3
+	quadros
+	à frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -4858,9 +5289,12 @@ script 233 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Main
-	attack and
-	snakes!
+	Invoca
+	cobras de
+	buracos,
+	mais um
+	ataque
+	direto
 	"""
 	keyWait
 	msgCloseQuick
@@ -4871,9 +5305,12 @@ script 234 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Main
-	attack and
-	snakes!
+	Invoca
+	cobras de
+	buracos,
+	mais um
+	ataque
+	direto
 	"""
 	keyWait
 	msgCloseQuick
@@ -4884,9 +5321,12 @@ script 235 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Main
-	attack and
-	snakes!
+	Invoca
+	cobras de
+	buracos,
+	mais um
+	ataque
+	direto
 	"""
 	keyWait
 	msgCloseQuick
@@ -4897,9 +5337,9 @@ script 236 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	3 soldiers
-	charge
-	forward!
+	Ataca com
+	3 soldadi-
+	nhos!
 	"""
 	keyWait
 	msgCloseQuick
@@ -4910,9 +5350,9 @@ script 237 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	4 soldiers
-	charge
-	forward!
+	Ataca com
+	4 soldadi-
+	nhos!
 	"""
 	keyWait
 	msgCloseQuick
@@ -4923,9 +5363,9 @@ script 238 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	5 soldiers
-	charge
-	forward!
+	Ataca com
+	5 soldadi-
+	nhos!
 	"""
 	keyWait
 	msgCloseQuick
@@ -4936,9 +5376,11 @@ script 239 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Planet
-	smashes 1
-	enemy!
+	Cerca o
+	inimigo
+	com plane-
+	tas e o
+	esmaga!
 	"""
 	keyWait
 	msgCloseQuick
@@ -4949,9 +5391,11 @@ script 240 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Planet
-	smashes 1
-	enemy!
+	Cerca o
+	inimigo
+	com plane-
+	tas e o
+	esmaga!
 	"""
 	keyWait
 	msgCloseQuick
@@ -4962,9 +5406,11 @@ script 241 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Planet
-	smashes 1
-	enemy!
+	Cerca o
+	inimigo
+	com plane-
+	tas e o
+	esmaga!
 	"""
 	keyWait
 	msgCloseQuick
@@ -4975,9 +5421,12 @@ script 242 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bombs that
-	even break
-	panels!
+	Lança
+	várias
+	bombas
+	que
+	quebram
+	quadros
 	"""
 	keyWait
 	msgCloseQuick
@@ -4988,9 +5437,12 @@ script 243 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bombs that
-	even break
-	panels!
+	Lança
+	várias
+	bombas
+	que
+	quebram
+	quadros
 	"""
 	keyWait
 	msgCloseQuick
@@ -5001,9 +5453,12 @@ script 244 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bombs that
-	even break
-	panels!
+	Lança
+	várias
+	bombas
+	que
+	quebram
+	quadros
 	"""
 	keyWait
 	msgCloseQuick
@@ -5014,9 +5469,10 @@ script 245 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Laser-
-	shooting
-	coffin etc
+	Sarcófago
+	com
+	ataques
+	sortidos
 	"""
 	keyWait
 	msgCloseQuick
@@ -5027,9 +5483,10 @@ script 246 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Laser-
-	shooting
-	coffin etc
+	Sarcófago
+	com
+	ataques
+	sortidos
 	"""
 	keyWait
 	msgCloseQuick
@@ -5040,9 +5497,10 @@ script 247 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Laser-
-	shooting
-	coffin etc
+	Sarcófago
+	com
+	ataques
+	sortidos
 	"""
 	keyWait
 	msgCloseQuick
@@ -5053,9 +5511,10 @@ script 248 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Air-burst
-	attack on
-	all lines!
+	Ataques
+	múltiplos
+	em todas
+	as linhas
 	"""
 	keyWait
 	msgCloseQuick
@@ -5066,9 +5525,10 @@ script 249 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Air-burst
-	attack on
-	all lines!
+	Ataques
+	múltiplos
+	em todas
+	as linhas
 	"""
 	keyWait
 	msgCloseQuick
@@ -5079,9 +5539,10 @@ script 250 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Air-burst
-	attack on
-	all lines!
+	Ataques
+	múltiplos
+	em todas
+	as linhas
 	"""
 	keyWait
 	msgCloseQuick
@@ -5092,9 +5553,9 @@ script 251 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Heat chip
-	Creates a
-	lava wave!
+	Ataca com
+	três ondas
+	de calor
 	"""
 	keyWait
 	msgCloseQuick
@@ -5105,9 +5566,11 @@ script 252 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Aqua chip
-	Tosses ice
-	bomb!
+	Bomba de
+	gelo,
+	ataca em
+	cruz e
+	congela
 	"""
 	keyWait
 	msgCloseQuick
@@ -5118,9 +5581,12 @@ script 253 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Elec chip
-	A Button
-	to spark!
+	Proteção
+	elétrica.
+	Depois
+	aperte A
+	p/ atacar 
+	ao redor
 	"""
 	keyWait
 	msgCloseQuick
@@ -5131,9 +5597,11 @@ script 254 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Wood chip
-	Steals atk
-	from chip!
+	Espada
+	vertical.
+	Rouba
+	ataque
+	de chips
 	"""
 	keyWait
 	msgCloseQuick
@@ -5144,9 +5612,10 @@ script 255 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Exploding
-	firebomb
-	attack!
+	Joga
+	bomba. Use
+	fogo para
+	detoná-la
 	"""
 	keyWait
 	msgCloseQuick
@@ -5160,9 +5629,11 @@ script 0 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Normal
-	sword. 3
-	spaces fwd
+	Espada que
+	atinge
+	coluna e
+	linha à
+	frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -5173,9 +5644,11 @@ script 1 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Normal
-	sword. 3
-	spaces fwd
+	Espada que
+	atinge
+	coluna e
+	linha à
+	frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -5186,9 +5659,11 @@ script 2 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Normal
-	sword. 3
-	spaces fwd
+	Espada que
+	atinge
+	coluna e
+	linha à
+	frente
 	"""
 	keyWait
 	msgCloseQuick
@@ -5199,9 +5674,11 @@ script 3 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Shooting
-	stars shot
-	at enemy!
+	Chovem
+	meteoros
+	por toda
+	a área
+	inimiga!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5212,9 +5689,10 @@ script 4 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Items are
-	thrown at
-	the enemy!
+	Arremessa
+	objetos
+	do campo
+	no inimigo
 	"""
 	keyWait
 	msgCloseQuick
@@ -5225,9 +5703,9 @@ script 5 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gospel's
-	breath of
-	fire!
+	Baforada
+	de fogo do
+	Gospel!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5238,9 +5716,9 @@ script 6 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gospel's
-	breath of
-	water!
+	Baforada
+	de água do
+	Gospel!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5251,9 +5729,9 @@ script 7 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gospel's
-	electric
-	breath!
+	Baforada
+	elétrica
+	do Gospel!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5264,9 +5742,10 @@ script 8 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Breath of
-	wood that
-	slices!
+	Baforada
+	de madeira
+	que também
+	corta
 	"""
 	keyWait
 	msgCloseQuick
@@ -5277,9 +5756,9 @@ script 9 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Cannon of
-	another
-	dimension!
+	Canhão de
+	outra
+	dimensão!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5290,9 +5769,11 @@ script 14 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Turns your
-	panels
-	holy!
+	Transforma
+	os seus
+	quadros
+	em quadros
+	sagrados
 	"""
 	keyWait
 	msgCloseQuick
@@ -5303,9 +5784,12 @@ script 16 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	5-second
-	invisible
-	cannon
+	Canhão
+	infinito
+	por 5
+	segundos
+	e invi-
+	sibilidade
 	"""
 	keyWait
 	msgCloseQuick
@@ -5316,9 +5800,12 @@ script 17 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	5-second
-	invisible
-	cannon
+	Canhão
+	infinito
+	por 5
+	segundos
+	e invi-
+	sibilidade
 	"""
 	keyWait
 	msgCloseQuick
@@ -5329,9 +5816,12 @@ script 18 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	5-second
-	invisible
-	cannon
+	Canhão
+	infinito
+	por 5
+	segundos
+	e invi-
+	sibilidade
 	"""
 	keyWait
 	msgCloseQuick
@@ -5342,9 +5832,11 @@ script 19 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Powerful
-	exploding
-	shots
+	Lança
+	tiros
+	explosivos
+	poderosos
+	múltiplos
 	"""
 	keyWait
 	msgCloseQuick
@@ -5355,9 +5847,12 @@ script 20 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	5-second
-	invisible
-	cannonball
+	Bolas de
+	canhão
+	infinitas
+	por 5
+	segundos
+	e invis.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5368,9 +5863,12 @@ script 21 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	5-second
-	invisible
-	Ratton
+	Rattons
+	infinitos
+	por 5
+	segundos
+	e invisi-
+	bilidade
 	"""
 	keyWait
 	msgCloseQuick
@@ -5381,9 +5879,12 @@ script 22 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	5-second
-	invisible
-	Ratton
+	Rattons
+	infinitos
+	por 5
+	segundos
+	e invisi-
+	bilidade
 	"""
 	keyWait
 	msgCloseQuick
@@ -5394,9 +5895,12 @@ script 23 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	5-second
-	invisible
-	Ratton
+	Rattons
+	infinitos
+	por 5
+	segundos
+	e invisi-
+	bilidade
 	"""
 	keyWait
 	msgCloseQuick
@@ -5407,9 +5911,12 @@ script 24 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	10-second
-	invisible
-	cannon
+	Canhão
+	infinito
+	por 10
+	segundos
+	e invi-
+	sibilidade
 	"""
 	keyWait
 	msgCloseQuick
@@ -5420,9 +5927,12 @@ script 25 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	10-second
-	invisible
-	cannon
+	Canhão
+	infinito
+	por 10
+	segundos
+	e invi-
+	sibilidade
 	"""
 	keyWait
 	msgCloseQuick
@@ -5433,9 +5943,12 @@ script 26 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	10-second
-	invisible
-	cannon
+	Canhão
+	infinito
+	por 10
+	segundos
+	e invi-
+	sibilidade
 	"""
 	keyWait
 	msgCloseQuick
@@ -5446,9 +5959,11 @@ script 27 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Powerful
-	exploding
-	shots
+	Lança
+	tiros
+	explosivos
+	poderosos
+	múltiplos
 	"""
 	keyWait
 	msgCloseQuick
@@ -5459,9 +5974,12 @@ script 28 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	10-second
-	invisible
-	cannonball
+	Bolas de
+	canhão
+	infinitas
+	por 10
+	segundos
+	e invis.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5472,9 +5990,12 @@ script 29 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	10-second
-	invisible
-	Ratton
+	Rattons
+	infinitos
+	por 10
+	segundos
+	e invisi-
+	bilidade
 	"""
 	keyWait
 	msgCloseQuick
@@ -5485,9 +6006,12 @@ script 30 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	10-second
-	invisible
-	Ratton
+	Rattons
+	infinitos
+	por 10
+	segundos
+	e invisi-
+	bilidade
 	"""
 	keyWait
 	msgCloseQuick
@@ -5498,9 +6022,12 @@ script 31 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	10-second
-	invisible
-	Ratton
+	Rattons
+	infinitos
+	por 10
+	segundos
+	e invisi-
+	bilidade
 	"""
 	keyWait
 	msgCloseQuick
@@ -5511,9 +6038,9 @@ script 32 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Fires off
-	10 arrows
-	of rage!
+	Dispara
+	10 flechas
+	furiosas!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5524,9 +6051,11 @@ script 33 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Strongest
-	bomb hits
-	9 panels!
+	Bomba
+	poderosís-
+	sima que
+	atinge 9
+	quadros!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5537,9 +6066,11 @@ script 34 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gigantic
-	2 by 3
-	sword!
+	Espada
+	gigante
+	que acerta
+	coluna e
+	linha!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5550,9 +6081,11 @@ script 35 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gigantic
-	2 by 3
-	sword!
+	Espada
+	gigante
+	que acerta
+	coluna e
+	linha!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5563,9 +6096,11 @@ script 36 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gigantic
-	2 by 3
-	sword!
+	Espada
+	gigante
+	que acerta
+	coluna e
+	linha!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5576,9 +6111,12 @@ script 37 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punch like
-	a machine-
-	gun!
+	Atira uma
+	sequência
+	de socos
+	como uma
+	metralha-
+	dora
 	"""
 	keyWait
 	msgCloseQuick
@@ -5589,9 +6127,11 @@ script 38 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	3-line
-	curse
-	shield!
+	Escudo que
+	contra-
+	ataca em
+	três 
+	linhas!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5602,8 +6142,9 @@ script 39 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gigantic
-	time bomb!
+	Uma bomba-
+	relógio
+	gigantesca
 	"""
 	keyWait
 	msgCloseQuick
@@ -5614,8 +6155,8 @@ script 40 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Stomps on
-	1 enemy!
+	Esmaga um
+	inimigo!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5626,9 +6167,10 @@ script 41 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Pharaoh's
-	stronger
-	poison
+	O mais
+	poderoso
+	veneno
+	do faraó
 	"""
 	keyWait
 	msgCloseQuick
@@ -5639,9 +6181,11 @@ script 42 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Various
-	things out
-	of a gate!
+	GateMan
+	lança
+	várias
+	coisas de
+	um portal!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5653,8 +6197,10 @@ script 43 mmbn2 {
 	msgOpenQuick
 	"""
 	GutsMan
-	throws
-	MegaMan!
+	arremessa
+	o MegaMan
+	em linha
+	reta
 	"""
 	keyWait
 	msgCloseQuick
@@ -5665,9 +6211,9 @@ script 44 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Roll's
-	heart does
-	full heal!
+	O coração
+	da Roll
+	cura 100%!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5679,8 +6225,9 @@ script 45 mmbn2 {
 	msgOpenQuick
 	"""
 	ShadowMan
-	shoots
-	shurikens!
+	atira
+	shurikens
+	no inimigo
 	"""
 	keyWait
 	msgCloseQuick
@@ -5691,9 +6238,12 @@ script 46 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	MegaMan &
-	ProtoMan,
-	teamed up!
+	MegaMan e
+	ProtoMan
+	dão um
+	ataque
+	combinado
+	no inimigo
 	"""
 	keyWait
 	msgCloseQuick
@@ -5704,9 +6254,9 @@ script 47 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Double
-	darkness
-	attack!
+	Duplo
+	ataque
+	das trevas
 	"""
 	keyWait
 	msgCloseQuick
@@ -5720,9 +6270,9 @@ script 0 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	MegaBuster
-	Shoot with
-	B Button!
+	Use B para
+	usar o
+	MegaTiro!
 	"""
 	waitHold
 }
@@ -5731,8 +6281,10 @@ script 1 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Canhão que
-	ataca 1
+	Tiro de
+	canhão
+	reto que
+	atinge um
 	inimigo
 	"""
 	waitHold
@@ -5742,8 +6294,10 @@ script 2 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Canhão que
-	ataca 1
+	Tiro de
+	canhão
+	reto que
+	atinge um
 	inimigo
 	"""
 	waitHold
@@ -5753,8 +6307,10 @@ script 3 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Canhão que
-	ataca 1
+	Tiro de
+	canhão
+	reto que
+	atinge um
 	inimigo
 	"""
 	waitHold
@@ -5764,9 +6320,10 @@ script 4 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode
+	Atinge o
+	inimigo e
 	1 quadro
-	atrás
+	atrás dele
 	"""
 	waitHold
 }
@@ -5775,9 +6332,12 @@ script 5 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode 2
-	quadros
-	diagonais
+	Atinge o
+	inimigo e
+	2 quadros
+	nas diago-
+	nais tra-
+	seiras
 	"""
 	waitHold
 }
@@ -5786,9 +6346,11 @@ script 6 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode
+	Atinge o
+	inimigo e
 	4 quadros
-	diagonais
+	nas diago-
+	nais
 	"""
 	waitHold
 }
@@ -5797,7 +6359,9 @@ script 7 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Acerta
+	Atinge o
+	inimigo e
+	todos os
 	quadros
 	ao redor
 	"""
@@ -5808,9 +6372,10 @@ script 8 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode
+	Atinge o
+	inimigo e
 	1 quadro
-	atrás
+	atrás dele
 	"""
 	waitHold
 }
@@ -5819,9 +6384,12 @@ script 9 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode 2
-	quadros
-	diagonais
+	Atinge o
+	inimigo e
+	2 quadros
+	nas diago-
+	nais tra-
+	seiras
 	"""
 	waitHold
 }
@@ -5830,9 +6398,11 @@ script 10 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode
+	Atinge o
+	inimigo e
 	4 quadros
-	diagonais
+	nas diago-
+	nais
 	"""
 	waitHold
 }
@@ -5841,7 +6411,9 @@ script 11 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Acerta
+	Atinge o
+	inimigo e
+	todos os
 	quadros
 	ao redor
 	"""
@@ -5852,9 +6424,10 @@ script 12 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode
+	Atinge o
+	inimigo e
 	1 quadro
-	atrás
+	atrás dele
 	"""
 	waitHold
 }
@@ -5863,9 +6436,12 @@ script 13 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode 2
-	quadros
-	diagonais
+	Atinge o
+	inimigo e
+	2 quadros
+	nas diago-
+	nais tra-
+	seiras
 	"""
 	waitHold
 }
@@ -5874,9 +6450,11 @@ script 14 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Explode
+	Atinge o
+	inimigo e
 	4 quadros
-	diagonais
+	nas diago-
+	nais
 	"""
 	waitHold
 }
@@ -5885,7 +6463,9 @@ script 15 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Acerta
+	Atinge o
+	inimigo e
+	todos os
 	quadros
 	ao redor
 	"""
@@ -5896,9 +6476,10 @@ script 16 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Throws a
-	bomb 3
-	squares
+	Joga uma
+	bomba a 3
+	quadros de
+	você
 	"""
 	waitHold
 }
@@ -5907,9 +6488,12 @@ script 17 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bomba que
-	explode
-	vertical
+	Joga uma
+	bomba a 3
+	quadros
+	que explo-
+	de uma
+	coluna
 	"""
 	waitHold
 }
@@ -5918,9 +6502,12 @@ script 18 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bomba que
-	explode
-	em cruz
+	Joga uma
+	bomba a 3
+	quadros
+	que explo-
+	de em for-
+	ma de cruz
 	"""
 	waitHold
 }
@@ -5929,8 +6516,11 @@ script 19 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bomba que
-	explode td
+	Joga bomba
+	a 3 qua-
+	dros que
+	explode
+	quadros
 	ao redor
 	"""
 	waitHold
@@ -5940,9 +6530,11 @@ script 20 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Semente!
-	Molhe para
-	mais poder!
+	Joga uma
+	semente.
+	Atinja com
+	água para
+	atacar
 	"""
 	waitHold
 }
@@ -5951,9 +6543,11 @@ script 21 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Semente!
-	Molhe para
-	mais poder!
+	Joga uma
+	semente.
+	Atinja com
+	água para
+	atacar
 	"""
 	waitHold
 }
@@ -5962,9 +6556,11 @@ script 22 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Semente!
-	Molhe para
-	mais poder!
+	Joga uma
+	semente.
+	Atinja com
+	água para
+	atacar
 	"""
 	waitHold
 }
@@ -5973,9 +6569,10 @@ script 23 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Corta em
-	frente!
-	Alcance 1
+	Corta
+	inimigo
+	um quadro
+	à frente
 	"""
 	waitHold
 }
@@ -5984,9 +6581,10 @@ script 24 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Corta em
-	frente!
-	Alcance 3
+	Corta
+	uma coluna
+	à sua
+	frente
 	"""
 	waitHold
 }
@@ -5995,9 +6593,11 @@ script 25 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Corta em
-	frente!
-	Alcance 2
+	Corta
+	inimigo
+	até dois
+	quadros
+	à frente
 	"""
 	waitHold
 }
@@ -6007,8 +6607,11 @@ script 26 mmbn2 {
 	msgOpenQuick
 	"""
 	Espada de
-	fogo corta
-	3 vertical
+	fogo que
+	corta uma
+	linha ver-
+	tical à
+	frente
 	"""
 	waitHold
 }
@@ -6018,8 +6621,11 @@ script 27 mmbn2 {
 	msgOpenQuick
 	"""
 	Espada de
-	água corta
-	3 vertical
+	água que
+	corta uma
+	linha ver-
+	tical à
+	frente
 	"""
 	waitHold
 }
@@ -6028,9 +6634,12 @@ script 28 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Espd elé.
-	corta 3
+	Espada
+	elétrica
+	que corta
+	uma linha
 	vertical
+	à frente
 	"""
 	waitHold
 }
@@ -6040,8 +6649,11 @@ script 29 mmbn2 {
 	msgOpenQuick
 	"""
 	Espada de
-	fogo corta
-	2 horizon.
+	fogo que
+	corta
+	inimigo
+	2 quadros
+	à frente
 	"""
 	waitHold
 }
@@ -6051,8 +6663,11 @@ script 30 mmbn2 {
 	msgOpenQuick
 	"""
 	Espada de
-	água corta
-	2 horizon.
+	água que
+	corta
+	inimigo
+	2 quadros
+	à frente
 	"""
 	waitHold
 }
@@ -6061,9 +6676,12 @@ script 31 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Espada elé-
-	trica corta
-	2 horizon.
+	Espada
+	elétrica
+	que corta
+	inimigo
+	2 quadros
+	à frente
 	"""
 	waitHold
 }
@@ -6084,7 +6702,8 @@ script 33 mmbn2 {
 	msgOpenQuick
 	"""
 	Espada que
-	usa HP para
+	usa PV
+	para
 	atacar
 	"""
 	waitHold
@@ -6094,9 +6713,12 @@ script 34 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Barra Cust
-	= Força do
-	Ataque
+	A força do
+	ataque é
+	igual à
+	barra de
+	customi-
+	zação
 	"""
 	waitHold
 }
@@ -6105,9 +6727,11 @@ script 35 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Kunais 1
-	qd p/ cima
-	e p/ baixo
+	Joga ku-
+	nais nas
+	diagonais
+	à sua
+	frente
 	"""
 	waitHold
 }
@@ -6116,9 +6740,12 @@ script 36 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Kunais 2
-	qds p/ cima
-	e p/ baixo
+	Gira ku-
+	nais nas
+	diagonais
+	à sua
+	frente
+	2 vezes
 	"""
 	waitHold
 }
@@ -6127,9 +6754,12 @@ script 37 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Kunais 3
-	qds p/ cima
-	e p/ baixo
+	Gira ku-
+	nais nas
+	diagonais
+	à sua
+	frente
+	3 vezes
 	"""
 	waitHold
 }
@@ -6138,9 +6768,10 @@ script 38 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Corta en-
-	quanto segu-
-	rar "A"!
+	Corte en-
+	quanto
+	segurar
+	"A"!
 	"""
 	waitHold
 }
@@ -6149,8 +6780,10 @@ script 39 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Eletro-
-	cuta os
+	Onda de
+	choque em
+	linha reta
+	atinge
 	inimigos
 	"""
 	waitHold
@@ -6160,8 +6793,10 @@ script 40 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Eletro-
-	cuta os
+	Onda de
+	choque em
+	linha reta
+	atinge
 	inimigos
 	"""
 	waitHold
@@ -6171,8 +6806,10 @@ script 41 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Eletro-
-	cuta os
+	Onda de
+	choque em
+	linha reta
+	atinge
 	inimigos
 	"""
 	waitHold
@@ -6182,9 +6819,10 @@ script 42 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	O ataque
-	racha o
-	solo
+	Cai a três
+	quadros
+	e racha
+	o quadro
 	"""
 	waitHold
 }
@@ -6193,9 +6831,10 @@ script 43 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	O ataque
-	racha o
-	solo
+	Cai a três
+	quadros
+	e racha
+	o quadro
 	"""
 	waitHold
 }
@@ -6204,9 +6843,10 @@ script 44 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	O ataque
-	racha o
-	solo
+	Cai a três
+	quadros
+	e racha
+	o quadro
 	"""
 	waitHold
 }
@@ -6215,9 +6855,11 @@ script 45 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Soco que
-	empurra em
-	1 quadro
+	Soco no
+	inimigo
+	à frente
+	que o
+	empurra
 	"""
 	waitHold
 }
@@ -6227,8 +6869,12 @@ script 46 mmbn2 {
 	msgOpenQuick
 	"""
 	Soco de gelo
-	empurra em
-	1 quadro
+	Soco de
+	gelo no
+	inimigo
+	à frente
+	que o
+	empurra
 	"""
 	waitHold
 }
@@ -6237,9 +6883,11 @@ script 47 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	+20 ao
-	ChipAtq
-	escolhido!
+	Adiciona
+	+20 ao chip
+	de ataque
+	escolhido
+	em seguida
 	"""
 	waitHold
 }
@@ -6248,9 +6896,11 @@ script 48 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
+	Adiciona
 	+30 ao
-	ChipAtq
-	escolhido!
+	chip
+	escolhido
+	em seguida
 	"""
 	waitHold
 }
@@ -6259,9 +6909,12 @@ script 49 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
+	Adiciona
 	+40 ao
-	ChipNavi
-	escolhido!
+	chip de
+	Navi
+	escolhido
+	em seguida
 	"""
 	waitHold
 }
@@ -6270,8 +6923,11 @@ script 50 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Atravessa
-	inimigos!
+	Ataque em
+	linha reta
+	que atra-
+	vessa
+	inimigos
 	"""
 	waitHold
 }
@@ -6280,9 +6936,12 @@ script 51 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Pode quebrar
-	3o. quadro
-	à frente
+	Cai 3
+	quadros à
+	frente,
+	pode
+	quebrar
+	o quadro
 	"""
 	waitHold
 }
@@ -6291,9 +6950,12 @@ script 52 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Pode quebrar
-	3o. quadro
-	à frente
+	Cai 3
+	quadros à
+	frente,
+	pode
+	quebrar
+	o quadro
 	"""
 	waitHold
 }
@@ -6302,8 +6964,9 @@ script 53 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	2 baterias
-	de agulhas
+	Atira 2
+	agulhas em
+	linha reta
 	"""
 	waitHold
 }
@@ -6312,8 +6975,9 @@ script 54 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	3 baterias
-	de agulhas
+	Atira 3
+	agulhas em
+	linha reta
 	"""
 	waitHold
 }
@@ -6322,8 +6986,9 @@ script 55 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	4 baterias
-	de agulhas
+	Atira 4
+	agulhas em
+	linha reta
 	"""
 	waitHold
 }
@@ -6332,8 +6997,9 @@ script 56 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	3 baterias
-	de lanças
+	Atira 3
+	lanças em
+	linha reta
 	"""
 	waitHold
 }
@@ -6342,8 +7008,10 @@ script 57 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Um rato ras-
-	teja e dobra
+	Joga um
+	rato que
+	segue reto
+	e dobra
 	uma vez
 	"""
 	waitHold
@@ -6353,8 +7021,10 @@ script 58 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Um rato ras-
-	teja e dobra
+	Joga um
+	rato que
+	segue reto
+	e dobra
 	uma vez
 	"""
 	waitHold
@@ -6364,8 +7034,10 @@ script 59 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Um rato ras-
-	teja e dobra
+	Joga um
+	rato que
+	segue reto
+	e dobra
 	uma vez
 	"""
 	waitHold
@@ -6375,9 +7047,11 @@ script 60 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Incrível
-	quando você
-	usa fogo
+	Atinja-o
+	com fogo e
+	veja o
+	que
+	acontece
 	"""
 	waitHold
 }
@@ -6386,9 +7060,11 @@ script 61 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Tornado de
+	Cria um
+	tornado de
 	8 acertos
-	2 à frente
+	2 quadros
+	à frente
 	"""
 	waitHold
 }
@@ -6397,9 +7073,11 @@ script 62 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Tornado de
+	Cria um
+	tornado de
 	8 acertos
-	2 à frente
+	2 quadros
+	à frente
 	"""
 	waitHold
 }
@@ -6408,9 +7086,11 @@ script 63 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Tornado de
+	Cria um
+	tornado de
 	8 acertos
-	2 à frente
+	2 quadros
+	à frente
 	"""
 	waitHold
 }
@@ -6419,9 +7099,12 @@ script 64 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Envolve
-	você em
-	chamas!
+	Ataque
+	de fogo
+	nos 4
+	quadros
+	ao seu
+	redor
 	"""
 	waitHold
 }
@@ -6430,9 +7113,11 @@ script 65 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Anéis elé-
-	tricos que
-	paralizam!
+	Atira anel
+	elétrico
+	que
+	paraliza
+	inimigo
 	"""
 	waitHold
 }
@@ -6441,9 +7126,11 @@ script 66 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Anéis elé-
-	tricos que
-	paralizam!
+	Atira anel
+	elétrico
+	que
+	paraliza
+	inimigo
 	"""
 	waitHold
 }
@@ -6452,9 +7139,11 @@ script 67 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Anéis elé-
-	tricos que
-	paralizam!
+	Atira anel
+	elétrico
+	que
+	paraliza
+	inimigo
 	"""
 	waitHold
 }
@@ -6463,9 +7152,12 @@ script 68 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Esporos no-
-	civos sobre
-	toda a grama
+	Solta
+	esporos
+	nocivos
+	nos
+	quadros
+	de grama
 	"""
 	waitHold
 }
@@ -6474,9 +7166,12 @@ script 69 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Esporos no-
-	civos sobre
-	toda a grama
+	Solta
+	esporos
+	nocivos
+	nos
+	quadros
+	de grama
 	"""
 	waitHold
 }
@@ -6485,9 +7180,12 @@ script 70 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Esporos no-
-	civos sobre
-	toda a grama
+	Solta
+	esporos
+	nocivos
+	nos
+	quadros
+	de grama
 	"""
 	waitHold
 }
@@ -6496,9 +7194,11 @@ script 71 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Um satélite
-	flutuante e
-	giratório
+	Atira
+	satélite
+	ondulante
+	que orbita
+	objetos
 	"""
 	waitHold
 }
@@ -6507,9 +7207,11 @@ script 72 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Um satélite
-	flutuante e
-	giratório
+	Atira
+	satélite
+	ondulante
+	que orbita
+	objetos
 	"""
 	waitHold
 }
@@ -6518,9 +7220,11 @@ script 73 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Um satélite
-	flutuante e
-	giratório
+	Atira
+	satélite
+	ondulante
+	que orbita
+	objetos
 	"""
 	waitHold
 }
@@ -6529,9 +7233,10 @@ script 74 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataque de
-	ioiô a 3
-	quadros!
+	Atira
+	ioiô 3
+	quadros
+	à frente
 	"""
 	waitHold
 }
@@ -6540,9 +7245,10 @@ script 75 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataque de
-	ioiô a 3
-	quadros!
+	Atira
+	ioiô 3
+	quadros
+	à frente
 	"""
 	waitHold
 }
@@ -6551,9 +7257,10 @@ script 76 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataque de
-	ioiô a 3
-	quadros!
+	Atira
+	ioiô 3
+	quadros
+	à frente
 	"""
 	waitHold
 }
@@ -6562,6 +7269,9 @@ script 77 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
+	Bomba 3
+	quadros
+	à frente.
 	Imobiliza
 	o inimigo
 	"""
@@ -6572,6 +7282,9 @@ script 78 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
+	Bomba 3
+	quadros
+	à frente.
 	Imobiliza
 	o inimigo
 	"""
@@ -6582,6 +7295,9 @@ script 79 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
+	Bomba 3
+	quadros
+	à frente.
 	Imobiliza
 	o inimigo
 	"""
@@ -6592,9 +7308,11 @@ script 80 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bastão
+	Instala
+	bastão que
 	atira 9
 	meteoros
+	aleatórios
 	"""
 	waitHold
 }
@@ -6603,9 +7321,11 @@ script 81 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bastão
+	Instala
+	bastão que
 	atira 12
 	meteoros
+	aleatórios
 	"""
 	waitHold
 }
@@ -6614,9 +7334,11 @@ script 82 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bastão
+	Instala
+	bastão que
 	atira 15
 	meteoros
+	aleatórios
 	"""
 	waitHold
 }
@@ -6625,9 +7347,11 @@ script 83 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bastão
+	Instala
+	bastão que
 	atira 18
 	meteoros
+	aleatórios
 	"""
 	waitHold
 }
@@ -6636,9 +7360,11 @@ script 84 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Martelo
-	que esmaga
-	coisas!
+	Martelada
+	1 quadro
+	à frente.
+	Esmaga
+	objetos!
 	"""
 	waitHold
 }
@@ -6647,9 +7373,12 @@ script 85 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Defende,
-	daí morde
-	o inimigo
+	Escudo.
+	Após de-
+	fender,
+	ataca
+	em linha
+	reta
 	"""
 	waitHold
 }
@@ -6658,9 +7387,12 @@ script 86 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Defende,
-	daí morde
-	o inimigo
+	Escudo.
+	Após de-
+	fender,
+	ataca
+	em linha
+	reta
 	"""
 	waitHold
 }
@@ -6669,9 +7401,12 @@ script 87 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Defende,
-	daí morde
-	o inimigo
+	Escudo.
+	Após de-
+	fender,
+	ataca
+	em linha
+	reta
 	"""
 	waitHold
 }
@@ -6680,9 +7415,11 @@ script 88 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bomba-relógio
-	atinge toda
-	a área!
+	Bomba-re-
+	lógio que
+	atinge to-
+	da a área
+	inimiga!
 	"""
 	waitHold
 }
@@ -6691,9 +7428,11 @@ script 89 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bomba-relógio
-	atinge toda
-	a área!
+	Bomba-re-
+	lógio que
+	atinge to-
+	da a área
+	inimiga!
 	"""
 	waitHold
 }
@@ -6702,9 +7441,11 @@ script 90 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bomba-relógio
-	atinge toda
-	a área!
+	Bomba-re-
+	lógio que
+	atinge to-
+	da a área
+	inimiga!
 	"""
 	waitHold
 }
@@ -6713,9 +7454,12 @@ script 91 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Nuvem de
-	chuva que
-	sobe e desce
+	Joga nuvem
+	de chuva
+	a 3 qdos.
+	que tran-
+	sita em
+	coluna
 	"""
 	waitHold
 }
@@ -6724,9 +7468,12 @@ script 92 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Nuvem de
-	chuva que
-	sobe e desce
+	Joga nuvem
+	de chuva
+	a 3 qdos.
+	que tran-
+	sita em
+	coluna
 	"""
 	waitHold
 }
@@ -6735,9 +7482,12 @@ script 93 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Nuvem de
-	chuva que
-	sobe e desce
+	Joga nuvem
+	de chuva
+	a 3 qdos.
+	que tran-
+	sita em
+	coluna
 	"""
 	waitHold
 }
@@ -6746,8 +7496,9 @@ script 94 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Coloca mina
-	no campo do
+	Planta uma
+	mina no
+	campo do
 	inimigo
 	"""
 	waitHold
@@ -6757,8 +7508,12 @@ script 95 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Dinamite
-	automática
+	Explode
+	em linha
+	reta
+	quando
+	inimigo
+	passa
 	"""
 	waitHold
 }
@@ -6767,8 +7522,11 @@ script 96 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Dinamite
+	Explode na
 	diagonal
+	quando
+	inimigo
+	passa
 	"""
 	waitHold
 }
@@ -6777,9 +7535,11 @@ script 97 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gera um
-	remobit no
-	campo inimigo
+	Remobit
+	tira
+	quadros do
+	inimigo
+	aos poucos
 	"""
 	waitHold
 }
@@ -6788,9 +7548,11 @@ script 98 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gera um
-	remobit no
-	campo inimigo
+	Remobit
+	tira
+	quadros do
+	inimigo
+	aos poucos
 	"""
 	waitHold
 }
@@ -6799,9 +7561,11 @@ script 99 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gera um
-	remobit no
-	campo inimigo
+	Remobit
+	tira
+	quadros do
+	inimigo
+	aos poucos
 	"""
 	waitHold
 }
@@ -6810,8 +7574,11 @@ script 100 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Estoura
-	ao atingir
+	Bolha se-
+	gue linha
+	reta, es-
+	toura ao
+	atingir
 	algo
 	"""
 	waitHold
@@ -6821,8 +7588,11 @@ script 101 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Estoura
-	ao atingir
+	Bolha se-
+	gue linha
+	reta, es-
+	toura ao
+	atingir
 	algo
 	"""
 	waitHold
@@ -6832,8 +7602,11 @@ script 102 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Estoura
-	ao atingir
+	Bolha se-
+	gue linha
+	reta, es-
+	toura ao
+	atingir
 	algo
 	"""
 	waitHold
@@ -6843,8 +7616,10 @@ script 103 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gêiser se
-	em um buraco
+	Cria um
+	gêiser se
+	jogado em
+	buraco
 	aberto
 	"""
 	waitHold
@@ -6856,7 +7631,9 @@ script 104 mmbn2 {
 	"""
 	Invoca um
 	dragão de
-	lava!
+	lava em
+	um buraco
+	aberto!
 	"""
 	waitHold
 }
@@ -6873,7 +7650,11 @@ script 106 mmbn2 {
 	msgOpenQuick
 	"""
 	Invoca
-	Old Wood!
+	uma árvore
+	poderosa
+	em um
+	buraco
+	aberto!
 	"""
 	waitHold
 }
@@ -6882,9 +7663,12 @@ script 107 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Envenena 1
-	quadro com
-	o botão A!
+	Escudo.
+	Segure A
+	para enve-
+	nenar
+	quadro
+	à frente!
 	"""
 	waitHold
 }
@@ -6893,9 +7677,12 @@ script 108 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Espalha
-	veneno com
-	o botão A!
+	Escudo.
+	Segure A
+	para enve-
+	nenar
+	quadros
+	adjasc.
 	"""
 	waitHold
 }
@@ -6904,9 +7691,12 @@ script 109 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Redemoinho
-	mata inimi-
-	gos fracos!
+	Cria rede-
+	moinho 3
+	quadros à
+	frente.
+	Destrói
+	fracos
 	"""
 	waitHold
 }
@@ -6915,9 +7705,12 @@ script 110 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Buraco negro
-	mata inimi-
-	gos fracos!
+	Cria bura-
+	co negro
+	3 quadros
+	à frente.
+	Destrói
+	fracos
 	"""
 	waitHold
 }
@@ -6937,7 +7730,9 @@ script 112 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Anula dano
+	Cria bar-
+	reira que
+	anula dano
 	uma vez!
 	"""
 	waitHold
@@ -6958,9 +7753,10 @@ script 114 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Destrói 3
-	quadros à
-	frente
+	Destrói
+	uma coluna
+	de quadros
+	à frente
 	"""
 	waitHold
 }
@@ -6971,7 +7767,8 @@ script 115 mmbn2 {
 	"""
 	Destrói 1
 	linha de
-	quadros!
+	quadros
+	à frente
 	"""
 	waitHold
 }
@@ -6980,9 +7777,11 @@ script 116 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Lança vem
-	da linha
-	de trás
+	Ataca
+	quadros de
+	trás do
+	inimigo
+	com lanças
 	"""
 	waitHold
 }
@@ -6998,8 +7797,10 @@ script 118 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punho da
-	morte!
+	Soco da
+	morte um
+	quadro à
+	frente!
 	"""
 	waitHold
 }
@@ -7008,8 +7809,10 @@ script 119 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punho da
-	morte!
+	Soco da
+	morte um
+	quadro à
+	frente!
 	"""
 	waitHold
 }
@@ -7018,8 +7821,10 @@ script 120 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punho da
-	morte!
+	Soco da
+	morte um
+	quadro à
+	frente!
 	"""
 	waitHold
 }
@@ -7040,7 +7845,7 @@ script 122 mmbn2 {
 	msgOpenQuick
 	"""
 	Recupera
-	10 de HP
+	10 de PV
 	"""
 	waitHold
 }
@@ -7050,7 +7855,7 @@ script 123 mmbn2 {
 	msgOpenQuick
 	"""
 	Recupera
-	30 de HP
+	30 de PV
 	"""
 	waitHold
 }
@@ -7060,7 +7865,7 @@ script 124 mmbn2 {
 	msgOpenQuick
 	"""
 	Recupera
-	50 de HP
+	50 de PV
 	"""
 	waitHold
 }
@@ -7070,7 +7875,7 @@ script 125 mmbn2 {
 	msgOpenQuick
 	"""
 	Recupera
-	80 de HP
+	80 de PV
 	"""
 	waitHold
 }
@@ -7080,7 +7885,7 @@ script 126 mmbn2 {
 	msgOpenQuick
 	"""
 	Recupera
-	120 de HP
+	120 de PV
 	"""
 	waitHold
 }
@@ -7090,7 +7895,7 @@ script 127 mmbn2 {
 	msgOpenQuick
 	"""
 	Recupera
-	150 de HP
+	150 de PV
 	"""
 	waitHold
 }
@@ -7100,7 +7905,7 @@ script 128 mmbn2 {
 	msgOpenQuick
 	"""
 	Recupera
-	200 de HP
+	200 de PV
 	"""
 	waitHold
 }
@@ -7110,7 +7915,7 @@ script 129 mmbn2 {
 	msgOpenQuick
 	"""
 	Recupera
-	300 de HP
+	300 de PV
 	"""
 	waitHold
 }
@@ -7130,8 +7935,9 @@ script 131 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Rouba lado
-	esquerdo
+	Rouba
+	coluna
+	esquerda
 	do inimigo
 	"""
 	waitHold
@@ -7142,7 +7948,8 @@ script 132 mmbn2 {
 	msgOpenQuick
 	"""
 	Castiga
-	ladrões de
+	inimigo
+	que roubou
 	quadros!
 	"""
 	waitHold
@@ -7152,9 +7959,9 @@ script 133 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Todos os
-	quadros
-	racham!
+	Faz todos
+	os quadros
+	racharem
 	"""
 	waitHold
 }
@@ -7163,9 +7970,10 @@ script 134 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Quebra os
+	Quebra
+	todos os
 	quadros
-	vazios!
+	vazios
 	"""
 	waitHold
 }
@@ -7174,9 +7982,9 @@ script 135 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Transforma
-	quadros em
-	pântano!
+	Envenena
+	todos os
+	quadros
 	"""
 	waitHold
 }
@@ -7196,8 +8004,9 @@ script 137 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Inimigo
-	perde
+	Faz o
+	inimigo
+	perder o
 	controle
 	"""
 	waitHold
@@ -7207,9 +8016,10 @@ script 138 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Foge de
-	certos
-	inimigos
+	Faz você
+	fugir de
+	certas
+	lutas
 	"""
 	waitHold
 }
@@ -7218,7 +8028,9 @@ script 139 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ande sobre
+	Permite a
+	você andar
+	sobre
 	quadros
 	vazios
 	"""
@@ -7229,9 +8041,10 @@ script 140 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Preenche
+	Conserta
 	os quadros
-	do seu lado
+	do seu
+	lado
 	"""
 	waitHold
 }
@@ -7242,7 +8055,9 @@ script 141 mmbn2 {
 	"""
 	Planta
 	uma vela
-	de cura
+	que cura
+	você aos
+	poucos
 	"""
 	waitHold
 }
@@ -7253,7 +8068,9 @@ script 142 mmbn2 {
 	"""
 	Planta
 	uma vela
-	de cura
+	que cura
+	você aos
+	poucos
 	"""
 	waitHold
 }
@@ -7264,7 +8081,9 @@ script 143 mmbn2 {
 	"""
 	Planta
 	uma vela
-	de cura
+	que cura
+	você aos
+	poucos
 	"""
 	waitHold
 }
@@ -7273,9 +8092,10 @@ script 144 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Planta um
-	cubo de pedra
-	à frente
+	Cria um
+	cubo de
+	pedra à
+	frente
 	"""
 	waitHold
 }
@@ -7284,9 +8104,11 @@ script 145 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Atira pra
-	todo lado
-	ao atingir
+	Joga
+	prisma. Se
+	atingí-lo,
+	dano se
+	espalha
 	"""
 	waitHold
 }
@@ -7295,9 +8117,11 @@ script 146 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Estátua
-	pune quando
-	atingida
+	Planta es-
+	tátua.
+	Quem a
+	ataca é
+	punido
 	"""
 	waitHold
 }
@@ -7306,8 +8130,10 @@ script 147 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
+	Cria
 	WindBox
-	sopra a área
+	que sopra
+	a área
 	inimiga
 	"""
 	waitHold
@@ -7317,8 +8143,10 @@ script 148 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
+	Cria
 	VacuumFan
-	aspira área
+	que aspira
+	a área
 	inimiga
 	"""
 	waitHold
@@ -7328,9 +8156,11 @@ script 149 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Anubis
+	Cria
+	Anubis que
 	envenena
-	área inimiga
+	a área
+	inimiga
 	"""
 	waitHold
 }
@@ -7339,9 +8169,10 @@ script 150 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Barra Cust
-	desacelera
-	em batalha
+	Desacelera
+	a Barra de
+	Customiza-
+	ção
 	"""
 	waitHold
 }
@@ -7350,9 +8181,10 @@ script 151 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Barra Cust
-	acelera
-	em batalha
+	Acelera
+	a Barra de
+	Customiza-
+	ção
 	"""
 	waitHold
 }
@@ -7361,9 +8193,10 @@ script 152 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Barra Cust
-	sempre
-	cheia!
+	Mantém a
+	Barra de
+	Customiza-
+	ção cheia!
 	"""
 	waitHold
 }
@@ -7372,9 +8205,10 @@ script 153 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Fica invi-
-	sível por
-	um tempo
+	Deixa você
+	invisível
+	por um
+	tempo
 	"""
 	waitHold
 }
@@ -7383,9 +8217,10 @@ script 154 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Fica invi-
-	sível por
-	um tempo
+	Deixa você
+	invisível
+	por um
+	tempo
 	"""
 	waitHold
 }
@@ -7394,9 +8229,10 @@ script 155 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Fica invi-
-	sível por
-	um tempo
+	Deixa você
+	invisível
+	por um
+	tempo
 	"""
 	waitHold
 }
@@ -7405,9 +8241,9 @@ script 156 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Fica invi-
-	sível até
-	atacar!
+	Deixa você
+	invisível
+	até atacar
 	"""
 	waitHold
 }
@@ -7416,9 +8252,11 @@ script 157 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Inivisble
-	except for
-	attack!
+	Deixa você
+	invisível,
+	menos na
+	hora de
+	atacar
 	"""
 	waitHold
 }
@@ -7427,9 +8265,12 @@ script 158 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Corpo de
-	pedra só leva
-	1 HP de dano
+	Transforma
+	seu corpo
+	em pedra,
+	que só
+	leva 1 PV
+	de dano
 	"""
 	waitHold
 }
@@ -7438,9 +8279,12 @@ script 159 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Somente
-	ataques de
-	espada ferem
+	Faz com
+	que você
+	só possa
+	ser ata-
+	cado por
+	espadas
 	"""
 	waitHold
 }
@@ -7449,9 +8293,12 @@ script 160 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Somente
-	ataques de
-	espada ferem
+	Faz com
+	que você
+	só possa
+	ser ata-
+	cado por
+	espadas
 	"""
 	waitHold
 }
@@ -7460,9 +8307,12 @@ script 161 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Somente
-	ataques de
-	espada ferem
+	Faz com
+	que você
+	só possa
+	ser ata-
+	cado por
+	espadas
 	"""
 	waitHold
 }
@@ -7471,9 +8321,12 @@ script 162 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Ataque letal
+	Um ataque
+	que te
+	venceria
 	te deixa
-	com 1 de HP!
+	com 1 de
+	PV
 	"""
 	waitHold
 }
@@ -7482,9 +8335,12 @@ script 163 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Barreira
-	de água
-	regenera
+	Cria bolha
+	de prote-
+	ção que
+	se rege-
+	nera com
+	o tempo
 	"""
 	waitHold
 }
@@ -7493,9 +8349,10 @@ script 164 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Próximo
+	Absorve
+	dano do
+	próximo
 	ataque
-	te cura
 	"""
 	waitHold
 }
@@ -7504,9 +8361,10 @@ script 165 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Repele ata-
-	ques abai-
-	xo de 10
+	Bloqueia
+	ataques
+	de dano
+	até 10
 	"""
 	waitHold
 }
@@ -7515,9 +8373,10 @@ script 166 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Repele ata-
-	ques abai-
-	xo de 40
+	Bloqueia
+	ataques
+	de dano
+	até 40
 	"""
 	waitHold
 }
@@ -7526,9 +8385,10 @@ script 167 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Repele ata-
-	ques abai-
-	xo de 80
+	Bloqueia
+	ataques
+	de dano
+	até 80
 	"""
 	waitHold
 }
@@ -7537,9 +8397,10 @@ script 168 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Repels non
-	wd attacks
-	under 100
+	Bloqueia
+	ataques
+	de dano
+	até 100
 	"""
 	waitHold
 }
@@ -7548,9 +8409,11 @@ script 169 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Repels all
-	attacks
-	under 100
+	Bloqueia
+	todo
+	ataque de
+	dano até
+	100
 	"""
 	waitHold
 }
@@ -7559,9 +8422,11 @@ script 170 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Repels all
-	attacks
-	under 150
+	Bloqueia
+	todo
+	ataque de
+	dano até
+	150
 	"""
 	waitHold
 }
@@ -7570,9 +8435,11 @@ script 171 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Repels all
-	attacks
-	under 200
+	Bloqueia
+	todo
+	ataque de
+	dano até
+	200
 	"""
 	waitHold
 }
@@ -7581,9 +8448,10 @@ script 172 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Changes
-	your line
-	to magnet
+	Transforma
+	uma linha
+	em quadros
+	magnéticos
 	"""
 	waitHold
 }
@@ -7592,9 +8460,10 @@ script 173 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Changes
-	your line
-	to lava
+	Transforma
+	uma linha
+	em quadros
+	de lava
 	"""
 	waitHold
 }
@@ -7603,9 +8472,10 @@ script 174 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Changes
-	your line
-	to ice
+	Transforma
+	uma linha
+	em quadros
+	de gelo
 	"""
 	waitHold
 }
@@ -7614,9 +8484,10 @@ script 175 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Changes
-	your line
-	to grass
+	Transforma
+	uma linha
+	em quadros
+	de grama
 	"""
 	waitHold
 }
@@ -7625,9 +8496,11 @@ script 176 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Changes
-	all panels
-	to lava
+	Transforma
+	todos os
+	quadros
+	em quadros
+	de lava
 	"""
 	waitHold
 }
@@ -7636,9 +8509,11 @@ script 177 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Changes
-	all panels
-	to ice
+	Transforma
+	todos os
+	quadros
+	em quadros
+	de gelo
 	"""
 	waitHold
 }
@@ -7647,9 +8522,11 @@ script 178 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Changes
-	all panels
-	to grass
+	Transforma
+	todos os
+	quadros
+	em quadros
+	de grama
 	"""
 	waitHold
 }
@@ -7658,9 +8535,11 @@ script 179 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Makes all
-	panels
-	holy
+	Transforma
+	todos os
+	quadros
+	em quadros
+	sagrados
 	"""
 	waitHold
 }
@@ -7669,9 +8548,12 @@ script 180 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	More chips
-	means more
-	damage
+	Quanto
+	mais chips
+	o inimigo
+	tem, mais
+	dano ele
+	leva
 	"""
 	waitHold
 }
@@ -7680,9 +8562,12 @@ script 181 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punishes
-	enemy for
-	using fire
+	Previne
+	ataque de
+	fogo do
+	inimigo
+	e contra-
+	ataca
 	"""
 	waitHold
 }
@@ -7691,9 +8576,12 @@ script 182 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punishes
-	enemy for
-	using elec
+	Previne
+	ataque
+	elét. do
+	inimigo
+	e contra-
+	ataca
 	"""
 	waitHold
 }
@@ -7702,9 +8590,12 @@ script 183 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punishes
-	enemy for
-	using aqua
+	Previne
+	ataque de
+	água do
+	inimigo
+	e contra-
+	ataca
 	"""
 	waitHold
 }
@@ -7713,9 +8604,12 @@ script 184 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Fake pain
-	and throw
-	shurikens!
+	Previne
+	ataque do
+	inimigo
+	e contra-
+	ataca c/
+	shurikens
 	"""
 	waitHold
 }
@@ -7724,9 +8618,12 @@ script 185 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punishes
-	use of
-	swords
+	Previne
+	ataque de
+	espada do
+	inimigo
+	e contra-
+	ataca
 	"""
 	waitHold
 }
@@ -7735,9 +8632,12 @@ script 186 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Take the
-	enemy's
-	Navi away
+	Vira um
+	ataque de
+	Navi do
+	inimigo
+	contra
+	ele
 	"""
 	waitHold
 }
@@ -7746,9 +8646,12 @@ script 187 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Punish the
-	recovery
-	of HPs!
+	Reverte
+	chips de
+	cura do
+	inimigo
+	e pune
+	ele
 	"""
 	waitHold
 }
@@ -7757,8 +8660,12 @@ script 188 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Adds 10 to
-	AttackChip
+	Adiciona
+	+10 de
+	dano ao
+	próximo
+	chip sele-
+	cionado
 	"""
 	waitHold
 }
@@ -7767,9 +8674,12 @@ script 189 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Adds 40 to
-	Fire
-	AttackChip
+	Adiciona
+	+40 de
+	dano ao
+	próximo
+	chip de
+	fogo
 	"""
 	waitHold
 }
@@ -7778,9 +8688,12 @@ script 190 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Adds 40 to
-	Aqua
-	AttackChip
+	Adiciona
+	+40 de
+	dano ao
+	próximo
+	chip de
+	água
 	"""
 	waitHold
 }
@@ -7789,9 +8702,12 @@ script 191 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Adds 40 to
-	Wood
-	AttackChip
+	Adiciona
+	+40 de
+	dano ao
+	próximo
+	chip de
+	madeira
 	"""
 	waitHold
 }
@@ -7800,9 +8716,12 @@ script 192 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Adds 40 to
-	Elec
-	AttackChip
+	Adiciona
+	+40 de
+	dano ao
+	próximo
+	chip
+	elétrico
 	"""
 	waitHold
 }
@@ -7811,8 +8730,12 @@ script 193 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Adds 20 to
-	NaviChip
+	Adiciona
+	+40 de
+	dano ao
+	próximo
+	chip de
+	Navi
 	"""
 	waitHold
 }
@@ -7821,9 +8744,10 @@ script 194 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Attacks 1
-	enemy then
-	heals you
+	Roll ataca
+	um inimigo
+	e depois
+	cura você
 	"""
 	waitHold
 }
@@ -7832,9 +8756,10 @@ script 195 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Attacks 1
-	enemy then
-	heals you
+	Roll ataca
+	um inimigo
+	e depois
+	cura você
 	"""
 	waitHold
 }
@@ -7843,9 +8768,10 @@ script 196 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Attacks 1
-	enemy then
-	heals you
+	Roll ataca
+	um inimigo
+	e depois
+	cura você
 	"""
 	waitHold
 }
@@ -7854,9 +8780,11 @@ script 197 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Creeps and
-	smashes
-	panels!
+	Usa três
+	ondas de
+	choque
+	que racham
+	quadros!
 	"""
 	waitHold
 }
@@ -7865,9 +8793,11 @@ script 198 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Creeps and
-	smashes
-	panels!
+	Usa três
+	ondas de
+	choque
+	que racham
+	quadros!
 	"""
 	waitHold
 }
@@ -7876,9 +8806,11 @@ script 199 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Creeps and
-	smashes
-	panels!
+	Usa três
+	ondas de
+	choque
+	que racham
+	quadros!
 	"""
 	waitHold
 }
@@ -7887,9 +8819,12 @@ script 200 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Swings
-	sword at
-	enemy face
+	ProtoMan
+	acerta
+	inimigos
+	com ata-
+	ques de
+	espada
 	"""
 	waitHold
 }
@@ -7898,9 +8833,12 @@ script 201 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Swings
-	sword at
-	enemy face
+	ProtoMan
+	acerta
+	inimigos
+	com ata-
+	ques de
+	espada
 	"""
 	waitHold
 }
@@ -7909,9 +8847,12 @@ script 202 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Swings
-	sword at
-	enemy face
+	ProtoMan
+	acerta
+	inimigos
+	com ata-
+	ques de
+	espada
 	"""
 	waitHold
 }
@@ -7920,9 +8861,11 @@ script 203 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Shoots air
-	twisters
-	in a line
+	Atira
+	tornados
+	de ar em
+	todas as
+	linhas
 	"""
 	waitHold
 }
@@ -7931,9 +8874,11 @@ script 204 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Shoots air
-	twisters
-	in a line
+	Atira
+	tornados
+	de ar em
+	todas as
+	linhas
 	"""
 	waitHold
 }
@@ -7942,9 +8887,11 @@ script 205 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Shoots air
-	twisters
-	in a line
+	Atira
+	tornados
+	de ar em
+	todas as
+	linhas
 	"""
 	waitHold
 }
@@ -7953,9 +8900,10 @@ script 206 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Boomerang
-	attacks
-	whole row
+	Atira
+	bumeran-
+	gue em
+	linha reta
 	"""
 	waitHold
 }
@@ -7964,9 +8912,10 @@ script 207 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Boomerang
-	attacks
-	whole row
+	Atira
+	bumeran-
+	gue em
+	linha reta
 	"""
 	waitHold
 }
@@ -7975,9 +8924,10 @@ script 208 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Boomerang
-	attacks
-	whole row
+	Atira
+	bumeran-
+	gue em
+	linha reta
 	"""
 	waitHold
 }
@@ -7986,9 +8936,10 @@ script 209 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Scissor
-	attacks
-	one square
+	Ataca com
+	tesoura
+	1 quadro
+	à frente
 	"""
 	waitHold
 }
@@ -7997,9 +8948,10 @@ script 210 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Scissor
-	attacks
-	one square
+	Ataca com
+	tesoura
+	1 quadro
+	à frente
 	"""
 	waitHold
 }
@@ -8008,9 +8960,10 @@ script 211 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Scissor
-	attacks
-	one square
+	Ataca com
+	tesoura
+	1 quadro
+	à frente
 	"""
 	waitHold
 }
@@ -8019,9 +8972,9 @@ script 212 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Splits and
-	shoots 3
-	shurikens!
+	Atira 3
+	shurikens
+	no inimigo
 	"""
 	waitHold
 }
@@ -8030,9 +8983,9 @@ script 213 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Splits and
-	shoots 3
-	shurikens!
+	Atira 3
+	shurikens
+	no inimigo
 	"""
 	waitHold
 }
@@ -8041,9 +8994,9 @@ script 214 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Splits and
-	shoots 3
-	shurikens!
+	Atira 3
+	shurikens
+	no inimigo
 	"""
 	waitHold
 }
@@ -8052,9 +9005,10 @@ script 215 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Smashes
-	enemies
-	in circle!
+	Ataca
+	arredores
+	com bola
+	de ferro
 	"""
 	waitHold
 }
@@ -8063,9 +9017,10 @@ script 216 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Smashes
-	enemies
-	in circle!
+	Ataca
+	arredores
+	com bola
+	de ferro
 	"""
 	waitHold
 }
@@ -8074,9 +9029,10 @@ script 217 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Smashes
-	enemies
-	in circle!
+	Ataca
+	arredores
+	com bola
+	de ferro
 	"""
 	waitHold
 }
@@ -8085,9 +9041,11 @@ script 218 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bipolar
-	tackle on
-	1 enemy
+	Agarrão
+	duplo em
+	frente
+	que
+	imobiliza
 	"""
 	waitHold
 }
@@ -8096,9 +9054,11 @@ script 219 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bipolar
-	tackle on
-	1 enemy
+	Agarrão
+	duplo em
+	frente
+	que
+	imobiliza
 	"""
 	waitHold
 }
@@ -8107,9 +9067,11 @@ script 220 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bipolar
-	tackle on
-	1 enemy
+	Agarrão
+	duplo em
+	frente
+	que
+	imobiliza
 	"""
 	waitHold
 }
@@ -8118,9 +9080,11 @@ script 221 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Rains
-	icicles on
-	enemies
+	Faz chover
+	espinhos
+	de gelo
+	nos
+	inimigos
 	"""
 	waitHold
 }
@@ -8129,9 +9093,11 @@ script 222 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Rains
-	icicles on
-	enemies
+	Faz chover
+	espinhos
+	de gelo
+	nos
+	inimigos
 	"""
 	waitHold
 }
@@ -8140,9 +9106,11 @@ script 223 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Rains
-	icicles on
-	enemies
+	Faz chover
+	espinhos
+	de gelo
+	nos
+	inimigos
 	"""
 	waitHold
 }
@@ -8151,9 +9119,10 @@ script 224 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Flame
-	attack!
-	Range is 3
+	Ataque de
+	fogo
+	crescente.
+	Alcance 3
 	"""
 	waitHold
 }
@@ -8162,9 +9131,10 @@ script 225 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Flame
-	attack!
-	Range is 3
+	Ataque de
+	fogo
+	crescente.
+	Alcance 3
 	"""
 	waitHold
 }
@@ -8173,9 +9143,10 @@ script 226 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Flame
-	attack!
-	Range is 3
+	Ataque de
+	fogo
+	crescente.
+	Alcance 3
 	"""
 	waitHold
 }
@@ -8184,9 +9155,11 @@ script 227 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Shocking
-	melody
-	paralyzes!
+	Melodia
+	chocante
+	que segue
+	inimigo e
+	paraliza!
 	"""
 	waitHold
 }
@@ -8195,9 +9168,11 @@ script 228 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Shocking
-	melody
-	paralyzes!
+	Melodia
+	chocante
+	que segue
+	inimigo e
+	paraliza!
 	"""
 	waitHold
 }
@@ -8206,9 +9181,11 @@ script 229 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Shocking
-	melody
-	paralyzes!
+	Melodia
+	chocante
+	que segue
+	inimigo e
+	paraliza!
 	"""
 	waitHold
 }
@@ -8217,9 +9194,11 @@ script 230 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Thunder
-	attacks
-	3rd line
+	Joga uma
+	coluna de
+	raios 3
+	quadros
+	à frente
 	"""
 	waitHold
 }
@@ -8228,9 +9207,11 @@ script 231 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Thunder
-	attacks
-	3rd line
+	Joga uma
+	coluna de
+	raios 3
+	quadros
+	à frente
 	"""
 	waitHold
 }
@@ -8239,9 +9220,11 @@ script 232 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Thunder
-	attacks
-	3rd line
+	Joga uma
+	coluna de
+	raios 3
+	quadros
+	à frente
 	"""
 	waitHold
 }
@@ -8250,9 +9233,12 @@ script 233 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Main
-	attack and
-	snakes!
+	Invoca
+	cobras de
+	buracos,
+	mais um
+	ataque
+	direto
 	"""
 	waitHold
 }
@@ -8261,9 +9247,12 @@ script 234 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Main
-	attack and
-	snakes!
+	Invoca
+	cobras de
+	buracos,
+	mais um
+	ataque
+	direto
 	"""
 	waitHold
 }
@@ -8272,9 +9261,12 @@ script 235 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Main
-	attack and
-	snakes!
+	Invoca
+	cobras de
+	buracos,
+	mais um
+	ataque
+	direto
 	"""
 	waitHold
 }
@@ -8283,9 +9275,9 @@ script 236 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	3 soldiers
-	charge
-	forward!
+	Ataca com
+	3 soldadi-
+	nhos!
 	"""
 	waitHold
 }
@@ -8294,9 +9286,9 @@ script 237 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	4 soldiers
-	charge
-	forward!
+	Ataca com
+	4 soldadi-
+	nhos!
 	"""
 	waitHold
 }
@@ -8305,9 +9297,9 @@ script 238 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	5 soldiers
-	charge
-	forward!
+	Ataca com
+	5 soldadi-
+	nhos!
 	"""
 	waitHold
 }
@@ -8316,9 +9308,11 @@ script 239 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Planet
-	smashes 1
-	enemy!
+	Cerca o
+	inimigo
+	com plane-
+	tas e o
+	esmaga!
 	"""
 	waitHold
 }
@@ -8327,9 +9321,11 @@ script 240 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Planet
-	smashes 1
-	enemy!
+	Cerca o
+	inimigo
+	com plane-
+	tas e o
+	esmaga!
 	"""
 	waitHold
 }
@@ -8338,9 +9334,11 @@ script 241 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Planet
-	smashes 1
-	enemy!
+	Cerca o
+	inimigo
+	com plane-
+	tas e o
+	esmaga!
 	"""
 	waitHold
 }
@@ -8349,9 +9347,12 @@ script 242 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bombs that
-	even break
-	panels!
+	Lança
+	várias
+	bombas
+	que
+	quebram
+	quadros
 	"""
 	waitHold
 }
@@ -8360,9 +9361,12 @@ script 243 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bombs that
-	even break
-	panels!
+	Lança
+	várias
+	bombas
+	que
+	quebram
+	quadros
 	"""
 	waitHold
 }
@@ -8371,9 +9375,12 @@ script 244 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bombs that
-	even break
-	panels!
+	Lança
+	várias
+	bombas
+	que
+	quebram
+	quadros
 	"""
 	waitHold
 }
@@ -8382,9 +9389,10 @@ script 245 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Laser-
-	shooting
-	coffin etc
+	Sarcófago
+	com
+	ataques
+	sortidos
 	"""
 	waitHold
 }
@@ -8393,9 +9401,10 @@ script 246 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Laser-
-	shooting
-	coffin etc
+	Sarcófago
+	com
+	ataques
+	sortidos
 	"""
 	waitHold
 }
@@ -8404,9 +9413,10 @@ script 247 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Laser-
-	shooting
-	coffin etc
+	Sarcófago
+	com
+	ataques
+	sortidos
 	"""
 	waitHold
 }
@@ -8415,9 +9425,10 @@ script 248 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Air-burst
-	attack on
-	all lines!
+	Ataques
+	múltiplos
+	em todas
+	as linhas
 	"""
 	waitHold
 }
@@ -8426,9 +9437,10 @@ script 249 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Air-burst
-	attack on
-	all lines!
+	Ataques
+	múltiplos
+	em todas
+	as linhas
 	"""
 	waitHold
 }
@@ -8437,9 +9449,10 @@ script 250 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Air-burst
-	attack on
-	all lines!
+	Ataques
+	múltiplos
+	em todas
+	as linhas
 	"""
 	waitHold
 }
@@ -8448,9 +9461,9 @@ script 251 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Heat chip
-	Creates a
-	lava wave!
+	Ataca com
+	três ondas
+	de calor
 	"""
 	waitHold
 }
@@ -8459,9 +9472,11 @@ script 252 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Aqua chip
-	Tosses ice
-	bomb!
+	Bomba de
+	gelo,
+	ataca em
+	cruz e
+	congela
 	"""
 	waitHold
 }
@@ -8470,9 +9485,12 @@ script 253 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Elec chip
-	A Button
-	to spark!
+	Proteção
+	elétrica.
+	Depois
+	aperte A
+	p/ atacar 
+	ao redor
 	"""
 	waitHold
 }
@@ -8481,9 +9499,11 @@ script 254 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Wood chip
-	Steals atk
-	from chip!
+	Espada
+	vertical.
+	Rouba
+	ataque
+	de chips
 	"""
 	waitHold
 }
@@ -8492,9 +9512,10 @@ script 255 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Exploding
-	firebomb
-	attack!
+	Joga
+	bomba. Use
+	fogo para
+	detoná-la
 	"""
 	waitHold
 }
@@ -8506,9 +9527,11 @@ script 0 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Normal
-	sword. 3
-	spaces fwd
+	Espada que
+	atinge
+	coluna e
+	linha à
+	frente
 	"""
 	waitHold
 }
@@ -8517,9 +9540,11 @@ script 1 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Normal
-	sword. 3
-	spaces fwd
+	Espada que
+	atinge
+	coluna e
+	linha à
+	frente
 	"""
 	waitHold
 }
@@ -8528,9 +9553,11 @@ script 2 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Normal
-	sword. 3
-	spaces fwd
+	Espada que
+	atinge
+	coluna e
+	linha à
+	frente
 	"""
 	waitHold
 }
@@ -8539,9 +9566,11 @@ script 3 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Shooting
-	stars shot
-	at enemy!
+	Chovem
+	meteoros
+	por toda
+	a área
+	inimiga!
 	"""
 	waitHold
 }
@@ -8550,9 +9579,10 @@ script 4 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Items are
-	thrown at
-	the enemy!
+	Arremessa
+	objetos
+	do campo
+	no inimigo
 	"""
 	waitHold
 }
@@ -8561,9 +9591,9 @@ script 5 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gospel's
-	breath of
-	fire!
+	Baforada
+	de fogo do
+	Gospel!
 	"""
 	waitHold
 }
@@ -8572,9 +9602,9 @@ script 6 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gospel's
-	breath of
-	water!
+	Baforada
+	de água do
+	Gospel!
 	"""
 	waitHold
 }
@@ -8583,9 +9613,9 @@ script 7 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Gospel's
-	electric
-	breath!
+	Baforada
+	elétrica
+	do Gospel!
 	"""
 	waitHold
 }
@@ -8594,9 +9624,10 @@ script 8 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Breath of
-	wood that
-	slices!
+	Baforada
+	de madeira
+	que também
+	corta
 	"""
 	waitHold
 }
@@ -8605,9 +9636,9 @@ script 9 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Cannon of
-	another
-	dimension!
+	Canhão de
+	outra
+	dimensão!
 	"""
 	waitHold
 }
@@ -8616,9 +9647,11 @@ script 14 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Turns your
-	panels
-	holy!
+	Transforma
+	os seus
+	quadros
+	em quadros
+	sagrados
 	"""
 	waitHold
 }
@@ -8852,15 +9885,15 @@ script 7 mmbn2s {
 	end
 }
 script 8 mmbn2s {
-	"     HP+"
+	"     PV+"
 	end
 }
 script 9 mmbn2s {
-	"    HP+"
+	"    PV+"
 	end
 }
 script 10 mmbn2s {
-	"    HP Max"
+	"    PV Max"
 	end
 }
 script 11 mmbn2 {
@@ -8868,8 +9901,8 @@ script 11 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Communication error!
-	Battle cancelled.
+	Erro de comunicação!
+	Batalha cancelada.
 	"""
 	keyWait
 	end
@@ -9425,7 +10458,7 @@ script 13 mmbn2 {
 	"""
 	Um Navi com esse estilo
 	pode carregar até 8
-	ChipsNavi no diretório.
+	ChipsNavi na pasta.
 	"""
 	keyWait
 	clearMsg
@@ -9533,7 +10566,7 @@ script 23 mmbn2 {
 	"""
 	Um Navi com esse estilo
 	pode carregar até 8
-	ChipsNavi no diretório.
+	ChipsNavi na pasta.
 	"""
 	keyWait
 	clearMsg
@@ -9641,7 +10674,7 @@ script 33 mmbn2 {
 	"""
 	Um Navi com esse estilo
 	pode carregar até 8
-	ChipsNavi no diretório.
+	ChipsNavi na pasta.
 	"""
 	keyWait
 	clearMsg
@@ -9749,7 +10782,7 @@ script 43 mmbn2 {
 	"""
 	Um Navi com esse estilo
 	pode carregar até 8
-	ChipsNavi no diretório.
+	ChipsNavi na pasta.
 	"""
 	keyWait
 	clearMsg
@@ -13165,7 +14198,7 @@ script 14 mmbn2 {
 	"""
 	... o corpo dele está
 	meio mal, com apenas 50%
-	do HP normal.
+	do PV normal.
 	"""
 	keyWait
 	clearMsg
@@ -14646,7 +15679,7 @@ script 91 mmbn2s {
 	end
 }
 script 96 mmbn2s {
-	"MemóriHP"
+	"MemóriPV"
 	end
 }
 script 97 mmbn2s {
@@ -15706,7 +16739,7 @@ script 96 mmbn2 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"+20 HP máximo"
+	"+20 PV máximo"
 	waitHold
 }
 script 97 mmbn2 {
@@ -15757,14 +16790,14 @@ script 112 mmbn2 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Cura 50HP!"
+	"Cura 50PV!"
 	waitHold
 }
 script 113 mmbn2 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Cura todo o HP!"
+	"Cura todo o PV!"
 	waitHold
 }
 script 114 mmbn2 {
@@ -17228,15 +18261,15 @@ script 1 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	OK! I'll go check
-	the gas-powered wat-
-	er heater program!
+	Tá! Vou lá conferir
+	o programa do aquecedor
+	de água a gás!
 	"""
 	keyWait
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Hurry!"
+	"Depressa!"
 	keyWait
 	clearMsg
 	jump
@@ -17250,8 +18283,8 @@ script 2 mmbn2 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	MegaMan is already
-	in the cyberworld!
+	MegaMan já está no
+	mundo cibernético!
 	"""
 	keyWait
 	flagSet
@@ -17303,15 +18336,15 @@ script 5 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Seems strange some-
-	one dropped their
-	PET here.
+	Que estranho, alguém
+	deixou cair o PET
+	aqui.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Should I jack in and
-	have a look?
+	Devo me conectar nele
+	e dar uma conferida?
 	
 	"""
 	option
@@ -17357,15 +18390,14 @@ script 6 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This looks like a
-	detonator shaped as
-	a canteen!
+	Parece ser um detonador
+	em forma de cantil!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Should I jack in and
-	have a look?
+	Devo me conectar nele
+	e dar uma conferida?
 	
 	"""
 	option
@@ -17411,15 +18443,15 @@ script 7 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What's a PET doing
-	here? Wasn't here
-	a moment ago...
+	O que é que esse PET
+	tá fazendo aqui? Não
+	tava aí antes...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Should I jack in and
-	have a look?
+	Devo me conectar nele
+	e dar uma conferida?
 	
 	"""
 	option
@@ -17466,9 +18498,9 @@ script 9 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,the test isn't
-	going on now,so we
-	can't jack in.
+	Lan, a prova não tá
+	sendo aplicada agora,
+	não posso me conectar.
 	"""
 	keyWait
 	flagSet
@@ -17484,8 +18516,8 @@ script 10 mmbn2 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Hurry up and search
-	the main system!
+	Rápido, vá vasculhar
+	o sistema principal!
 	"""
 	keyWait
 	flagSet
@@ -31932,8 +32964,8 @@ script 4 mmbn2 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Saca só o meu
-	diretório de chips!
+	Saca só a minha
+	pasta de chips!
 	Tem uns bem legais!
 	"""
 	keyWait
@@ -32469,8 +33501,8 @@ script 37 mmbn2 {
 	clearMsg
 	"""
 	Por isso sempre tenho
-	um PanlOut1 no meu
-	diretório principal!
+	um PanlOut1 na minha
+	pasta principal!
 	"""
 	keyWait
 	clearMsg
@@ -32792,8 +33824,8 @@ script 54 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	O PowerUp "MemóriHP"
-	aumenta o HP máximo
+	O PowerUp "MemóriPV"
+	aumenta o PV máximo
 	do seu Navi!
 	"""
 	keyWait
@@ -35031,16 +36063,16 @@ script 195 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Sei lá, talvez no seu
-	diretório? Ou em outro
-	diretório?
+	Sei lá, talvez na sua
+	pasta? Ou em outra
+	pasta?
 	"""
 	keyWait
 	clearMsg
 	"""
 	Não se esqueça de
-	sempre tirar os chips dos
-	diretórios pra trocar,
+	sempre tirar os chips das
+	pastas pra trocar,
 	"""
 	keyWait
 	clearMsg
@@ -37086,16 +38118,16 @@ script 195 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Sei lá, talvez no seu
-	diretório? Ou em outro
-	diretório?
+	Sei lá, talvez na sua
+	pasta? Ou em outra
+	pasta?
 	"""
 	keyWait
 	clearMsg
 	"""
 	Não se esqueça de
-	sempre tirar os chips dos
-	diretórios pra trocar,
+	sempre tirar os chips das
+	pastas pra trocar,
 	"""
 	keyWait
 	clearMsg
@@ -42271,8 +43303,8 @@ script 13 mmbn2 {
 	clearMsg
 	"""
 	Dali você pode ler
-	e-mails e organizar o
-	seu diretório de chips.
+	e-mails e organizar a
+	sua pasta de chips.
 	"""
 	keyWait
 	clearMsg
@@ -47007,8 +48039,8 @@ script 195 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Cê não botou ele no
-	teu diretório não,
+	Cê não botou ele na
+	tua pasta não,
 	botou?
 	"""
 	keyWait
@@ -50192,7 +51224,7 @@ script 169 mmbn2 {
 	clearMsg
 	"""
 	Talvez seja capaz
-	de usar o diretório!
+	de usar a pasta!
 	"""
 	keyWait
 	clearMsg
@@ -50218,8 +51250,7 @@ script 170 mmbn2 {
 		track = 133
 	"""
 	Lan recebeu:
-	"Diretório do
-	Famoso!!"
+	"Pasta do Famoso!!"
 	"""
 	playerFinish
 	playerReset
@@ -50337,8 +51368,7 @@ script 179 mmbn2 {
 	msgOpen
 	"""
 	Mandarei as instruções
-	do diretório por
-	e-mail!
+	da pasta por e-mail!
 	"""
 	keyWait
 	clearMsg
@@ -50677,8 +51707,8 @@ script 195 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Não está no seu
-	diretório, está?
+	Não está na sua
+	pasta, está?
 	"""
 	keyWait
 	clearMsg
@@ -51763,14 +52793,13 @@ script 195 mmbn2 {
 	"""
 	Não está na sua
 	mochila... será que está
-	no seu diretório?
+	na sua pasta?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Tem que tirar o chip do
-	diretório antes de
-	trocar.
+	Tem que tirar o chip da
+	pasta antes de trocar.
 	"""
 	keyWait
 	end
@@ -54674,7 +55703,7 @@ script 192 mmbn2 {
 		track = 133
 	"""
 	Lan recebeu:
-	o diretório de chips
+	a pasta de chips
 	da Jennifer!
 	"""
 	playerFinish
@@ -54824,7 +55853,7 @@ script 195 mmbn2 {
 	clearMsg
 	"""
 	Ah, aposto que ele
-	está no seu diretório.
+	está na sua pasta.
 	"""
 	keyWait
 	clearMsg
@@ -57411,8 +58440,8 @@ script 195 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Será que ele tá no
-	seu diretório??
+	Será que ele tá na
+	sua pasta?
 	"""
 	keyWait
 	clearMsg
@@ -63647,14 +64676,14 @@ script 195 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Será que está no seu
-	diretório?
+	Será que está na sua
+	pasta?
 	"""
 	keyWait
 	clearMsg
 	"""
 	Não posso pegá-lo se
-	estiver em um diretório.
+	estiver em uma pasta.
 	"""
 	keyWait
 	end
@@ -69274,8 +70303,8 @@ script 195 mmbn2 {
 	clearMsg
 	"""
 	Você olhou pra ver se
-	não estão no seu
-	diretório?
+	não estão na sua
+	pasta?
 	"""
 	keyWait
 	clearMsg
@@ -69287,7 +70316,7 @@ script 195 mmbn2 {
 	clearMsg
 	"""
 	Se estiverem lá, tire
-	eles do diretório e depois
+	eles da pasta e depois
 	venha falar comigo.
 	"""
 	keyWait
@@ -73013,15 +74042,15 @@ script 201 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Ele não está no seu
-	diretório, está?
+	Ele não está na sua
+	pasta, está?
 	"""
 	keyWait
 	clearMsg
 	"""
 	Não dá para trocar
-	chips que estão no
-	diretório!
+	chips que estão na
+	pasta!
 	"""
 	keyWait
 	clearMsg
@@ -73030,8 +74059,8 @@ script 201 mmbn2 {
 	clearMsg
 	"""
 	Tire o chip que você
-	quiser trocar do seu
-	diretório.
+	quiser trocar da sua
+	pasta.
 	"""
 	keyWait
 	end
@@ -74102,7 +75131,7 @@ script 53 mmbn2 {
 	"""
 	Se tiver com ele
 	equipado, faz favor e
-	tira ele do diretório?!
+	tira ele da pasta?!
 	"""
 	keyWait
 	end
@@ -74979,8 +76008,8 @@ script 195 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Será que ele está no
-	seu diretório?
+	Será que ele está na
+	sua pasta?
 	"""
 	keyWait
 	clearMsg
@@ -86246,8 +87275,8 @@ script 195 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Eles não tão no seu
-	diretório, tão?
+	Eles não tão na sua
+	pasta, tão?
 	"""
 	keyWait
 	clearMsg
@@ -90568,7 +91597,7 @@ script 6 mmbn2 {
 	"""
 	keyWait
 	clearMsg
-	"eles recuperam HP."
+	"eles recuperam PV."
 	keyWait
 	clearMsg
 	"""
@@ -91441,7 +92470,7 @@ script 1 mmbn2 {
 	"""
 	Eu vi um Vampiro!
 	Ele quase chupou o
-	meu HP!
+	meu PV!
 	"""
 	keyWait
 	end
@@ -95987,7 +97016,7 @@ script 1 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	O HP dele se recupera
+	O PV dele se recupera
 	completamente ao
 	desconectar.
 	"""
@@ -96389,7 +97418,7 @@ script 191 mmbn2 {
 	msgOpen
 	"""
 	Você não vai recuperar
-	HP até a batalha
+	PV até a batalha
 	terminar.
 	"""
 	keyWait
@@ -101447,7 +102476,7 @@ script 0 mmbn2 {
 	msgOpen
 	"""
 	Você sabia que o seu
-	HP não se recupera
+	PV não se recupera
 	após uma batalha?
 	"""
 	keyWait
@@ -101460,7 +102489,7 @@ script 0 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	O seu HP fica no canto
+	O seu PV fica no canto
 	esquerdo da tela, para
 	quando quiser vê-lo.
 	"""
@@ -101468,7 +102497,7 @@ script 0 mmbn2 {
 	clearMsg
 	"""
 	Eu vou recuperar o seu
-	HP desta vez
+	PV desta vez
 	"""
 	waitSkip
 		frames = 10
@@ -101488,7 +102517,7 @@ script 0 mmbn2 {
 		animation = 24
 	startHeal
 	"""
-	O HP do MegaMan foi
+	O PV do MegaMan foi
 	maximizado!
 	"""
 	keyWait
@@ -103941,8 +104970,8 @@ script 4 mmbn2 {
 	clearMsg
 	"""
 	Você pode carregar até
-	30 BattleChips no seu
-	diretório.
+	30 BattleChips na sua
+	pasta.
 	"""
 	keyWait
 	clearMsg
@@ -103956,7 +104985,7 @@ script 4 mmbn2 {
 	"""
 	Portanto, o melhor é
 	colocar seus chips favo-
-	ritos em seu diretório.
+	ritos em sua pasta.
 	"""
 	keyWait
 	end
@@ -104547,15 +105576,15 @@ script 197 mmbn2 {
 		code = G
 	"""
 	"
-	está no seu diretório,
+	está na sua pasta,
 	por acaso?
 	"""
 	keyWait
 	clearMsg
 	"""
 	Por favor, retire o chip
-	de lá antes entregá-lo
-	pra mim.
+	de lá antes de
+	entregá-lo pra mim.
 	"""
 	keyWait
 	end
@@ -104885,7 +105914,7 @@ script 11 mmbn2 {
 	clearMsg
 	"""
 	Existem subchips para
-	recuperar HP, espantar
+	recuperar PV, espantar
 	vírus e muito mais.
 	"""
 	keyWait
@@ -105170,7 +106199,7 @@ script 31 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Ao editar seu diretório,
+	Ao editar sua pasta,
 	sua capacidade máxima
 	aparece no topo da tela.
 	"""
@@ -113539,7 +114568,7 @@ script 43 mmbn2 {
 	"""
 	Hã?! Espero que não
 	esteja escondendo ele
-	em um diretório!
+	em uma pasta!
 	"""
 	keyWait
 	clearMsg
@@ -117613,14 +118642,14 @@ script 195 mmbn2 {
 	clearMsg
 	"""
 	Será que você colocou
-	ele em um diretório?
+	ele em uma pasta?
 	"""
 	keyWait
 	clearMsg
 	"""
 	Só se pode trocar um
 	chip depois de tirá-lo
-	do diretório.
+	da pasta.
 	"""
 	keyWait
 	end
@@ -132330,7 +133359,7 @@ script 1 mmbn2 {
 	"""
 	Mas cuidado: você não
 	poderá recuperar o seu
-	HP durante elas!
+	PV durante elas!
 	"""
 	keyWait
 	clearMsg
@@ -132653,7 +133682,7 @@ script 10 mmbn2 {
 	clearMsg
 	"""
 	Não é permitido
-	recuperar HP durante
+	recuperar PV durante
 	elas, então tome cuidado!
 	"""
 	keyWait
@@ -132661,7 +133690,7 @@ script 10 mmbn2 {
 	"""
 	Antes e depois de cada
 	provação, eu recuperarei
-	o seu HP.
+	o seu PV.
 	"""
 	keyWait
 	clearMsg
@@ -138646,14 +139675,14 @@ script 1 mmbn2 {
 	clearMsg
 	"""
 	Não é possível recuperar
-	o HP durante as lutas,
+	o PV durante as lutas,
 	então tome cuidado.
 	"""
 	keyWait
 	clearMsg
 	"""
 	Eu vou restaurar
-	seu HP antes e depois
+	seu PV antes e depois
 	do teste.
 	"""
 	keyWait
@@ -138948,14 +139977,14 @@ script 10 mmbn2 {
 	clearMsg
 	"""
 	Não é possível recuperar
-	HP durante as lutas,
+	PV durante as lutas,
 	então tome cuidado.
 	"""
 	keyWait
 	clearMsg
 	"""
 	Eu recuperarei o seu
-	HP antes e depois do
+	PV antes e depois do
 	teste.
 	"""
 	keyWait
@@ -150294,14 +151323,14 @@ script 1 mmbn2 {
 	clearMsg
 	"""
 	Não se pode recuperar
-	HP durante a luta, então
+	PV durante a luta, então
 	tome cuidado.
 	"""
 	keyWait
 	clearMsg
 	"""
 	Irei recuperar o seu
-	HP antes e depois
+	PV antes e depois
 	do desafio.
 	"""
 	keyWait
@@ -158765,14 +159794,14 @@ script 5 mmbn2 {
 	clearMsg
 	"""
 	Não se pode recuperar
-	HP durante as lutas,
+	PV durante as lutas,
 	então tome cuidado.
 	"""
 	keyWait
 	clearMsg
 	"""
 	Recuperarei todo o seu
-	HP antes e depois
+	PV antes e depois
 	do teste.
 	"""
 	keyWait
@@ -159273,14 +160302,14 @@ script 5 mmbn2 {
 	clearMsg
 	"""
 	Não se pode recuperar
-	HP durante as lutas,
+	PV durante as lutas,
 	então tome cuidado.
 	"""
 	keyWait
 	clearMsg
 	"""
 	Recuperarei o seu
-	HP antes e depois
+	PV antes e depois
 	do teste.
 	"""
 	keyWait
@@ -170961,7 +171990,7 @@ script 4 mmbn2 {
 	msgOpen
 	"""
 	A seguir, isto:
-	o HP (pontos de vida)
+	o PV (pontos de vida)
 	do vírus.
 	"""
 	keyWait
@@ -171167,7 +172196,7 @@ script 16 mmbn2 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Seu HP aparece no canto
+	Seu PV aparece no canto
 	superior-esquerdo. Se
 	chegar a 0, você perde.
 	"""
@@ -171727,7 +172756,7 @@ script 0 mmbn2 {
 	msgOpen
 	"""
 	Por fim, vamos falar
-	de "Abrir Diretório".
+	de "Abrir Pasta".
 	Reta final, turma!
 	"""
 	keyWait
@@ -171933,7 +172962,7 @@ script 0 mmbn2 {
 	msgOpen
 	"""
 	Um Vampiro te pegou!!
-	Ele chupa o seu HP!!
+	Ele chupa o seu PV!!
 	"""
 	keyWait
 	waitHold
@@ -171943,7 +172972,7 @@ script 1 mmbn2 {
 	"""
 	Um Vampiro te pegou!!
 	Mas ele não pôde chupar
-	mais HP...
+	mais PV...
 	"""
 	keyWait
 	waitHold
@@ -173674,9 +174703,9 @@ script 0 mmbn2s {
 }
 script 1 mmbn2s {
 	"""
-	Drtr1
-	Drtr2
-	Drtr3
+	[P][a][s][ta]1
+	[P][a][s][ta]2
+	[P][a][s][ta]3
 	"""
 	end
 }
@@ -173698,7 +174727,7 @@ script 3 mmbn2s {
 }
 script 4 mmbn2s {
 	"""
-	Sort
+	Critério
 	
 	ID
 	Alfabeto
@@ -173720,7 +174749,7 @@ script 5 mmbn2 {
 		top = 1
 	"""
 	Selecione
-	diretório!
+	pasta!
 	"""
 	waitHold
 }
@@ -173769,7 +174798,7 @@ script 7 mmbn2 {
 		top = 1
 	"""
 	Usando
-	diretório
+	pasta
 	"""
 	printBuffer
 		minLength = 0
@@ -173793,7 +174822,7 @@ script 9 mmbn2 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Use um diretório!"
+	"Use uma pasta!"
 	keyWait
 	waitHold
 }
@@ -174350,15 +175379,16 @@ script 57 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	ChipsNavi demais no
-	diretório pro estilo
+	ChipsNavi demais na
+	pasta para esse
+	estilo.
 	"""
 	keyWait
 	clearMsg
 	"""
 	Deixe apenar 5
 	ChipNavis nele
-	e tente de novo
+	e tente de novo.
 	"""
 	keyWait
 	waitHold
@@ -174744,7 +175774,7 @@ script 83 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	O HP do MegaMan
+	O PV do MegaMan
 	foi recuperado!
 	"""
 	keyWait
@@ -174755,7 +175785,7 @@ script 84 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	O HP do MegaMan foi
+	O PV do MegaMan foi
 	100% recuperado!
 	"""
 	keyWait
@@ -174767,7 +175797,7 @@ script 85 mmbn2 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"HP já está maximizado!"
+	"PV já está maximizado!"
 	keyWait
 	waitHold
 }
@@ -175633,7 +176663,7 @@ script 22 mmbn2s {
 	end
 }
 script 23 mmbn2s {
-	"Famoso    Guia diretório!"
+	"Famoso    Guia pasta!"
 	end
 }
 script 24 mmbn2s {
@@ -176473,8 +177503,8 @@ script 22 mmbn2 {
 	clearMsg
 	"""
 	Quem me vencer numa luta
-	emocionante ganhará meu
-	Diretório especial!
+	emocionante ganhará
+	minha Pasta especial!
 	"""
 	keyWait
 	clearMsg
@@ -176496,28 +177526,28 @@ script 23 mmbn2 {
 		animation = 0
 	"""
 	Vou mostrar como usar
-	o diretório na janela
-	de Diretório.
+	a pasta na janela
+	de Pasta.
 	"""
 	keyWait
 	clearMsg
 	"""
-	O diretório com um nome
-	com o símbolo "E" é o
-	que está "E"quipado!
+	A pasta com um nome
+	com o símbolo "E" é a
+	que está "E"quipada!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Para equipar outro
-	diretório, leve o
-	cursor até ele e
+	Para equipar outra
+	pasta, leve o
+	cursor até ela e
 	"""
 	keyWait
 	clearMsg
 	"""
 	aperte "A"! Aí poderá
-	usá-lo na sua próxima
+	usá-la na sua próxima
 	batalha!
 	"""
 	keyWait
@@ -176525,21 +177555,21 @@ script 23 mmbn2 {
 	"""
 	Mas não é bom separar
 	os seus ataques entre
-	dois diretórios.
+	duas pastas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Sempre tenha um diretó-
-	rio principal e um para
+	Sempre tenha uma pasta
+	principal e uma para
 	ocasiões especiais.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Eu tenho um para vírus,
-	e um para batalhas
-	com amigos!
+	Eu tenho uma para
+	vírus, e uma para
+	batalhas com amigos!
 	"""
 	keyWait
 	waitHold
@@ -176823,36 +177853,37 @@ script 31 mmbn2 {
 	mugshotAnimate
 		animation = 0
 	"""
-	Guts-type styles do-
-	uble Buster attacks.
+	Estilos tipo-Guts
+	dobram o ataque do
+	atirador.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Automatic attacks
-	weaken,but the power
-	more than compensa-
+	Ataques automáticos
+	ficam mais fracos,
+	mas a força compensa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	tes. Also,you don't
-	get knocked back
-	by enemy attacks,so
+	Além disso, você não
+	é empurrado por
+	ataques inimigos,
 	"""
 	keyWait
 	clearMsg
 	"""
-	you'll never lose
-	your attack due to
-	being hit!
+	então nunca perde um
+	ataque ao ser
+	atingido durante!
 	"""
 	keyWait
 	clearMsg
 	"""
-	You fight by sheer
-	power! That's Guts!
-	Good luck,Lan!
+	Você luta com força
+	pura! Isso é Guts!
+	Boa sorte, Lan!
 	"""
 	keyWait
 	waitHold
@@ -176880,7 +177911,7 @@ script 32 mmbn2 {
 	clearMsg
 	"""
 	Assim pode pular a
-	função Abrir Diretório
+	função Abrir Pasta
 	via ADD.
 	"""
 	keyWait
@@ -176908,22 +177939,22 @@ script 33 mmbn2 {
 	mugshotAnimate
 		animation = 0
 	"""
-	Team-type styles
-	allow you 8 chips
-	per folder!
+	Estilos tipo-equipe
+	permitem que carregue
+	8 chips por pasta!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Of course,this means
-	you should have
-	friends!
+	Naturalmente, pra
+	isso, você tem que
+	ter amigos.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Make lots of
-	friends,Lan!
+	Faça vários amigos,
+	Lan!
 	"""
 	keyWait
 	waitHold
@@ -176937,42 +177968,42 @@ script 34 mmbn2 {
 	mugshotAnimate
 		animation = 0
 	"""
-	Shield-type styles
-	start you with a
-	protective field.
+	Estilos tipo-escudo
+	fazem você começar
+	com uma barreira.
 	"""
 	keyWait
 	clearMsg
 	"""
-	During battle if you
-	press the B Button
-	then the left arrow,
+	Durante lutas, se
+	você apertar B e
+	depois pra esquerda,
 	"""
 	keyWait
 	clearMsg
 	"""
-	you can use the
-	shield as a guard.
+	você pode usar a
+	proteção como escudo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Some powerful attac-
-	ks can penetrate it,
-	so keep an eye out!
+	Certos ataques fortes
+	podem penetrá-lo, então
+	fique de olho!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The best offense
-	is defense!
+	O melhor ataque é
+	uma boa defesa!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Shield yourself unt-
-	il that perfect cha-
-	nce to strike,Lan!
+	Fique se defendendo
+	até aparecer a hora
+	certa pra atacar, Lan!
 	"""
 	keyWait
 	waitHold
@@ -176986,76 +178017,77 @@ script 35 mmbn2 {
 	mugshotAnimate
 		animation = 0
 	"""
-	Hubstyl allows Mega-
-	Man to use all his
-	latent power!
+	O EstlHub permite
+	que MegaMan use todo
+	o seu poder latente!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Essentially,every
-	style's abilities
-	can be used!
+	Basicamente, você pode
+	usar as habiliddades
+	de todos os estilos!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Buster's double-
-	Buster attack...
+	O ataque de tiro
+	duplo do Atirador...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can choose from
-	10 chips in the
-	Custom screen...
+	Escolher dentre 10
+	chips na tela de
+	customização...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You can carry 8
-	chips per folder...
+	Carregar até 8
+	chips iguais por
+	pasta...
 	"""
 	keyWait
 	clearMsg
 	"""
-	You have a barrier,
-	and during battle
-	you can use the
+	Vai ter uma barreira,
+	e, durante as lutas,
+	poderá usar o escudo
 	"""
 	keyWait
 	clearMsg
 	"""
-	shield to guard att-
-	acks by pressing the
-	B Button,then the
+	pra se defender de
+	ataques, apertando B
+	e pra esquerda!
 	"""
 	keyWait
 	clearMsg
 	"""
-	left arrow! However,
-	MegaMan's body can't
-	fully take the power
+	Contudo, o corpo do
+	MegaMan não consegue
+	suportar todo o poder,
 	"""
 	keyWait
 	clearMsg
 	"""
-	so his HPs are red-
-	uced to half!
+	então o PV dele é
+	reduzido pela metade!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Hubstyl is a style
-	full of strength
-	and versatility!
+	O EstlHub é um estilo
+	repleto de força e
+	versatilidade!
 	"""
 	keyWait
 	clearMsg
 	"""
-	It all depends on
-	how you handle the
-	routine,Lan!
+	Tudo depende de como
+	você opera a rotina
+	de batalha, Lan!
 	"""
 	keyWait
 	waitHold
@@ -184768,7 +185800,7 @@ script 32 mmbn2 {
 	"""
 	Mas era da minha namo-
 	rada, então coloquei
-	no diretório.
+	na pasta.
 	"""
 	keyWait
 	clearMsg
@@ -185036,7 +186068,7 @@ script 45 mmbn2 {
 	clearMsg
 	"""
 	O meu Navi é de [bracket1]Mdra[bracket2]!
-	Ele recupera HP quando
+	Ele recupera PV quando
 	está sobre grama...
 	"""
 	keyWait
@@ -185415,8 +186447,8 @@ script 60 mmbn2 {
 script 61 mmbn2 {
 	msgOpenQuick
 	"""
-	Um amigo me mostrou o
-	diretório dele e tinha
+	Um amigo me mostrou a
+	pasta dele e tinha
 	um chip doidão lá.
 	"""
 	keyWait
@@ -187102,7 +188134,7 @@ script 13 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Eles abrem a boca
+	eles abrem a boca
 	pra morder, né?
 	"""
 	keyWait
@@ -187116,7 +188148,7 @@ script 13 mmbn2 {
 	clearMsg
 	"""
 	E ataque com um chip!
-	Ataques rápido, como
+	Ataques rápidos, como
 	espadas, são ideais.
 	"""
 	keyWait
@@ -187627,7 +188659,7 @@ script 37 mmbn2 {
 	"""
 	Eles andam ainda mais
 	rápido quando estão
-	com pouco HP.
+	com pouco PV.
 	"""
 	keyWait
 	clearMsg
@@ -189563,7 +190595,7 @@ script 12 mmbn2 {
 	clearMsg
 	"""
 	Só pode ser deletado
-	se todo o HP for dre-
+	se todo o PV for dre-
 	nado com um golpe só.
 	"""
 	keyWait
@@ -189961,7 +190993,7 @@ script 27 mmbn2 {
 	clearMsg
 	"""
 	Era a arma mais forte
-	no meu diretório,
+	na minha pasta,
 	"""
 	keyWait
 	clearMsg
@@ -189976,8 +191008,8 @@ script 28 mmbn2 {
 	msgOpenQuick
 	"""
 	Acho que cê tá
-	precisando rever esse
-	seu diretório.
+	precisando rever essa
+	sua pasta.
 	"""
 	keyWait
 	clearMsg

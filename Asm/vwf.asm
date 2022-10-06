@@ -509,6 +509,9 @@ nonvwf_font:
   
 .org 0x08026E2C ; Menu "Folder", descrições de chips
 .dw nonvwf_font
+
+.org 0x080273A0 ; Menu "Folder", nomes 'Drtr1/Drtr2/Drtr3'
+.dw nonvwf_font
   
 .org 0x08028590 ; Mail
 .dw nonvwf_font
