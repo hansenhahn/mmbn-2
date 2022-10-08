@@ -51,14 +51,27 @@
 ;.org 0x086CDF20
 ;.incbin "Gráficos/Editados/0x6CDF20 - Fontes nomes batalhas.gba"
 
-;.org 0x086CEB20
-;.incbin "Gráficos/Editados/0x6CEB20 - DeltTime.gba"
+.org 0x086CE840
+.incbin "Gráficos/Editados/0x6CE840 - Nomes tela vitória.gba"
 
-;.org 0x086CEE40
-;.incbin "Gráficos/Editados/0x6CEE40 - Busting level.gba"
+; Editando tilemaps da tela de vitória acima
+; Nome "DeleteTime"
+.org 0x086CF71C
+.stringn 0x1B,0x90,0x34,0x90,0x35,0x90,0x36,0x90,0x37,0x90,0x1E,0x90
+.org 0x086CF74C
+.stringn 0x28,0x90,0x3E,0x90,0x3F,0x90,0x40,0x90,0x41,0x90,0x42,0x90
 
-;.org 0x086CF1C0
-;.incbin "Gráficos/Editados/0x6CF1C0 - GET DATA.gba"
+; Nome "Boosting LV."
+.org 0x086CF7AC
+.stringn 0x33,0x90,0x34,0x90,0x35,0x90,0x36,0x90,0x37,0x90,0x38,0x90,0x20,0x90
+.org 0x086CF7D6
+.stringn 0x3A,0x90,0x3B,0x90,0x3C,0x90,0x3D,0x90,0x3E,0x90,0x3F,0x90,0x40,0x90,0x41,0x90,0x42,0x90,0x2D,0x90
+
+; Nome "Get Data"
+.org 0x086CF876
+.stringn 0x1C,0x90
+.org 0x086CF8A6
+.stringn 0x1d,0x90
 
 ;.org 0x086CF9F0
 ;.incbin "Gráficos/Editados/0x6CF9F0 - WINNER.gba"
@@ -84,8 +97,8 @@
 ;.org 0x086D2190
 ;.incbin "Gráficos/Editados/0x6D2190 - Fonte nomes chips ganhos ou perdidos após a batalha.gba"
 
-;.org 0x086D2BD0
-;.incbin "Gráficos/Editados/0x6D2BD0 - Press A button.gba"
+.org 0x086D2BD0
+.incbin "Gráficos/Editados/0x6D2BD0 - Press A button.gba"
 
 ;.org 0x086E0730
 ;.incbin "Gráficos/Editados/0x6E0730 - ATTACK + 20.gba"
@@ -99,14 +112,14 @@
 ;.org 0x0870B530
 ;.incbin "Gráficos/Editados/0x70B530 - Diversos chips com nomes.gba"
 
-;.org 0x0871B830
-;.incbin "Gráficos/Editados/0x71B830 - ADDITIONAL CHIP DATA - Discard selected chips.gba"
+.org 0x0871B830
+.incbin "Gráficos/Editados/0x71B830 - ADDITIONAL CHIP DATA - Discard selected chips.gba"
 
-;.org 0x0871BF30
-;.incbin "Gráficos/Editados/0x71BF30 - CHIP DATA TRANSMISSION - Sending chip data.gba"
+.org 0x0871BF30
+.incbin "Gráficos/Editados/0x71BF30 - CHIP DATA TRANSMISSION - Sending chip data.gba"
 
-;.org 0x0871D430
-;.incbin "Gráficos/Editados/0x71D430 - NO DATA SELECTED - Choose a chip.gba"
+.org 0x0871D430
+.incbin "Gráficos/Editados/0x71D430 - NO DATA SELECTED - Choose a chip.gba"
 
 ;.org 0x0871DB30
 ;.incbin "Gráficos/Editados/0x71DB30 - NO DATA.gba"
@@ -159,9 +172,6 @@
 .stringn "Salvar   "
 .org 0x087CF43A
 .stringn "Sair     "
-
-;.org 0x087CF260
-;.incbin "Gráficos/Editados/0x7CF260 - Nomes menus (folder chips mail).tilemap"
 
 ; Inserindo gráfico dos nomes dos submenus
 .org 0x087D08DC
