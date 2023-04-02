@@ -1,0 +1,156 @@
+.CodeMirror {
+    height: 83vh;
+}
+#previa {
+    width: 240px;
+    height: 160px;
+    background: url('previsualizador_bg.png');
+    position: relative;
+    transform: scale(3);
+    transform-origin: top left;
+    image-rendering: pixelated;
+}
+
+#previa span.descricao {
+    position: absolute;
+    top: 103px;
+    left: 8px;
+    line-height: 1;
+}
+
+#previa span.descricao span.caractere{
+	display: inline-block;
+	width: 8px;
+	height: 16px;
+	background: url('previsualizador_fonte.png');
+	background-position: 0 0;
+}
+
+/* Font sprites */
+#previa span.descricao span.caractere.space{ width: 5px; background-position: 0 0; }
+#previa span.descricao span.caractere.n0{ width: 8px; background-position: -8px 0; }
+#previa span.descricao span.caractere.n1{ width: 6px; background-position: -16px 0; }
+#previa span.descricao span.caractere.n2{ width: 8px; background-position: -24px 0; }
+#previa span.descricao span.caractere.n3{ width: 8px; background-position: -32px 0; }
+#previa span.descricao span.caractere.n4{ width: 8px; background-position: -40px 0; }
+#previa span.descricao span.caractere.n5{ width: 8px; background-position: -48px 0; }
+#previa span.descricao span.caractere.n6{ width: 8px; background-position: -56px 0; }
+#previa span.descricao span.caractere.n7{ width: 8px; background-position: -64px 0; }
+#previa span.descricao span.caractere.n8{ width: 8px; background-position: -72px 0; }
+#previa span.descricao span.caractere.n9{ width: 8px; background-position: -80px 0; }
+#previa span.descricao span.caractere.a{ width: 8px; background-position: -88px 0; }
+#previa span.descricao span.caractere.b{ width: 7px; background-position: -96px 0; }
+#previa span.descricao span.caractere.c{ width: 7px; background-position: -104px 0; }
+#previa span.descricao span.caractere.d{ width: 7px; background-position: -112px 0; }
+#previa span.descricao span.caractere.e{ width: 8px; background-position: -120px 0; }
+
+#previa span.descricao span.caractere.f{ width: 6px; background-position: 0 -16px; }
+#previa span.descricao span.caractere.g{ width: 7px; background-position: -8px -16px; }
+#previa span.descricao span.caractere.h{ width: 7px; background-position: -16px -16px; }
+#previa span.descricao span.caractere.i{ width: 2px; background-position: -24px -16px; }
+#previa span.descricao span.caractere.j{ width: 5px; background-position: -32px -16px; }
+#previa span.descricao span.caractere.k{ width: 7px; background-position: -40px -16px; }
+#previa span.descricao span.caractere.l{ width: 2px; background-position: -48px -16px; }
+#previa span.descricao span.caractere.m{ width: 8px; background-position: -56px -16px; }
+#previa span.descricao span.caractere.n{ width: 7px; background-position: -64px -16px; }
+#previa span.descricao span.caractere.o{ width: 7px; background-position: -72px -16px; }
+#previa span.descricao span.caractere.p{ width: 7px; background-position: -80px -16px; }
+#previa span.descricao span.caractere.q{ width: 7px; background-position: -88px -16px; }
+#previa span.descricao span.caractere.r{ width: 6px; background-position: -96px -16px; }
+#previa span.descricao span.caractere.s{ width: 7px; background-position: -104px -16px; }
+#previa span.descricao span.caractere.t{ width: 6px; background-position: -112px -16px; }
+#previa span.descricao span.caractere.u{ width: 7px; background-position: -120px -16px; }
+
+#previa span.descricao span.caractere.v{ width: 8px; background-position: 0 -32px; }
+#previa span.descricao span.caractere.w{ width: 8px; background-position: -8px -32px; }
+#previa span.descricao span.caractere.x{ width: 8px; background-position: -16px -32px; }
+#previa span.descricao span.caractere.y{ width: 8px; background-position: -24px -32px; }
+#previa span.descricao span.caractere.z{ width: 8px; background-position: -32px -32px; }
+#previa span.descricao span.caractere.A{ width: 8px; background-position: -40px -32px; }
+#previa span.descricao span.caractere.B{ width: 8px; background-position: -48px -32px; }
+#previa span.descricao span.caractere.C{ width: 8px; background-position: -56px -32px; }
+#previa span.descricao span.caractere.D{ width: 8px; background-position: -64px -32px; }
+#previa span.descricao span.caractere.E{ width: 8px; background-position: -72px -32px; }
+#previa span.descricao span.caractere.F{ width: 8px; background-position: -80px -32px; }
+#previa span.descricao span.caractere.G{ width: 8px; background-position: -88px -32px; }
+#previa span.descricao span.caractere.H{ width: 8px; background-position: -96px -32px; }
+#previa span.descricao span.caractere.I{ width: 4px; background-position: -104px -32px; }
+#previa span.descricao span.caractere.J{ width: 8px; background-position: -112px -32px; }
+#previa span.descricao span.caractere.K{ width: 8px; background-position: -120px -32px; }
+
+#previa span.descricao span.caractere.L{ width: 7px; background-position: 0 -48px; }
+#previa span.descricao span.caractere.M{ width: 8px; background-position: -8px -48px; }
+#previa span.descricao span.caractere.N{ width: 8px; background-position: -16px -48px; }
+#previa span.descricao span.caractere.O{ width: 8px; background-position: -24px -48px; }
+#previa span.descricao span.caractere.P{ width: 8px; background-position: -32px -48px; }
+#previa span.descricao span.caractere.Q{ width: 8px; background-position: -40px -48px; }
+#previa span.descricao span.caractere.R{ width: 8px; background-position: -48px -48px; }
+#previa span.descricao span.caractere.S{ width: 8px; background-position: -56px -48px; }
+#previa span.descricao span.caractere.T{ width: 8px; background-position: -64px -48px; }
+#previa span.descricao span.caractere.U{ width: 8px; background-position: -72px -48px; }
+#previa span.descricao span.caractere.V{ width: 8px; background-position: -80px -48px; }
+#previa span.descricao span.caractere.W{ width: 8px; background-position: -88px -48px; }
+#previa span.descricao span.caractere.X{ width: 8px; background-position: -96px -48px; }
+#previa span.descricao span.caractere.Y{ width: 8px; background-position: -104px -48px; }
+#previa span.descricao span.caractere.Z{ width: 8px; background-position: -112px -48px; }
+
+#previa span.descricao span.caractere.minus{ width: 8px; background-position: -8px -64px; }
+#previa span.descricao span.caractere.equal{ width: 8px; background-position: -24px -64px; }
+#previa span.descricao span.caractere.colon{ width: 8px; background-position: -32px -64px; }
+#previa span.descricao span.caractere.interrogation{ width: 8px; background-position: -40px -64px; }
+#previa span.descricao span.caractere.plus{ width: 8px; background-position: -48px -64px; }
+#previa span.descricao span.caractere.asterisk{ width: 8px; background-position: -72px -64px; }
+#previa span.descricao span.caractere.exclamation{ width: 3px; background-position: -80px -64px; }
+#previa span.descricao span.caractere.percent{ width: 8px; background-position: -96px -64px; }
+#previa span.descricao span.caractere.ampersand{ width: 8px; background-position: -104px -64px; }
+#previa span.descricao span.caractere.comma{ width: 5px; background-position: -112px -64px; }
+
+#previa span.descricao span.caractere.dot{ width: 4px; background-position: 0 -80px; }
+#previa span.descricao span.caractere.semicolon{ width: 3px; background-position: -16px -80px; }
+#previa span.descricao span.caractere.quotes{ width: 3px; background-position: -24px -80px; }
+#previa span.descricao span.caractere.double-quotes{ width: 4px; background-position: -32px -80px; }
+#previa span.descricao span.caractere.slash{ width: 8px; background-position: -48px -80px; }
+#previa span.descricao span.caractere.open-parenthesis{ width: 8px; background-position: -56px -80px; }
+#previa span.descricao span.caractere.close-parenthesis{ width: 8px; background-position: -64px -80px; }
+#previa span.descricao span.caractere.at-sign{ width: 8px; background-position: -120px -80px; }
+
+#previa span.descricao span.caractere.less-than{ width: 8px; background-position: -16px -96px; }
+#previa span.descricao span.caractere.greater-than{ width: 8px; background-position: -24px -96px; }
+#previa span.descricao span.caractere.open-square-brackets{ width: 8px; background-position: -32px -96px; }
+#previa span.descricao span.caractere.close-square-brackets{ width: 8px; background-position: -40px -96px; }
+#previa span.descricao span.caractere.money-sign{ width: 8px; background-position: -56px -96px; }
+#previa span.descricao span.caractere.cerquilha{ width: 8px; background-position: -64px -96px; }
+
+#previa span.descricao span.caractere.A-grave{ width: 8px; background-position: 0 -112px; }
+#previa span.descricao span.caractere.A-acute{ width: 8px; background-position: -8px -112px; }
+#previa span.descricao span.caractere.A-tilde{ width: 8px; background-position: -16px -112px; }
+#previa span.descricao span.caractere.A-circumflex{ width: 8px; background-position: -24px -112px; }
+#previa span.descricao span.caractere.C-cedilla{ width: 8px; background-position: -32px -112px; }
+#previa span.descricao span.caractere.E-acute{ width: 8px; background-position: -40px -112px; }
+#previa span.descricao span.caractere.E-circumflex{ width: 8px; background-position: -48px -112px; }
+#previa span.descricao span.caractere.I-acute{ width: 4px; background-position: -56px -112px; }
+#previa span.descricao span.caractere.O-grave{ width: 8px; background-position: -64px -112px; }
+#previa span.descricao span.caractere.O-acute{ width: 8px; background-position: -72px -112px; }
+#previa span.descricao span.caractere.O-tilde{ width: 8px; background-position: -80px -112px; }
+#previa span.descricao span.caractere.O-circumflex{ width: 8px; background-position: -88px -112px; }
+#previa span.descricao span.caractere.O-diaeresis{ width: 8px; background-position: -96px -112px; }
+#previa span.descricao span.caractere.U-acute{ width: 8px; background-position: -104px -112px; }
+#previa span.descricao span.caractere.U-diaeresis{ width: 8px; background-position: -112px -112px; }
+
+#previa span.descricao span.caractere.a-grave{ width: 8px; background-position: 0 -128px; }
+#previa span.descricao span.caractere.a-acute{ width: 8px; background-position: -8px -128px; }
+#previa span.descricao span.caractere.a-tilde{ width: 8px; background-position: -16px -128px; }
+#previa span.descricao span.caractere.a-circumflex{ width: 8px; background-position: -24px -128px; }
+#previa span.descricao span.caractere.c-cedilla{ width: 7px; background-position: -32px -128px; }
+#previa span.descricao span.caractere.e-acute{ width: 8px; background-position: -40px -128px; }
+#previa span.descricao span.caractere.e-circumflex{ width: 8px; background-position: -48px -128px; }
+#previa span.descricao span.caractere.i-acute{ width: 2px; background-position: -56px -128px; }
+#previa span.descricao span.caractere.o-grave{ width: 7px; background-position: -64px -128px; }
+#previa span.descricao span.caractere.o-acute{ width: 7px; background-position: -72px -128px; }
+#previa span.descricao span.caractere.o-tilde{ width: 7px; background-position: -80px -128px; }
+#previa span.descricao span.caractere.o-circumflex{ width: 7px; background-position: -88px -128px; }
+#previa span.descricao span.caractere.o-diaeresis{ width: 7px; background-position: -96px -128px; }
+#previa span.descricao span.caractere.u-acute{ width: 7px; background-position: -104px -128px; }
+#previa span.descricao span.caractere.u-diaeresis{ width: 7px; background-position: -112px -128px; }
+
+#previa span.descricao span.caractere.unknown{ width: 8px !important; background-position: -120px -128px !important; }
