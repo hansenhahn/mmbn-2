@@ -173,6 +173,182 @@
 .org 0x087CF43A
 .stringn "Sair     "
 
+; Editando tilemap dos menus, na parte de cima das letras (Hard, sem o "Rede" e o "Salvar")
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Cima.tbl"
+.org 0x087CF488
+.stringn "Pasta    "
+.org 0x087CF4BC
+.stringn "Subchips "
+.org 0x087CF4F0
+.stringn "Coleção  "
+.org 0x087CF524
+.stringn "MegaMan  "
+.org 0x087CF558
+.stringn "Email    "
+.org 0x087CF58C
+.stringn "Itens    "
+.org 0x087CF5C0
+.stringn "Rede     "
+.org 0x087CF5F4
+.stringn "Salvar   "
+.org 0x087CF628
+.stringn "Sair     "
+
+; Editando tilemap dos menus, na parte de baixo das letras (Hard, sem o "Rede" e o "Salvar")
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Baixo.tbl"
+.org 0x087CF4A2
+.stringn "Pasta    "
+.org 0x087CF4D6
+.stringn "Subchips "
+.org 0x087CF50A
+.stringn "Coleção  "
+.org 0x087CF53E
+.stringn "MegaMan  "
+.org 0x087CF572
+.stringn "Email    "
+.org 0x087CF5A6
+.stringn "Itens    "
+.org 0x087CF5DA
+.stringn "Rede     "
+.org 0x087CF60E
+.stringn "Salvar   "
+.org 0x087CF642
+.stringn "Sair     "
+
+; Corrigindo paleta do nome "Rede" desativado, na parte de cima das letras (Hard, sem o "Rede" e o "Salvar")
+.org 0x087CF5C1
+.stringn 0xE2
+.org 0x087CF5C3
+.stringn 0xE2
+.org 0x087CF5C5
+.stringn 0xE6
+.org 0x087CF5C7
+.stringn 0xE2
+.org 0x087CF5C9
+.stringn 0xE2
+.org 0x087CF5CB
+.stringn 0xE2
+.org 0x087CF5CD
+.stringn 0xE2
+
+; Corrigindo paleta do nome "Rede" desativado, na parte de baixo das letras (Hard, sem o "Rede" e o "Salvar")
+.org 0x087CF5DB
+.stringn 0xE2
+.org 0x087CF5DD
+.stringn 0xE2
+.org 0x087CF5DF
+.stringn 0xE6
+.org 0x087CF5E1
+.stringn 0xE2
+.org 0x087CF5E3
+.stringn 0xE2
+.org 0x087CF5E5
+.stringn 0xE2
+.org 0x087CF5E7
+.stringn 0xE2
+
+; Corrigindo paleta do nome "Salvar" desativado, na parte de cima das letras (Hard, sem o "Rede" e o "Salvar")
+.org 0x087CF5F5
+.stringn 0xE2
+.org 0x087CF5F7
+.stringn 0xE2
+.org 0x087CF5F9
+.stringn 0xE2
+.org 0x087CF5FB
+.stringn 0xE2
+.org 0x087CF5FD
+.stringn 0xE2
+.org 0x087CF5FF
+.stringn 0xE2
+
+; Corrigindo paleta do nome "Salvar" desativado, na parte de baixo das letras (Hard, sem o "Rede" e o "Salvar")
+.org 0x087CF60F
+.stringn 0xE2
+.org 0x087CF611
+.stringn 0xE2
+.org 0x087CF613
+.stringn 0xE2
+.org 0x087CF615
+.stringn 0xE2
+.org 0x087CF617
+.stringn 0xE2
+.org 0x087CF619
+.stringn 0xE2
+
+; Editando tilemap dos menus, na parte de cima das letras (Hard, sem o "Rede")
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Cima.tbl"
+.org 0x087CF896
+.stringn "Pasta    "
+.org 0x087CF8CA
+.stringn "Subchips "
+.org 0x087CF8FE
+.stringn "Coleção  "
+.org 0x087CF932
+.stringn "MegaMan  "
+.org 0x087CF966
+.stringn "Email    "
+.org 0x087CF99A
+.stringn "Itens    "
+.org 0x087CF9CE
+.stringn "Rede     "
+.org 0x087CFA02
+.stringn "Salvar   "
+.org 0x087CFA36
+.stringn "Sair     "
+
+; Editando tilemap dos menus, na parte de baixo das letras (Hard, sem o "Rede")
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Baixo.tbl"
+.org 0x087CF8B0
+.stringn "Pasta    "
+.org 0x087CF8E4
+.stringn "Subchips "
+.org 0x087CF918
+.stringn "Coleção  "
+.org 0x087CF94C
+.stringn "MegaMan  "
+.org 0x087CF980
+.stringn "Email    "
+.org 0x087CF9B4
+.stringn "Itens    "
+.org 0x087CF9E8
+.stringn "Rede     "
+.org 0x087CFA1C
+.stringn "Salvar   "
+.org 0x087CFA50
+.stringn "Sair     "
+
+; Corrigindo paleta do nome "Rede" desativado, na parte de cima das letras (Hard, sem o "Rede")
+.org 0x087CF9CF
+.stringn 0xE2
+.org 0x087CF9D1
+.stringn 0xE2
+.org 0x087CF9D3
+.stringn 0xE6
+.org 0x087CF9D5
+.stringn 0xE2
+.org 0x087CF9D7
+.stringn 0xE2
+.org 0x087CF9D9
+.stringn 0xE2
+.org 0x087CF9DB
+.stringn 0xE2
+
+; Corrigindo paleta do nome "Rede" desativado, na parte de baixo das letras (Hard, sem o "Rede")
+.org 0x087CF9E9
+.stringn 0xE2
+.org 0x087CF9EB
+.stringn 0xE2
+.org 0x087CF9ED
+.stringn 0xE6
+.org 0x087CF9EF
+.stringn 0xE2
+.org 0x087CF9F1
+.stringn 0xE2
+.org 0x087CF9F3
+.stringn 0xE2
+.org 0x087CF9F5
+.stringn 0xE2
+
 ; Inserindo gráfico dos nomes dos submenus
 .org 0x087D08DC
 .incbin "Gráficos/Editados/0x7D08DC - Nomes menus (folder pack PAmemory patttern chips battles).gba"
@@ -273,11 +449,19 @@
 .org 0x087D68D0
 .stringn 0xAD,0x40
 
+; Inserindo gráfico da fonte dos números, nos menus
+.org 0x087D7068
+.incbin "Gráficos/Editados/0x7D7068 - Fonte números menus.gba"
+
 ;.org 0x087D8B54
 ;.incbin "Gráficos/Editados/0x7D8B54 - Bug Frag.gba"
 
 ;.org 0x087E6D7C
 ;.incbin "Gráficos/Editados/0x7E6D7C - Presented By Capcom.gba"
+
+; Inserindo gráfico do nome "Licensed by Nintendo", abaixo do logo da capcom
+.org 0x087E97A8
+.incbin "Gráficos/Editados/0x7E97A8 - Licensed by nintendo.gba"
 
 ;.org 0x087EA268
 ;.incbin "Gráficos/Editados/0x7EA268 - GAME OVER.gba"

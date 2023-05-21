@@ -1,6 +1,20 @@
 <?php
 if (isset($_POST['submit'])) {
-    var_dump('submittou');
+    $descricoes = $_POST['descricoes'];
+    $resultado = file_put_contents('Scripts/descricoes_chips.tpl', $descricoes);
+    if ($resultado === FALSE) {
+        $retorno = [
+            'success' => FALSE,
+            'message' => "Função 'file_put_contents' retornou FALSE.",
+        ];
+    }
+    else {
+        $retorno = [
+            'success' => TRUE,
+            'message' => "Arquivo salvo. $resultado bytes escritos no arquivo.",
+        ];
+    }
+    die(json_encode($retorno));
 }
 
 $script = file_get_contents('Scripts/descricoes_chips.tpl');
@@ -25,13 +39,13 @@ $script = file_get_contents('Scripts/descricoes_chips.tpl');
         </div>
     </nav>
 
-    <form method="post" action="previsualizador.php">
+    <form method="post" action="previsualizador.php" onsubmit="return salvarArquivo()">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-sm">
                     <div class="mb-3">
                         <label for="descricoes" class="form-label">Descrições:</label>
-                        <textarea class="form-control" id="descricoes"><?php echo $script ?></textarea>
+                        <textarea class="form-control" id="descricoes" name="descricoes"><?php echo $script ?></textarea>
                     </div>
                     <button type="submit" class="btn btn-primary" name="submit">Salvar</button>
                 </div>

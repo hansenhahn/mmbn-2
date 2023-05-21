@@ -13,7 +13,7 @@ FontColorAddress        equ 0x08020DDC
 
 RAMTileAddress          equ 0x02004F90
 
-FnCopyCharToRam         equ 0x087f87d0
+FnCopyCharToRam         equ 0x087F6FA0
 
 BlankPixel8             equ 0x11111111      ; Uma linha de 8 pixel branco
 
@@ -498,6 +498,9 @@ nonvwf_font:
   .incbin "Gráficos/nonvwf_font.gba"
 
 ; Alterando ponteiros de lugares específicos, para fazer uso da fonte sem VWF
+.org 0x0800C630 ; Tela de batalha
+.dw nonvwf_font
+
 .org 0x08025228 ; Nome do bairro, no canto inferior direito
 .dw nonvwf_font
   

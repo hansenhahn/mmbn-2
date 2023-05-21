@@ -104,3 +104,20 @@ function formatarCaractere(char) {
         return 'unknown';
     }
 }
+
+function salvarArquivo() {
+    $.post("previsualizador.php", {
+        submit: true,
+        descricoes: codeMirrorObject.doc.getValue()
+    }).done(function (data) {
+        var result = $.parseJSON(data);
+        
+        if(result.success) {
+            alert(result.message);
+        } else {
+            alert('Erro ao salvar arquivo. Detalhes:\n' + result.message);
+        }
+    });
+    
+    return false;
+}
