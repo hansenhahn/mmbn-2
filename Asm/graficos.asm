@@ -7,52 +7,132 @@
 
 ; Inserindo gráficos, em seus respectivos offsets
 ;.org 0x083157FC
-;.incbin "Gráficos/Editados/0x3157FC - Trap pequeno.gba"
+;.incbin "Graficos/Editados/0x3157FC - Trap pequeno.gba"
 
 ;.org 0x08315A20
-;.incbin "Gráficos/Editados/0x315A20 - Trap grande.gba" 
+;.incbin "Graficos/Editados/0x315A20 - Trap grande.gba" 
 
 ;.org 0x08315D24
-;.incbin "Gráficos/Editados/0x315D24 - Trap grande.gba" 
+;.incbin "Graficos/Editados/0x315D24 - Trap grande.gba" 
 
 ;.org 0x08315FA8
-;.incbin "Gráficos/Editados/0x315FA8 - Trap grande.gba"
+;.incbin "Graficos/Editados/0x315FA8 - Trap grande.gba"
 
 ;.org 0x0869E650
-;.incbin "Gráficos/Editados/0x69E650 - Fonte menus.gba"
+;.incbin "Graficos/Editados/0x69E650 - Fonte menus.gba"
 
 .org 0x086A1150
-.incbin "Gráficos/Editados/0x6A1150 - New.gba"
+.incbin "Graficos/Editados/0x6A1150 - New.gba"
 
-;.org 0x086BFAB0
-;.incbin "Gráficos/Editados/0x6BFAB0 - Fonte nomes batalhas.gba"
+.org 0x086BFAA8
+.incbin "Graficos/Editados/0x6BFAA8 - Fonte nomes batalhas.gba"
 
-;.org 0x086C0468
-;.incbin "Gráficos/Editados/0x6C0468 - Advance.gba"
+; Editando OAMs dos nomes da tela de batalha, exibidos ora antes dos turnos, ora no final delas
+.loadtable "Tabelas/Tela Batalha - Nomes (Editados).tbl"
+; Catalogando ponteiros das OAMs
+.org 0x0800DFBC
+.dw BattleStartOams
+.org 0x0800DFC0
+.dw EnemyDeletedOams
+.org 0x0800DFC4
+.dw MegamanDeletedOams
+.org 0x0800DFC8
+.dw StartTurnXOams
+.org 0x0800DFCC
+.dw DamageAnalysisOams
+.org 0x0800DFD0
+.dw FinalTurnOams
+.org 0x0800DFD4
+.dw TimeUpOams
+;.org 0x0800DFD8
+;.dw AdvanceOams
+.org 0x0800DFDC
+.dw WinOams
+.org 0x0800DFE0
+.dw LoseOams
+.org 0x0800DFE4
+.dw DrawOams
+.org 0x0800DFE8
+.dw StartBattleXOams
 
-;.org 0x086C0968
-;.incbin "Gráficos/Editados/0x6C0968 - Busy.gba"
+;; Inserindo textos das novas OAMs num local vago na rom
+.org 0x087F9770
+BattleStartOams:
+.stringn "<INICIAR BATALHA!>",0xff
+EnemyDeletedOams:
+.stringn "[INIMIGO DELETADO!]",0xff
+MegamanDeletedOams:
+.stringn "[MEGAMAN DELETADO!]",0xff
+StartTurnXOams:
+.stringn "<INICIAR TURNO   !>",0xff
+DamageAnalysisOams:
+.stringn "<ANALISAR DANOS!>",0xff
+FinalTurnOams:
+.stringn "<TURNO FINAL>",0xff
+TimeUpOams:
+.stringn "<TEMPO ESGOTADO>",0xff
+;AdvanceOams:
+;.stringn "AVANÇAR",0xff
+WinOams:
+.stringn 0x29,0x2A,0x2B,0x2C,0x2D,0x2E,0x2F,0x30,0x31,0xff
+LoseOams:
+.stringn "<PERDEU!>",0xff
+DrawOams:
+.stringn "<EMPATE!>",0xff
+StartBattleXOams:
+.stringn "<INICIAR BATALHA   !>",0xff
+
+;; Ajustando quantidade de OAMs exibida por frase, assim aumentando/reduzindo a quantidade de caracteres
+.org 0x0800DF60 ;; Battle Start, aumentar 3 OAMs (de 0x0D pra 0x12)
+.stringn 0x12
+.org 0x0800DF61 ;; Enemy Deleted, aumentar 4 OAMs (de 0x0D pra 0x13)
+.stringn 0x13
+.org 0x0800DF62 ;; Megaman Deleted, aumentar 2 OAMs (de 0x11 pra 0x13)
+.stringn 0x13
+.org 0x0800DF63 ;; Start Turn X, aumentar 3 OAMs (de 0x10 pra 0x13)
+.stringn 0x13
+.org 0x0800DF64 ;; Damage Analysis, diminuir 1 OAM (de 0x12 pra 0x11)
+.stringn 0x11
+.org 0x0800DF65 ;; Final Turn, aumentar 1 OAM (de 0x0C pra 0x0D)
+.stringn 0x0D
+.org 0x0800DF66 ;; Time Up, aumentar 7 OAMs (de 0x09 pra 0x0D)
+.stringn 0x10
+.org 0x0800DF68 ;; Win!, aumentar 3 OAMs (de 0x06 pra 0x09)
+.stringn 0x09
+.org 0x0800DF69 ;; Lose!, aumentar 2 OAMs (de 0x07 pra 0x09)
+.stringn 0x09
+.org 0x0800DF6A ;; Draw!, aumentar 3 OAMs (de 0x06 pra 0x09)
+.stringn 0x09
+.org 0x0800DF6B ;; Start Battle X, aumentar 3 OAMs (de 0x12 pra 0x15)
+.stringn 0x15
+
+;; Ajustando posição de números dinâmicos, em frases como "Start Turn X"
+.org 0x0800D23E ;; Start Turn X, afastar número uns 2 espaços à frente (de 0x68 pra 0x80)
+.stringn 0x80
+
+.org 0x086C0968
+.incbin "Graficos/Editados/0x6C0968 - Busy.gba"
 
 .org 0x086CB908
-.incbin "Gráficos/Editados/0x6CB908 - PAUSE.gba"
+.incbin "Graficos/Editados/0x6CB908 - PAUSE.gba"
 
 ;.org 0x086CBFC8
-;.incbin "Gráficos/Editados/0x6CBFC8 - CUSTOM.gba"
+;.incbin "Graficos/Editados/0x6CBFC8 - CUSTOM.gba"
 
 .org 0x086CC0A8
-.incbin "Gráficos/Editados/0x6CC0A8 - L or R.gba"
+.incbin "Graficos/Editados/0x6CC0A8 - L or R.gba"
 
 .org 0x086CC7E8
-.incbin "Gráficos/Editados/0x6CC7E8 - CHIP SELECT.gba"
+.incbin "Graficos/Editados/0x6CC7E8 - CHIP SELECT.gba"
 
 .org 0x086CD200
-.incbin "Gráficos/Editados/0x6CD200 - OK slash ADD.gba"
+.incbin "Graficos/Editados/0x6CD200 - OK slash ADD.gba"
 
 ;.org 0x086CDF20
-;.incbin "Gráficos/Editados/0x6CDF20 - Fontes nomes batalhas.gba"
+;.incbin "Graficos/Editados/0x6CDF20 - Fontes nomes batalhas.gba"
 
 .org 0x086CE840
-.incbin "Gráficos/Editados/0x6CE840 - Nomes tela vitória.gba"
+.incbin "Graficos/Editados/0x6CE840 - Nomes tela vitória.gba"
 
 ; Editando tilemaps da tela de vitória acima
 ; Nome "DeleteTime"
@@ -74,62 +154,62 @@
 .stringn 0x1d,0x90
 
 ;.org 0x086CF9F0
-;.incbin "Gráficos/Editados/0x6CF9F0 - WINNER.gba"
+;.incbin "Graficos/Editados/0x6CF9F0 - WINNER.gba"
 
 ;.org 0x086CFF70
-;.incbin "Gráficos/Editados/0x6CFF70 - DeltTime.gba"
+;.incbin "Graficos/Editados/0x6CFF70 - DeltTime.gba"
 
 ;.org 0x086D0290
-;.incbin "Gráficos/Editados/0x6D0290 - Busting level.gba"
+;.incbin "Graficos/Editados/0x6D0290 - Busting level.gba"
 
 ;.org 0x086D0610
-;.incbin "Gráficos/Editados/0x6D0610 - GET DATA.gba"
+;.incbin "Graficos/Editados/0x6D0610 - GET DATA.gba"
 
 ;.org 0x086D0E40
-;.incbin "Gráficos/Editados/0x6D0E40 - LOSER.gba"
+;.incbin "Graficos/Editados/0x6D0E40 - LOSER.gba"
 
 ;.org 0x086D13E0
-;.incbin "Gráficos/Editados/0x6D13E0 - Lost chip data.gba"
+;.incbin "Graficos/Editados/0x6D13E0 - Lost chip data.gba"
 
 ;.org 0x086D1960
-;.incbin "Gráficos/Editados/0x6D1960 - LOST DATA.gba"
+;.incbin "Graficos/Editados/0x6D1960 - LOST DATA.gba"
 
 ;.org 0x086D2190
-;.incbin "Gráficos/Editados/0x6D2190 - Fonte nomes chips ganhos ou perdidos após a batalha.gba"
+;.incbin "Graficos/Editados/0x6D2190 - Fonte nomes chips ganhos ou perdidos após a batalha.gba"
 
 .org 0x086D2BD0
-.incbin "Gráficos/Editados/0x6D2BD0 - Press A button.gba"
+.incbin "Graficos/Editados/0x6D2BD0 - Press A button.gba"
 
 ;.org 0x086E0730
-;.incbin "Gráficos/Editados/0x6E0730 - ATTACK + 20.gba"
+;.incbin "Graficos/Editados/0x6E0730 - ATTACK + 20.gba"
 
 ;.org 0x086E0E30
-;.incbin "Gráficos/Editados/0x6E0E30 - ATTACK + 30.gba"
+;.incbin "Graficos/Editados/0x6E0E30 - ATTACK + 30.gba"
 
 ;.org 0x086E1530
-;.incbin "Gráficos/Editados/0x6E1530 - NAVI + 30.gba"
+;.incbin "Graficos/Editados/0x6E1530 - NAVI + 30.gba"
 
 ;.org 0x0870B530
-;.incbin "Gráficos/Editados/0x70B530 - Diversos chips com nomes.gba"
+;.incbin "Graficos/Editados/0x70B530 - Diversos chips com nomes.gba"
 
 .org 0x0871B830
-.incbin "Gráficos/Editados/0x71B830 - ADDITIONAL CHIP DATA - Discard selected chips.gba"
+.incbin "Graficos/Editados/0x71B830 - ADDITIONAL CHIP DATA - Discard selected chips.gba"
 
 .org 0x0871BF30
-.incbin "Gráficos/Editados/0x71BF30 - CHIP DATA TRANSMISSION - Sending chip data.gba"
+.incbin "Graficos/Editados/0x71BF30 - CHIP DATA TRANSMISSION - Sending chip data.gba"
 
 .org 0x0871D430
-.incbin "Gráficos/Editados/0x71D430 - NO DATA SELECTED - Choose a chip.gba"
+.incbin "Graficos/Editados/0x71D430 - NO DATA SELECTED - Choose a chip.gba"
 
 ;.org 0x0871DB30
-;.incbin "Gráficos/Editados/0x71DB30 - NO DATA.gba"
+;.incbin "Graficos/Editados/0x71DB30 - NO DATA.gba"
 
-;.org 0x087AE730
-;.incbin "Gráficos/Editados/0x7AE730 - Números andares prédio.gba"
+.org 0x087AE7C0
+.incbin "Graficos/Editados/0x7AE7C0 - Números andares prédio.gba"
 
 ; Inserindo gráfico dos nomes dos menus, com as letras da fonte
 .org 0x087CE940
-.incbin "Gráficos/Editados/0x7CE940 - Nomes menus (folder chips mail).gba"
+.incbin "Graficos/Editados/0x7CE940 - Nomes menus (folder chips mail).gba"
 
 ; Editando tilemap dos menus, na parte de cima das letras
 .loadtable "Tabelas/Menu Esquerdo - Nomes Parte Cima.tbl"
@@ -351,7 +431,7 @@
 
 ; Inserindo gráfico dos nomes dos submenus
 .org 0x087D08DC
-.incbin "Gráficos/Editados/0x7D08DC - Nomes menus (folder pack PAmemory patttern chips battles).gba"
+.incbin "Graficos/Editados/0x7D08DC - Nomes menus (folder pack PAmemory patttern chips battles).gba"
 
 ; Editando tilemap dos submenus, na parte de cima das letras
 .loadtable "Tabelas/Telas Menus - Nomes Parte Cima.tbl"
@@ -451,31 +531,31 @@
 
 ; Inserindo gráfico da fonte dos números, nos menus
 .org 0x087D7068
-.incbin "Gráficos/Editados/0x7D7068 - Fonte números menus.gba"
+.incbin "Graficos/Editados/0x7D7068 - Fonte números menus.gba"
 
 ;.org 0x087D8B54
-;.incbin "Gráficos/Editados/0x7D8B54 - Bug Frag.gba"
+;.incbin "Graficos/Editados/0x7D8B54 - Bug Frag.gba"
 
 ;.org 0x087E6D7C
-;.incbin "Gráficos/Editados/0x7E6D7C - Presented By Capcom.gba"
+;.incbin "Graficos/Editados/0x7E6D7C - Presented By Capcom.gba"
 
 ; Inserindo gráfico do nome "Licensed by Nintendo", abaixo do logo da capcom
 .org 0x087E97A8
-.incbin "Gráficos/Editados/0x7E97A8 - Licensed by nintendo.gba"
+.incbin "Graficos/Editados/0x7E97A8 - Licensed by nintendo.gba"
 
 ;.org 0x087EA268
-;.incbin "Gráficos/Editados/0x7EA268 - GAME OVER.gba"
+;.incbin "Graficos/Editados/0x7EA268 - GAME OVER.gba"
 
 .org 0x087EBAE8
-.incbin "Gráficos/Editados/0x7EBAE8 - PRESS START.gba"
+.incbin "Graficos/Editados/0x7EBAE8 - PRESS START.gba"
 
 .org 0x087EC3A8
-.incbin "Gráficos/Editados/0x7EC3A8 - NEW GAME CONTINUE.gba"
+.incbin "Graficos/Editados/0x7EC3A8 - NEW GAME CONTINUE.gba"
 
 .org 0x087EC928
-.incbin "Gráficos/Editados/0x7EC928 - COPYRIGHT tela-título.gba"
+.incbin "Graficos/Editados/0x7EC928 - COPYRIGHT tela-título.gba"
 
 ;.org 0x087ED8A8
-;.incbin "Gráficos/Editados/0x7ED8A8 - CONT HARD.gba"
+;.incbin "Graficos/Editados/0x7ED8A8 - CONT HARD.gba"
 			
 .close

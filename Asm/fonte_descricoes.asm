@@ -255,10 +255,10 @@ L_LINE			equ		[r5, 19]
 		
 	.org 0x087f72dc
 	FontWidthAddress:
-		.incbin "Gráficos/tabela_vwf_font_descricoes.bin"
+		.incbin "Graficos/tabela_vwf_font_descricoes.bin"
 
 	.align 0x10
 	font:
-		.incbin "Gráficos/vwf_font_descricoes.gba"
+		.incbin "Graficos/vwf_font_descricoes.gba"
 		
 .close

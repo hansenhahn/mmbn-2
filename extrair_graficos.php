@@ -6,8 +6,7 @@ $graficos = [
     (object)['nome' => 'Trap grande', 'offset' => '0x315FA8', 'tiles' => '2x4'],
     (object)['nome' => 'Fonte menus', 'offset' => '0x69E650', 'tiles' => '9x32'],
     (object)['nome' => 'New', 'offset' => '0x6A1150', 'tiles' => '2x8'],
-    (object)['nome' => 'Fonte nomes batalhas', 'offset' => '0x6BFAB0', 'tiles' => '2x35'],
-    (object)['nome' => 'Advance', 'offset' => '0x6C0468', 'tiles' => '1x16'],
+    (object)['nome' => 'Fonte nomes batalhas', 'offset' => '0x6BFAA8', 'tiles' => '6x16'],
     (object)['nome' => 'Busy', 'offset' => '0x6C0968', 'tiles' => '7x4'],
     (object)['nome' => 'PAUSE', 'offset' => '0x6CB908', 'tiles' => '2x6'],
     (object)['nome' => 'CUSTOM', 'offset' => '0x6CBFC8', 'tiles' => '1x4'],
@@ -33,7 +32,7 @@ $graficos = [
     (object)['nome' => 'CHIP DATA TRANSMISSION - Sending chip data', 'offset' => '0x71BF30', 'tiles' => '8x7'],
     (object)['nome' => 'NO DATA SELECTED - Choose a chip', 'offset' => '0x71D430', 'tiles' => '8x7'],
     (object)['nome' => 'NO DATA', 'offset' => '0x71DB30', 'tiles' => '8x7'],
-    (object)['nome' => 'Números andares prédio', 'offset' => '0x7AE730', 'tiles' => '4x18'],
+    (object)['nome' => 'Números andares prédio', 'offset' => '0x7AE7C0', 'tiles' => '4x18'],
     (object)['nome' => 'Nomes menus (folder chips mail)', 'offset' => '0x7CE940', 'tiles' => '7x10'],
     (object)['nome' => 'Nomes menus (folder pack PAmemory patttern chips battles)', 'offset' => '0x7D08DC', 'tiles' => '10x29'],
     (object)['nome' => 'Fonte números menus', 'offset' => '0x7D7068', 'tiles' => '11x2'],
@@ -48,7 +47,7 @@ $graficos = [
 ];
 
 foreach($graficos as $g){
-    $caminho = "Gráficos/Originais/{$g->offset} - {$g->nome}.gba";
+    $caminho = "Graficos/Originais/{$g->offset} - {$g->nome}.gba";
     $offset_decimal = hexdec(str_replace('0x', '', $g->offset));
     $tiles = explode('x', $g->tiles);
     $tamanho = $tiles[0] * $tiles[1] * 32;

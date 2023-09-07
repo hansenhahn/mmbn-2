@@ -490,12 +490,12 @@ FontWidthAddress:
 
 ; Editando fonte original do jogo, com caracteres alinhados à esquerda devido à VWF
 .org 0x086965f0
-.import "Gráficos/vwf_font.gba"
+.import "Graficos/vwf_font.gba"
 
 ; Adicionando fonte sem VWF, para uso em áreas específicas do jogo
 .org 0x087F4B10
 nonvwf_font:
-  .incbin "Gráficos/nonvwf_font.gba"
+  .incbin "Graficos/nonvwf_font.gba"
 
 ; Alterando ponteiros de lugares específicos, para fazer uso da fonte sem VWF
 .org 0x0800C630 ; Tela de batalha
