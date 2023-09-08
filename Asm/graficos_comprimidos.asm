@@ -9,8 +9,12 @@
 .dw	ptr1
 .org 0x0801f39c
 .dw	ptr2
+.org 0x0801f3c0 + 8
+.dw ptrtm1
 .org 0x0801f39c + 8
 .dw	ptrtm2
+.org 0x0801f3a8 + 8
+.dw ptrtm3
 .org 0x0801f3a8
 .dw	ptr3
 .org 0x0801f33c
@@ -150,7 +154,15 @@ ptr11:
 ptr12:
 .incbin "Graficos/Comprimidos/Recomprimidos/img-01f528-td.bin"
 .align
-		
+
+ptrtm1:
+.db 0xa8, 0x60, 0x00, 0x00
+.dw 0x00000010
+.dw 0x00007e10
+.dw 0x0000fc10
+.incbin "Graficos/Comprimidos/Recomprimidos/img-01f3c0-tm.bin"
+.align
+
 ptrtm2:
 .db 0xa0, 0x6c, 0x00, 0x00
 .dw 0x00000010
@@ -158,7 +170,15 @@ ptrtm2:
 .dw 0x00010e10
 .incbin "Graficos/Comprimidos/Recomprimidos/img-01f39c-tm.bin"
 .align
-		
+
+ptrtm3:    
+.db 0x84, 0x64, 0x00, 0x00
+.dw 0x00000010
+.dw 0x00006730
+.dw 0x0000ce50
+.incbin "Graficos/Comprimidos/Recomprimidos/img-01f3a8-tm.bin"
+.align
+
 ptrtm4:
 .db 0x52, 0x44, 0x00, 0x00
 .dw 0x00000010
