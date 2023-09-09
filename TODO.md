@@ -2,12 +2,14 @@
   - Na tela de vitória, onde mostra o nome do chip obtido (se houver), ainda tá usando a fonte com VWF.
   - Editar textos em alguns chips (Attack + 20)
 - Gráficos de backgrounds (comprimidos)
-  - Sombras das árvores em ACDC
+  - Sombras das árvores em ACDC (OK)
   - Coluna "Aeroporto" no metrò (bugs de números perto da catraca)
   - Coluna "Porto" no metrô (bugs de números perto da catraca)
   - NAL na região de desembarque do aeroporto (ALA)
   - NAL animado dentro dum monitor no avião (ALA)
-  - FIM DE JOGO (tilemap bugado)
+  - FIM DE JOGO (tilemap bugado) (OK)
   - DENCITY GIFTS (PRESENTES)
 - Menus do modo batalha em cabo link
   - "Dados Obtidos" buga a paleta após a animação de exibir o chip ganho/perdido.
+- Copyright tela título
+  - Mudar ano de 2022 pra 2023/2024
