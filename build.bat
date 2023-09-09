@@ -13,10 +13,13 @@ echo ==Fonte VWF reduzida, para as descricoes de chips==
 echo ==Graficos descomprimidos==
 .\Ferramentas\armips.exe .\Asm\graficos.asm
 
-::echo ==Graficos comprimidos==
-::copy ".\Graficos\Comprimidos\Editados\0x3dde2c - ON AIR.gba" ".\Graficos\Comprimidos\Recomprimidos\"
-::.\Ferramentas\lzss.exe -evn ".\Graficos\Comprimidos\Recomprimidos\0x3dde2c - ON AIR.gba"
-::.\Ferramentas\armips.exe .\Asm\graficos_comprimidos.asm
+echo ==Graficos comprimidos==
+copy ".\Graficos\Comprimidos\Editados\0x3dde2c - ON AIR.gba" ".\Graficos\Comprimidos\Recomprimidos\"
+.\Ferramentas\lzss.exe -evn ".\Graficos\Comprimidos\Recomprimidos\0x3dde2c - ON AIR.gba"
+.\Ferramentas\armips.exe .\Asm\graficos_comprimidos.asm
+
+echo ==Expandindo rom para 16mb==
+.\Ferramentas\armips.exe .\Asm\expansor_rom.asm
 
 echo Done.
 pause

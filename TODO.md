@@ -2,35 +2,12 @@
   - Na tela de vitória, onde mostra o nome do chip obtido (se houver), ainda tá usando a fonte com VWF.
   - Editar textos em alguns chips (Attack + 20)
 - Gráficos de backgrounds (comprimidos)
-  - Jewel (Jóias) OK?
-  - Restaurant 1 (Restaurante) OK?
-  - Restaurant 2 (Restaurante) OK?
-  - Airport (Aeroporto) OK?
-  - Camp (Acampamento) OK?
-  - Higsby's (Higsby) OK?
-  - Marine (Porto) OK?
-  - MH (PdA) OK?
-  - NAL (ALA) OK?
-  - Official Center (Centro Oficial) OK?
-  - Okukendam (Represa Okuden) OK?
-  - On Air (No ar) OK
-  - Snacks (Lanches) OK?
-  - Tax-Free Goods (Imposto Zero) OK?
-  - Koto-Mart (Mercado) OK?
-  - GAME OVER (FIM DE JOGO) OK?
-  - 2F/4F/8F/9F/20F/23F/24F/25F/27F OK
-  - 30F OK?
-- Gráficos com OAMs
-  - BATTLE START! (INICIAR BATALHA!) OK
-  - ENEMY DELETED (INIMIGO DELETADO) OK
-  - MEGAMAN DELETED (MEGAMAN DELETADO) OK
-  - START TURN X! (INICIAR TURNO X!) OK
-  - DAMAGE ANALYSIS! (ANÁLISE DE DANOS!) OK
-  - FINAL TURN (ÚLTIMO TURNO) OK
-  - TIME UP (TEMPO ESGOTADO) OK
-  - ADVANCE (AVANÇAR) OK?
-  - WIN! (VENCEU!) OK
-  - LOSE! (PERDEU!) OK
-  - DRAW! (EMPATE!) OK
-  - START BATTLE X! (INICIAR BATALHA X!) OK?
-  - Busy (Ocupado) OK
+  - Sombras das árvores em ACDC
+  - Coluna "Aeroporto" no metrò (bugs de números perto da catraca)
+  - Coluna "Porto" no metrô (bugs de números perto da catraca)
+  - NAL na região de desembarque do aeroporto (ALA)
+  - NAL animado dentro dum monitor no avião (ALA)
+  - FIM DE JOGO (tilemap bugado)
+  - DENCITY GIFTS (PRESENTES)
+- Menus do modo batalha em cabo link
+  - "Dados Obtidos" buga a paleta após a animação de exibir o chip ganho/perdido.
