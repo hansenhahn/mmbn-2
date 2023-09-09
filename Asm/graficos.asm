@@ -180,17 +180,20 @@ StartBattleXOams:
 .org 0x086D2BD0
 .incbin "Graficos/Editados/0x6D2BD0 - Press A button.gba"
 
-;.org 0x086E0730
-;.incbin "Graficos/Editados/0x6E0730 - ATTACK + 20.gba"
+.org 0x086E0730
+.incbin "Graficos/Editados/0x6E0730 - ATTACK + 20.gba"
 
-;.org 0x086E0E30
-;.incbin "Graficos/Editados/0x6E0E30 - ATTACK + 30.gba"
+.org 0x086E0E30
+.incbin "Graficos/Editados/0x6E0E30 - ATTACK + 30.gba"
 
 ;.org 0x086E1530
 ;.incbin "Graficos/Editados/0x6E1530 - NAVI + 30.gba"
 
-;.org 0x0870B530
-;.incbin "Graficos/Editados/0x70B530 - Diversos chips com nomes.gba"
+.org 0x087AC6E0
+.incbin "Graficos/Editados/0x7AC6E0 - NAL animado no monitor.gba"
+
+.org 0x0870B530
+.incbin "Graficos/Editados/0x70B530 - Diversos chips com nomes.gba"
 
 .org 0x0871B830
 .incbin "Graficos/Editados/0x71B830 - ADDITIONAL CHIP DATA - Discard selected chips.gba"

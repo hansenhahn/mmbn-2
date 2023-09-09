@@ -33,6 +33,7 @@ $graficos = [
     (object)['nome' => 'NO DATA SELECTED - Choose a chip', 'offset' => '0x71D430', 'tiles' => '8x7'],
     (object)['nome' => 'NO DATA', 'offset' => '0x71DB30', 'tiles' => '8x7'],
     (object)['nome' => 'Números andares prédio', 'offset' => '0x7AE7C0', 'tiles' => '4x18'],
+    (object)['nome' => 'NAL animado no monitor', 'offset' => '0x7AC6E0', 'tiles' => '18x13'],
     (object)['nome' => 'Nomes menus (folder chips mail)', 'offset' => '0x7CE940', 'tiles' => '7x10'],
     (object)['nome' => 'Nomes menus (folder pack PAmemory patttern chips battles)', 'offset' => '0x7D08DC', 'tiles' => '10x29'],
     (object)['nome' => 'Fonte números menus', 'offset' => '0x7D7068', 'tiles' => '11x2'],
