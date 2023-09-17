@@ -528,6 +528,20 @@ StartBattleXOams:
 .org 0x087D7BB8
 .stringn "EstlHub"
 
+; Editando tilemap dos menus, na parte de cima das letras (Hard, sem o "Rede")
+.loadtable "Tabelas/Telas Menus - Nomes Parte Cima.tbl"
+.org 0x087DD100
+.stringn "Inserir"
+.org 0x087DD126
+.stringn "Mochila"
+
+; Editando tilemap dos menus, na parte de cima das letras (Hard, sem o "Rede")
+.loadtable "Tabelas/Telas Menus - Nomes Parte Baixo.tbl"
+.org 0x087DD140
+.stringn "Inserir"
+.org 0x087DD166
+.stringn "Mochila"
+
 ; Corrigindo bug no tilemap do gráfico "Choosing", na tela de troca de estilos
 .org 0x087D68D0
 .stringn 0xAD,0x40

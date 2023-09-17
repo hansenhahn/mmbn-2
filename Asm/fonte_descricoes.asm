@@ -260,5 +260,10 @@ L_LINE			equ		[r5, 19]
 	.align 0x10
 	font:
 		.incbin "Graficos/vwf_font_descricoes.gba"
+
+	;desabilita descrição na máquina de trocas
+    .org 0x08026C42
+        nop
+        nop
 		
 .close

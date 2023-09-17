@@ -501,6 +501,15 @@ nonvwf_font:
 .org 0x0800C630 ; Tela de batalha
 .dw nonvwf_font
 
+;.org 0x08012060 ; Desconhecido
+;.dw nonvwf_font
+
+.org 0x08012180 ; Tela de batalha, modo link
+.dw nonvwf_font
+
+;.org 0x08020F90 ; Desconhecido
+;.dw nonvwf_font
+
 .org 0x08025228 ; Nome do bairro, no canto inferior direito
 .dw nonvwf_font
   
@@ -513,8 +522,11 @@ nonvwf_font:
 .org 0x08026E2C ; Menu "Folder", descrições de chips
 .dw nonvwf_font
 
-.org 0x080273A0 ; Menu "Folder", nomes 'Drtr1/Drtr2/Drtr3'
+.org 0x080273A0 ; Menu "Folder", nomes 'Pasta1/Pasta2/Pasta3'
 .dw nonvwf_font
+
+;.org 0x08027C08 ; Desconhecido
+;.dw nonvwf_font
   
 .org 0x08028590 ; Mail
 .dw nonvwf_font
@@ -533,5 +545,29 @@ nonvwf_font:
   
 .org 0x0802B6CC ; Network
 .dw nonvwf_font
+
+;.org 0x0802BA78 ; Desconhecido
+;.dw nonvwf_font
+
+;.org 0x0802C608 ; Desconhecido
+;.dw nonvwf_font
+
+.org 0x0802D518 ; Troca-Chips: Nomes de chips selecionados na esquerda
+.dw nonvwf_font
+
+.org 0x0802F5C8 ; Fóruns
+.dw nonvwf_font
+
+.org 0x0802FE98 ; Tela de NetVendedores e Vendedores de Subchips
+.dw nonvwf_font
+
+;.org 0x08031844 ; asd
+;.dw nonvwf_font
+
+;.org 0x08033D18 ; asd
+;.dw nonvwf_font
+
+;.org 0x0803449C ; asd
+;.dw nonvwf_font
 
 .close

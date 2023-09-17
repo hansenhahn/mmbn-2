@@ -14320,7 +14320,7 @@ script 5 mmbn2s {
 	end
 }
 script 6 mmbn2s {
-	"DadoGent"
+	"DadoGntl"
 	end
 }
 script 7 mmbn2s {
@@ -14660,11 +14660,11 @@ script 114 mmbn2s {
 	end
 }
 script 115 mmbn2s {
-	"Untrap"
+	"Desarma"
 	end
 }
 script 116 mmbn2s {
-	"LocEnemy"
+	"TravInmg"
 	end
 }
 script 117 mmbn2s {
@@ -15692,9 +15692,9 @@ script 97 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	Selecione o poder de
-	atirador para aumentar
-	no menu "MegaMan"
+	Aumenta um dos poderes
+	de atirador no menu
+	"MegaMan"
 	"""
 	waitHold
 }
@@ -17558,7 +17558,7 @@ script 6 mmbn2 {
 	"""
 	Lan, sei como se sente,
 	mas se desconectarmos
-	agora, vai explodir!
+	agora, isto explode!
 	"""
 	keyWait
 	end
@@ -19219,8 +19219,8 @@ script 48 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos lá pra central
-	de provas!
+	Vamos lá pra sala de
+	provas!
 	"""
 	keyWait
 	end
@@ -19231,7 +19231,7 @@ script 49 mmbn2 {
 	msgOpen
 	"""
 	Hora da prova.
-	Lan, me conecta lá!
+	Lan, me conecta!
 	"""
 	keyWait
 	end
@@ -20366,8 +20366,7 @@ script 65 mmbn2 {
 	msgOpen
 	"""
 	Conecte-se no urso
-	pra desligar o
-	bicho!
+	pra desligar o bicho!
 	"""
 	keyWait
 	end
@@ -22208,8 +22207,8 @@ script 207 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	WWW... palavra-chave in-
-	teressante, essa. Vamos
+	WWW... palavra-chave
+	interessante... Vamos
 	postar no UnderFórum!
 	"""
 	keyWait
@@ -24571,7 +24570,7 @@ script 75 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A gente cancelou o
+	A gente abortou o
 	programa de detonação!
 	Vamos achar o resto!
 	"""
@@ -25442,7 +25441,7 @@ script 48 mmbn2 {
 	msgOpen
 	"""
 	Acho que era pra gente
-	se conectar da central
+	se conectar da sala
 	de provas...
 	"""
 	keyWait
@@ -25454,7 +25453,7 @@ script 51 mmbn2 {
 	msgOpen
 	"""
 	Acho que é pra gente
-	se conectar do central
+	se conectar da sala
 	de provas.
 	"""
 	keyWait
@@ -25475,8 +25474,8 @@ script 55 mmbn2 {
 		frames = 30
 	"""
 	
-	Você lembra a
-	pergunta do Navi?
+	Você lembra o desafio
+	que o Navi passou?
 	"""
 	keyWait
 	end
@@ -27363,8 +27362,8 @@ script 48 mmbn2 {
 	msgOpen
 	"""
 	Acho que era pra gente
-	se conectar da central
-	de prova...
+	se conectar da sala
+	de provas...
 	"""
 	keyWait
 	end
@@ -27380,8 +27379,8 @@ script 51 mmbn2 {
 	msgOpen
 	"""
 	Acho que é pra gente
-	se conectar da central
-	de prova.
+	se conectar da sala
+	de provas.
 	"""
 	keyWait
 	end
@@ -27395,7 +27394,7 @@ script 52 mmbn2 {
 		frames = 30
 	"""
 	A gente se conectou
-	da central de prova?
+	da sala de provas?
 	"""
 	keyWait
 	end
@@ -27420,8 +27419,8 @@ script 55 mmbn2 {
 		frames = 30
 	"""
 	
-	Você lembra a pergunta
-	do Navi?
+	Você lembra o desafio
+	que o Navi passou?
 	"""
 	keyWait
 	end
@@ -27435,8 +27434,8 @@ script 56 mmbn2 {
 		frames = 30
 	"""
 	
-	Você lembra a pergunta
-	do Navi?
+	Você lembra o desafio
+	que o Navi passou?
 	"""
 	keyWait
 	end
@@ -32182,7 +32181,7 @@ script 20 mmbn2 {
 	"."
 	waitSkip
 		frames = 30
-	"Tá bom..."
+	" Tá bom..."
 	waitSkip
 		frames = 30
 	"\nEu espero aqui, então."
@@ -32385,7 +32384,7 @@ script 34 mmbn2 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Eu tive que sair de lá.
+	Eu tive que fugir de lá.
 	Aquele menino não
 	parava de pedir chips!
 	"""
@@ -34855,8 +34854,8 @@ script 191 mmbn2 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Você tem um
-	coração! Ah, ainda bem.
+	Você tem coração!
+	Ah, ainda bem.
 	Toma aqui...
 	"""
 	keyWait
@@ -38710,7 +38709,7 @@ script 1 mmbn2 {
 	msgOpen
 	"""
 	Lan, é melhor você
-	responder a mamãe!
+	ir falar com a mamãe!
 	"""
 	keyWait
 	end
@@ -38893,7 +38892,7 @@ script 26 mmbn2 {
 	"""
 	Quer dizer então que o
 	acampamento de vocês
-	é amanhã? Tudo bem.
+	será amanhã? Tudo bem.
 	"""
 	keyWait
 	end
@@ -40507,7 +40506,7 @@ script 10 mmbn2 {
 		mugshot = Dex
 	msgOpen
 	"""
-	E aí, o vocês acham de
+	E aí, o que acham de
 	mim agora? Esse é o
 	poder do GutsMan! Há!
 	"""
@@ -40585,7 +40584,7 @@ script 16 mmbn2 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I-Isso só pode ser
+	I-isso só pode ser
 	brincadeira!
 	Nada mal...
 	"""
@@ -41577,7 +41576,7 @@ script 235 mmbn2 {
 	"""
 	keyWait
 	clearMsg
-	"Lan lê o bilhete..."
+	"Lan lê o bilhete...\n"
 	waitSkip
 		frames = 30
 	"""
@@ -41740,7 +41739,8 @@ script 45 mmbn2 {
 }
 script 220 mmbn2 {
 	msgOpen
-	"Um duto de ventilação."
+	"Uma saída de
+	ventilação."
 	keyWait
 	end
 }
@@ -42481,7 +42481,7 @@ script 25 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	A lugar de encontro vai
+	O lugar de encontro vai
 	ser na Rede, na entrada
 	lá do "Plaza"!
 	"""
@@ -42591,7 +42591,7 @@ script 30 mmbn2 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Você ganhou um 10 em
+	Você tirou 10 em
 	caça-vírus, Lan! Já
 	nas outras matérias...
 	"""
@@ -42716,9 +42716,9 @@ script 46 mmbn2 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Eu tô trabalho no meu
-	projeto! "Um estudo dos
-	seres vivos"!
+	Eu tô trabalhando no
+	meu projeto! "Um estudo
+	dos seres vivos"!
 	"""
 	keyWait
 	end
@@ -42832,7 +42832,7 @@ script 80 mmbn2 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	msgOpen
-	"E-Eu tô com medo..."
+	"E-eu tô com medo..."
 	keyWait
 	end
 }
@@ -43350,7 +43350,7 @@ script 227 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Como não foi usada
+	Como não será usada
 	durante as férias, está
 	limpinha e reluzente.
 	"""
@@ -43694,7 +43694,7 @@ script 190 mmbn2 {
 			jump = continue
 		]
 	"""
-	T-Tudo bem...
+	T-tudo bem...
 	É compreensível.
 	"""
 	keyWait
@@ -44854,7 +44854,7 @@ script 48 mmbn2 {
 	msgOpen
 	"""
 	Ah, er, é-é o seguinte...
-	E-Eu... te... a-a...
+	E-eu... te... a-a...
 	"""
 	keyWait
 	end
@@ -46251,8 +46251,8 @@ script 202 mmbn2 {
 script 220 mmbn2 {
 	msgOpen
 	"""
-	Dá para ver gente no
-	telhado!
+	Dá para ver gente lá
+	longe!
 	"""
 	keyWait
 	end
@@ -47504,8 +47504,8 @@ script 0 mmbn2 {
 	waitSkip
 		frames = 30
 	"""
-	Ah, não veio se inscre-
-	ver para tirar a licença?
+	Ah, veio se inscrever
+	para tirar a licença?
 	"""
 	keyWait
 	clearMsg
@@ -47752,8 +47752,8 @@ script 7 mmbn2 {
 	msgOpen
 	"""
 	A sala de provas fica
-	por ali, passando o
-	balcão.
+	por ali, em frente a
+	este balcão.
 	"""
 	keyWait
 	end
@@ -50941,7 +50941,7 @@ script 3 mmbn2 {
 	msgOpen
 	"""
 	Estou esperando por
-	uma missão digna da
+	uma missão digna das
 	minhas habilidades.
 	"""
 	keyWait
@@ -56561,8 +56561,8 @@ script 6 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	É só acender uma
-	fogueira que você
+	É só acender algo
+	com fogo que você
 	afugenta elas.
 	"""
 	keyWait
@@ -56745,8 +56745,8 @@ script 17 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	É isso mesmo! Eu,
-	Dave, sou o bombardeiro!
+	É isso mesmo! Eu, Dave,
+	sou o bombardeiro!
 	"""
 	keyWait
 	clearMsg
@@ -56837,7 +56837,7 @@ script 22 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	vamos todos morrer
+	Vamos todos morrer
 	afogados, juntos!
 	"""
 	keyWait
@@ -57956,7 +57956,7 @@ script 1 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Mesmo tendo deixado
+	Mesmo depois de deixar
 	cair os binóculos dele
 	por aqui.
 	"""
@@ -58021,7 +58021,8 @@ script 7 mmbn2 {
 	mugshotShow
 		mugshot = Girl
 	msgOpen
-	"Tarde demais..."
+	"Tarde demais pra
+	rezar..."
 	keyWait
 	end
 }
@@ -58642,7 +58643,7 @@ script 237 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Tá vendo? Tem um PET
+	Vê ali? Tem um PET
 	lá no fundo. E ele não
 	tava aí antes!
 	"""
@@ -58765,7 +58766,7 @@ script 2 mmbn2 {
 	"""
 	A comida fica pronta
 	já já. Como tão indo
-	o Dex e a Mayl?
+	o Dex e a Yai?
 	"""
 	keyWait
 	end
@@ -58910,9 +58911,8 @@ script 8 mmbn2 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Mais devagar, lobo
-	mau. Mastigue antes de
-	engolir!
+	Ô, devagar aí, lobo
+	mau. Paciência!
 	"""
 	keyWait
 	end
@@ -59181,8 +59181,8 @@ script 21 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Tudo que tem aqui é
-	é a represa.
+	Tudo o que tem aqui é
+	a represa.
 	Não é nada de mais.
 	"""
 	keyWait
@@ -59401,8 +59401,8 @@ script 31 mmbn2 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	A represa repenti-
-	namente explodiu!
+	A represa repentinamente
+	explodiu!
 	"""
 	keyWait
 	clearMsg
@@ -60872,8 +60872,7 @@ script 224 mmbn2 {
 	msgOpen
 	"""
 	Um simples cantil, ao
-	que parece, mas
-	vazio.
+	que parece, mas vazio.
 	"""
 	keyWait
 	end
@@ -60909,7 +60908,7 @@ script 226 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Nesse não dá para você
+	Nessa não dá para você
 	se conectar.
 	"""
 	keyWait
@@ -60952,7 +60951,7 @@ script 230 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan, conecte-se no
+	Lan, conecte-se nesse
 	detonador que parece
 	um cantil!
 	"""
@@ -61101,8 +61100,8 @@ script 10 mmbn2 {
 	msgOpen
 	"""
 	Quer dizer então que o
-	menino é um
-	NetLutador Oficial?
+	menino é um NetLutador
+	Oficial?
 	"""
 	keyWait
 	clearMsg
@@ -84474,7 +84473,7 @@ script 74 mmbn2 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	A-Aquilo era uma
+	A-aquilo era uma
 	a-aranha?
 	Ai que nooojoooo!
 	"""
@@ -84521,7 +84520,7 @@ script 83 mmbn2 {
 		mugshot = BlackKid
 	msgOpen
 	"""
-	E-Eu tô com medo!
+	E-eu tô com medo!
 	Socorro!! Alguém!!
 	"""
 	keyWait
@@ -88544,7 +88543,7 @@ script 0 mmbn2 {
 	clearMsg
 	"""
 	O cibergás está forte
-	demais a partir deste.
+	demais a partir deste
 	ponto. Não consigo seguir!
 	"""
 	keyWait
@@ -88670,7 +88669,7 @@ script 230 mmbn2 {
 		item = 96
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -88708,7 +88707,7 @@ script 231 mmbn2 {
 		item = 98
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -89198,7 +89197,7 @@ script 231 mmbn2 {
 		item = 96
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -89500,7 +89499,7 @@ script 232 mmbn2 {
 		item = 99
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -89677,7 +89676,7 @@ script 233 mmbn2 {
 		item = 97
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -90003,7 +90002,7 @@ script 231 mmbn2 {
 		item = 96
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -90385,7 +90384,7 @@ script 232 mmbn2 {
 		item = 98
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -91367,7 +91366,7 @@ script 234 mmbn2 {
 		item = 99
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -91755,7 +91754,7 @@ script 233 mmbn2 {
 		item = 96
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -92423,7 +92422,7 @@ script 233 mmbn2 {
 		item = 101
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -92469,7 +92468,7 @@ script 234 mmbn2 {
 		item = 98
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -92752,7 +92751,7 @@ script 234 mmbn2 {
 		item = 97
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -93442,7 +93441,7 @@ script 232 mmbn2 {
 		item = 98
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -93801,7 +93800,7 @@ script 233 mmbn2 {
 		item = 96
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -94379,7 +94378,7 @@ script 231 mmbn2 {
 		item = 96
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -94417,7 +94416,7 @@ script 232 mmbn2 {
 		item = 99
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -94970,7 +94969,7 @@ script 233 mmbn2 {
 		item = 98
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -95306,7 +95305,7 @@ script 235 mmbn2 {
 		item = 96
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -95493,7 +95492,7 @@ script 234 mmbn2 {
 		item = 97
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -95804,7 +95803,7 @@ script 231 mmbn2 {
 		item = 98
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -96257,7 +96256,7 @@ script 230 mmbn2 {
 		item = 96
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -96436,7 +96435,7 @@ script 193 mmbn2 {
 		item = 97
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -96943,7 +96942,7 @@ script 230 mmbn2 {
 		item = 98
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -97317,7 +97316,7 @@ script 230 mmbn2 {
 		item = 98
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -97361,7 +97360,7 @@ script 231 mmbn2 {
 		item = 96
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -97535,7 +97534,7 @@ script 230 mmbn2 {
 		item = 98
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -97931,7 +97930,7 @@ script 230 mmbn2 {
 		item = 98
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -98324,7 +98323,7 @@ script 230 mmbn2 {
 		item = 96
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -98738,7 +98737,7 @@ script 230 mmbn2 {
 		item = 98
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -98819,7 +98818,7 @@ script 230 mmbn2 {
 		item = 99
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -99388,7 +99387,7 @@ script 232 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Para analisá-lo, você
+	Para analisá-los, você
 	precisa do subchip:
 	"
 	"""
@@ -99765,7 +99764,7 @@ script 230 mmbn2 {
 		item = 100
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -99902,7 +99901,7 @@ script 232 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Para analisá-lo, você
+	para analisá-los, você
 	precisa do subchip:
 	"
 	"""
@@ -101401,7 +101400,7 @@ script 240 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Para analisá-lo, você
+	para analisá-los, você
 	precisa do subchip:
 	"
 	"""
@@ -101428,8 +101427,8 @@ script 0 mmbn2 {
 	clearMsg
 	"""
 	Você precisa se curar
-	ou durante a batalha, ou
-	depois, com um subchip.
+	ou durante a batalha ou
+	depois com um subchip.
 	"""
 	keyWait
 	clearMsg
@@ -102614,8 +102613,7 @@ script 0 mmbn2 {
 	msgOpen
 	"""
 	Redes estrangeiras
-	são cheias de
-	perigos.
+	são cheias de perigos.
 	"""
 	keyWait
 	clearMsg
@@ -103575,7 +103573,7 @@ script 230 mmbn2 {
 		item = 97
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -103751,7 +103749,7 @@ script 236 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Para analisá-lo, você
+	para analisá-los, você
 	precisa do subchip:
 	"
 	"""
@@ -103967,7 +103965,7 @@ script 6 mmbn2 {
 		buffer = 0
 		item = 1
 	"""
-	" and
+	" e
 	"
 	"""
 	printItem
@@ -104426,7 +104424,7 @@ script 194 mmbn2 {
 		item = 99
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -104954,8 +104952,8 @@ script 25 mmbn2 {
 		buffer = 0
 		item = 58
 	"""
-	, você rece-
-	berá informes de provas.
+	, você receberá
+	informes de provas.
 	"""
 	keyWait
 	clearMsg
@@ -105117,9 +105115,9 @@ script 31 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Escolha os chips do di-
-	retório que você deseja
-	com "SELECT".
+	Escolha os chips da pasta
+	que você deseja com
+	"SELECT".
 	"""
 	keyWait
 	clearMsg
@@ -105464,14 +105462,14 @@ script 57 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Ganhou a permissão de
+	Ganhou a permissão para
 	NetLutar para resolver
 	netcrimes,
 	"""
 	keyWait
 	clearMsg
 	"""
-	e também de começar
+	e também para começar
 	a aceitar pedidos dos
 	civis.
 	"""
@@ -105486,14 +105484,14 @@ script 57 mmbn2 {
 	clearMsg
 	"""
 	Uma LicençaB não lhe dá
-	maior acesso a àreas
-	da Rede.
+	maior acesso a áreas
+	da Rede, entretanto.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Mas a LicençaA lhe dá
-	a permissão de visitar
+	Só a LicençaA lhe dará
+	permissão para visitar
 	Redes estrangeiras.
 	"""
 	keyWait
@@ -107158,7 +107156,7 @@ script 0 mmbn2 {
 	"""
 	Cada um com sua própria
 	temática, e cada um
-	cheio de posts.
+	cheio de postagens.
 	"""
 	keyWait
 	clearMsg
@@ -108955,7 +108953,7 @@ script 242 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Para analisá-lo, você
+	para analisá-los, você
 	precisa do subchip:
 	"
 	"""
@@ -110914,7 +110912,7 @@ script 230 mmbn2 {
 		item = 98
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -112268,7 +112266,7 @@ script 242 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Para analisá-lo, você
+	para analisá-los, você
 	precisa do subchip:
 	"
 	"""
@@ -113192,7 +113190,7 @@ script 238 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Para analisá-lo, você
+	para analisá-los, você
 	precisa do subchip:
 	"
 	"""
@@ -115336,7 +115334,7 @@ script 230 mmbn2 {
 		item = 96
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -115737,7 +115735,7 @@ script 242 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Para analisá-lo, você
+	para analisá-los, você
 	precisa do subchip:
 	"
 	"""
@@ -117403,8 +117401,8 @@ script 190 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Por favor, volte a falar
-	comigo mais tarde...!
+	Por favor, fale comigo
+	de novo mais tarde...!
 	"""
 	keyWait
 	end
@@ -117880,7 +117878,7 @@ script 231 mmbn2 {
 		item = 99
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -118409,7 +118407,7 @@ script 230 mmbn2 {
 		item = 96
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -119517,7 +119515,7 @@ script 241 mmbn2 {
 		item = 101
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -119549,7 +119547,7 @@ script 242 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Para analisá-lo, você
+	para analisá-los, você
 	precisa do subchip:
 	"
 	"""
@@ -120466,7 +120464,7 @@ script 234 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Para analisá-lo, você
+	para analisá-los, você
 	precisa do subchip:
 	"
 	"""
@@ -121241,7 +121239,7 @@ script 231 mmbn2 {
 		item = 99
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -122305,7 +122303,7 @@ script 244 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Para analisá-lo, você
+	para analisá-los, você
 	precisa do subchip:
 	"
 	"""
@@ -123498,7 +123496,7 @@ script 243 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Para analisá-lo, você
+	para analisá-los, você
 	precisa do subchip:
 	"
 	"""
@@ -123750,7 +123748,7 @@ script 232 mmbn2 {
 		item = 101
 		amount = 1
 	"""
-	Mega Man recebeu
+	MegaMan recebeu
 	um PowerUp:
 	"
 	"""
@@ -124371,7 +124369,7 @@ script 250 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Para analisá-lo, você
+	para analisá-los, você
 	precisa do subchip:
 	"
 	"""
@@ -126324,7 +126322,7 @@ script 5 mmbn2 {
 	waitSkip
 		frames = 30
 	"""
-	 M-Mas
+	 M-mas
 	que história é essa?!
 	
 	"""
@@ -126805,7 +126803,7 @@ script 2 mmbn2 {
 	"""
 	Ache e traga os dois
 	para mim e ganhará
-	sua  
+	sua 
 	"""
 	printItem
 		buffer = 0
@@ -127807,7 +127805,7 @@ script 1 mmbn2 {
 	soundPlay
 		track = 167
 	soundDisableTextSFX
-	" Vrooooooommm!"
+	" Vruuuuuuummm!"
 	soundEnableTextSFX
 	keyWait
 	end
@@ -128173,7 +128171,7 @@ script 3 mmbn2 {
 		frames = 30
 	"""
 	 Será que não era
-	aquele?
+	este?
 	"""
 	keyWait
 	clearMsg
@@ -128289,7 +128287,7 @@ script 10 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Você sabe o quê! Um leque!"
+	"Você sabe o quê! Leques!"
 	keyWait
 	clearMsg
 	jump
@@ -128590,7 +128588,7 @@ script 0 mmbn2 {
 	msgOpen
 	"""
 	Esse gás todo é obra
-	sua, não é!? Pare ele,
+	sua, não é?! Pare ele,
 	agora!
 	"""
 	keyWait
@@ -129640,8 +129638,8 @@ script 9 mmbn2 {
 	clearMsg
 	"""
 	Não perca essa chance!
-	Venha ao Centro, perto
-	do Porto das Águas!
+	É só vir ao Centro,
+	em Porto das Águas!
 	"""
 	keyWait
 	clearMsg
@@ -130189,7 +130187,7 @@ script 5 mmbn2 {
 	"\nA corda? "
 	waitSkip
 		frames = 30
-	"\nPra um acampamento."
+	"\nCorda de acampar."
 	waitSkip
 		frames = 30
 	"."
@@ -130627,8 +130625,8 @@ script 5 mmbn2 {
 	msgOpen
 	"""
 	Não sei, não... o galho
-	vai é acabar pegando
-	fogo só com isso...
+	vai é acabar só pegando
+	fogo com isso...
 	"""
 	keyWait
 	clearMsg
@@ -131142,7 +131140,7 @@ script 0 mmbn2 {
 	"""
 	Tá bom então, Mayl.
 	Você faz alguma ideia
-	de onde ele teja?
+	de onde ele esteja?
 	"""
 	keyWait
 	clearMsg
@@ -131296,7 +131294,7 @@ script 5 mmbn2 {
 	"Se a represa quebrar..."
 	waitSkip
 		frames = 30
-	"\nA água vai descer\npra cá!"
+	"\nA água vai descer pra\ncá!"
 	keyWait
 	clearMsg
 	flagClear
@@ -131432,7 +131430,7 @@ script 3 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud! Tá aí dentro!?
+	Chaud! Tá aí dentro?!
 	O que é que você foi
 	fazer justo agora?!
 	"""
@@ -131749,7 +131747,8 @@ script 0 mmbn2 {
 		frames = 20
 	"""
 	 Vocês não
-	deviam comemorar!
+	deviam comemorar
+	ainda...!
 	"""
 	keyWait
 	clearMsg
@@ -131963,8 +131962,8 @@ script 12 mmbn2 {
 	clearMsg
 	"""
 	"Dave Relâmpago". Você
-	é suspeito de
-	atentado terrorista.
+	é suspeito de atentado
+	terrorista.
 	"""
 	keyWait
 	clearMsg
@@ -132401,7 +132400,7 @@ script 3 mmbn2 {
 		down = 1
 	space
 		count = 2
-	"Outra hora"
+	"Depois"
 	select
 		default = 0
 		disableB = false
@@ -132524,13 +132523,13 @@ script 7 mmbn2 {
 	"""
 	Você ainda não terminou
 	o teste. Ainda não tem
-	a prova...
+	a prova disso...
 	"""
 	keyWait
 	clearMsg
 	"""
 	Ou será que quer que
-	eu repita o teste?
+	eu repita a explicação?
 	
 	"""
 	option
@@ -132589,7 +132588,7 @@ script 8 mmbn2 {
 	"""
 	waitSkip
 		frames = 15
-	"\nMeu parabéns! Fez\num ótimo trabalho!"
+	"\nMeus parabéns! Fez\num ótimo trabalho!"
 	keyWait
 	clearMsg
 	jump
@@ -132627,8 +132626,8 @@ script 10 mmbn2 {
 	clearMsg
 	"""
 	Não é permitido
-	recuperar PV durante
-	elas, então tome cuidado!
+	recuperar PV entre as
+	lutas, então, cuidado!
 	"""
 	keyWait
 	clearMsg
@@ -132687,8 +132686,9 @@ script 11 mmbn2 {
 			jump = continue
 		]
 	"""
-	Bom saber. Então,
-	volte a falar comigo.
+	Bom saber. Então, fale
+	comigo quando estiver
+	pronto.
 	"""
 	keyWait
 	end
@@ -132702,7 +132702,7 @@ script 12 mmbn2 {
 		frames = 30
 	"""
 	 Vai querer
-	tentar de novo??
+	tentar de novo?
 	
 	"""
 	option
@@ -132720,7 +132720,7 @@ script 12 mmbn2 {
 		down = 1
 	space
 		count = 2
-	"Outra hora"
+	"Depois"
 	select
 		default = 0
 		disableB = false
@@ -132932,8 +132932,8 @@ script 0 mmbn2 {
 	clearMsg
 	"""
 	Logo o mundo conhecerá
-	o verdadeiro poder
-	da Gospel!
+	o verdadeiro poder da
+	Gospel!
 	"""
 	keyWait
 	clearMsg
@@ -133097,7 +133097,7 @@ script 6 mmbn2 {
 	flagSet
 		flag = 514
 	"""
-	MegaMan, consegue
+	MegaMan, consegue abrir
 	abrir pra mim?
 	"""
 	keyWait
@@ -133182,8 +133182,8 @@ script 9 mmbn2 {
 		animation = 1
 	"""
 	Tradução concluída!
-	Hmm... parece ser
-	um tipo de carta.
+	Hmm... parece ser um
+	tipo de carta.
 	"""
 	keyWait
 	clearMsg
@@ -133231,8 +133231,7 @@ script 11 mmbn2 {
 	msgOpen
 	"""
 	Pelo formato, eu acho
-	que veio...
-	de Saborya!
+	que veio... de Saborya!
 	"""
 	keyWait
 	clearMsg
@@ -134678,7 +134677,7 @@ script 3 mmbn2 {
 	mugshotShow
 		mugshot = NormalNavi
 	msgOpen
-	"&*%★♪!?"
+	"&*%★♪?!"
 	keyWait
 	clearMsg
 	jump
@@ -137992,7 +137991,7 @@ script 17 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	E-Eu... Não, eu não
+	E-eu... Não, eu não
 	posso atirar!
 	"""
 	keyWait
@@ -138452,7 +138451,7 @@ script 18 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	É! N-Não que eu precise
+	É! N-não que eu precise
 	de companhia pra
 	tomar sorvete...
 	"""
@@ -139020,7 +139019,8 @@ script 12 mmbn2 {
 		]
 	"""
 	Tudo bem. Por favor,
-	volte a falar comigo.
+	fale comigo quando
+	estiver pronto.
 	"""
 	keyWait
 	end
@@ -139208,7 +139208,7 @@ script 3 mmbn2 {
 		palette = 1
 	msgOpen
 	"""
-	P-Perdão, mestre! Nós
+	P-perdão, mestre! Nós
 	monitoramos Eugene
 	Chaud e Lan Hikari,
 	"""
@@ -139251,7 +139251,7 @@ script 5 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	E-E eu sei disso,
+	E-e eu sei disso,
 	Grande Administrador!
 	Mas...
 	"""
@@ -139990,7 +139990,7 @@ script 15 mmbn2 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"E-Espera aí! Não!"
+	"E-espera aí! Não!"
 	waitSkip
 		frames = 30
 	"\n"
@@ -140536,7 +140536,7 @@ script 3 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O-Obrigado, moço!
+	O-obrigado, moço!
 	Tchau!
 	"""
 	keyWait
@@ -144519,7 +144519,7 @@ script 8 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	A-Ah, foi mal...
+	A-ah, foi mal...
 	Quanto ao ProtoMan,
 	eu...
 	"""
@@ -144947,7 +144947,7 @@ script 10 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	P-Peraí! Você tá muito
+	P-peraí! Você tá muito
 	perto! O Dex e a Yai
 	tão vendo! Mayl!
 	"""
@@ -145089,7 +145089,7 @@ script 18 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A-Aí! Eu não falei nada,
+	A-aí! Eu não falei nada,
 	ouviu?! Se eu te pegar
 	falando isso pra...
 	"""
@@ -145878,7 +145878,7 @@ script 1 mmbn2 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	U-Uma... aranha... ela
+	U-uma... aranha... ela
 	me picou... aaagh!
 	"""
 	keyWait
@@ -145891,8 +145891,8 @@ script 2 mmbn2 {
 		mugshot = FlightAttendant
 	msgOpen
 	"""
-	A-Ai, meu Deus!
-	O-O que faremos agora?
+	A-ai, meu Deus!
+	O-o que faremos agora?
 	"""
 	keyWait
 	clearMsg
@@ -146294,7 +146294,7 @@ script 10 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	T-Tá bom, já entendi!
+	T-tá bom, já entendi!
 	Enfim...
 	"""
 	keyWait
@@ -147917,7 +147917,7 @@ script 5 mmbn2 {
 		mugshot = GaussMagnus
 	msgOpen
 	"""
-	P-Pare já com isso!
+	P-pare já com isso!
 	Por acaso não sabe
 	quem eu sou?
 	"""
@@ -150055,7 +150055,7 @@ script 4 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A-Ah, é que eu... nós...
+	A-ah, é que eu... nós...
 	Desculpa por te deixar
 	preocupada, mamãe.
 	"""
@@ -150088,7 +150088,7 @@ script 6 mmbn2 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"S-Sim?!"
+	"S-sim?!"
 	keyWait
 	clearMsg
 	jump
@@ -150098,7 +150098,7 @@ script 7 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"S-Sim?!"
+	"S-sim?!"
 	keyWait
 	clearMsg
 	jump
@@ -150367,8 +150367,9 @@ script 3 mmbn2 {
 			jump = continue
 		]
 	"""
-	Tudo bem. Volte a falar
-	comigo, então.
+	Tudo bem. Fale
+	comigo quando estiver
+	pronto.
 	"""
 	keyWait
 	end
@@ -153576,7 +153577,7 @@ script 3 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roll? P-Pessoal?"
+	"Roll? P-pessoal?"
 	keyWait
 	end
 }
@@ -153933,7 +153934,7 @@ script 25 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"A-Ah, er..."
+	"A-ah, er..."
 	waitSkip
 		frames = 30
 	"\nDesculpa."
@@ -154906,7 +154907,7 @@ script 12 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	E-Ei! Já chega! Você tem
+	E-ei! Já chega! Você tem
 	que parar de aumentar
 	a energia do servidor!
 	"""
@@ -157003,7 +157004,7 @@ script 6 mmbn2 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"E-Ei, pra que isso...?\n"
+	"E-ei, pra que isso...?\n"
 	waitSkip
 		frames = 30
 	"""
@@ -169596,7 +169597,7 @@ script 3 mmbn2 {
 	msgOpen
 	textSpeed
 		delay = 1
-	"Q-Quem tá aí?"
+	"Q-quem tá aí?"
 	keyWait
 	end
 }
@@ -169741,7 +169742,7 @@ script 3 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Q-Quem é você?!"
+	"Q-quem é você?!"
 	keyWait
 	end
 }
@@ -170415,7 +170416,7 @@ script 6 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A-A gente não destruiu
+	A-a gente não destruiu
 	esse Navi lá em
 	Kotobuki?!
 	"""
@@ -171604,7 +171605,7 @@ script 19 mmbn2 {
 	clearMsg
 	"""
 	Com isso, você roubará
-	a linha esquerda do
+	a coluna esquerda do
 	lado dos vírus
 	"""
 	keyWait
@@ -171720,7 +171721,7 @@ script 0 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Vê o botão "ADD" no
+	Vê o botão "Adic." no
 	canto inferior-direito da
 	Janela de Customização?
 	"""
@@ -171739,7 +171740,7 @@ script 1 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	e aperte o botão "ADD".
+	e aperte A em "Adic".
 	Os chips selecionados
 	serão removidos
 	"""
@@ -171816,7 +171817,7 @@ script 4 mmbn2 {
 	"""
 	Após selecionar os três
 	Recov10s, aperte o
-	botão ADD.
+	botão Adic.
 	"""
 	keyWait
 	end
@@ -171828,7 +171829,7 @@ script 5 mmbn2 {
 	"""
 	Selecione os três
 	Recov10s antes de
-	apertar o botão ADD.
+	usar o botão Adic.
 	"""
 	keyWait
 	end
@@ -171884,7 +171885,7 @@ script 9 mmbn2 {
 	"""
 	Selecione três Recov10s
 	antes de apertar o botão
-	ADD.
+	Adic.
 	"""
 	keyWait
 	end
@@ -171895,7 +171896,7 @@ script 10 mmbn2 {
 	msgOpen
 	"""
 	É só um treino, então
-	aperte o botão ADD.
+	aperte o botão Adic.
 	"""
 	keyWait
 	end
@@ -175616,7 +175617,7 @@ script 24 mmbn2s {
 	end
 }
 script 25 mmbn2s {
-	"MailNotc  Bomba na estação?"
+	"MailNotc  Bomba estaç.?"
 	end
 }
 script 26 mmbn2s {
@@ -175677,7 +175678,7 @@ script 0 mmbn2 {
 	"""
 	Aparelhos infectados
 	por vírus podem causar
-	danos.
+	estragos. Cuidado!
 	"""
 	keyWait
 	waitHold
@@ -175965,7 +175966,7 @@ script 10 mmbn2 {
 	clearMsg
 	"""
 	... Dito isso, é bom
-	se misturar com os
+	interagir com os
 	camponeses também...
 	"""
 	keyWait
@@ -176612,15 +176613,15 @@ script 25 mmbn2 {
 	clearMsg
 	"""
 	de Porto das Águas
-	foi feita por uma
-	pequena bomba,
+	foi provocada por
+	uma pequena bomba,
 	"""
 	keyWait
 	clearMsg
 	"""
 	causando só pequenos
 	danos. Nenhum ferido
-	listado até agora.
+	registrado até agora.
 	"""
 	keyWait
 	waitHold
@@ -176857,7 +176858,7 @@ script 32 mmbn2 {
 	"""
 	Assim pode pular a
 	função Abrir Pasta
-	via ADD.
+	via Adic.
 	"""
 	keyWait
 	clearMsg
@@ -180502,7 +180503,7 @@ script 0 mmbn2 {
 		delay = 0
 	"""
 	Parece que há uma nova
-	mensagem aqui.
+	postagem aqui.
 	"""
 	waitHold
 }
@@ -180523,7 +180524,7 @@ script 2 mmbn2 {
 		delay = 0
 	"""
 	Parece que não há
-	novas mensagens.
+	novas postagens.
 	"""
 	waitHold
 }
@@ -180609,7 +180610,7 @@ script 63 mmbn2s {
 @size 64
 
 script 0 mmbn2s {
-	"Cuco    Troca de inf.!"
+	"Cuco      Troca de inf.!"
 	end
 }
 script 1 mmbn2s {
@@ -180637,7 +180638,7 @@ script 6 mmbn2s {
 	end
 }
 script 7 mmbn2s {
-	"Cuco    Técnicas"
+	"Cuco      Técnicas"
 	end
 }
 script 8 mmbn2s {
@@ -180653,11 +180654,11 @@ script 10 mmbn2s {
 	end
 }
 script 11 mmbn2s {
-	"Balero   É verdade?"
+	"Balero    É verdade?"
 	end
 }
 script 12 mmbn2s {
-	"Noel     Inserir o quê?"
+	"Noel      Inserir o quê?"
 	end
 }
 script 13 mmbn2s {
@@ -180709,7 +180710,7 @@ script 24 mmbn2s {
 	end
 }
 script 25 mmbn2s {
-	"Balero   Re:Sr. Famo"
+	"Balero    Re:Sr. Famo"
 	end
 }
 script 26 mmbn2s {
@@ -180761,7 +180762,7 @@ script 37 mmbn2s {
 	end
 }
 script 38 mmbn2s {
-	"Cuco    Re:Tente isso"
+	"Cuco      Re:Tente isso"
 	end
 }
 script 39 mmbn2s {
@@ -180785,7 +180786,7 @@ script 43 mmbn2s {
 	end
 }
 script 44 mmbn2s {
-	"Balero   Paineis grama"
+	"Balero    Paineis grama"
 	end
 }
 script 45 mmbn2s {
@@ -180813,7 +180814,7 @@ script 50 mmbn2s {
 	end
 }
 script 51 mmbn2s {
-	"Gude    Gelo doido"
+	"Gude      Gelo doido"
 	end
 }
 script 52 mmbn2s {
@@ -180821,7 +180822,7 @@ script 52 mmbn2s {
 	end
 }
 script 53 mmbn2s {
-	"Gude    No gelo"
+	"Gude      No gelo"
 	end
 }
 script 54 mmbn2s {
@@ -180849,7 +180850,7 @@ script 59 mmbn2s {
 	end
 }
 script 60 mmbn2s {
-	"SeuSiNu  Re:Inf.P.A.2"
+	"SeuSiNu   Re:Inf.P.A.2"
 	end
 }
 script 61 mmbn2s {
@@ -180919,7 +180920,7 @@ script 12 mmbn2s {
 	end
 }
 script 13 mmbn2s {
-	"Gude    Bairro ACDC!"
+	"Gude      Bairro ACDC!"
 	end
 }
 script 14 mmbn2s {
@@ -180935,7 +180936,7 @@ script 16 mmbn2s {
 	end
 }
 script 17 mmbn2s {
-	"Gosmo      Re:Troca-chips"
+	"Gosmo     Re:Troca-chip"
 	end
 }
 script 18 mmbn2s {
@@ -180963,7 +180964,7 @@ script 23 mmbn2s {
 	end
 }
 script 24 mmbn2s {
-	"SeuSiNu  Dados misteriosos"
+	"SeuSiNu   Dados misteriosos"
 	end
 }
 script 25 mmbn2s {
@@ -180971,7 +180972,7 @@ script 25 mmbn2s {
 	end
 }
 script 26 mmbn2s {
-	"SeuSiNu  Re:Dados mist"
+	"SeuSiNu   Re:Dados mist"
 	end
 }
 script 27 mmbn2s {
@@ -180991,7 +180992,7 @@ script 30 mmbn2s {
 	end
 }
 script 31 mmbn2s {
-	"Seu Ted    Ameropa"
+	"Seu Ted   Ameropa"
 	end
 }
 script 32 mmbn2s {
@@ -181007,15 +181008,15 @@ script 34 mmbn2s {
 	end
 }
 script 35 mmbn2s {
-	"Seu Ted    Bom, voltei"
+	"Seu Ted   Bom, voltei"
 	end
 }
 script 36 mmbn2s {
-	"Seu Ted    Voltei, sim"
+	"Seu Ted   Voltei, sim"
 	end
 }
 script 37 mmbn2s {
-	"Gude    Tipo..."
+	"Gude      Tipo..."
 	end
 }
 script 38 mmbn2s {
@@ -181039,7 +181040,7 @@ script 42 mmbn2s {
 	end
 }
 script 43 mmbn2s {
-	"Yaz       Re:Os troca-ch"
+	"Yaz       Re:troca-chips"
 	end
 }
 script 44 mmbn2s {
@@ -181051,7 +181052,7 @@ script 45 mmbn2s {
 	end
 }
 script 46 mmbn2s {
-	"Gude    Mais Kotobuki"
+	"Gude      Mais Kotobuki"
 	end
 }
 script 63 mmbn2s {
@@ -181065,11 +181066,11 @@ script 0 mmbn2s {
 	end
 }
 script 1 mmbn2s {
-	"Gibizero  Bunnies"
+	"Gibizero  Bunnys"
 	end
 }
 script 2 mmbn2s {
-	"Gosmo      Re:Bunnies"
+	"Gosmo     Re:Bunnys"
 	end
 }
 script 3 mmbn2s {
@@ -181093,7 +181094,7 @@ script 7 mmbn2s {
 	end
 }
 script 8 mmbn2s {
-	"Gosmo      Re:HardHeads"
+	"Gosmo     Re:HardHeads"
 	end
 }
 script 9 mmbn2s {
@@ -181105,15 +181106,15 @@ script 10 mmbn2s {
 	end
 }
 script 11 mmbn2s {
-	"Balero   Re:Dominerds"
+	"Balero    Re:Dominerds"
 	end
 }
 script 12 mmbn2s {
-	"Careta   Vírus..."
+	"Careta    Vírus..."
 	end
 }
 script 13 mmbn2s {
-	"Guri     Estr. Domnrd"
+	"Guri      Estr. Domnrd"
 	end
 }
 script 14 mmbn2s {
@@ -181133,19 +181134,19 @@ script 17 mmbn2s {
 	end
 }
 script 18 mmbn2s {
-	"Guri     Re:Octons"
+	"Guri      Re:Octons"
 	end
 }
 script 19 mmbn2s {
-	"Cuco    Worms?"
+	"Cuco      Worms?"
 	end
 }
 script 20 mmbn2s {
-	"Noel     Re:Worms?"
+	"Noel      Re:Worms?"
 	end
 }
 script 21 mmbn2s {
-	"Cuco    Re:Worms?"
+	"Cuco      Re:Worms?"
 	end
 }
 script 22 mmbn2s {
@@ -181185,7 +181186,7 @@ script 30 mmbn2s {
 	end
 }
 script 31 mmbn2s {
-	"Careta   KillPlants"
+	"Careta    KillPlants"
 	end
 }
 script 32 mmbn2s {
@@ -181193,15 +181194,15 @@ script 32 mmbn2s {
 	end
 }
 script 33 mmbn2s {
-	"Guri     Estr. Combo1"
+	"Guri      Estr. Combo1"
 	end
 }
 script 34 mmbn2s {
-	"Guri     Estr. Combo2"
+	"Guri      Estr. Combo2"
 	end
 }
 script 35 mmbn2s {
-	"Cuco    O que faço..."
+	"Cuco      O que faço..."
 	end
 }
 script 36 mmbn2s {
@@ -181217,15 +181218,15 @@ script 38 mmbn2s {
 	end
 }
 script 39 mmbn2s {
-	"SeuSiNu  Re:CompMatriz"
+	"SeuSiNu   Re:CompMatriz"
 	end
 }
 script 40 mmbn2s {
-	"Maria      Re:CompMatriz"
+	"Maria     Re:CompMatriz"
 	end
 }
 script 41 mmbn2s {
-	"SeuSiNu  BancoDados"
+	"SeuSiNu   BancoDados"
 	end
 }
 script 42 mmbn2s {
@@ -181241,7 +181242,7 @@ script 44 mmbn2s {
 	end
 }
 script 45 mmbn2s {
-	"Manéla     Re:Gelo..."
+	"Manéla    Re:Gelo..."
 	end
 }
 script 46 mmbn2s {
@@ -181253,43 +181254,43 @@ script 47 mmbn2s {
 	end
 }
 script 48 mmbn2s {
-	"Noel     Mega virus!"
+	"Noel      Mega vírus!"
 	end
 }
 script 49 mmbn2s {
-	"Vishnu    Re:Mega virus"
+	"Vishnu    Re:Mega vírus"
 	end
 }
 script 50 mmbn2s {
-	"Cuco    Re:Mega virus"
+	"Cuco      Re:Mega vírus"
 	end
 }
 script 51 mmbn2s {
-	"Pri =P    Re:Mega virus"
+	"Pri =P    Re:Mega vírus"
 	end
 }
 script 52 mmbn2s {
-	"Guri     Re:Mega virus"
+	"Guri      Re:Mega vírus"
 	end
 }
 script 53 mmbn2s {
-	"Gibizero  Life viruses"
+	"Gibizero  Vírus-vida"
 	end
 }
 script 54 mmbn2s {
-	"Gosmo      Re:Life virus"
+	"Gosmo     Re:Vírus-vida"
 	end
 }
 script 55 mmbn2s {
-	"Candy     Re:Life virus"
+	"Candy     Re:Vírus-vida"
 	end
 }
 script 56 mmbn2s {
-	"NO NAME   Life viruses?"
+	"NO NAME   Vírus-vida?"
 	end
 }
 script 57 mmbn2s {
-	"Hoss      Mischief?"
+	"Hoss      Aprontam?"
 	end
 }
 script 58 mmbn2s {
@@ -181309,7 +181310,7 @@ script 61 mmbn2s {
 	end
 }
 script 62 mmbn2s {
-	"Guri     Caça-vírus"
+	"Guri      Caça-vírus"
 	end
 }
 script 63 mmbn2s {
@@ -181319,7 +181320,7 @@ script 63 mmbn2s {
 @size 64
 
 script 0 mmbn2s {
-	"Ovaldo   Em off!"
+	"Ovaldo    Em off!"
 	end
 }
 script 1 mmbn2s {
@@ -181335,19 +181336,19 @@ script 3 mmbn2s {
 	end
 }
 script 4 mmbn2s {
-	"Maria      Kotobuki tb"
+	"Maria     Kotobuki tb"
 	end
 }
 script 5 mmbn2s {
-	"Guri     Eu vou..."
+	"Guri      Eu vou..."
 	end
 }
 script 6 mmbn2s {
-	"Batatina  Melhor p/ encontro"
+	"Batatina  Melhor p/ enctr"
 	end
 }
 script 7 mmbn2s {
-	"Guri     Entendi!"
+	"Guri      Entendi!"
 	end
 }
 script 8 mmbn2s {
@@ -181355,11 +181356,11 @@ script 8 mmbn2s {
 	end
 }
 script 9 mmbn2s {
-	"Zack      Srta.Ribitta..."
+	"Zack      Srta.Ribitta"
 	end
 }
 script 10 mmbn2s {
-	"Ovaldo   Naquela van"
+	"Ovaldo    Naquela van"
 	end
 }
 script 11 mmbn2s {
@@ -181367,15 +181368,15 @@ script 11 mmbn2s {
 	end
 }
 script 12 mmbn2s {
-	"Gude    NetLutas..."
+	"Gude      NetLutas..."
 	end
 }
 script 13 mmbn2s {
-	"Crápla    Aquela pessoa?1"
+	"Crápla    Aquela pessoa?!"
 	end
 }
 script 14 mmbn2s {
-	"Gosmo      NetLuta, é?"
+	"Gosmo     NetLuta, é?"
 	end
 }
 script 15 mmbn2s {
@@ -181403,7 +181404,7 @@ script 20 mmbn2s {
 	end
 }
 script 21 mmbn2s {
-	"Gosmo      Saborya"
+	"Gosmo     Saborya"
 	end
 }
 script 22 mmbn2s {
@@ -181411,7 +181412,7 @@ script 22 mmbn2s {
 	end
 }
 script 23 mmbn2s {
-	"Careta   Troca-Chips"
+	"Careta    Troca-Chips"
 	end
 }
 script 24 mmbn2s {
@@ -181459,7 +181460,7 @@ script 34 mmbn2s {
 	end
 }
 script 35 mmbn2s {
-	"Guri     Re:Gauss preso"
+	"Guri      Re:Gauss preso"
 	end
 }
 script 36 mmbn2s {
@@ -181467,7 +181468,7 @@ script 36 mmbn2s {
 	end
 }
 script 37 mmbn2s {
-	"Ovaldo   Re:Gauss preso"
+	"Ovaldo    Re:Gauss preso"
 	end
 }
 script 38 mmbn2s {
@@ -181487,7 +181488,7 @@ script 41 mmbn2s {
 	end
 }
 script 42 mmbn2s {
-	"Gude    Re:De Kotobu"
+	"Gude      Re:De Kotobu"
 	end
 }
 script 43 mmbn2s {
@@ -181505,7 +181506,7 @@ script 0 mmbn2s {
 	end
 }
 script 1 mmbn2s {
-	"Jujuba     Navi de gelo?"
+	"Jujuba    Navi de gelo?"
 	end
 }
 script 2 mmbn2s {
@@ -181533,7 +181534,7 @@ script 7 mmbn2s {
 	end
 }
 script 8 mmbn2s {
-	"SEM NOME   Hehehe..."
+	"SEM NOME  Hehehe..."
 	end
 }
 script 9 mmbn2s {
@@ -181545,7 +181546,7 @@ script 10 mmbn2s {
 	end
 }
 script 11 mmbn2s {
-	"Jujuba     Re:Quero inf"
+	"Jujuba    Re:Quero inf"
 	end
 }
 script 12 mmbn2s {
@@ -181553,7 +181554,7 @@ script 12 mmbn2s {
 	end
 }
 script 13 mmbn2s {
-	"Justiço  NetLutadores"
+	"Justiço   NetLutadores"
 	end
 }
 script 14 mmbn2s {
@@ -181593,7 +181594,7 @@ script 22 mmbn2s {
 	end
 }
 script 23 mmbn2s {
-	"Miau     Re:ChipDeComa"
+	"Miau      Re:ChipDeComa"
 	end
 }
 script 24 mmbn2s {
@@ -181643,7 +181644,7 @@ script 1 mmbn2s {
 	end
 }
 script 2 mmbn2s {
-	"Assassn    Boato 1"
+	"Assassn   Boato 1"
 	end
 }
 script 3 mmbn2s {
@@ -181651,7 +181652,7 @@ script 3 mmbn2s {
 	end
 }
 script 4 mmbn2s {
-	"UrsoAço  Re:Boato 2"
+	"UrsoAço   Re:Boato 2"
 	end
 }
 script 5 mmbn2s {
@@ -181667,7 +181668,7 @@ script 7 mmbn2s {
 	end
 }
 script 8 mmbn2s {
-	"UrsoAço  Re:Boato 3"
+	"UrsoAço   Re:Boato 3"
 	end
 }
 script 9 mmbn2s {
@@ -181675,15 +181676,15 @@ script 9 mmbn2s {
 	end
 }
 script 10 mmbn2s {
-	"UrsoAço  Re:Boato 3"
+	"UrsoAço   Re:Boato 3"
 	end
 }
 script 11 mmbn2s {
-	"Assassn    Boato 4"
+	"Assassn   Boato 4"
 	end
 }
 script 12 mmbn2s {
-	"Bilhar   Um boato?"
+	"Bilhar    Um boato?"
 	end
 }
 script 13 mmbn2s {
@@ -181691,11 +181692,11 @@ script 13 mmbn2s {
 	end
 }
 script 14 mmbn2s {
-	"UrsoAço  Re:O Doc"
+	"UrsoAço   Re:O Doc"
 	end
 }
 script 15 mmbn2s {
-	"Bilhar   O Navi azul"
+	"Bilhar    O Navi azul"
 	end
 }
 script 16 mmbn2s {
@@ -181703,7 +181704,7 @@ script 16 mmbn2s {
 	end
 }
 script 17 mmbn2s {
-	"UrsoAço  Re:Boato 5"
+	"UrsoAço   Re:Boato 5"
 	end
 }
 script 18 mmbn2s {
@@ -181723,7 +181724,7 @@ script 21 mmbn2s {
 	end
 }
 script 22 mmbn2s {
-	"Demônio     Boato 6"
+	"Demônio   Boato 6"
 	end
 }
 script 23 mmbn2s {
@@ -181731,7 +181732,7 @@ script 23 mmbn2s {
 	end
 }
 script 24 mmbn2s {
-	"Assassn    Boato 7"
+	"Assassn   Boato 7"
 	end
 }
 script 25 mmbn2s {
@@ -181739,7 +181740,7 @@ script 25 mmbn2s {
 	end
 }
 script 26 mmbn2s {
-	"Surdina  Boato 9"
+	"Surdina   Boato 9"
 	end
 }
 script 27 mmbn2s {
@@ -183937,9 +183938,9 @@ script 0 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Se você aprimorar o
-	seu Carregamento com
-	um PowerUP, poderá
+	Se você aprimorar a
+	sua Carga com um
+	PowerUP, poderá
 	"""
 	keyWait
 	clearMsg
@@ -184240,7 +184241,7 @@ script 13 mmbn2 {
 	"""
 	Qual é o macete?
 	Um chip padrão e
-	apertar ADD?
+	apertar Adic.?
 	"""
 	keyWait
 	waitHold
@@ -185775,8 +185776,8 @@ script 10 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	E aí, eu caprichei,
-	Dex?!
+	Ei, eu fiz bonito,
+	não fiz, Dex?!
 	"""
 	keyWait
 	waitHold
@@ -185862,8 +185863,8 @@ script 12 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Os vírus de outros pa-
-	íses costumam ser mais
+	Os vírus de outros paí-
+	ses costumam ser mais
 	fortes que os domésticos,
 	"""
 	keyWait
@@ -185880,7 +185881,7 @@ script 12 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Claro que vocês,
+	E claro que vocês,
 	jovens, não estão
 	prontos pra isso!
 	"""
@@ -186772,7 +186773,7 @@ script 0 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Poste informações
+	Postem informações
 	sobre surtos de vírus
 	e técnicas de deleção!
 	"""
@@ -187996,8 +187997,9 @@ script 56 mmbn2 {
 script 57 mmbn2 {
 	msgOpenQuick
 	"""
-	Ei... Esse post embaixo
-	do meu, é trollagem...?
+	Ei... Essa postagem
+	embaixo da minha, é
+	trollagem...?
 	"""
 	keyWait
 	clearMsg
@@ -188061,7 +188063,7 @@ script 60 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Quanto ao post que
+	Quanto à postagem que
 	vocês me pediram
 	para deletar...
 	"""
@@ -188169,7 +188171,7 @@ script 0 mmbn2 {
 	clearMsg
 	"""
 	Podem compartilhar
-	as informaçõs que
+	as informações que
 	quiserem aqui.
 	"""
 	keyWait
@@ -188306,7 +188308,7 @@ script 6 mmbn2 {
 	msgOpenQuick
 	"""
 	Porto das Águas!
-	Tem um café lá
+	Tem uma cafeteria
 	perto da estação.
 	"""
 	keyWait
