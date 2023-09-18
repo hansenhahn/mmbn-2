@@ -32,10 +32,12 @@ L_LINE			equ		[r5, 19]
 		mov		r1, #0xff
 		and		r0, r1
 		pop		r1
-		cmp		r0, #0x57
-		bne		@@normal
+		cmp     r0, #0x57
+		beq     @@vwf
+		cmp     r0, #0x5c
+		bne     @@normal
 	@@vwf:
-		pop		r0
+		pop     r0
 		
 		;r0 	base
 		;r1		id do item
@@ -191,8 +193,8 @@ L_LINE			equ		[r5, 19]
 		mov		r1, r3
 		
 		;60 tiles
-		mov		r2, 0x78
-		lsl		r2, 3
+        mov     r2, 0x78
+        lsl     r2, 2
 		
 		ldr 	r3, =0x08000a28 + 1
 		mov		r14, r15
@@ -260,10 +262,5 @@ L_LINE			equ		[r5, 19]
 	.align 0x10
 	font:
 		.incbin "Graficos/vwf_font_descricoes.gba"
-
-	;desabilita descrição na máquina de trocas
-    .org 0x08026C42
-        nop
-        nop
 		
 .close
