@@ -106,9 +106,17 @@ StartBattleXOams:
 .org 0x0800DF6B ;; Start Battle X, aumentar 3 OAMs (de 0x12 pra 0x15)
 .stringn 0x15
 
-;; Ajustando posição de números dinâmicos, em frases como "Start Turn X"
+;; Ajustando posição de números dinâmicos, em frases como "Start Battle X" e "Start Turn X"
+.org 0x0800D242 ;; Start Battle X, afastar número uns 2 espaços à frente (de 0x74 pra 0x8C)
+.stringn 0x8C
 .org 0x0800D23E ;; Start Turn X, afastar número uns 2 espaços à frente (de 0x68 pra 0x80)
 .stringn 0x80
+
+;; Reposiona tile na vram, para evitar que o número apareça duas vezes em "Start Battle X"
+.org 0x0800DF38
+.dw 0x06017d00
+.org 0x0800D29C
+.dw 0x0000C3E8
 
 .org 0x086C0968
 .incbin "Graficos/Editados/0x6C0968 - Busy.gba"

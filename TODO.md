@@ -1,9 +1,5 @@
-- Num ponto do jogo onde temos que lutar 5 batalhas seguidas, a mensagem "Iniciar Batalha X!" aparece com o número da batalha na posição errada.
 - Gráficos de backgrounds
   - "BOARD" e "REQUEST BOARD": Mudar para "FÓRUM" e "QUADRO DE PEDIDOS" respectivamente. Os tiles de ambas são compartilhadas
-- Gráficos de backgrounds (comprimidos)
-  - Coluna "Aeroporto" no metrô (bugs de números perto da catraca)
-  - Coluna "Porto" no metrô (bugs de números perto da catraca)
 - Menus do modo batalha em cabo link
   - "Dados Obtidos" buga a paleta após a animação de exibir o chip ganho/perdido.
 - Copyright tela título
