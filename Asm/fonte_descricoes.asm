@@ -26,16 +26,18 @@ L_LINE			equ		[r5, 19]
 		
 	.org 0x081e6db8
 	free1:
-		push	r1
-		mov		r0, r3
-		lsr		r0, 9
-		mov		r1, #0xff
-		and		r0, r1
-		pop		r1
-		cmp     r0, #0x57
-		beq     @@vwf
-		cmp     r0, #0x5c
-		bne     @@normal
+        push    r1
+        mov     r0, r3
+        lsr     r0, 9
+        mov     r1, #0xff
+        and     r0, r1
+        pop     r1
+        cmp     r0, #0x57
+        beq     @@vwf
+        cmp     r0, #0x48
+        beq     @@vwf
+        cmp     r0, #0x5c
+        bne     @@normal
 	@@vwf:
 		pop     r0
 		

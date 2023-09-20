@@ -520,8 +520,10 @@ StartBattleXOams:
 .org 0x087DD166
 .stringn "Mochila"
 
-; Corrigindo bug no tilemap do gráfico "Choosing", na tela de troca de estilos
+; Corrigindo bugs no tilemap do gráfico "Choosing", nas telas de troca de chips e estilos
 .org 0x087D68D0
+.stringn 0xAD,0x40
+.org 0x087D5C70
 .stringn 0xAD,0x40
 
 ; Inserindo gráfico da fonte dos números, nos menus
