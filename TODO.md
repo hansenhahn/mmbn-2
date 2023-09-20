@@ -1,6 +1,4 @@
-- Gráficos de backgrounds
-  - "BOARD" e "REQUEST BOARD": Mudar para "FÓRUM" e "QUADRO DE PEDIDOS" respectivamente. Os tiles de ambas são compartilhadas
+- Menus da tela de Trocar Chips
+  - Os tilemaps dos gráficos "Escolhendo" e "Sem Chip" estão bugando às vezes
 - Menus do modo batalha em cabo link
   - "Dados Obtidos" buga a paleta após a animação de exibir o chip ganho/perdido.
-- Copyright tela título
-  - Mudar ano de 2022 pra 2023/2024

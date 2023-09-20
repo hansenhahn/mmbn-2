@@ -264,7 +264,8 @@ StartBattleXOams:
 .org 0x087CF43A
 .stringn "Sair     "
 
-; Editando tilemap dos menus, na parte de cima das letras (Hard, sem o "Rede" e o "Salvar")
+; Editando tilemap dos menus, na parte de cima das letras
+; (Hard, com o "Rede" e o "Salvar" desativados)
 .loadtable "Tabelas/Menu Esquerdo - Nomes Parte Cima.tbl"
 .org 0x087CF488
 .stringn "Pasta    "
@@ -278,14 +279,17 @@ StartBattleXOams:
 .stringn "Email    "
 .org 0x087CF58C
 .stringn "Itens    "
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Cima (Cinza).tbl"
 .org 0x087CF5C0
-.stringn "Rede     "
+.stringn "Rede     " ; Desativado
 .org 0x087CF5F4
-.stringn "Salvar   "
+.stringn "Salvar   " ; Desativado
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Cima.tbl"
 .org 0x087CF628
 .stringn "Sair     "
 
-; Editando tilemap dos menus, na parte de baixo das letras (Hard, sem o "Rede" e o "Salvar")
+; Editando tilemap dos menus, na parte de baixo das letras
+; (Hard, com o "Rede" e o "Salvar" desativados)
 .loadtable "Tabelas/Menu Esquerdo - Nomes Parte Baixo.tbl"
 .org 0x087CF4A2
 .stringn "Pasta    "
@@ -299,74 +303,17 @@ StartBattleXOams:
 .stringn "Email    "
 .org 0x087CF5A6
 .stringn "Itens    "
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Baixo (Cinza).tbl"
 .org 0x087CF5DA
-.stringn "Rede     "
+.stringn "Rede     " ; Desativado
 .org 0x087CF60E
-.stringn "Salvar   "
+.stringn "Salvar   " ; Desativado
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Baixo.tbl"
 .org 0x087CF642
 .stringn "Sair     "
 
-; Corrigindo paleta do nome "Rede" desativado, na parte de cima das letras (Hard, sem o "Rede" e o "Salvar")
-.org 0x087CF5C1
-.stringn 0xE2
-.org 0x087CF5C3
-.stringn 0xE2
-.org 0x087CF5C5
-.stringn 0xE6
-.org 0x087CF5C7
-.stringn 0xE2
-.org 0x087CF5C9
-.stringn 0xE2
-.org 0x087CF5CB
-.stringn 0xE2
-.org 0x087CF5CD
-.stringn 0xE2
-
-; Corrigindo paleta do nome "Rede" desativado, na parte de baixo das letras (Hard, sem o "Rede" e o "Salvar")
-.org 0x087CF5DB
-.stringn 0xE2
-.org 0x087CF5DD
-.stringn 0xE2
-.org 0x087CF5DF
-.stringn 0xE6
-.org 0x087CF5E1
-.stringn 0xE2
-.org 0x087CF5E3
-.stringn 0xE2
-.org 0x087CF5E5
-.stringn 0xE2
-.org 0x087CF5E7
-.stringn 0xE2
-
-; Corrigindo paleta do nome "Salvar" desativado, na parte de cima das letras (Hard, sem o "Rede" e o "Salvar")
-.org 0x087CF5F5
-.stringn 0xE2
-.org 0x087CF5F7
-.stringn 0xE2
-.org 0x087CF5F9
-.stringn 0xE2
-.org 0x087CF5FB
-.stringn 0xE2
-.org 0x087CF5FD
-.stringn 0xE2
-.org 0x087CF5FF
-.stringn 0xE2
-
-; Corrigindo paleta do nome "Salvar" desativado, na parte de baixo das letras (Hard, sem o "Rede" e o "Salvar")
-.org 0x087CF60F
-.stringn 0xE2
-.org 0x087CF611
-.stringn 0xE2
-.org 0x087CF613
-.stringn 0xE2
-.org 0x087CF615
-.stringn 0xE2
-.org 0x087CF617
-.stringn 0xE2
-.org 0x087CF619
-.stringn 0xE2
-
-; Editando tilemap dos menus, na parte de cima das letras (Hard, sem o "Rede")
+; Editando tilemap dos menus, na parte de cima das letras
+; (Hard, com o "Rede" desativado)
 .loadtable "Tabelas/Menu Esquerdo - Nomes Parte Cima.tbl"
 .org 0x087CF896
 .stringn "Pasta    "
@@ -380,14 +327,17 @@ StartBattleXOams:
 .stringn "Email    "
 .org 0x087CF99A
 .stringn "Itens    "
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Cima (Cinza).tbl"
 .org 0x087CF9CE
-.stringn "Rede     "
+.stringn "Rede     " ; Desativado
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Cima.tbl"
 .org 0x087CFA02
 .stringn "Salvar   "
 .org 0x087CFA36
 .stringn "Sair     "
 
-; Editando tilemap dos menus, na parte de baixo das letras (Hard, sem o "Rede")
+; Editando tilemap dos menus, na parte de baixo das letras
+; (Hard, com o "Rede" desativado)
 .loadtable "Tabelas/Menu Esquerdo - Nomes Parte Baixo.tbl"
 .org 0x087CF8B0
 .stringn "Pasta    "
@@ -401,44 +351,64 @@ StartBattleXOams:
 .stringn "Email    "
 .org 0x087CF9B4
 .stringn "Itens    "
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Baixo (Cinza).tbl"
 .org 0x087CF9E8
-.stringn "Rede     "
+.stringn "Rede     " ; Desativado
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Baixo.tbl"
 .org 0x087CFA1C
 .stringn "Salvar   "
 .org 0x087CFA50
 .stringn "Sair     "
 
-; Corrigindo paleta do nome "Rede" desativado, na parte de cima das letras (Hard, sem o "Rede")
-.org 0x087CF9CF
-.stringn 0xE2
-.org 0x087CF9D1
-.stringn 0xE2
-.org 0x087CF9D3
-.stringn 0xE6
-.org 0x087CF9D5
-.stringn 0xE2
-.org 0x087CF9D7
-.stringn 0xE2
-.org 0x087CF9D9
-.stringn 0xE2
-.org 0x087CF9DB
-.stringn 0xE2
+; Editando tilemap dos menus, na parte de cima das letras
+; (Opções desabilitadas, devido a entregarmos o Pet pro cara do aeroporto)
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Cima (Cinza).tbl"
+.org 0x087CF68E
+.stringn "Pasta    " ; Desativado
+.org 0x087CF6C2
+.stringn "Subchips " ; Desativado
+.org 0x087CF6F6
+.stringn "Coleção  " ; Desativado
+.org 0x087CF72A
+.stringn "MegaMan  " ; Desativado
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Cima.tbl"
+.org 0x087CF75E
+.stringn "Email    "
+.org 0x087CF792
+.stringn "Itens    "
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Cima (Cinza).tbl"
+.org 0x087CF7C6
+.stringn "Rede     " ; Desativado
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Cima.tbl"
+.org 0x087CF7FA
+.stringn "Salvar   "
+.org 0x087CF82E
+.stringn "Sair     "
 
-; Corrigindo paleta do nome "Rede" desativado, na parte de baixo das letras (Hard, sem o "Rede")
-.org 0x087CF9E9
-.stringn 0xE2
-.org 0x087CF9EB
-.stringn 0xE2
-.org 0x087CF9ED
-.stringn 0xE6
-.org 0x087CF9EF
-.stringn 0xE2
-.org 0x087CF9F1
-.stringn 0xE2
-.org 0x087CF9F3
-.stringn 0xE2
-.org 0x087CF9F5
-.stringn 0xE2
+; Editando tilemap dos menus, na parte de baixo das letras
+; (Opções desabilitadas, devido a entregarmos o Pet pro cara do aeroporto)
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Baixo (Cinza).tbl"
+.org 0x087CF6A8
+.stringn "Pasta    " ; Desativado
+.org 0x087CF6DC
+.stringn "Subchips " ; Desativado
+.org 0x087CF710
+.stringn "Coleção  " ; Desativado
+.org 0x087CF744
+.stringn "MegaMan  " ; Desativado
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Baixo.tbl"
+.org 0x087CF778
+.stringn "Email    "
+.org 0x087CF7AC
+.stringn "Itens    "
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Baixo (Cinza).tbl"
+.org 0x087CF7E0
+.stringn "Rede     " ; Desativado
+.loadtable "Tabelas/Menu Esquerdo - Nomes Parte Baixo.tbl"
+.org 0x087CF814
+.stringn "Salvar   "
+.org 0x087CF848
+.stringn "Sair     "
 
 ; Inserindo gráfico dos nomes dos submenus
 .org 0x087D08DC

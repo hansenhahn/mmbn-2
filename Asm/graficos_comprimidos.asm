@@ -5,6 +5,17 @@
 
 .open "Mega Man Battle Network 2 (BR).gba", 0x08000000
 
+;; Inserindo mapas de tiles dos fóruns e do quadro de pedidos,
+;; bem como registrando seus respectivos ponteiros
+.org 0x08025FC4
+.dw imgboard
+.dw 0x06000020
+.dw (filesize("Graficos/Editados/imgboard.gba") - 0x20) >> 2
+.org 0x087DDDDC
+.incbin "Mapas de Tiles/tm-board1.bin"
+.incbin "Mapas de Tiles/tm-board2.bin"
+
+;; Registrando ponteiros de vários gráficos comprimidos
 .org 0x0801f3c0
 .dw	ptr1
 .org 0x0801f39c
@@ -304,6 +315,12 @@ ptrtm15:
 
 gfx_onair:
 .incbin "Graficos/Comprimidos/Recomprimidos/0x3dde2c - ON AIR.gba"
+.align
+
+; Inserindo gráficos dos fóruns e do quadro de pedidos.
+; Esse é inserido no final da rom, dado que precisou ser expandido.
+imgboard:
+.incbin "Graficos/Editados/imgboard.gba", 0x20
 .align
 			
 .close
