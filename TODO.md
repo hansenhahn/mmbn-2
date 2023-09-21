@@ -1,4 +1,2 @@
-- Menus da tela de Trocar Chips
-  - Os tilemaps dos gráficos "Escolhendo" e "Sem Chip" estão bugando às vezes
 - Menus do modo batalha em cabo link
   - "Dados Obtidos" buga a paleta após a animação de exibir o chip ganho/perdido.
