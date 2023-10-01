@@ -1,4 +1,5 @@
 @archive 728570
+@archive 728570
 @size 256
 
 script 0 mmbn2s {
@@ -14432,11 +14433,11 @@ script 33 mmbn2s {
 	end
 }
 script 34 mmbn2s {
-	"FragVml"
+	"FragVrml"
 	end
 }
 script 35 mmbn2s {
-	"CuraVml"
+	"CuraVrml"
 	end
 }
 script 36 mmbn2s {
@@ -14460,7 +14461,7 @@ script 40 mmbn2s {
 	end
 }
 script 41 mmbn2s {
-	"TcktKoto"
+	"TqtKoto"
 	end
 }
 script 42 mmbn2s {
@@ -14608,19 +14609,19 @@ script 87 mmbn2s {
 	end
 }
 script 88 mmbn2s {
-	"TcktACDC"
+	"TqtACDC"
 	end
 }
 script 89 mmbn2s {
-	"TcktPort"
+	"TqtPort"
 	end
 }
 script 90 mmbn2s {
-	"TcktOkud"
+	"TqtOkud"
 	end
 }
 script 91 mmbn2s {
-	"TcktAero"
+	"TqtAero"
 	end
 }
 script 96 mmbn2s {
@@ -14942,7 +14943,7 @@ script 17 mmbn2 {
 		delay = 0
 	"""
 	Dados contendo a
-	péssima atitude de
+	horrível atitude de
 	um bandido
 	"""
 	waitHold
@@ -14997,7 +14998,7 @@ script 22 mmbn2 {
 	"""
 	Classe econômica,
 	passagem de ida e
-	volta para Ameropa
+	volta para a Ameropa
 	"""
 	waitHold
 }
@@ -15072,8 +15073,7 @@ script 29 mmbn2 {
 		delay = 0
 	"""
 	Um anel de design
-	simples, porém
-	dinâmico
+	simples, porém dinâmico
 	"""
 	waitHold
 }
@@ -15126,7 +15126,7 @@ script 34 mmbn2 {
 		delay = 0
 	"""
 	Um estranho fragmento
-	que irradia
+	que irradia ondas
 	"""
 	waitHold
 }
@@ -15192,7 +15192,7 @@ script 41 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	Um ticket que lhe
+	Um tíquete que lhe
 	permite ir de Porto
 	das Águas para Kotobuki
 	"""
@@ -15492,9 +15492,8 @@ script 65 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	Chave para o portão
-	na entrada do
-	Plaza
+	Chave para o Portal
+	na entrada do Plaza
 	"""
 	waitHold
 }
@@ -15503,9 +15502,9 @@ script 66 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	Chave para o portão
-	na entrada do
-	Plaza de Saborya
+	Chave para o Portal
+	na entrada do Plaza
+	de Saborya
 	"""
 	waitHold
 }
@@ -15514,9 +15513,9 @@ script 67 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	Chave para o portão
-	na entrada do
-	Plaza da Ameropa
+	Chave para o Portal
+	na entrada do Plaza
+	da Ameropa
 	"""
 	waitHold
 }
@@ -15525,9 +15524,9 @@ script 68 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	Chave para o portão
-	na entrada do
-	Plaza de Kotobuki
+	Chave para o Portal
+	na entrada do Plaza
+	de Kotobuki
 	"""
 	waitHold
 }
@@ -15619,8 +15618,8 @@ script 86 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	Abre um cubo adminis-
-	trado pelos NetLutadores
+	Abre cubos administrados
+	pelos NetLutadores
 	Oficiais da Ameropa
 	"""
 	waitHold
@@ -15630,8 +15629,8 @@ script 87 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	Abre um cubo adminis-
-	trado por uma organi-
+	Abre cubos adminis-
+	trados por uma organi-
 	zação misteriosa
 	"""
 	waitHold
@@ -15641,7 +15640,7 @@ script 88 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	Um ticket de metrô
+	Um tíquete de metrô
 	para a estação ACDC
 	(para uma criança)
 	"""
@@ -15652,7 +15651,7 @@ script 89 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	Um ticket de metrô
+	Um tíquete de metrô
 	para a estação Porto
 	(para uma criança)
 	"""
@@ -15663,7 +15662,7 @@ script 90 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	Um ticket de metrô
+	Um tíquete de metrô
 	para a estação Okuden
 	(para uma criança)
 	"""
@@ -15674,7 +15673,7 @@ script 91 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	Um ticket de metrô
+	Um tíquete de metrô
 	para a estação do
 	aeroporto (criança)
 	"""
@@ -18249,7 +18248,7 @@ script 83 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos lá fazer uma
+	Vamos lá completar a
 	missão pra podermos
 	fazer a prova!
 	"""
@@ -18351,7 +18350,7 @@ script 101 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Aquele som de chocalho
+	Aquele "tleque-tleque"
 	que eu ouvi em Saborya...
 	"""
 	keyWait
@@ -18366,8 +18365,7 @@ script 102 mmbn2 {
 	msgOpen
 	"""
 	Vamos descobrir de
-	onde veio aquele
-	som.
+	onde veio aquele som.
 	"""
 	keyWait
 	end
@@ -18467,7 +18465,7 @@ script 112 mmbn2 {
 	printItem
 		buffer = 0
 		item = 21
-	"\" fica lá."
+	"\" está lá."
 	keyWait
 	end
 }
@@ -18494,7 +18492,7 @@ script 120 mmbn2 {
 	"""
 	keyWait
 	clearMsg
-	"Eu preciso ver isso..."
+	"Essa eu quero ver..."
 	keyWait
 	end
 }
@@ -18586,8 +18584,8 @@ script 143 mmbn2 {
 	msgOpen
 	"""
 	Pro aeroporto! Vamos
-	ter que ficar um
-	tempo longe do pessoal.
+	ter que ficar um tempo
+	longe do pessoal.
 	"""
 	keyWait
 	end
@@ -18695,8 +18693,8 @@ script 201 mmbn2 {
 	msgOpen
 	"""
 	Vamos mostrar pro papai
-	o FragGelo que a
-	gente achou na Rede!
+	o Fragmento de Gelo que
+	a gente achou na Rede!
 	"""
 	keyWait
 	end
@@ -18748,7 +18746,7 @@ script 205 mmbn2 {
 	"""
 	O Navi que sabe a
 	palavra-chave tá no
-	AmePlaza, eu acho.
+	AmePlaza, supõe-se.
 	"""
 	keyWait
 	end
@@ -18758,9 +18756,9 @@ script 206 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	O Navi Roxo parece
-	estar fazendo compras
-	em algum lugar na Rede.
+	O Navi parece estar
+	fazendo compras por
+	perto do AmePlaza.
 	"""
 	keyWait
 	end
@@ -18832,8 +18830,8 @@ script 211 mmbn2 {
 		item = 36
 	"""
 	? Parece um
-	programa de fogo. Onde
-	será que a gente acha?
+	programa de fogo.
+	Onde se acha fogo?
 	"""
 	keyWait
 	end
@@ -18867,6 +18865,7 @@ script 214 mmbn2 {
 	"""
 	A gente tem que ir
 	atrás do Chaveiro!
+	Pra Undernet!
 	"""
 	keyWait
 	end
@@ -18888,8 +18887,9 @@ script 216 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Onde será que estão
-	os outros FragAzul?
+	Onde estão os outros
+	FragAzul? O irmão do
+	Chaveiro disse...
 	"""
 	keyWait
 	end
@@ -19842,8 +19842,8 @@ script 201 mmbn2 {
 	msgOpen
 	"""
 	Vamos mostrar pro papai
-	o FragGelo que a
-	gente achou na Rede!
+	o Fragmento de Gelo que
+	a gente achou na Rede!
 	"""
 	keyWait
 	end
@@ -19895,7 +19895,7 @@ script 205 mmbn2 {
 	"""
 	O Navi que sabe a
 	palavra-chave tá no
-	AmePlaza, eu acho.
+	AmePlaza, supõe-se.
 	"""
 	keyWait
 	end
@@ -19979,8 +19979,8 @@ script 211 mmbn2 {
 		item = 36
 	"""
 	? Parece um
-	programa de fogo. Onde
-	será que a gente acha?
+	programa de fogo.
+	Onde se acha fogo?
 	"""
 	keyWait
 	end
@@ -20014,6 +20014,7 @@ script 214 mmbn2 {
 	"""
 	A gente tem que ir
 	atrás do Chaveiro!
+	Pra Undernet!
 	"""
 	keyWait
 	end
@@ -20035,8 +20036,9 @@ script 216 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Onde será que estão
-	os outros FragAzul?
+	Onde estão os outros
+	FragAzul? O irmão do
+	Chaveiro disse...
 	"""
 	keyWait
 	end
@@ -20952,8 +20954,8 @@ script 201 mmbn2 {
 	msgOpen
 	"""
 	Vamos mostrar pro papai
-	o FragGelo que a
-	gente achou na Rede!
+	o Fragmento de Gelo que
+	a gente achou na Rede!
 	"""
 	keyWait
 	end
@@ -21005,7 +21007,7 @@ script 205 mmbn2 {
 	"""
 	O Navi que sabe a
 	palavra-chave tá no
-	AmePlaza, eu acho.
+	AmePlaza, supõe-se.
 	"""
 	keyWait
 	end
@@ -21089,8 +21091,8 @@ script 211 mmbn2 {
 		item = 36
 	"""
 	? Parece um
-	programa de fogo. Onde
-	será que a gente acha?
+	programa de fogo.
+	Onde se acha fogo?
 	"""
 	keyWait
 	end
@@ -21124,6 +21126,7 @@ script 214 mmbn2 {
 	"""
 	A gente tem que ir
 	atrás do Chaveiro!
+	Pra Undernet!
 	"""
 	keyWait
 	end
@@ -21145,8 +21148,9 @@ script 216 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Onde será que estão
-	os outros FragAzul?
+	Onde estão os outros
+	FragAzul? O irmão do
+	Chaveiro disse...
 	"""
 	keyWait
 	end
@@ -21361,8 +21365,8 @@ script 144 mmbn2 {
 	msgOpen
 	"""
 	É tão extasiante ir
-	pro aeroporto. A
-	gente vai viajar mesmo!
+	pro aeroporto. A gente
+	vai viajar mesmo!
 	"""
 	keyWait
 	end
@@ -21501,8 +21505,8 @@ script 201 mmbn2 {
 	msgOpen
 	"""
 	Vamos mostrar pro papai
-	o FragGelo que a
-	gente achou na Rede!
+	o Fragmento de Gelo que
+	a gente achou na Rede!
 	"""
 	keyWait
 	end
@@ -21554,7 +21558,7 @@ script 205 mmbn2 {
 	"""
 	O Navi que sabe a
 	palavra-chave tá no
-	AmePlaza, eu acho.
+	AmePlaza, supõe-se.
 	"""
 	keyWait
 	end
@@ -21638,8 +21642,8 @@ script 211 mmbn2 {
 		item = 36
 	"""
 	? Parece um
-	programa de fogo. Onde
-	será que a gente acha?
+	programa de fogo.
+	Onde se acha fogo?
 	"""
 	keyWait
 	end
@@ -21673,6 +21677,7 @@ script 214 mmbn2 {
 	"""
 	A gente tem que ir
 	atrás do Chaveiro!
+	Pra Undernet!
 	"""
 	keyWait
 	end
@@ -21694,8 +21699,9 @@ script 216 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Onde será que estão
-	os outros FragAzul?
+	Onde estão os outros
+	FragAzul? O irmão do
+	Chaveiro disse...
 	"""
 	keyWait
 	end
@@ -21954,9 +21960,8 @@ script 151 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan, vamos voltar pro
-	hotel e bolar um
-	plano...
+	Lan, vamos lá pro
+	hotel bolar um plano...
 	"""
 	keyWait
 	end
@@ -22132,8 +22137,8 @@ script 201 mmbn2 {
 	msgOpen
 	"""
 	Vamos mostrar pro papai
-	o FragGelo que a
-	gente achou na Rede!
+	o Fragmento de Gelo que
+	a gente achou na Rede!
 	"""
 	keyWait
 	end
@@ -22185,7 +22190,7 @@ script 205 mmbn2 {
 	"""
 	O Navi que sabe a
 	palavra-chave tá no
-	AmePlaza, eu acho.
+	AmePlaza, supõe-se.
 	"""
 	keyWait
 	end
@@ -22269,8 +22274,8 @@ script 211 mmbn2 {
 		item = 36
 	"""
 	? Parece um
-	programa de fogo. Onde
-	será que a gente acha?
+	programa de fogo.
+	Onde se acha fogo?
 	"""
 	keyWait
 	end
@@ -22304,6 +22309,7 @@ script 214 mmbn2 {
 	"""
 	A gente tem que ir
 	atrás do Chaveiro!
+	Pra Undernet!
 	"""
 	keyWait
 	end
@@ -22325,8 +22331,9 @@ script 216 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Onde será que estão
-	os outros FragAzul?
+	Onde estão os outros
+	FragAzul? O irmão do
+	Chaveiro disse...
 	"""
 	keyWait
 	end
@@ -22609,7 +22616,7 @@ script 154 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos atrás de pistas
+	Vamos reunir pistas
 	pra recuperar nosso
 	passaporte e chips!
 	"""
@@ -22818,8 +22825,8 @@ script 172 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Tá tudo bem! Tem uma
-	entrada wireless. Eu
+	Tá tudo bem! Com a
+	entrada wireless, eu
 	posso me conectar daqui!
 	"""
 	keyWait
@@ -22842,8 +22849,8 @@ script 174 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos atrás do
-	sujeito que enganou
+	Vamos atrás da
+	pessoa que enganou
 	a gente!
 	"""
 	keyWait
@@ -22918,8 +22925,8 @@ script 201 mmbn2 {
 	msgOpen
 	"""
 	Vamos mostrar pro papai
-	o FragGelo que a
-	gente achou na Rede!
+	o Fragmento de Gelo que
+	a gente achou na Rede!
 	"""
 	keyWait
 	end
@@ -22971,7 +22978,7 @@ script 205 mmbn2 {
 	"""
 	O Navi que sabe a
 	palavra-chave tá no
-	AmePlaza, eu acho.
+	AmePlaza, supõe-se.
 	"""
 	keyWait
 	end
@@ -23055,8 +23062,8 @@ script 211 mmbn2 {
 		item = 36
 	"""
 	? Parece um
-	programa de fogo. Onde
-	será que a gente acha?
+	programa de fogo.
+	Onde se acha fogo?
 	"""
 	keyWait
 	end
@@ -23090,6 +23097,7 @@ script 214 mmbn2 {
 	"""
 	A gente tem que ir
 	atrás do Chaveiro!
+	Pra Undernet!
 	"""
 	keyWait
 	end
@@ -23111,8 +23119,9 @@ script 216 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Onde será que estão
-	os outros FragAzul?
+	Onde estão os outros
+	FragAzul? O irmão do
+	Chaveiro disse...
 	"""
 	keyWait
 	end
@@ -23443,8 +23452,7 @@ script 185 mmbn2 {
 	msgOpen
 	"""
 	Um especialista em
-	insetos... Lan, e
-	o...?
+	insetos... Lan, e o...?
 	"""
 	keyWait
 	end
@@ -23466,9 +23474,9 @@ script 187 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Quando estivermos prontos,
-	vamos acessar o programa
-	do trem de pouso!
+	Quando estiver pronto,
+	acesse o programa do
+	trem de pouso!
 	"""
 	keyWait
 	end
@@ -23665,8 +23673,8 @@ script 201 mmbn2 {
 	msgOpen
 	"""
 	Vamos mostrar pro papai
-	o FragGelo que a
-	gente achou na Rede!
+	o Fragmento de Gelo que
+	a gente achou na Rede!
 	"""
 	keyWait
 	end
@@ -23718,7 +23726,7 @@ script 205 mmbn2 {
 	"""
 	O Navi que sabe a
 	palavra-chave tá no
-	AmePlaza, eu acho.
+	AmePlaza, supõe-se.
 	"""
 	keyWait
 	end
@@ -23802,8 +23810,8 @@ script 211 mmbn2 {
 		item = 36
 	"""
 	? Parece um
-	programa de fogo. Onde
-	será que a gente acha?
+	programa de fogo.
+	Onde se acha fogo?
 	"""
 	keyWait
 	end
@@ -23837,6 +23845,7 @@ script 214 mmbn2 {
 	"""
 	A gente tem que ir
 	atrás do Chaveiro!
+	Pra Undernet!
 	"""
 	keyWait
 	end
@@ -23858,8 +23867,9 @@ script 216 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Onde será que estão
-	os outros FragAzul?
+	Onde estão os outros
+	FragAzul? O irmão do
+	Chaveiro disse...
 	"""
 	keyWait
 	end
@@ -24479,9 +24489,8 @@ script 40 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Os efeitos do ataque
-	do AirMan
-	desapareceram...
+	Os efeitos do ataque do
+	AirMan desapareceram...
 	"""
 	keyWait
 	end
@@ -24826,8 +24835,8 @@ script 167 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Este programa de armadi-
-	lha foi desarmado.
+	Este programa de arma-
+	dilha foi desarmado.
 	Vamos em frente!
 	"""
 	keyWait
@@ -24838,9 +24847,9 @@ script 168 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ache o KnightMan! Não
-	podemos deixar a Princesa
-	sozinha mais tempo!
+	Encontre o KnightMan!
+	Não podemos deixar a
+	Princesa se safar!
 	"""
 	keyWait
 	end
@@ -25613,9 +25622,9 @@ script 82 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Como eu pensei, não
-	vai ser fácil tirar
-	a LicençaA!
+	Como eu pensei, não vai
+	ser fácil tirar a
+	LicençaA!
 	"""
 	keyWait
 	end
@@ -25875,8 +25884,8 @@ script 120 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Vamos voltar e
-	falar com o papai!
+	Vamos voltar e falar
+	com o papai!
 	"""
 	keyWait
 	end
@@ -25933,9 +25942,8 @@ script 140 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A gente tem que sair
-	da Rede e ir pra
-	Ameropa.
+	A gente tem que sair da
+	Rede e ir pra Ameropa.
 	"""
 	keyWait
 	end
@@ -25992,9 +26000,9 @@ script 154 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	É difícil achar um
-	passaporte e os
-	chips sem pistas.
+	É difícil procurar por
+	passaporte e chip sem
+	pistas.
 	"""
 	keyWait
 	end
@@ -26040,9 +26048,9 @@ script 158 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Eu preciso achar aquela
-	velhota e recuperar
-	o chip...
+	Preciso achar essa tia
+	ricaça e recuperar
+	meus chips...
 	"""
 	keyWait
 	end
@@ -26053,8 +26061,8 @@ script 159 mmbn2 {
 	msgOpen
 	"""
 	Mundos cibernéticos
-	estrangeiros são dureza,
-	né?
+	estrangeiros não tão
+	pra brincadeira, né?
 	"""
 	keyWait
 	end
@@ -26065,7 +26073,7 @@ script 165 mmbn2 {
 	msgOpen
 	"""
 	Ei, a gente não pode
-	largar a conferência.
+	fugir da conferência.
 	"""
 	keyWait
 	end
@@ -26179,7 +26187,7 @@ script 201 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O que é este FragGelo
+	O que é esse Fragmento
 	que achamos? Vamos per-
 	guntar pro papai.
 	"""
@@ -26233,7 +26241,7 @@ script 205 mmbn2 {
 	"""
 	O Navi que sabe a
 	palavra-chave tá no
-	AmePlaza, eu acho.
+	AmePlaza, supõe-se.
 	"""
 	keyWait
 	end
@@ -26243,9 +26251,9 @@ script 206 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O Navi que tem a palavra-
-	chave tá fazendo compras.
-	Mas em qual loja?
+	O Navi com a palavra-
+	chave tá fazendo
+	compras. Mas onde?
 	"""
 	keyWait
 	end
@@ -26316,8 +26324,8 @@ script 211 mmbn2 {
 		item = 36
 	"""
 	? Parece um
-	programa de fogo. Onde
-	será que a gente acha?
+	programa de fogo.
+	Onde se acha fogo?
 	"""
 	keyWait
 	end
@@ -26352,7 +26360,8 @@ script 214 mmbn2 {
 	msgOpen
 	"""
 	Vamos lá achar
-	o Navi chaveiro.
+	o Navi chaveiro
+	na Undernet.
 	"""
 	keyWait
 	end
@@ -26374,8 +26383,9 @@ script 216 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Cadê o resto do
-	FragAzul?
+	Cadê o resto do Frag-
+	Azul? Será que o irmão
+	do Chaveiro sabe?
 	"""
 	keyWait
 	end
@@ -26716,7 +26726,7 @@ script 51 mmbn2 {
 	"Tem o aroma sutil de..."
 	keyWait
 	clearMsg
-	"Um blend gourmet!"
+	"Um bleeend gourmet!"
 	keyWait
 	clearMsg
 	"He he, brincadeira!"
@@ -27721,8 +27731,8 @@ script 105 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Depois a gente
-	surfa na Rede.
+	Depois a gente surfa
+	na Rede.
 	"""
 	keyWait
 	end
@@ -27956,9 +27966,9 @@ script 157 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Acho que a gente
-	devia voltar e ir
-	falar com aquele Jim...
+	Acho que a gente devia
+	voltar e ir falar com
+	aquele Jim...
 	"""
 	keyWait
 	end
@@ -28106,7 +28116,7 @@ script 201 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O que é este FragGelo
+	O que é este Fragmento
 	que achamos? Vamos per-
 	guntar pro papai.
 	"""
@@ -28160,7 +28170,7 @@ script 205 mmbn2 {
 	"""
 	O Navi que sabe a
 	palavra-chave tá no
-	AmePlaza, eu acho.
+	AmePlaza, supõe-se.
 	"""
 	keyWait
 	end
@@ -28170,9 +28180,9 @@ script 206 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O Navi que tem a palavra-
-	chave tá fazendo compras.
-	Mas em qual loja?
+	O Navi com a palavra-
+	chave tá fazendo
+	compras. Mas onde?
 	"""
 	keyWait
 	end
@@ -28243,8 +28253,8 @@ script 211 mmbn2 {
 		item = 36
 	"""
 	? Parece um
-	programa de fogo. Onde
-	será que a gente acha?
+	programa de fogo.
+	Onde se acha fogo?
 	"""
 	keyWait
 	end
@@ -28279,7 +28289,8 @@ script 214 mmbn2 {
 	msgOpen
 	"""
 	Vamos lá achar
-	o Navi chaveiro.
+	o Navi chaveiro
+	na Undernet.
 	"""
 	keyWait
 	end
@@ -28301,8 +28312,9 @@ script 216 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Cadê o resto do
-	FragAzul?
+	Cadê o resto do Frag-
+	Azul? Será que o irmão
+	do Chaveiro sabe?
 	"""
 	keyWait
 	end
@@ -29072,7 +29084,7 @@ script 205 mmbn2 {
 	"""
 	O Navi que sabe a
 	palavra-chave tá no
-	AmePlaza, eu acho.
+	AmePlaza, supõe-se.
 	"""
 	keyWait
 	end
@@ -29082,9 +29094,9 @@ script 206 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O Navi que tem a palavra-
-	chave tá fazendo compras.
-	Mas em qual loja?
+	O Navi com a palavra-
+	chave tá fazendo
+	compras. Mas onde?
 	"""
 	keyWait
 	end
@@ -29155,8 +29167,8 @@ script 211 mmbn2 {
 		item = 36
 	"""
 	? Parece um
-	programa de fogo. Onde
-	será que a gente acha?
+	programa de fogo.
+	Onde se acha fogo?
 	"""
 	keyWait
 	end
@@ -29191,7 +29203,8 @@ script 214 mmbn2 {
 	msgOpen
 	"""
 	Vamos lá achar
-	o Navi chaveiro.
+	o Navi chaveiro
+	na Undernet.
 	"""
 	keyWait
 	end
@@ -29215,8 +29228,9 @@ script 216 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Cadê o resto do
-	FragAzul?
+	Cadê o resto do Frag-
+	Azul? Será que o irmão
+	do Chaveiro sabe?
 	"""
 	keyWait
 	end
@@ -29806,8 +29820,9 @@ script 103 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan, vai lá ver
-	se tem alguém lá.
+	MegaMan, continua, vê
+	se tem alguém mais lá
+	na frente.
 	"""
 	keyWait
 	end
@@ -29817,7 +29832,7 @@ script 104 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Parece ter alguém
+	Parece que tem gente
 	aqui...
 	"""
 	keyWait
@@ -29948,7 +29963,7 @@ script 113 mmbn2 {
 	msgOpen
 	"""
 	Aquele programa
-	pode estar aqui...
+	pode estar por aqui...
 	"""
 	keyWait
 	end
@@ -30282,7 +30297,7 @@ script 201 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O que é este FragGelo
+	O que é este Fragmento
 	que achamos? Vamos per-
 	guntar pro papai.
 	"""
@@ -30335,7 +30350,7 @@ script 205 mmbn2 {
 	"""
 	O Navi que sabe a
 	palavra-chave tá no
-	AmePlaza, eu acho.
+	AmePlaza, supõe-se.
 	"""
 	keyWait
 	end
@@ -30345,9 +30360,9 @@ script 206 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O Navi que tem a palavra-
-	chave tá fazendo compras.
-	Mas em qual loja?
+	O Navi com a palavra-
+	chave tá fazendo
+	compras. Mas onde?
 	"""
 	keyWait
 	end
@@ -30418,8 +30433,8 @@ script 211 mmbn2 {
 		item = 36
 	"""
 	? Parece um
-	programa de fogo. Onde
-	será que a gente acha?
+	programa de fogo.
+	Onde se acha fogo?
 	"""
 	keyWait
 	end
@@ -30454,7 +30469,8 @@ script 214 mmbn2 {
 	msgOpen
 	"""
 	Vamos lá achar
-	o Navi chaveiro.
+	o Navi chaveiro
+	na Undernet.
 	"""
 	keyWait
 	end
@@ -30476,8 +30492,9 @@ script 216 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Cadê o resto do
-	FragAzul?
+	Cadê o resto do Frag-
+	Azul? Será que o irmão
+	do Chaveiro sabe?
 	"""
 	keyWait
 	end
@@ -30914,7 +30931,7 @@ script 201 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O que é este FragGelo
+	O que é este Fragmento
 	que achamos? Vamos per-
 	guntar pro papai.
 	"""
@@ -30968,7 +30985,7 @@ script 205 mmbn2 {
 	"""
 	O Navi que sabe a
 	palavra-chave tá no
-	AmePlaza, eu acho.
+	AmePlaza, supõe-se.
 	"""
 	keyWait
 	end
@@ -30978,9 +30995,9 @@ script 206 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O Navi que tem a palavra-
-	chave tá fazendo compras.
-	Mas em qual loja?
+	O Navi com a palavra-
+	chave tá fazendo
+	compras. Mas onde?
 	"""
 	keyWait
 	end
@@ -31051,8 +31068,8 @@ script 211 mmbn2 {
 		item = 36
 	"""
 	? Parece um
-	programa de fogo. Onde
-	será que a gente acha?
+	programa de fogo.
+	Onde se acha fogo?
 	"""
 	keyWait
 	end
@@ -31087,7 +31104,8 @@ script 214 mmbn2 {
 	msgOpen
 	"""
 	Vamos lá achar
-	o Navi chaveiro.
+	o Navi chaveiro
+	na Undernet.
 	"""
 	keyWait
 	end
@@ -31109,8 +31127,9 @@ script 216 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Cadê o resto do
-	FragAzul?
+	Cadê o resto do Frag-
+	Azul? Será que o irmão
+	do Chaveiro sabe?
 	"""
 	keyWait
 	end
@@ -31429,7 +31448,7 @@ script 201 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O que é este FragGelo
+	O que é este Fragmento
 	que achamos? Vamos per-
 	guntar pro papai.
 	"""
@@ -31483,7 +31502,7 @@ script 205 mmbn2 {
 	"""
 	O Navi que sabe a
 	palavra-chave tá no
-	AmePlaza, eu acho.
+	AmePlaza, supõe-se.
 	"""
 	keyWait
 	end
@@ -31493,9 +31512,9 @@ script 206 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O Navi que tem a palavra-
-	chave tá fazendo compras.
-	Mas em qual loja?
+	O Navi com a palavra-
+	chave tá fazendo
+	compras. Mas onde?
 	"""
 	keyWait
 	end
@@ -31576,8 +31595,8 @@ script 211 mmbn2 {
 		item = 36
 	"""
 	? Parece um
-	programa de fogo. Onde
-	será que a gente acha?
+	programa de fogo.
+	Onde se acha fogo?
 	"""
 	keyWait
 	end
@@ -31612,7 +31631,8 @@ script 214 mmbn2 {
 	msgOpen
 	"""
 	Vamos lá achar
-	o Navi chaveiro.
+	o Navi chaveiro
+	na Undernet.
 	"""
 	keyWait
 	end
@@ -31634,8 +31654,9 @@ script 216 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Cadê o resto do
-	FragAzul?
+	Cadê o resto do Frag-
+	Azul? Será que o irmão
+	do Chaveiro sabe?
 	"""
 	keyWait
 	end
@@ -31657,8 +31678,8 @@ script 218 mmbn2 {
 	msgOpen
 	"""
 	Se o boato for verdade,
-	o Doc deve estar
-	por aqui.
+	o Doc deve estar por
+	aqui.
 	"""
 	keyWait
 	end
@@ -32325,7 +32346,7 @@ script 31 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Ás vezes isso permite
+	Às vezes isso permite
 	usar atalhos na Rede,
 	entende?
 	"""
@@ -32775,7 +32796,7 @@ script 54 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	E o PowerUp, bem,
+	E o PowerUp... bem,
 	"PowerUP" aumenta a
 	força das armas dele.
 	"""
@@ -32784,7 +32805,7 @@ script 54 mmbn2 {
 	"""
 	Selecione o que você
 	quer melhorar no
-	menu, em -> "MegaMan".
+	menu, em "MegaMan".
 	"""
 	keyWait
 	clearMsg
@@ -33111,7 +33132,7 @@ script 76 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Só aguentar em pé
+	Só se aguentar em pé
 	já é uma luta!
 	"""
 	keyWait
@@ -33272,9 +33293,9 @@ script 90 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Mas tem de prometer
-	não contar pra
-	NINGUÉM, ouviu?
+	Mas tem de prometer não
+	contar pra NINGUÉM,
+	ouviu?
 	"""
 	keyWait
 	clearMsg
@@ -33301,8 +33322,7 @@ script 90 mmbn2 {
 	clearMsg
 	"""
 	Bom, quero que você
-	encontre e delete
-	os 3!
+	encontre e delete os 3!
 	"""
 	keyWait
 	clearMsg
@@ -33823,8 +33843,8 @@ script 108 mmbn2 {
 	msgOpen
 	"""
 	Dá pra, tipo, acessar a
-	Rede através de
-	homepages, sabia? Juro.
+	Rede através de páginas
+	de migos, sabia? Juro.
 	"""
 	keyWait
 	clearMsg
@@ -34588,7 +34608,7 @@ script 153 mmbn2 {
 	"""
 	E foi estranho, porque
 	ele se parecia com o
-	dono da loja que fechou.
+	dono desta loja aqui.
 	"""
 	keyWait
 	clearMsg
@@ -34722,7 +34742,7 @@ script 181 mmbn2 {
 	clearMsg
 	"""
 	Eu sempre digo:
-	"melhor previnir do
+	"melhor prevenir do
 	que remediar"!
 	"""
 	keyWait
@@ -35224,9 +35244,9 @@ script 205 mmbn2 {
 		mugshot = SternMan
 	msgOpen
 	"""
-	Na verdade eu sou um
+	Na verdade, eu sou um
 	investigador. Desculpe
-	por ter mantido segredo.
+	por esconder isso.
 	"""
 	keyWait
 	end
@@ -35624,8 +35644,8 @@ script 1 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	O quê? Você tava
-	no avião?
+	O quê? Você tava no
+	avião?
 	"""
 	keyWait
 	clearMsg
@@ -35650,7 +35670,7 @@ script 2 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Eu fui pra lá a trabalho
+	Eu fui lá a trabalho
 	ano passado.
 	"""
 	keyWait
@@ -35778,7 +35798,7 @@ script 7 mmbn2 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Não conte a ninguém
+	Não conta pra ninguém
 	que estou aqui, ouviu?
 	"""
 	keyWait
@@ -35795,8 +35815,8 @@ script 10 mmbn2 {
 	msgOpen
 	"""
 	Não temos um
-	terremoto assim
-	há anos!
+	terremoto assim há
+	anos!
 	"""
 	keyWait
 	end
@@ -35816,8 +35836,8 @@ script 11 mmbn2 {
 		mugshot = SternMan
 	msgOpen
 	"""
-	É melhor não sair
-	de casa! Pode haver
+	É melhor não sair de
+	casa! Pode haver
 	abalos secundários.
 	"""
 	keyWait
@@ -37855,8 +37875,8 @@ script 27 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Mas você só pode
-	adquirir o ticket dela
+	Mas você só pode ad-
+	quirir o tíquete dela
 	se tiver passaporte.
 	"""
 	keyWait
@@ -39151,8 +39171,9 @@ script 60 mmbn2 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan, tome cuidado lá
-	fora! É perigoso!
+	Lan, cuidado, filho.
+	As coisas andam bem
+	perigosas!
 	"""
 	keyWait
 	end
@@ -40763,7 +40784,7 @@ script 46 mmbn2 {
 	printItem
 		buffer = 0
 		item = 28
-	"\nque eu tanto queria!"
+	" que eu tanto\nqueria!"
 	keyWait
 	clearMsg
 	"""
@@ -40776,7 +40797,7 @@ script 46 mmbn2 {
 	"""
 	Mas eu ia ficar mal
 	se não desse alguma
-	coisa de volta! Tó!
+	coisa em troca! Tó!
 	"""
 	keyWait
 	clearMsg
@@ -41079,8 +41100,8 @@ script 25 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Não que eu tenha ido
-	nos bairros mais
+	Eu só não cheguei a
+	ir nos bairros mais
 	perigosos de lá.
 	"""
 	keyWait
@@ -41169,7 +41190,7 @@ script 31 mmbn2 {
 	"""
 	Toma, um agradozinho
 	pra compensar.
-	Só uns trocados.
+	Uns trocadinhos.
 	"""
 	keyWait
 	clearMsg
@@ -41407,7 +41428,7 @@ script 225 mmbn2 {
 script 226 mmbn2 {
 	msgOpen
 	"""
-	Uma estueta do
+	Uma estatueta do
 	ancestral deus da
 	guerra, Melpos...
 	"""
@@ -41539,7 +41560,7 @@ script 234 mmbn2 {
 	clearMsg
 	"""
 	"A senha de acesso à
-	minha homepage. Talvez
+	minha página. Talvez
 	eu a dê ao Lan"...
 	"""
 	keyWait
@@ -41587,7 +41608,7 @@ script 235 mmbn2 {
 	clearMsg
 	"""
 	"A senha de acesso à
-	minha homepage. Talvez
+	minha página. Talvez
 	eu a dê ao Lan"...
 	"""
 	keyWait
@@ -41596,9 +41617,9 @@ script 235 mmbn2 {
 script 236 mmbn2 {
 	msgOpen
 	"""
-	How many birds had
-	to go naked to make
-	this feather bed?
+	Quantas aves tiveram
+	que ser depenadas pra
+	fazer este colchão?
 	"""
 	keyWait
 	clearMsg
@@ -41620,7 +41641,7 @@ script 236 mmbn2 {
 	clearMsg
 	"""
 	"A senha de acesso à
-	minha homepage. Talvez
+	minha página. Talvez
 	eu a dê ao Lan"...
 	"""
 	keyWait
@@ -41693,7 +41714,8 @@ script 30 mmbn2 {
 		jumpIfOutOfRange = continue
 	"""
 	Eu decidi vir aqui e
-	ajudar com as coisas...
+	ajudar a família com
+	as coisas...
 	"""
 	keyWait
 	clearMsg
@@ -42751,7 +42773,7 @@ script 55 mmbn2 {
 	"""
 	Eu estudava aqui nesta
 	escola quando criança.
-	E ás vezes volto aqui.
+	E às vezes volto aqui.
 	"""
 	keyWait
 	clearMsg
@@ -44772,9 +44794,9 @@ script 44 mmbn2 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Muito bem! E eu também
-	vou levar um prêmio por
-	esse furo de reportagem!
+	Muito bem! Eu vou levar
+	outro prêmio por este
+	furo de reportagem!
 	"""
 	keyWait
 	clearMsg
@@ -44924,7 +44946,7 @@ script 52 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Que cara sortudo! Foi
+	Carinha sortudo! Foi
 	entrevistado pela
 	Ribitta em pessoa...
 	"""
@@ -45533,9 +45555,8 @@ script 88 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	E estão tendo
-	enormes enchentes
-	em Saborya.
+	E estão tendo enormes
+	enchentes em Saborya.
 	"""
 	keyWait
 	clearMsg
@@ -45581,7 +45602,7 @@ script 89 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	é avisar aos civis para
+	é avisar os civis para
 	que fiquem alertas.
 	"""
 	keyWait
@@ -46292,9 +46313,9 @@ script 223 mmbn2 {
 script 224 mmbn2 {
 	msgOpen
 	"""
-	Somente NetLutadores e
-	portadores de Licença
-	podem entrar aqui!
+	Entrada para NetLuta-
+	dores Oficiais ou com
+	Licenças altas!
 	"""
 	keyWait
 	end
@@ -46536,9 +46557,9 @@ script 12 mmbn2 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	É assim: você coloca um
-	chip indesejado nele e
-	ele te dá outro!
+	É assim: você coloca
+	chips indesejados nele
+	e ele te dá outro!
 	"""
 	keyWait
 	end
@@ -46732,7 +46753,7 @@ script 45 mmbn2 {
 		mugshot = MetrolineMan
 	msgOpen
 	"""
-	Você tem um TcktKoto?
+	Você tem um TqtKoto?
 	Então, por favor, siga
 	pelo portão.
 	"""
@@ -47260,7 +47281,7 @@ script 235 mmbn2 {
 }
 script 236 mmbn2 {
 	msgOpen
-	"Trocar de ticket?\n"
+	"Trocar de tíquete?\n"
 	option
 		left = 1
 		right = 1
@@ -47303,7 +47324,7 @@ script 237 mmbn2 {
 	msgOpen
 	"""
 	Lan devolveu o
-	ticket que pegou!
+	tíquete que pegou!
 	"""
 	keyWait
 	clearMsg
@@ -48005,7 +48026,7 @@ script 20 mmbn2 {
 	"""
 	Todo esse tumulto vem
 	mantendo os nossos
-	Oficiais bem ocupados.
+	Oficiais ocupados.
 	"""
 	keyWait
 	clearMsg
@@ -48046,8 +48067,8 @@ script 31 mmbn2 {
 	msgOpen
 	"""
 	E aí, NetLutadores?
-	Dando duro? É a sua
-	tarefa diária, afinal!
+	Dando duro? Digo, é
+	a sua tarefa diária!
 	"""
 	keyWait
 	clearMsg
@@ -48059,15 +48080,14 @@ script 32 mmbn2 {
 		mugshot = OfficialMan
 	msgOpen
 	"""
-	Você tem a licença,
-	certo?
+	Você tem uma licença,
+	né?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Sabia que o Centro é o
-	sistema de segurança
-	de Ni-Hon?
+	O Centro é o sistema
+	de segurança de Ni-Hon.
 	"""
 	keyWait
 	clearMsg
@@ -48091,9 +48111,7 @@ script 32 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Nunca se esqueça disso
-	durante suas
-	aventuras.
+	Nunca se esqueça disso.
 	"""
 	keyWait
 	end
@@ -48112,14 +48130,14 @@ script 33 mmbn2 {
 	"""
 	Os Oficiais andam
 	ocupados com o caos
-	na sociedade virtual.
+	na Rede.
 	"""
 	keyWait
 	clearMsg
 	"""
-	De onde será que
-	aquele aparelho estranho
-	saiu? Quem o plantou?
+	De onde aquele aparelho
+	estranho saiu? Quem o
+	plantou?
 	"""
 	keyWait
 	end
@@ -48162,16 +48180,15 @@ script 35 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Não só atendemos
-	pedidos de deletar
-	vírus,
+	Além de pedidos
+	de deletar vírus,
 	"""
 	keyWait
 	clearMsg
 	"""
-	como de achar
+	também buscamos
 	desaparecidos,
-	trocar chips e mais!
+	trocamos chips etc.!
 	"""
 	keyWait
 	end
@@ -48285,8 +48302,7 @@ script 40 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Ah, veio tirar
-	a LicençaA?
+	Ah, veio tirar a LicençaA?
 	"""
 	keyWait
 	clearMsg
@@ -48753,8 +48769,7 @@ script 70 mmbn2 {
 		mugshot = SternMan
 	msgOpen
 	"""
-	Os Oficiais
-	perderam?
+	Os Oficiais perderam?
 	"""
 	keyWait
 	clearMsg
@@ -49059,7 +49074,7 @@ script 82 mmbn2 {
 		frames = 30
 	"""
 	Mas você
-	ainda é baixinho demais
+	ainda é novinho demais
 	pra namorar.
 	"""
 	keyWait
@@ -49096,9 +49111,8 @@ script 84 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	É só conectar
-	o seu PET no
-	computador.
+	É só colocar o seu
+	PET aqui.
 	"""
 	keyWait
 	clearMsg
@@ -49158,9 +49172,8 @@ script 86 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Se você perdê-lo,
-	não há como recu-
-	perar. Cuidado!
+	Se perdê-lo, não há como
+	recuperar. Cuidado!
 	"""
 	keyWait
 	end
@@ -49179,7 +49192,7 @@ script 88 mmbn2 {
 	mugshotShow
 		mugshot = OfficialWoman
 	msgOpen
-	"Tirou seu passaporte."
+	"Tirou o passaporte?"
 	waitSkip
 		frames = 30
 	"\nHi hi."
@@ -49253,8 +49266,8 @@ script 90 mmbn2 {
 	clearMsg
 	"""
 	Se perdê-lo, ai de você.
-	Não poderá voltar
-	sem ele.
+	Não poderá voltar sem
+	ele.
 	"""
 	keyWait
 	end
@@ -49409,8 +49422,8 @@ script 101 mmbn2 {
 	clearMsg
 	"""
 	Mas não imaginei que
-	atacariam o QG
-	dos Oficiais...
+	atacariam o QG dos
+	Oficiais...
 	"""
 	keyWait
 	clearMsg
@@ -49506,7 +49519,7 @@ script 110 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Como o Centro é à
+	Como o Centro é a
 	beira-mar, é bem
 	perigoso.
 	"""
@@ -49580,8 +49593,7 @@ script 115 mmbn2 {
 	msgOpen
 	"""
 	Sim, ele pode ser
-	atingido por um
-	tsunami.
+	atingido por um tsunami.
 	"""
 	keyWait
 	clearMsg
@@ -49613,8 +49625,8 @@ script 117 mmbn2 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Eu sei fazer em caso
-	de terremoto!
+	Sei o que fazer
+	durante tremores!
 	"""
 	keyWait
 	clearMsg
@@ -50164,12 +50176,12 @@ script 169 mmbn2 {
 	mugshotShow
 		mugshot = MrFamous
 	msgOpen
-	"Esta luta foi intensa!"
+	"Essa luta foi intensa!"
 	keyWait
 	clearMsg
 	"""
 	Talvez seja capaz
-	de usar a pasta!
+	de usar a Pasta!
 	"""
 	keyWait
 	clearMsg
@@ -50313,7 +50325,7 @@ script 179 mmbn2 {
 	msgOpen
 	"""
 	Mandarei as instruções
-	da pasta por e-mail!
+	dela por e-mail!
 	"""
 	keyWait
 	clearMsg
@@ -50778,8 +50790,8 @@ script 228 mmbn2 {
 	msgOpen
 	"""
 	Este computador contém
-	informações
-	confidenciais.
+	informações confiden-
+	ciais.
 	"""
 	keyWait
 	end
@@ -50797,8 +50809,8 @@ script 229 mmbn2 {
 script 235 mmbn2 {
 	msgOpen
 	"""
-	A porta elevador se
-	abriu! Ao andar do
+	A porta do elevador
+	se abriu! Ao andar do
 	laboratório do papai!
 	"""
 	keyWait
@@ -50845,8 +50857,8 @@ script 0 mmbn2 {
 		mugshot = OfficialMan
 	msgOpen
 	"""
-	Esta é a sala da prova
-	de licença. Proibido
+	Essa é a sala da prova
+	de licenças. Proibido
 	entrar sem autorização.
 	"""
 	keyWait
@@ -51025,7 +51037,7 @@ script 20 mmbn2 {
 		mugshot = OfficialMan
 	msgOpen
 	"""
-	Esta é a sala de provas
+	Essa é a sala de provas
 	de licença. Proibido
 	entrar sem autorização.
 	"""
@@ -51081,7 +51093,8 @@ script 21 mmbn2 {
 	"""
 	keyWait
 	clearMsg
-	"Hã? Você já sabia?"
+	"Hã? Você já sabia
+	disso?"
 	keyWait
 	end
 }
@@ -51101,7 +51114,7 @@ script 22 mmbn2 {
 	msgOpen
 	"""
 	Vamos lá! Temos que
-	proteger todos!
+	proteger a todos!
 	"""
 	keyWait
 	end
@@ -51211,8 +51224,8 @@ script 40 mmbn2 {
 		mugshot = OfficialMan
 	msgOpen
 	"""
-	Esta é a sala de provas
-	de licença. Proibido
+	Essa é a sala de provas
+	de licenças. Proibido
 	entrar sem autorização.
 	"""
 	keyWait
@@ -51271,8 +51284,8 @@ script 43 mmbn2 {
 		mugshot = OfficialMan
 	msgOpen
 	"""
-	Esta é a sala de provas
-	de licença. Proibido
+	Essa é a sala de provas
+	de licenças. Proibido
 	entrar sem autorização.
 	"""
 	keyWait
@@ -51347,8 +51360,8 @@ script 71 mmbn2 {
 	clearMsg
 	"""
 	Isso significa que não
-	prejudicamos muito
-	a Gospel...
+	prejudicamos muito a
+	Gospel...
 	"""
 	keyWait
 	end
@@ -52217,8 +52230,8 @@ script 50 mmbn2 {
 	msgOpen
 	"""
 	Reabrimos as salas de
-	prova para reunir
-	mais pessoal.
+	prova para reunir mais
+	pessoal.
 	"""
 	keyWait
 	end
@@ -52290,8 +52303,8 @@ script 56 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	ninguém usa mais
-	esta sala.
+	ninguém usa mais esta
+	sala.
 	"""
 	keyWait
 	clearMsg
@@ -52809,8 +52822,8 @@ script 52 mmbn2 {
 	clearMsg
 	"""
 	Mas isso não muda o fato
-	de que eu não posso
-	te deixar entrar.
+	de que eu não devia te
+	deixar entrar.
 	"""
 	keyWait
 	end
@@ -53862,7 +53875,7 @@ script 222 mmbn2 {
 	"""
 	O monitor de pesquisa de
 	Navis do papai. Só ele
-	pode se conectar nele.
+	se conecta nele.
 	"""
 	keyWait
 	end
@@ -53870,8 +53883,8 @@ script 222 mmbn2 {
 script 223 mmbn2 {
 	msgOpen
 	"""
-	A porta do elevador está
-	aberta! Indo para o
+	A porta do elevador se
+	abriu! Indo para o
 	primeiro andar!
 	"""
 	keyWait
@@ -53885,7 +53898,7 @@ script 224 mmbn2 {
 	msgOpen
 	mugshotShow
 		mugshot = MegaMan
-	"Aperte o botão, Lan."
+	"Aperta o botão, Lan."
 	keyWait
 	end
 }
@@ -54815,7 +54828,7 @@ script 220 mmbn2 {
 	"""
 	Porta de Segurança do
 	Computador-Matriz.
-	Alta Voltagem.
+	Alta voltagem.
 	"""
 	keyWait
 	end
@@ -54924,7 +54937,7 @@ script 1 mmbn2 {
 	"""
 	Quanto dinheiro será
 	que eles valem na
-	internet?
+	Internet?
 	"""
 	keyWait
 	end
@@ -55130,7 +55143,7 @@ script 230 mmbn2 {
 		down = 2
 	space
 		count = 2
-	"Port\n"
+	"Prt\n"
 	option
 		left = 1
 		right = 1
@@ -55173,7 +55186,7 @@ script 231 mmbn2 {
 		down = 3
 	space
 		count = 2
-	"Port\n"
+	"Prt\n"
 	option
 		left = 3
 		right = 3
@@ -55181,7 +55194,7 @@ script 231 mmbn2 {
 		down = 0
 	space
 		count = 2
-	"Arprto "
+	"Aero "
 	option
 		left = 2
 		right = 2
@@ -55873,8 +55886,8 @@ script 190 mmbn2 {
 	msgOpen
 	"""
 	Ah! É você o meu Cupido?
-	Sim, fui eu quem
-	postou o pedido.
+	Sim, fui eu quem postou
+	o pedido.
 	"""
 	keyWait
 	clearMsg
@@ -55988,9 +56001,8 @@ script 193 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Um clichê, sim, 
-	mas é clichê porque
-	funciona.
+	Um clichê, sim, mas é 
+	clichê porque funciona.
 	"""
 	keyWait
 	clearMsg
@@ -56117,8 +56129,8 @@ script 197 mmbn2 {
 	clearMsg
 	"""
 	E depois de ela ler,
-	traga a resposta
-	pra mim.
+	traga a resposta pra
+	mim.
 	"""
 	keyWait
 	clearMsg
@@ -56131,7 +56143,7 @@ script 197 mmbn2 {
 	"""
 	é que ela adora flores.
 	Deve estar onde
-	nascem as flores.
+	nascem flores.
 	"""
 	keyWait
 	clearMsg
@@ -56170,8 +56182,7 @@ script 198 mmbn2 {
 	clearMsg
 	"""
 	E depois que ela a ler,
-	traga a resposta
-	dela.
+	traga a resposta dela.
 	"""
 	keyWait
 	clearMsg
@@ -57403,8 +57414,8 @@ script 196 mmbn2 {
 		mugshot = CampBoy
 	msgOpen
 	"""
-	Isso! Beleza! E em troca!
-	Toma isso aqui!
+	Isso! Beleza! Tem bônus!
+	Toma isto aqui!
 	"""
 	keyWait
 	clearMsg
@@ -58179,7 +58190,7 @@ script 31 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Tenho uma apresentação
+	Farei uma apresentação
 	no próximo evento.
 	Faço o papel do Navi.
 	"""
@@ -59536,7 +59547,7 @@ script 41 mmbn2 {
 	"eu"
 	waitSkip
 		frames = 15
-	"\nc-"
+	" c-"
 	waitSkip
 		frames = 15
 	"caí no chão,"
@@ -59728,8 +59739,8 @@ script 48 mmbn2 {
 	msgOpen
 	"""
 	Esta é sua recompensa.
-	Tome. Espero que
-	goste dela!
+	Tome. Espero que goste
+	dela!
 	"""
 	keyWait
 	clearMsg
@@ -60165,8 +60176,7 @@ script 76 mmbn2 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Eu viajareei,
-	vou vencer
+	Eu viajareei, vou vencer
 	distânciaaas...
 	"""
 	keyWait
@@ -61305,9 +61315,9 @@ script 50 mmbn2 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Estou ocupado. E inde-
-	pendente disso não tenho
-	obrigação de ajudá-lo.
+	Estou ocupado. E de
+	qualquer forma, não
+	tenho por que ajudá-lo.
 	"""
 	keyWait
 	clearMsg
@@ -61554,7 +61564,7 @@ script 180 mmbn2 {
 	"""
 	Eu sou um mercador de
 	subchips. Quer ver o
-	meu repertório?
+	meu acervo?
 	"""
 	keyWait
 	clearMsg
@@ -61598,7 +61608,7 @@ script 182 mmbn2 {
 	msgOpen
 	"""
 	Eu sinto muito, mas
-	meu repertório está
+	meu acervo está
 	vazio no momento.
 	"""
 	keyWait
@@ -61904,7 +61914,7 @@ script 2 mmbn2 {
 	msgOpen
 	"""
 	O chip eu entendo, mas
-	o que é isso aqui?
+	o que é este troço?
 	Pra que serve?
 	"""
 	keyWait
@@ -61924,8 +61934,8 @@ script 3 mmbn2 {
 	clearMsg
 	"""
 	O seu horóscopo diz que
-	esse é o seu objeto
-	da sorte, Lan!
+	esse é o seu objeto da
+	sorte, Lan!
 	"""
 	keyWait
 	end
@@ -62040,8 +62050,7 @@ script 8 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	O "PassLivr"
-	foi aceito!
+	O "PassLivr" foi aceito!
 	"""
 	keyWait
 	end
@@ -62082,7 +62091,7 @@ script 12 mmbn2 {
 	"""
 	Esta é a área de
 	desembarque. É proibido
-	entrar aqui.
+	entrar por aqui.
 	"""
 	keyWait
 	end
@@ -62092,8 +62101,8 @@ script 14 mmbn2 {
 		mugshot = ElectopiaAirportMan
 	msgOpen
 	"""
-	Ei! Se queria sair
-	do aeroporto, por que
+	Ei! Se queria sair do
+	aeroporto, por que
 	passou pela inspeção?
 	"""
 	keyWait
@@ -62279,8 +62288,8 @@ script 21 mmbn2 {
 	msgOpen
 	"""
 	Ô, garoto! Você não
-	pode passar por aqui
-	só porque você quer!
+	pode passar por aí
+	só porque quer!
 	"""
 	keyWait
 	end
@@ -62356,7 +62365,7 @@ script 28 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Apenas... evite abrir a
+	Só... evite abrir a
 	boca durante ela.
 	"""
 	keyWait
@@ -62452,7 +62461,7 @@ script 34 mmbn2 {
 	"""
 	É proibido trazer
 	objetos perigosos
-	à bordo da aeronave.
+	a bordo da aeronave.
 	"""
 	keyWait
 	clearMsg
@@ -62601,7 +62610,7 @@ script 43 mmbn2 {
 	msgOpen
 	"""
 	Ô, menino! Você não pode
-	ir para aí.
+	ir ainda.
 	"""
 	keyWait
 	end
@@ -62688,8 +62697,7 @@ script 50 mmbn2 {
 		item = 64
 	"""
 	?
-	Está livre para ir e
-	vir.
+	Está livre para ir e vir.
 	"""
 	keyWait
 	end
@@ -63431,8 +63439,8 @@ script 190 mmbn2 {
 	clearMsg
 	"""
 	Se aceitou o pedido,
-	é porque ia me dar
-	o chip, não?
+	é porque ia me dar o
+	chip, não?
 	"""
 	keyWait
 	clearMsg
@@ -63635,9 +63643,9 @@ script 195 mmbn2 {
 script 220 mmbn2 {
 	msgOpen
 	"""
-	É um quadro de voos!
-	Nele dá para ver os
-	horários de desembarque.
+	É um painel de voos!
+	Ele mostra horários
+	de embarque.
 	"""
 	keyWait
 	clearMsg
@@ -63682,7 +63690,7 @@ script 224 mmbn2 {
 	msgOpen
 	"""
 	"Pedimos Para Que Não
-	Tragam À Bordo Objetos
+	Tragam A Bordo Objetos
 	Perigosos"
 	"""
 	keyWait
@@ -63692,8 +63700,8 @@ script 225 mmbn2 {
 	msgOpen
 	"""
 	Aqui eles verificam se
-	tem algo de perigoso em
-	seus pertences.
+	tem algo perigoso entre
+	os seus pertences.
 	"""
 	keyWait
 	end
@@ -64001,9 +64009,9 @@ script 17 mmbn2 {
 		mugshot = ElectopiaAirportMan
 	msgOpen
 	"""
-	Nossa lojinha sem
-	impostos possui a melhor
-	seleção do mundo.
+	Nossa lojinha possui a
+	a melhor seleção do
+	mundo. E sem impostos!
 	"""
 	keyWait
 	end
@@ -64038,10 +64046,10 @@ script 20 mmbn2 {
 	mugshotShow
 		mugshot = SternMan
 	msgOpen
-	"Eu fui roubado?"
+	"Você foi roubado?"
 	keyWait
 	clearMsg
-	"Mas que azar..."
+	"Puxa, que azar..."
 	keyWait
 	end
 }
@@ -64083,7 +64091,7 @@ script 60 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Esta aqui é a SAÍDA, Lan!"
+	"Essa aí é a SAÍDA, Lan!"
 	keyWait
 	end
 }
@@ -64144,8 +64152,8 @@ script 71 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Esperamos que vocês
-	gostem e se divirtam.
+	Esperamos que você
+	goste e se divirta.
 	"""
 	keyWait
 	end
@@ -64924,7 +64932,7 @@ script 200 mmbn2 {
 		frames = 20
 	"""
 	A resposta está
-	e... xata!
+	e...xata!
 	Próxima pergunta!
 	"""
 	keyWait
@@ -64987,7 +64995,7 @@ script 201 mmbn2 {
 		frames = 20
 	"""
 	A resposta está
-	e... xata!
+	e...xata!
 	Próxima pergunta!
 	"""
 	keyWait
@@ -65050,7 +65058,7 @@ script 202 mmbn2 {
 		frames = 20
 	"""
 	A resposta está
-	e... xata!
+	e...xata!
 	Próxima pergunta!
 	"""
 	keyWait
@@ -65113,7 +65121,7 @@ script 203 mmbn2 {
 		frames = 20
 	"""
 	A resposta está
-	e... xata!
+	e...xata!
 	Próxima pergunta!
 	"""
 	keyWait
@@ -65516,7 +65524,7 @@ script 230 mmbn2 {
 		down = 3
 	space
 		count = 2
-	"Porto\n"
+	"Prt\n"
 	option
 		left = 3
 		right = 3
@@ -65524,7 +65532,7 @@ script 230 mmbn2 {
 		down = 0
 	space
 		count = 2
-	"Okuden  "
+	"Okdn  "
 	option
 		left = 2
 		right = 2
@@ -65620,7 +65628,7 @@ script 235 mmbn2 {
 }
 script 236 mmbn2 {
 	msgOpen
-	"Trocar tickets?\n"
+	"Trocar tíquetes?\n"
 	option
 		left = 1
 		right = 1
@@ -65662,7 +65670,7 @@ script 237 mmbn2 {
 		flag = 23
 	msgOpen
 	"""
-	Lan devolveu o ticket
+	Lan devolveu o tíquete
 	que tinha consigo!
 	"""
 	keyWait
@@ -66053,9 +66061,9 @@ script 12 mmbn2 {
 		mugshot = NetopiaAirportWoman
 	msgOpen
 	"""
-	Este é o portão de
-	desembarque!! Não há
-	como voltar por ele!
+	Esse é o portão de
+	desembarque!! Não se
+	pode voltar por ele!
 	"""
 	keyWait
 	end
@@ -66134,7 +66142,7 @@ script 19 mmbn2 {
 	msgOpen
 	"""
 	Ha ha ha... aquele
-	menino é cheio da
+	menino era cheio da
 	grana...
 	"""
 	keyWait
@@ -66909,7 +66917,7 @@ script 62 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Não terá como sair
+	Não dá para sair
 	depois de entrar.
 	"""
 	keyWait
@@ -66946,7 +66954,7 @@ script 65 mmbn2 {
 	"""
 	Somente passageiros
 	VIP podem passar por
-	aqui!
+	aí!
 	"""
 	keyWait
 	end
@@ -66980,7 +66988,7 @@ script 70 mmbn2 {
 	msgOpen
 	"""
 	Eu não sei explicar bem
-	por que, mas isso é tão
+	por quê, mas isso é tão
 	emocionante.
 	"""
 	keyWait
@@ -67033,9 +67041,9 @@ script 71 mmbn2 {
 			jump = continue
 		]
 	"""
-	Ah, é? Bom, nesse caso
-	não vai poder
-	entrar aqui...
+	Ah, é? Bom, nesse
+	caso, não vai poder
+	entrar...
 	"""
 	keyWait
 	end
@@ -67131,8 +67139,8 @@ script 73 mmbn2 {
 		mugshot = NetopiaAirportMan
 	msgOpen
 	"""
-	Bingo! Sabia que eu
-	tinha razão!
+	Bingo! Sabia que era
+	isso!
 	Tenha um bom voo!
 	"""
 	keyWait
@@ -67346,7 +67354,7 @@ script 86 mmbn2 {
 	"""
 	keyWait
 	clearMsg
-	"Te manca, kono yaro!"
+	"Prazer, kono yaro!"
 	keyWait
 	clearMsg
 	"""
@@ -67843,7 +67851,7 @@ script 126 mmbn2 {
 		mugshot = NetopiaAirportMan
 	msgOpen
 	"""
-	É proibido trazer à bordo
+	É proibido trazer a bordo
 	objetos perigosos!!
 	"""
 	keyWait
@@ -68020,7 +68028,7 @@ script 175 mmbn2 {
 script 220 mmbn2 {
 	msgOpen
 	"""
-	O Quadro de Embarques
+	O Painel de Embarques
 	& Desembarques!
 	"""
 	keyWait
@@ -68065,7 +68073,7 @@ script 224 mmbn2 {
 	msgOpen
 	"""
 	"Objetos perigosos não
-	são permitidos à bordo."
+	são permitidos a bordo."
 	"""
 	keyWait
 	clearMsg
@@ -68148,9 +68156,8 @@ script 2 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Ele não tá tirando
-	uma com a minha cara,
-	tá?
+	Ele não tá tirando uma
+	com a minha cara, tá?
 	"""
 	keyWait
 	end
@@ -68325,7 +68332,8 @@ script 26 mmbn2 {
 	msgOpen
 	"""
 	Muito obrigada por
-	voar com a ALA.
+	voar com a Ameropa
+	Linhas Aéreas.
 	"""
 	keyWait
 	end
@@ -68384,8 +68392,8 @@ script 29 mmbn2 {
 		mugshot = NetopiaOldWoman
 	msgOpen
 	"""
-	Bem-vindo ao mercado
-	isento de impostos da
+	Bem-vindo à lojinha
+	isenta de impostos da
 	Ameropa.
 	"""
 	keyWait
@@ -69061,7 +69069,7 @@ script 193 mmbn2 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Esse chip está
+	Este chip está
 	carregado de amor!
 	Não, sobrecarregado!!
 	"""
@@ -69325,7 +69333,7 @@ script 224 mmbn2 {
 	"""
 	Não é por aqui que se
 	chega no centro
-	comercial de Ameropa.
+	comercial da Ameropa.
 	"""
 	keyWait
 	end
@@ -69336,8 +69344,7 @@ script 230 mmbn2 {
 	msgOpen
 	"""
 	Tem alguma coisa presa
-	entre os cartões-
-	postais
+	entre os cartões
 	"""
 	textSpeed
 		delay = 10
@@ -69440,9 +69447,9 @@ script 2 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Quer achar o
-	passaporte roubado
-	e os chips...
+	Quer achar seu
+	passaporte e chips
+	roubados, é...?
 	"""
 	keyWait
 	clearMsg
@@ -69631,7 +69638,7 @@ script 8 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Se você ficar de bobeira
+	Se ficar de bobeira,
 	os bandidos vão te
 	roubar.
 	"""
@@ -69785,7 +69792,7 @@ script 25 mmbn2 {
 	msgOpen
 	"""
 	A luz do sol batendo no
-	Castelo é perfeita.
+	Castelo está perfeita.
 	Vai, filha, bate uma foto!
 	"""
 	keyWait
@@ -70842,7 +70849,7 @@ script 0 mmbn2 {
 	msgOpen
 	"""
 	Este deve ser o nosso
-	hotel... vamos lá ver o
+	hotel... vamos lá pro
 	nosso quarto.
 	"""
 	keyWait
@@ -71265,7 +71272,7 @@ script 25 mmbn2 {
 	"""
 	Ô, menino! Tá com algum
 	problema? É só falar com
-	*ele* no Parque Ameropa.
+	ELE no Parque Ameropa.
 	"""
 	keyWait
 	clearMsg
@@ -71330,7 +71337,7 @@ script 28 mmbn2 {
 	clearMsg
 	"""
 	Porque nunca se sabe
-	o que vai ter amanhã.
+	como vai ser o amanhã.
 	"""
 	keyWait
 	clearMsg
@@ -71556,7 +71563,7 @@ script 39 mmbn2 {
 	"""
 	As ruas da Ameropa
 	ficam cheias de gente
-	desde o nascer do sol!
+	desde o raiar do sol!
 	"""
 	keyWait
 	end
@@ -71659,7 +71666,7 @@ script 46 mmbn2 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Meu primeiro item
+	Meu primeiro produto
 	é este!
 	"""
 	keyWait
@@ -71668,12 +71675,12 @@ script 46 mmbn2 {
 	printItem
 		buffer = 0
 		item = 27
-	"\""
+	"\"."
 	keyWait
 	clearMsg
 	"""
 	Acredita-se que
-	pertenceu a uma
+	pertencia a uma
 	princesa ameropana!
 	"""
 	keyWait
@@ -71687,7 +71694,7 @@ script 46 mmbn2 {
 	clearMsg
 	"""
 	então faço ele por
-	1000 zennys!
+	1000!
 	"""
 	keyWait
 	clearMsg
@@ -71747,7 +71754,7 @@ script 47 mmbn2 {
 	clearMsg
 	"""
 	Eu tenho outros
-	souvernirs também.
+	souvenirs também.
 	Volte sempre!
 	"""
 	keyWait
@@ -71799,7 +71806,7 @@ script 49 mmbn2 {
 	printItem
 		buffer = 0
 		item = 28
-	"\""
+	"\"!"
 	keyWait
 	clearMsg
 	"""
@@ -71862,7 +71869,7 @@ script 50 mmbn2 {
 	"Hahaaa!"
 	keyWait
 	clearMsg
-	"Você comprou \""
+	"Você comprou um \""
 	printItem
 		buffer = 0
 		item = 28
@@ -71920,7 +71927,7 @@ script 52 mmbn2 {
 	printItem
 		buffer = 0
 		item = 29
-	"\""
+	"\"."
 	keyWait
 	clearMsg
 	"""
@@ -72129,7 +72136,7 @@ script 60 mmbn2 {
 	"""
 	Hm? Foi você que
 	resolveu? Admito, isso
-	me pegou desprevinida.
+	me pegou desprevenida.
 	"""
 	keyWait
 	end
@@ -73248,15 +73255,15 @@ script 4 mmbn2 {
 	msgOpen
 	"""
 	Beleza, então. Tá, pra
-	começar eu vou te falar
-	do teu passaporte.
+	começar, vou falar do
+	teu passaporte.
 	"""
 	keyWait
 	clearMsg
 	"""
-	A uma hora dessas, já
+	A uma hora destas, já
 	deve ter ido parar lá
-	pro mundo online.
+	no mundo online.
 	"""
 	keyWait
 	clearMsg
@@ -73282,7 +73289,7 @@ script 4 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	... Se o teu passaporte
+	... Mas se o passaporte
 	tiver ido parar na
 	Undernet... já era!!
 	"""
@@ -73748,9 +73755,9 @@ script 31 mmbn2 {
 		mugshot = Raoul
 	msgOpen
 	"""
-	Isso é a prova de que
-	você é, de fato, o
-	vencedor...
+	Isto prova que você
+	foi, de fato, o
+	vitorioso...
 	"""
 	keyWait
 	clearMsg
@@ -73772,9 +73779,9 @@ script 32 mmbn2 {
 		mugshot = Raoul
 	msgOpen
 	"""
-	A segunda derrota tem
-	muito mais peso que a
-	primeira.
+	A segunda derrota
+	pesa muito mais
+	que a primeira.
 	"""
 	keyWait
 	clearMsg
@@ -73802,7 +73809,10 @@ script 35 mmbn2 {
 	mugshotShow
 		mugshot = Raoul
 	msgOpen
-	"Você já é parte de nós."
+	"""
+	Você já é um dos
+	nossos.
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -73882,7 +73892,7 @@ script 39 mmbn2 {
 	clearMsg
 	"""
 	há muitos anos! A gente
-	tem que-*hic* se dar
+	tem que *hic* se dar
 	bem!
 	"""
 	keyWait
@@ -74219,7 +74229,7 @@ script 61 mmbn2 {
 	"""
 	keyWait
 	clearMsg
-	"Foi só brincadeira!"
+	"... É brincadeira!"
 	waitSkip
 		frames = 15
 	"\nUma \"joke\"!"
@@ -74263,7 +74273,9 @@ script 64 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	e Ele me dá franguinho.
+	e agradeço a Ele pelo
+	franguinho que ele me
+	dá.
 	"""
 	keyWait
 	clearMsg
@@ -75129,7 +75141,7 @@ script 235 mmbn2 {
 	flagSet
 		flag = 321
 	msgOpen
-	"*Mexe Mexe*"
+	"*mexe mexe*"
 	keyWait
 	clearMsg
 	"""
@@ -75142,7 +75154,7 @@ script 235 mmbn2 {
 	"""
 	E no lugar de onde ele
 	saiu, há um malcheiroso
-	
+	"
 	"""
 	printItem
 		buffer = 0
@@ -75389,7 +75401,7 @@ script 197 mmbn2 {
 script 220 mmbn2 {
 	msgOpen
 	"""
-	Aqui fica uma sala com
+	Aqui fica um quarto com
 	privada e chuveiro. Um
 	"banheiro"... sabe...?
 	"""
@@ -75679,7 +75691,7 @@ script 235 mmbn2 {
 	"""
 	\"
 	dentro dele.
-	Congelado, mas útil.
+	Geladinho, mas útil.
 	"""
 	keyWait
 	clearMsg
@@ -75828,8 +75840,8 @@ script 8 mmbn2 {
 		mugshot = MsMillions
 	msgOpen
 	"""
-	E você tinha me deixado
-	toda animada aqui...
+	Você me deixou toda
+	animada, rapaz...
 	"""
 	keyWait
 	clearMsg
@@ -76437,9 +76449,9 @@ script 40 mmbn2 {
 		mugshot = MsMillions
 	msgOpen
 	"""
-	Será que você consegui-
-	rá me dar a emoção que
-	tanto quero?
+	Acho que você não é
+	capaz de me dar a emo-
+	ção que tanto quero.
 	"""
 	keyWait
 	clearMsg
@@ -76501,7 +76513,7 @@ script 45 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Por acaso pegou o
+	Por acaso pegou
 	interesse por joias?
 	"""
 	keyWait
@@ -76574,9 +76586,9 @@ script 52 mmbn2 {
 		mugshot = NetopiaOldWoman
 	msgOpen
 	"""
-	Nunca que eu vou
-	ter o dinheiro pra
-	comprar as joias daqui.
+	Nunca que eu vou ter
+	o dinheiro pra comprar
+	as joias daqui.
 	"""
 	keyWait
 	clearMsg
@@ -76611,7 +76623,7 @@ script 53 mmbn2 {
 	"""
 	keyWait
 	clearMsg
-	"Só de ver."
+	"Mas SÓ de se ver."
 	keyWait
 	end
 }
@@ -77251,8 +77263,8 @@ script 223 mmbn2 {
 	msgOpen
 	"""
 	As joias nesta parte
-	têm preços mais aces-
-	síveis a gente normal.
+	têm preços acessíveis
+	para gente normal.
 	"""
 	keyWait
 	end
@@ -77373,7 +77385,7 @@ script 2 mmbn2 {
 	clearMsg
 	"""
 	É minha primeira vez fora
-	do interior. Então essa
+	do interior. Então esta
 	é a cidade grande. Oxe!
 	"""
 	keyWait
@@ -78010,7 +78022,7 @@ script 35 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Antes esses desastres
+	Antes, esses desastres
 	eram todos suprimidos
 	pelo Sistema Ambiental.
 	"""
@@ -78374,7 +78386,7 @@ script 191 mmbn2 {
 	"""
 	O que foi? Mudou de ideia
 	e decidiu aceitar o
-	desafio do questionário?
+	desafio do Questionário?
 	"""
 	keyWait
 	clearMsg
@@ -78512,7 +78524,7 @@ script 194 mmbn2 {
 		frames = 20
 	"""
 	A resposta está
-	e... xata!
+	e...xata!
 	Próxima pergunta!
 	"""
 	keyWait
@@ -78530,8 +78542,8 @@ script 195 mmbn2 {
 	clearMsg
 	"""
 	Qual é o nome dos
-	velozes vírus em forma
-	de rato?
+	velozes vírus com
+	forma de rato?
 	"""
 	keyWait
 	clearMsg
@@ -78575,7 +78587,7 @@ script 195 mmbn2 {
 		frames = 20
 	"""
 	A resposta está
-	e... xata!
+	e...xata!
 	Próxima pergunta!
 	"""
 	keyWait
@@ -78638,7 +78650,7 @@ script 196 mmbn2 {
 		frames = 20
 	"""
 	A resposta está
-	e... xata!
+	e...xata!
 	Próxima pergunta!
 	"""
 	keyWait
@@ -78701,7 +78713,7 @@ script 197 mmbn2 {
 		frames = 20
 	"""
 	A resposta está
-	e... xata!
+	e...xata!
 	Próxima pergunta!
 	"""
 	keyWait
@@ -78764,7 +78776,7 @@ script 198 mmbn2 {
 		frames = 20
 	"""
 	A resposta está
-	e... xata!
+	e...xata!
 	Próxima pergunta!
 	"""
 	keyWait
@@ -78842,7 +78854,7 @@ script 199 mmbn2 {
 		frames = 20
 	"""
 	A resposta está
-	e... xata!
+	e...xata!
 	Próxima pergunta!
 	"""
 	keyWait
@@ -78915,7 +78927,7 @@ script 200 mmbn2 {
 		frames = 20
 	"""
 	A resposta está
-	e... xata!
+	e...xata!
 	Próxima pergunta!
 	"""
 	keyWait
@@ -78978,7 +78990,7 @@ script 201 mmbn2 {
 		frames = 20
 	"""
 	A resposta está
-	e... xata!
+	e...xata!
 	Próxima pergunta!
 	"""
 	keyWait
@@ -79041,7 +79053,7 @@ script 202 mmbn2 {
 		frames = 20
 	"""
 	A resposta está
-	e... xata!
+	e...xata!
 	Próxima pergunta!
 	"""
 	keyWait
@@ -79104,7 +79116,7 @@ script 203 mmbn2 {
 		frames = 20
 	"""
 	A resposta está
-	e... xatíssima!
+	e...xatíssima!
 	"""
 	keyWait
 	clearMsg
@@ -79293,7 +79305,7 @@ script 222 mmbn2 {
 	msgOpen
 	"""
 	Vários Oficiais estão
-	trabalhando duro aqui.
+	trabalhando duro aí.
 	"""
 	keyWait
 	end
@@ -79308,8 +79320,8 @@ script 223 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	para exibir as condições
-	mundiais.
+	para exibir o estado
+	do mundo inteiro.
 	"""
 	keyWait
 	end
@@ -79956,7 +79968,7 @@ script 200 mmbn2 {
 	"""
 	Qual é a temperatura
 	do frigobar do hotel
-	em Ameropa?
+	na Ameropa?
 	"""
 	keyWait
 	clearMsg
@@ -80585,7 +80597,7 @@ script 220 mmbn2 {
 	msgOpen
 	"""
 	Um velho interruptor
-	de luz... Não deve
+	elétrico... Não deve
 	estar funcionando.
 	"""
 	keyWait
@@ -80604,15 +80616,15 @@ script 222 mmbn2 {
 	msgOpen
 	"""
 	Um velho interruptor
-	de luz... Não deve
+	elétrico... Não deve
 	estar funcionando.
 	"""
 	keyWait
 	clearMsg
 	"""
-	... Mas olhando mais
-	de perto, há uma entra-
-	da de conexão nele!
+	... Mas olhando mais de
+	perto, há uma entrada
+	de conexão nele!
 	"""
 	keyWait
 	end
@@ -80722,8 +80734,8 @@ script 20 mmbn2 {
 script 220 mmbn2 {
 	msgOpen
 	"""
-	Foi trancada por
-	um programa armadilha.
+	Foi trancada por um 
+	programa de armadilha.
 	"""
 	keyWait
 	end
@@ -81002,8 +81014,8 @@ script 7 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan, não parece dar
-	para subir por aí.
+	Lan, não parece que
+	dá pra subir por aí.
 	"""
 	keyWait
 	end
@@ -81451,7 +81463,7 @@ script 42 mmbn2 {
 		mugshot = FlightAttendant
 	"""
 	Estão tentando pegar
-	uma aranha, né?
+	aquela aranha, né?
 	Boa sorte!
 	"""
 	keyWait
@@ -81659,8 +81671,8 @@ script 3 mmbn2 {
 	clearMsg
 	"""
 	Mas ele ficou com dor
-	de barriga e foi
-	parar no hospital.
+	de barriga e foi parar
+	no hospital.
 	"""
 	keyWait
 	clearMsg
@@ -81767,7 +81779,7 @@ script 5 mmbn2 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	ZZZ..
+	ZZZ...
 	ZZZ...
 	Mnham, mnham...
 	"""
@@ -81898,8 +81910,8 @@ script 8 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Ouvi dizer que este avião
-	tem um tipo de
+	Ouvi dizer que este
+	avião tem um tipo de
 	programa especial.
 	"""
 	keyWait
@@ -82154,14 +82166,14 @@ script 24 mmbn2 {
 		mugshot = PompadourMan
 	msgOpen
 	"""
-	Que tubolência forte!
-	Fiquei choquento!
+	Que "tubolência" forte!
+	Fiquei "choquento"!
 	"""
 	keyWait
 	clearMsg
 	"""
 	Achei até que ia ter
-	um araque tardio!
+	um "araque tardio"!
 	"""
 	keyWait
 	end
@@ -82185,7 +82197,7 @@ script 26 mmbn2 {
 	mugshotShow
 		mugshot = OldWoman
 	msgOpen
-	"Acalme-se."
+	"Calma."
 	keyWait
 	end
 }
@@ -82260,7 +82272,7 @@ script 38 mmbn2 {
 	msgOpen
 	"""
 	Ouço dizer que Ni-Hon
-	é espantador.
+	é "espantador".
 	"""
 	keyWait
 	clearMsg
@@ -82294,7 +82306,7 @@ script 40 mmbn2 {
 	msgOpen
 	"""
 	As refeições servidas
-	à bordo são maravilhosas!
+	a bordo são maravilhosas!
 	"""
 	keyWait
 	clearMsg
@@ -82559,13 +82571,13 @@ script 66 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Na verdade foi o meu
+	Na verdade, foi o meu
 	marido quem os fez.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Eu e ele fizemos
+	Eu e ele talhamos
 	palitinhos juntos por
 	45 anos.
 	"""
@@ -82593,7 +82605,7 @@ script 66 mmbn2 {
 	"""
 	Juntamos aos poucos
 	o dinheiro necessário
-	pra fazer a viagem,
+	para fazer a viagem,
 	"""
 	keyWait
 	clearMsg
@@ -82830,7 +82842,7 @@ script 75 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Com essa minha nova
+	Com esta minha nova
 	câmera super top!
 	"""
 	keyWait
@@ -83171,7 +83183,7 @@ script 130 mmbn2 {
 	"""
 	Temos que ficar atentos
 	a vírus e objetos
-	suspeitos à bordo.
+	suspeitos a bordo.
 	"""
 	keyWait
 	end
@@ -83366,7 +83378,7 @@ script 1 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	É para oferecermos
+	É para oferecerem
 	mais conforto aqui.
 	"""
 	keyWait
@@ -83547,9 +83559,9 @@ script 5 mmbn2 {
 		mugshot = Entomologist
 	msgOpen
 	"""
-	Fui para a Ameropa para
-	um "Simpósio Mundial
-	de Insetos".
+	Fui à Ameropa para um
+	"Simpósio Mundial de
+	Insetos".
 	"""
 	keyWait
 	clearMsg
@@ -83791,7 +83803,7 @@ script 24 mmbn2 {
 	msgOpen
 	"""
 	É minha primeira vez
-	na Ameropa.
+	em Ni-Hon.
 	"""
 	keyWait
 	clearMsg
@@ -83879,7 +83891,7 @@ script 28 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Tá, vê se isso te
+	Tá, vê se isto te
 	convence.
 	"""
 	keyWait
@@ -84114,7 +84126,7 @@ script 50 mmbn2 {
 	"""
 	keyWait
 	clearMsg
-	"Do lado do banheiro?"
+	"Na frente do banheiro?"
 	keyWait
 	clearMsg
 	"""
@@ -84769,7 +84781,7 @@ script 221 mmbn2 {
 	msgOpen
 	"""
 	Há uma porção de
-	revistas amontoadas
+	revistas dispostas
 	aqui.
 	"""
 	keyWait
@@ -84800,8 +84812,8 @@ script 223 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Não dá para ver atrás
-	da cortina.
+	É proibido espiar
+	atrás da cortina.
 	"""
 	keyWait
 	clearMsg
@@ -86238,8 +86250,8 @@ script 195 mmbn2 {
 script 220 mmbn2 {
 	msgOpen
 	"""
-	Que poltrona incrível!
-	É a perfeita descrição
+	Que sofá incrível!
+	É a descrição perfeita
 	de "sublime".
 	"""
 	keyWait
@@ -86521,7 +86533,7 @@ script 10 mmbn2 {
 	msgOpen
 	"""
 	Todos os sistemas
-	operantes
+	operando
 	satisfatoriamente!
 	"""
 	keyWait
@@ -88437,8 +88449,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -88480,8 +88491,7 @@ script 231 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -88980,8 +88990,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -89039,7 +89048,7 @@ script 0 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Ás vezes, bombas
+	Às vezes, bombas
 	desativadas aparecem
 	no campo de batalha aqui.
 	"""
@@ -89156,8 +89165,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -89423,8 +89431,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -89557,8 +89564,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -89600,8 +89606,7 @@ script 231 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -89779,7 +89784,8 @@ script 1 mmbn2 {
 	"""
 	keyWait
 	clearMsg
-	"\"--- pai, --- filho.\""
+	"\"Quem --n-a, seus males
+	espanta.\""
 	keyWait
 	end
 }
@@ -89792,9 +89798,9 @@ script 2 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I lie in a bed,
-	but never sleep.
-	What am I?
+	OK, essa é a fácil:
+	como se diz "rio" em
+	inglês?
 	"""
 	keyWait
 	end
@@ -89804,9 +89810,9 @@ script 3 mmbn2 {
 		mugshot = NormalNavi
 	msgOpen
 	"""
-	According to my info
-	red,yellow,& blue
-	are somehow related.
+	Pelo que ouvi, há uma
+	relação entre vermelho,
+	amarelo e azul.
 	"""
 	keyWait
 	end
@@ -90042,8 +90048,7 @@ script 232 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -90196,9 +90201,9 @@ script 5 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	What do you call a
-	chronometer you
-	can wear?
+	Provinha de inglês!
+	Um "clock", só que
+	menor.
 	"""
 	keyWait
 	end
@@ -90221,10 +90226,11 @@ script 7 mmbn2 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Make 2 words from:"
+	"Escreva uma palavra
+	usando as letras:"
 	keyWait
 	clearMsg
-	"\"ere last moth\""
+	"\"ERELASTMOTH\""
 	keyWait
 	end
 }
@@ -90233,9 +90239,9 @@ script 8 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	2nd letter is L.
-	5th letter is S.
-	10th letter is R.
+	A segunda letra é L.
+	A quinta é S.
+	A décima é R.
 	"""
 	keyWait
 	end
@@ -90245,9 +90251,9 @@ script 9 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	3rd letter is M.
-	7th letter is T.
-	Last letter is E.
+	A terceira letra é M.
+	A sétima é T.
+	A última é E.
 	"""
 	keyWait
 	end
@@ -90257,9 +90263,9 @@ script 10 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	First letter is A.
-	4th letter is O.
-	8th letter is H.
+	A primeira letra é A.
+	A quarta é O.
+	A oitava é H.
 	"""
 	keyWait
 	end
@@ -90308,8 +90314,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -90430,8 +90435,7 @@ script 233 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -90488,8 +90492,8 @@ script 3 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Leia as letras nos
-	quadros.
+	Preste atenção às
+	letras nos quadros.
 	"""
 	keyWait
 	end
@@ -90499,8 +90503,9 @@ script 4 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Leia a terceira letra
-	de cima para baixo.
+	Leia só as terceiras
+	letras de cima para
+	baixo.
 	"""
 	keyWait
 	end
@@ -90516,9 +90521,9 @@ script 5 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Oh yeah,it's...
-	A QUICK BROWN
-	FOX... something.
+	Ah, é, era em inglês...
+	"Pula". Verbo. Terceira
+	pessoa do singular.
 	"""
 	keyWait
 	end
@@ -90528,9 +90533,9 @@ script 6 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	O Navi que acabou de se
-	infiltrar aqui espalhou
-	grama por toda a área.
+	O Navi que se infiltrou
+	aqui espalhou grama por
+	toda a área.
 	"""
 	keyWait
 	clearMsg
@@ -90564,8 +90569,8 @@ script 220 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	YOU CANNOT
-	ESCAPE NOW!
+	SEU FIM É O
+	ARCABOUÇO!
 	"""
 	keyWait
 	end
@@ -90582,8 +90587,8 @@ script 221 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	FEAR AND
-	DANGER AWAIT!
+	TRAREI A VOCÊ
+	PANDEMÔNIO!
 	"""
 	keyWait
 	end
@@ -90600,8 +90605,8 @@ script 222 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	BEGINNING TO WORRY?
-	GOOD LUCK!
+	LÁGRIMAS CHEGANDO?
+	PROBLEMA SEU!
 	"""
 	keyWait
 	end
@@ -90633,8 +90638,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -90676,8 +90680,7 @@ script 231 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -90719,8 +90722,7 @@ script 232 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -90779,7 +90781,10 @@ script 0 mmbn2 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Itsy-bitsy"
+	"""
+	Acho que termina com
+	ER.
+	"""
 	keyWait
 	end
 }
@@ -90787,7 +90792,11 @@ script 1 mmbn2 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Muffet foe"
+	"""
+	As letras do meio
+	são a abreviação
+	de "identidade".
+	"""
 	keyWait
 	end
 }
@@ -90795,7 +90804,11 @@ script 2 mmbn2 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"8 legs"
+	"""
+	Começa com a sigla
+	do estado brasileiro
+	de São Paulo.
+	"""
 	keyWait
 	end
 }
@@ -90803,7 +90816,11 @@ script 3 mmbn2 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"Spins webs"
+	"""
+	É um aracnídeo.
+	Mas não na sua
+	língua.
+	"""
 	keyWait
 	end
 }
@@ -90812,9 +90829,9 @@ script 4 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	What did William
-	Tell hit with his
-	arrow?
+	Famosa marca de
+	smartphones, dentre
+	outras coisas.
 	"""
 	keyWait
 	end
@@ -90964,8 +90981,7 @@ script 231 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -91007,8 +91023,7 @@ script 232 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -91030,7 +91045,11 @@ script 0 mmbn2 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"I wear a mask..."
+	"""
+	Uma cidade fictícia
+	de outro jogo da
+	CAPCOM.
+	"""
 	keyWait
 	end
 }
@@ -91038,7 +91057,10 @@ script 1 mmbn2 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"I'm an animal."
+	"""
+	Uma cidade cheia de
+	zumbis.
+	"""
 	keyWait
 	end
 }
@@ -91076,13 +91098,13 @@ script 4 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I'm in charge of
-	this password
-	decoding key:
+	Estou encarregado da
+	chave de decodificação
+	da senha:
 	"""
 	keyWait
 	clearMsg
-	"HINT:21,18,21,15,26,\n     25,12,16,14,23,\n     11"
+	"DICA: 21, 18, 21, 15, 26,\n        25, 12, 16, 14, 23,\n        11"
 	keyWait
 	end
 }
@@ -91171,14 +91193,14 @@ script 9 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Descubra qual palavra
+	Descubra qual deles
 	não se encaixa...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Everyone else
-	is a bird.
+	Todos os outros são
+	pássaros. Em inglês.
 	"""
 	keyWait
 	end
@@ -91188,12 +91210,16 @@ script 10 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	black bird,cold bird
-	water bird
+	pássaro preto, pássaro
+	do frio, pássaro da
+	água
 	"""
 	keyWait
 	clearMsg
-	"Entendeu?"
+	"""
+	Sacou? Lembrando:
+	é em inglês!
+	"""
 	keyWait
 	end
 }
@@ -91330,12 +91356,13 @@ script 231 mmbn2 {
 	end
 }
 script 232 mmbn2 {
-	"Você tem \""
+	"Tem \""
 	printItem
 		buffer = 0
 		item = 113
 	"""
-	" demais!
+	"
+	demais!
 	Não dá para pegar mais!
 	"""
 	keyWait
@@ -91481,22 +91508,22 @@ script 5 mmbn2 {
 	msgOpen
 	"""
 	Você já se deparou com
-	um fantasma que se
-	parece com uma sombra?
+	um fantasma que parece
+	uma sombra?
 	"""
 	keyWait
 	clearMsg
 	"""
 	Como ele não tem corpo,
-	todos os ataques
-	o atravessam.
+	todos os ataques o
+	atravessam.
 	"""
 	keyWait
 	clearMsg
 	"""
 	Somente certos ataques
 	poderosos podem cortar
-	o seu barato.
+	o barato dele.
 	"""
 	keyWait
 	clearMsg
@@ -91900,7 +91927,7 @@ script 225 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Temos que sair daqui
+	Vocês têm que sair daí
 	antes que o teto caia!
 	Rápido, Lan!
 	"""
@@ -92073,8 +92100,7 @@ script 233 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -92157,8 +92183,7 @@ script 235 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -92669,8 +92694,7 @@ script 232 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -93101,8 +93125,7 @@ script 235 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -93144,8 +93167,7 @@ script 236 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -93188,7 +93210,7 @@ script 0 mmbn2 {
 	"""
 	Nós, programas, não
 	operamos direito em
-	lugares assim.
+	áreas assim.
 	"""
 	keyWait
 	end
@@ -93198,9 +93220,9 @@ script 1 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	O programa de
-	aceleração da aeronave
-	fica logo à frente.
+	O programa do motor
+	da aeronave fica 
+	logo à frente.
 	"""
 	keyWait
 	end
@@ -93211,7 +93233,7 @@ script 30 mmbn2 {
 	msgOpen
 	"""
 	Vamos consertar o
-	programa de aceleração!
+	programa do motor!
 	"""
 	keyWait
 	end
@@ -93311,15 +93333,14 @@ script 224 mmbn2 {
 	msgOpen
 	"""
 	MegaMan corrigiu o bug
-	no programa de
-	aceleração!!
+	no programa do motor!!
 	"""
 	keyWait
 	clearMsg
 	"""
-	O programa de
-	aceleração passou a
-	operar normalmente!!
+	O programa do motor
+	passou a operar
+	normalmente!!
 	"""
 	keyWait
 	flagSet
@@ -93331,9 +93352,8 @@ script 224 mmbn2 {
 script 225 mmbn2 {
 	msgOpen
 	"""
-	É um painel de controle
-	de energia da
-	aeronave.
+	É o painel de controle
+	do motor da aeronave.
 	"""
 	keyWait
 	end
@@ -93365,8 +93385,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -93687,8 +93706,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -93875,7 +93893,7 @@ script 1 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Existe um campo
+	Estamos em um campo
 	magnético que nem nós
 	podemos desmagnetizar...
 	"""
@@ -93883,7 +93901,7 @@ script 1 mmbn2 {
 	clearMsg
 	"""
 	Assim sendo, você
-	precisará...
+	precisará
 	"""
 	keyWait
 	clearMsg
@@ -94144,8 +94162,7 @@ script 232 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -94462,8 +94479,7 @@ script 233 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -94654,8 +94670,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -94732,8 +94747,7 @@ script 232 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -94893,8 +94907,7 @@ script 231 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -95229,8 +95242,7 @@ script 233 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -95762,8 +95774,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -95884,8 +95895,7 @@ script 233 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -95923,7 +95933,7 @@ script 0 mmbn2 {
 	clearMsg
 	"""
 	Ele está ligado à Rede
-	e às homepages de
+	e às páginas de
 	vários amigos.
 	"""
 	keyWait
@@ -96140,8 +96150,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -96300,20 +96309,19 @@ script 190 mmbn2 {
 	clearMsg
 	"""
 	Eu vou gerar cinco
-	baterias seguidas
-	de vírus.
+	baterias seguidas de
+	vírus.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Lute com eles, e eu
-	vou medir
+	Lute com eles,
 	"""
 	keyWait
 	clearMsg
 	"""
-	a sua taxa de
-	sincronização e
+	e eu vou medir a sua
+	taxa de sincronia e
 	resposta.
 	"""
 	keyWait
@@ -96473,7 +96481,7 @@ script 195 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Tente acabar com cinco
+	Você enfrentará cinco
 	baterias seguidas de
 	vírus!
 	"""
@@ -96538,8 +96546,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -96619,8 +96626,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -96702,8 +96708,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -96807,8 +96812,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -97229,21 +97233,21 @@ script 0 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Da-di da-di da!
-	Da-di da-di da!
+	Tac-tic tac-tic tac!
+	Tac-tic tac-tic tac!
 	"""
 	keyWait
 	clearMsg
 	"""
-	I am an electric
-	piano program.
+	Sou um dos programas
+	do piano elétrico.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I practice hard so
-	I'll sound like a
-	real piano someday.
+	Vou praticar e, um dia,
+	farei o mesmo som que
+	um piano de verdade.
 	"""
 	keyWait
 	end
@@ -97252,19 +97256,19 @@ script 1 mmbn2 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"One two three four."
+	"Um, dois, três, quatro."
 	keyWait
 	clearMsg
 	"""
-	I'm a metronome
-	control program.
+	Sou um programa de
+	controle de metrônomo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm practicing to
-	ensure I keep the
-	proper rhythm.
+	Estou treinando para
+	sempre manter o ritmo
+	devido.
 	"""
 	keyWait
 	end
@@ -97276,18 +97280,18 @@ script 190 mmbn2 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	You must be taking
-	the SSSLicense exam.
+	Você deve estar fazendo
+	a prova da LicençaSSS.
 	"""
 	keyWait
 	clearMsg
-	"Here's my keyword:"
+	"Eis minha palavra-chave:"
 	keyWait
 	clearMsg
-	"\"My natural parents\"."
+	"\"Meu progenitor\"."
 	keyWait
 	clearMsg
-	"Got it?"
+	"Pegou?"
 	keyWait
 	end
 }
@@ -97487,7 +97491,7 @@ script 35 mmbn2 {
 		mugshot = EvilNavi
 	msgOpen
 	"""
-	E isso aqui é pra você,
+	E isto aqui é pra você,
 	seu ladrão!!
 	"""
 	keyWait
@@ -97661,8 +97665,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -97809,13 +97812,16 @@ script 192 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Isto aqui era do Navi que
-	você derrotou, mas
-	darei a você.
+	Isto aqui era do Navi
+	que você derrotou,
+	mas pode ficar.
 	"""
 	keyWait
 	clearMsg
-	"É meio sinistro, né?"
+	"""
+	É um negócio meio
+	sinistro, sabe?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -98534,8 +98540,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -98900,8 +98905,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -98965,7 +98969,8 @@ script 0 mmbn2 {
 	clearMsg
 	"""
 	O-o próximo voo para
-	Ameropa é às 10h30.
+	a Ameropa sairá às
+	10h30.
 	"""
 	keyWait
 	clearMsg
@@ -98981,7 +98986,7 @@ script 0 mmbn2 {
 	"""
 	Estou tentando decorar
 	o cronograma de voos
-	para mostrar no quadro!
+	pra mostrar no painel!
 	"""
 	keyWait
 	clearMsg
@@ -99008,7 +99013,7 @@ script 1 mmbn2 {
 	clearMsg
 	"""
 	"Temos uma regra para
-	o quadro de embarques
+	o painel de embarques
 	e desembarques:
 	"""
 	keyWait
@@ -99027,9 +99032,9 @@ script 1 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Mas eu deixo ele
-	continuar achando isso
-	porque é engraçado.
+	E eu deixo ele conti-
+	nuar acreditando nis-
+	so porque é hilário.
 	"""
 	keyWait
 	end
@@ -99140,8 +99145,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -99163,30 +99167,29 @@ script 0 mmbn2 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"So,you noticed!"
+	"Ah, então, você notou!"
 	keyWait
 	clearMsg
 	"""
-	This statue contains
-	a hidden camera.
-	"""
-	keyWait
-	clearMsg
-	"""
-	This mansion is an
-	inviting target for
-	thieves.
+	Que havia uma câmera
+	escondida nesta estátua.
 	"""
 	keyWait
 	clearMsg
 	"""
-	We alternate
-	patrols here 24
-	hours a day.
+	Esta mansão é um alvo
+	apetitoso para ladrões.
 	"""
 	keyWait
 	clearMsg
-	"Oh! Time to switch."
+	"""
+	Fazemos patrulhamento
+	alternado dela 24 horas
+	por dia.
+	"""
+	keyWait
+	clearMsg
+	"Opa! Hora de trocar."
 	keyWait
 	end
 }
@@ -99195,18 +99198,18 @@ script 1 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Mumble,mumble...
-	Don't wanna work...
+	Mmh mmh...
+	Num quero trabalhar...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Even programs need
-	to rest!
+	Até programas precisam
+	de descanso!
 	"""
 	keyWait
 	clearMsg
-	"Mumble,mumble..."
+	"Mhn mmh..."
 	keyWait
 	end
 }
@@ -99359,8 +99362,7 @@ script 231 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -99411,7 +99413,7 @@ script 0 mmbn2 {
 	"""
 	Informações de todos os
 	cantos do mundo não
-	param de brotar.
+	param de chegar.
 	"""
 	keyWait
 	clearMsg
@@ -99541,20 +99543,20 @@ script 0 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Shiver,shiver...
-	Actually,I'm scared
-	of heights.
+	Treme-treme...
+	Na verdade, eu tenho
+	medo de alturas.
 	"""
 	keyWait
 	clearMsg
 	"""
-	But if I shake,so
-	does the picture. So
-	I'm trying to stop.
+	Mas quando eu tremo,
+	a imagem também treme.
+	Estou tentando parar.
 	"""
 	keyWait
 	clearMsg
-	"Shiver,shiver..."
+	"Treme-treme..."
 	keyWait
 	end
 }
@@ -99563,16 +99565,16 @@ script 1 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	The reason the in-
-	flight TV picture
-	gets fuzzy is...
+	Sabe por que as telas
+	das TVs de avião ficam
+	falhas, às vezes?
 	"""
 	keyWait
 	clearMsg
 	"""
-	Because one of the
-	programs is scared
-	of heights!
+	Porque um dos
+	programas tem medo
+	de altura!
 	"""
 	keyWait
 	end
@@ -99586,8 +99588,8 @@ script 180 mmbn2 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I sell subchips.
-	Wanna see my wares?
+	Olá, eu vendo subchips.
+	Quer conferir meu acervo?
 	
 	"""
 	option
@@ -99597,7 +99599,7 @@ script 180 mmbn2 {
 		down = 0
 	space
 		count = 2
-	"Look "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -99605,7 +99607,7 @@ script 180 mmbn2 {
 		down = 1
 	space
 		count = 2
-	"Don't look"
+	"Não"
 	select
 		default = 0
 		disableB = false
@@ -99629,8 +99631,9 @@ script 182 mmbn2 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I sell subchips,but
-	I'm all out today.
+	Sou um vendedor de
+	subchips, mas estou
+	sem acervo agora.
 	"""
 	keyWait
 	end
@@ -99873,8 +99876,7 @@ script 231 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -100274,26 +100276,27 @@ script 25 mmbn2 {
 	mugshotShow
 		mugshot = NormalNavi
 	msgOpen
-	"O Portal aqui..."
+	"Os Portais aqui..."
 	keyWait
 	clearMsg
 	"""
-	liga esta àrea ao
+	ligam esta área ao
 	Plaza, Kotobuki,
 	Saborya e Ameropa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Mas está bloqueado para
-	prevenir acessos ilegais.
+	Mas estão bloqueados
+	para prevenir acessos
+	ilegais.
 	"""
 	keyWait
 	clearMsg
 	"""
 	Por isso é preciso uma
 	ChvePort para acessar
-	o Portal.
+	os Portais.
 	"""
 	keyWait
 	clearMsg
@@ -100604,7 +100607,7 @@ script 52 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Um Navi oficial está
+	Tem Navi oficial
 	vasculhando a Rede.
 	Ou seja...
 	"""
@@ -101259,8 +101262,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -102346,8 +102348,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -102419,8 +102420,7 @@ script 233 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -102519,8 +102519,7 @@ script 237 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -102960,7 +102959,7 @@ script 27 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	É o que os humanos
+	Ela é o que os humanos
 	chamam de "cidade bela".
 	"""
 	keyWait
@@ -103034,8 +103033,8 @@ script 37 mmbn2 {
 	clearMsg
 	"""
 	Não saia zanzando por
-	aí. Há coisas estranhas
-	acontecendo.
+	aí. Coisas estranhas
+	andam acontecendo.
 	"""
 	keyWait
 	end
@@ -103045,9 +103044,8 @@ script 38 mmbn2 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Você está atrapa-
-	lhando! Saia da
-	frente!
+	Você está atrapalhan-
+	do! Saia já daqui!
 	"""
 	keyWait
 	end
@@ -103086,8 +103084,8 @@ script 50 mmbn2 {
 		buffer = 0
 		item = 86
 	"""
-	" se for
-	à Ameropa.
+	" se for à
+	Ameropa.
 	"""
 	keyWait
 	end
@@ -103696,8 +103694,7 @@ script 234 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -104019,7 +104016,7 @@ script 15 mmbn2 {
 	"""
 	Agora você pode passar
 	pelo Conector no canto
-	inferior-direito daqui!
+	inferior direito daqui!
 	"""
 	keyWait
 	end
@@ -104220,7 +104217,7 @@ script 191 mmbn2 {
 	"""
 	Minha próxima NetLuta
 	será contra o meu 
-	arquirival.
+	arquirrival.
 	"""
 	keyWait
 	clearMsg
@@ -104275,11 +104272,11 @@ script 192 mmbn2 {
 	"""
 	keyWait
 	clearMsg
-	"Ele NÃO TEM UM?"
+	"Ele NÃO TEM?"
 	keyWait
 	clearMsg
 	"""
-	Ele vai se focar em usar
+	Ele vai focar em usar
 	sua rapidez pra me
 	confundir, é...?
 	"""
@@ -105259,7 +105256,7 @@ script 37 mmbn2 {
 	msgOpen
 	"""
 	Estamos realizando a
-	prova da  
+	prova da 
 	"""
 	printItem
 		buffer = 0
@@ -105708,8 +105705,8 @@ script 70 mmbn2 {
 	clearMsg
 	"""
 	O Plaza continua aberto,
-	mesmo em meio aos
-	últimos incidentes.
+	mesmo após os últimos
+	incidentes.
 	"""
 	keyWait
 	end
@@ -105800,7 +105797,7 @@ script 87 mmbn2 {
 		mugshot = PurpleNavi
 	"""
 	♪Ah, amado Plaza!
-	Tua persença só enri-
+	Tua presença só enri-
 	quece nosso cibermundo!♪
 	"""
 	keyWait
@@ -107521,8 +107518,8 @@ script 52 mmbn2 {
 	msgOpen
 	"""
 	Os Oficiais não param
-	de falar pra gente
-	se desconectar.
+	de falar pra gente se
+	desconectar.
 	"""
 	keyWait
 	clearMsg
@@ -107534,15 +107531,14 @@ script 52 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Aqui nós respeitamos
-	a liberdade do
-	indivíduo.
+	Aqui nós respeitamos a
+	liberdade do indivíduo.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Ou seja, se desconectar
-	ou não se desconectar
+	Ou seja, desconectar
+	ou não desconectar
 	só cabe a nós mesmos.
 	"""
 	keyWait
@@ -107809,8 +107805,8 @@ script 109 mmbn2 {
 	clearMsg
 	"""
 	Já sei! Vamos pedir pro
-	papai dar uma estudada
-	nisso.
+	papai dar uma olhada
+	nisto.
 	"""
 	keyWait
 	end
@@ -108069,8 +108065,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -108112,8 +108107,7 @@ script 231 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -108239,8 +108233,7 @@ script 235 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -108339,9 +108332,9 @@ script 20 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	I took the Undernet
-	as a shortcut,but I
-	got lost.
+	Resolvi pegar um atalho
+	pela Undernet, mas
+	acabei me perdendo.
 	"""
 	keyWait
 	end
@@ -108410,53 +108403,55 @@ script 190 mmbn2 {
 		mugshot = EvilNavi
 	msgOpen
 	"""
-	Hello,I heard
-	the story from No.2.
+	Ora, olá. O No. 2 já
+	me explicou a situação.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I'm No.1,the leader
-	of the Black Navis.
+	Eu sou o No. 1, o líder
+	dos Navis das Sombras.
 	"""
 	keyWait
 	clearMsg
 	"""
-	I can't believe that
-	all of my followers
-	got deleted...
+	Não acredito que todos
+	os meus seguidores foram
+	deletados...
 	"""
 	keyWait
 	clearMsg
 	"""
-	But I'm not too
-	upset about it...
+	Mas isso nem me deixa
+	chateado, para ser
+	franco...
 	"""
 	keyWait
 	clearMsg
 	"""
-	In fact,I'm pleased
-	to see how talented
-	you are.
+	Na verdade, me alegra
+	ver o quanto você é
+	talentoso.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Let's conquer the
-	Net together!
+	Que tal nós dois
+	conquistarmos a Rede...
+	juntos?!
 	"""
 	keyWait
 	clearMsg
 	"""
-	The Black Navis
-	would be unbeatable
-	if you joined us.
+	Os Navis das Sombras
+	seriam imbatíveis com
+	você no time.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Of course,I'll give
-	you a high rank.
+	E, claro, eu darei a você
+	uma posição bem elevada.
 	"""
 	keyWait
 	clearMsg
@@ -108468,8 +108463,8 @@ script 191 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'll never take the
-	side of evil!!
+	Eu nunca vou ficar do
+	lado do mal!!
 	"""
 	keyWait
 	clearMsg
@@ -108480,26 +108475,25 @@ script 192 mmbn2 {
 	mugshotShow
 		mugshot = EvilNavi
 	msgOpen
-	"That's a pity..."
+	"Pena..."
 	keyWait
 	clearMsg
 	"""
-	Because it means
-	you're standing in
-	my way.
-	"""
-	keyWait
-	clearMsg
-	"""
-	I can't just leave
-	dangerous things
-	lying around...
+	Porque isso significa
+	que você está no meu
+	caminho.
 	"""
 	keyWait
 	clearMsg
 	"""
-	No matter how small
-	they might be!!
+	E eu não posso deixar
+	coisas perigosas à
+	solta por aí...
+	"""
+	keyWait
+	clearMsg
+	"""
+	por menores que sejam!
 	"""
 	keyWait
 	clearMsg
@@ -108521,9 +108515,9 @@ script 220 mmbn2 {
 	mugshotHide
 	msgOpen
 	"""
-	MegaMan cannot break
-	the ice without a
-	cure!
+	MegaMan não pode
+	quebrar o gelo sem
+	a cura!
 	"""
 	keyWait
 	end
@@ -108676,8 +108670,7 @@ script 234 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -108842,8 +108835,7 @@ script 239 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -108925,8 +108917,7 @@ script 241 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -109032,8 +109023,7 @@ script 1 mmbn2 {
 		buffer = 0
 		item = 69
 	"""
-	" por
-	chips.
+	" por chips.
 	"""
 	keyWait
 	end
@@ -109078,8 +109068,8 @@ script 2 mmbn2 {
 		buffer = 0
 		item = 69
 	"""
-	"
-	para se livrar deles.
+	" para
+	se livrar deles.
 	"""
 	keyWait
 	end
@@ -109317,7 +109307,7 @@ script 40 mmbn2 {
 	"""
 	E recupere um certo
 	programa do Navi que
-	fica por lá.
+	está por lá.
 	"""
 	keyWait
 	clearMsg
@@ -109411,8 +109401,8 @@ script 44 mmbn2 {
 	clearMsg
 	"""
 	Bom trabalho! Na verdade,
-	sou examinador da
-	prova da LicençaA.
+	sou examinador da prova
+	da LicençaA.
 	"""
 	keyWait
 	clearMsg
@@ -109460,8 +109450,7 @@ script 45 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -109578,7 +109567,7 @@ script 80 mmbn2 {
 	"Bem-vindo ao KotoPlaza!"
 	keyWait
 	clearMsg
-	"Uma pessoa, por favor!"
+	"Uma visita! Aleluia!"
 	keyWait
 	clearMsg
 	"Feliz. "
@@ -109603,8 +109592,8 @@ script 81 mmbn2 {
 	waitSkip
 		frames = 15
 	"""
-	Até que parece ser bem
-	legal.
+	Até que parece um
+	lugar bem legal.
 	"""
 	keyWait
 	end
@@ -109621,7 +109610,7 @@ script 82 mmbn2 {
 	clearMsg
 	"""
 	Talvez por causa do
-	ataque sobre o Plaza?
+	ataque no Plaza?
 	"""
 	keyWait
 	end
@@ -109641,8 +109630,8 @@ script 84 mmbn2 {
 		mugshot = NormalNavi
 	msgOpen
 	"""
-	Eu estou tão
-	feliz de estar aqui!
+	Eu estou tão feliz de
+	estar aqui!
 	"""
 	keyWait
 	clearMsg
@@ -110048,7 +110037,7 @@ script 20 mmbn2 {
 	clearMsg
 	"""
 	Gastei em segredo o
-	dinheiro de meu mestre.
+	dinheiro do meu mestre.
 	E agora...?
 	"""
 	keyWait
@@ -110300,8 +110289,8 @@ script 212 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	The ice shattered
-	with loud crack!
+	O gelo se despedaçou
+	com um alto "crec"!
 	"""
 	keyWait
 	clearMsg
@@ -110473,8 +110462,8 @@ script 16 mmbn2 {
 	clearMsg
 	"""
 	É melhor eu ficar longe
-	do SaboPlaza por
-	um tempo.
+	do SaboPlaza por um
+	tempo.
 	"""
 	keyWait
 	end
@@ -110836,7 +110825,7 @@ script 220 mmbn2 {
 script 221 mmbn2 {
 	msgOpen
 	"""
-	Saborya2 fica logo
+	Saborya 2 fica logo
 	após este ponto.
 	"""
 	keyWait
@@ -110959,8 +110948,7 @@ script 231 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -111088,8 +111076,7 @@ script 235 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -111171,8 +111158,7 @@ script 237 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -111256,7 +111242,7 @@ script 0 mmbn2 {
 	msgOpen
 	"""
 	Este Portal o levará
-	para Saborya.
+	para o SaboPlaza.
 	"""
 	keyWait
 	end
@@ -111436,7 +111422,7 @@ script 82 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Preciso contactar meus
+	Preciso contatar meus
 	colegas de trabalho. De-
 	vem estar preocupados.
 	"""
@@ -111584,7 +111570,7 @@ script 191 mmbn2 {
 	msgOpen
 	"""
 	Você é um dos Navis
-	Negros, não é?!
+	das Sombras, não é?!
 	"""
 	keyWait
 	clearMsg
@@ -111597,7 +111583,7 @@ script 192 mmbn2 {
 	msgOpen
 	"""
 	É issaê! Sou o No. 4
-	dos Navis Negros!
+	dos Navis das Sombras!
 	"""
 	keyWait
 	clearMsg
@@ -111634,9 +111620,9 @@ script 194 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Mas infelizmente, você
-	nunca vai chegar a
-	conhecê-lo.
+	Mas, infelizmente,
+	você nunca chegará
+	a conhecê-lo.
 	"""
 	keyWait
 	clearMsg
@@ -111864,8 +111850,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -111909,8 +111894,7 @@ script 231 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -112036,8 +112020,7 @@ script 235 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -112201,8 +112184,7 @@ script 240 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -112405,7 +112387,7 @@ script 192 mmbn2 {
 	clearMsg
 	"""
 	Acho que posso
-	perdá-lo, já que ele
+	perdoá-lo, já que ele
 	veio me procurar e tal.
 	"""
 	keyWait
@@ -112437,7 +112419,7 @@ script 192 mmbn2 {
 	clearMsg
 	"""
 	Pode avisar pra ele
-	que eu ficarei mais
+	que eu vou ficar mais
 	um tempinho por aqui?
 	"""
 	keyWait
@@ -112952,8 +112934,7 @@ script 231 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -113079,8 +113060,7 @@ script 235 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -113162,8 +113142,7 @@ script 237 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -113278,8 +113257,8 @@ script 10 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Há um Navi em AmePlaza
-	que pode saber de
+	Tem um Navi no Ame-
+	Plaza que pode saber
 	alguma coisa...
 	"""
 	keyWait
@@ -113333,8 +113312,8 @@ script 31 mmbn2 {
 	clearMsg
 	"""
 	Mas que um menino e seu
-	Navi azul contiveram
-	a crise.
+	Navi azul contiveram a
+	crise.
 	"""
 	keyWait
 	clearMsg
@@ -113588,7 +113567,7 @@ script 45 mmbn2 {
 	"O meu lema é..."
 	keyWait
 	clearMsg
-	"\"Toma lá dá cá\""
+	"\"Toma lá, dá cá.\""
 	keyWait
 	clearMsg
 	"Pode crer!!"
@@ -113873,8 +113852,8 @@ script 57 mmbn2 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Eu achei esse Navi preso
-	aqui.
+	Eu achei aquele Navi
+	preso lá.
 	"""
 	keyWait
 	clearMsg
@@ -114005,7 +113984,7 @@ script 180 mmbn2 {
 		down = 0
 	space
 		count = 2
-	"Sim. "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -114013,7 +113992,7 @@ script 180 mmbn2 {
 		down = 1
 	space
 		count = 2
-	"Não."
+	"Não"
 	select
 		default = 0
 		disableB = false
@@ -114279,7 +114258,7 @@ script 222 mmbn2 {
 script 223 mmbn2 {
 	msgOpen
 	"""
-	Entrando: Netvendedor
+	Entrando: NetVendedor
 	Esquerda: AmePlaza
 	"""
 	keyWait
@@ -114513,8 +114492,7 @@ script 235 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -114679,8 +114657,7 @@ script 240 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -114795,7 +114772,7 @@ script 1 mmbn2 {
 	"""
 	Como haverá uma reunião
 	de Oficiais aqui em breve,
-	fechamos o acesso.
+	barramos o acesso.
 	"""
 	keyWait
 	end
@@ -114837,7 +114814,7 @@ script 10 mmbn2 {
 	msgOpen
 	"""
 	Hm...? Pra onde é que
-	fica a Ameropa, mesmo?
+	fica o AmePlaza, mesmo?
 	"""
 	keyWait
 	clearMsg
@@ -114962,8 +114939,8 @@ script 191 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Você é o Navi Negro
-	No. 3?!
+	Você é o Navi das
+	Sombras No. 3?!
 	"""
 	keyWait
 	clearMsg
@@ -115458,8 +115435,7 @@ script 234 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -115624,8 +115600,7 @@ script 239 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -115707,8 +115682,7 @@ script 241 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -116179,8 +116153,7 @@ script 5 mmbn2 {
 	msgOpen
 	"""
 	Eu já peguei cinco
-	criminosos nesta
-	ronda.
+	criminosos nesta ronda.
 	"""
 	keyWait
 	clearMsg
@@ -116297,7 +116270,7 @@ script 65 mmbn2 {
 	"""
 	Tem muito mais Navis
 	ni-honenses aqui do que
-	eu pensava.
+	eu esperava.
 	"""
 	keyWait
 	end
@@ -116377,7 +116350,7 @@ script 68 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Mas menos sofisticada
+	mas menos sofisticada
 	que as coisas que Ni-Hon
 	produz.
 	"""
@@ -116576,9 +116549,8 @@ script 76 mmbn2 {
 	waitSkip
 		frames = 20
 	"""
-	 Bom,
-	ouvi dizer que um amigo
-	meu sabe...
+	 Bom, ouvi dizer que
+	que um amigo meu sabe...
 	"""
 	keyWait
 	clearMsg
@@ -116603,6 +116575,7 @@ script 77 mmbn2 {
 	"""
 	Acho que ele está em
 	alguma loja Rede afora.
+	Mas perto.
 	"""
 	keyWait
 	end
@@ -116645,7 +116618,7 @@ script 79 mmbn2 {
 	"""
 	Mas eu sou osso-duro!
 	Conhecido por todos como
-	"O Tigre of Ameropa".
+	"O Tigre da Ameropa".
 	"""
 	keyWait
 	end
@@ -116745,7 +116718,7 @@ script 84 mmbn2 {
 	clearMsg
 	"""
 	Por favor! Alguém!
-	Façam alguma coisa...
+	Faça alguma coisa...
 	"""
 	keyWait
 	end
@@ -117401,8 +117374,9 @@ script 190 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Por favor, fale comigo
-	de novo mais tarde...!
+	Por favor, se mudar de
+	ideia, fale comigo de
+	novo...!
 	"""
 	keyWait
 	end
@@ -117452,8 +117426,7 @@ script 192 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -117479,7 +117452,7 @@ script 193 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Nós somos amigos agora,
+	Somos amigos agora,
 	né?
 	"""
 	keyWait
@@ -117810,7 +117783,7 @@ script 221 mmbn2 {
 	msgOpen
 	"""
 	Se aqueles caras
-	se aproximarem mais,
+	chegarem mais perto,
 	a gente já era.
 	"""
 	keyWait
@@ -118008,8 +117981,7 @@ script 235 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -118174,8 +118146,7 @@ script 240 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -118239,7 +118210,7 @@ script 15 mmbn2 {
 	"""
 	Vire aqui, desça a ladeira
 	e chegará na Undernet3.
-	Desça aqui, UnderPz.
+	Desça aqui, UndrPlaza.
 	"""
 	keyWait
 	clearMsg
@@ -118568,8 +118539,7 @@ script 235 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -118734,8 +118704,7 @@ script 240 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -119052,7 +119021,7 @@ script 211 mmbn2 {
 	msgOpen
 	"""
 	Aí, tá olhando o quê?
-	Isto aqui não é lugar pra
+	Aqui não é lugar pra
 	criança, não!
 	"""
 	keyWait
@@ -119268,8 +119237,7 @@ script 234 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -119434,8 +119402,7 @@ script 239 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -119812,8 +119779,7 @@ script 234 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -119978,8 +119944,7 @@ script 239 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -120144,8 +120109,7 @@ script 244 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -120436,8 +120400,7 @@ script 233 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -120586,8 +120549,7 @@ script 238 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -120752,8 +120714,7 @@ script 243 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -120918,8 +120879,7 @@ script 248 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -121080,7 +121040,7 @@ script 192 mmbn2 {
 	msgOpen
 	"""
 	É isso aí! Sou o Navi
-	Negro Número 2!
+	das Sombras Número 2!
 	"""
 	keyWait
 	clearMsg
@@ -121102,8 +121062,8 @@ script 192 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	E vamos expandir o al-
-	cance dos "Navis Negros"
+	E vamos expandir o alcance
+	dos "Navis das Sombras"
 	pro resto do mundo,
 	"""
 	keyWait
@@ -121369,8 +121329,7 @@ script 235 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -121535,8 +121494,7 @@ script 240 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -121810,8 +121768,7 @@ script 230 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -121853,8 +121810,7 @@ script 231 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -121980,8 +121936,7 @@ script 235 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -122146,8 +122101,7 @@ script 240 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -122229,8 +122183,7 @@ script 242 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -122275,8 +122228,7 @@ script 243 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -122602,8 +122554,7 @@ script 231 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -122730,8 +122681,7 @@ script 235 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -122898,8 +122848,7 @@ script 240 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -122981,8 +122930,7 @@ script 242 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -123219,8 +123167,7 @@ script 235 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -123385,8 +123332,7 @@ script 240 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -123468,8 +123414,7 @@ script 242 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -123707,8 +123652,7 @@ script 231 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -123880,8 +123824,7 @@ script 236 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -124046,8 +123989,7 @@ script 241 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -124212,8 +124154,7 @@ script 246 mmbn2 {
 		animation = 24
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 1
@@ -124295,8 +124236,7 @@ script 248 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -124341,8 +124281,7 @@ script 249 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -124444,9 +124383,9 @@ script 1 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Te vendo essa
-	informação por 10000
-	zennys. Fechou?
+	Te vendo essa informa-
+	ção por 10000 zennys.
+	É pegar ou largar.
 	"""
 	keyWait
 	clearMsg
@@ -124703,8 +124642,9 @@ script 9 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Se cê não quer morrer,
-	volta pra Rede normal!
+	Se não quer morrer,
+	volta logo pra Rede
+	normal!
 	"""
 	keyWait
 	end
@@ -124806,7 +124746,7 @@ script 20 mmbn2 {
 	"""
 	Tá bom, pode ficar com a
 	cura. Mas em troca, eu
-	vou querer todos os...
+	vou querer todos os
 	"""
 	keyWait
 	clearMsg
@@ -125102,8 +125042,8 @@ script 29 mmbn2 {
 	clearMsg
 	"""
 	Ele tá em algum programa
-	que produz fogo.
-	Traz ele pra mim!
+	que faz fogo. Sei lá, vê
+	numa Rede estrangeira!
 	"""
 	keyWait
 	end
@@ -125194,8 +125134,7 @@ script 32 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu
-	o chip
-	"
+	o chip "
 	"""
 	printChip
 		buffer = 0
@@ -125232,8 +125171,8 @@ script 33 mmbn2 {
 		buffer = 0
 		item = 37
 	"""
-	" que
-	quebra o gelo amarelo,
+	", que quebra
+	o gelo amarelo,
 	"""
 	keyWait
 	clearMsg
@@ -125257,8 +125196,8 @@ script 33 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Se eu tivesse
-	um "
+	Se eu tivesse um
+	"
 	"""
 	printItem
 		buffer = 0
@@ -125273,11 +125212,11 @@ script 33 mmbn2 {
 	"..."
 	keyWait
 	clearMsg
-	"E aí, tem o\n"
+	"Você tem o "
 	printItem
 		buffer = 0
 		item = 36
-	"?"
+	" aí?"
 	keyWait
 	clearMsg
 	option
@@ -125306,9 +125245,9 @@ script 33 mmbn2 {
 			jump = continue
 		]
 	"""
-	Ele está em algum
-	programa que produz
-	fogo. Traz ele pra mim!
+	Ele tá em algum programa
+	que produz fogo. Traz
+	pra mim!
 	"""
 	keyWait
 	end
@@ -125648,8 +125587,7 @@ script 221 mmbn2 {
 	msgOpen
 	"""
 	É o Fórum de
-	Informações
-	Secretas!
+	Informações Secretas!
 	"""
 	keyWait
 	startBBS
@@ -133605,7 +133543,7 @@ script 1 mmbn2 {
 	"""
 	Vejamos... temos três
 	pedidos de ajuda no
-	quadro de relatos.
+	quadro de pedidos.
 	"""
 	keyWait
 	clearMsg
@@ -133632,8 +133570,7 @@ script 1 mmbn2 {
 	clearMsg
 	"""
 	Tome bastante cuidado
-	no que for fazer,
-	viu?
+	no que for fazer, viu?
 	"""
 	keyWait
 	end
@@ -133661,7 +133598,7 @@ script 1 mmbn2 {
 	msgOpen
 	"""
 	Que tipo de pedidos será
-	que tem no quadro?
+	que estão no quadro?
 	Vamos ver, Lan!
 	"""
 	keyWait
@@ -134131,7 +134068,7 @@ script 2 mmbn2 {
 	mugshotShow
 		mugshot = CookMan
 	msgOpen
-	"Vão!! Atrás dele!!"
+	"Vão!! Peguem ele!!"
 	keyWait
 	clearMsg
 	jump
@@ -134184,16 +134121,16 @@ script 5 mmbn2 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	Hmpf... Bom, esse tal
-	clube do gospel ou
-	sei-lá-o-que me...
+	Hmpf... Bom, um tal
+	de clube do gospel ou
+	sei-lá-o-quê me...
 	"""
 	keyWait
 	clearMsg
 	"""
 	Não. Ao invés de explicar
-	tudo isso, eu vou
-	direto ao ponto.
+	tudo isso, eu vou direto
+	ao ponto.
 	"""
 	keyWait
 	clearMsg
@@ -134732,9 +134669,9 @@ script 7 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Vim de Ni-Hon até
-	aqui pra conhecer a
-	pessoa que o mandou.
+	Vim de Ni-Hon até aqui
+	pra conhecer a pessoa
+	que o mandou.
 	"""
 	keyWait
 	clearMsg
@@ -135079,9 +135016,9 @@ script 1 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	A Gospel diz que o Navi
-	misterioso que os atacou
-	pertencia a ela.
+	Ele diz que o Navi
+	misterioso que atacou
+	o país era da Gospel.
 	"""
 	keyWait
 	clearMsg
@@ -135542,7 +135479,7 @@ script 10 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Beleza, pai!
+	Beleza, papai!
 	Pode deixar que eu acho
 	esse programa!
 	"""
@@ -135844,7 +135781,7 @@ script 0 mmbn2 {
 	clearMsg
 	"""
 	Sistema de segurança
-	operacional!
+	ativado!
 	"""
 	keyWait
 	end
@@ -135865,7 +135802,7 @@ script 2 mmbn2 {
 	msgOpen
 	"""
 	Parece que esse
-	programa é tipo a
+	programa é tipo uma
 	joia real de Saborya...
 	"""
 	keyWait
@@ -135982,8 +135919,8 @@ script 1 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan, tem alguma coisa
-	vindo pra cá!!
+	Lan, tá vindo alguma
+	coisa!!
 	"""
 	keyWait
 	end
@@ -136576,7 +136513,7 @@ script 2 mmbn2 {
 	msgOpen
 	"""
 	Droga! Fizeram isso pra
-	despistar a gente?!
+	distrair a gente?!
 	"""
 	keyWait
 	clearMsg
@@ -136771,7 +136708,7 @@ script 0 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Temos que apresentar a
+	Temos que utilizar a
 	senha certa para abrir
 	essas passagens...
 	"""
@@ -136818,7 +136755,7 @@ script 2 mmbn2 {
 	clearMsg
 	"""
 	mas deixe as lutas
-	para os adultos aqui!
+	com os adultos aqui!
 	"""
 	keyWait
 	clearMsg
@@ -137097,7 +137034,7 @@ script 21 mmbn2 {
 		mugshot = OfficialMan
 	msgOpen
 	"""
-	Viu só? O que acha das
+	Viu só? O que achou das
 	habilidades da gente
 	grande aqui?
 	"""
@@ -137483,7 +137420,7 @@ script 3 mmbn2 {
 	clearMsg
 	"""
 	Deixem o resto com a
-	gente, NetLutadores
+	gente, os NetLutadores
 	Oficiais.
 	"""
 	keyWait
@@ -137744,8 +137681,8 @@ script 0 mmbn2 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	Vejam só. Meus parabéns
-	por chegar até
+	Vejam só. Meus para-
+	béns por chegarem até
 	aqui...
 	"""
 	keyWait
@@ -137808,12 +137745,12 @@ script 5 mmbn2 {
 	msgOpen
 	"""
 	Lan! Terminei!
-	Fiz um battlechip
+	Fiz um BattleChip
 	anti-ShadowMan!
 	"""
 	keyWait
 	clearMsg
-	"O ''Canhão Supremo''."
+	"O \"Canhão Supremo\"."
 	keyWait
 	clearMsg
 	"""
@@ -138452,8 +138389,8 @@ script 18 mmbn2 {
 	msgOpen
 	"""
 	É! N-não que eu precise
-	de companhia pra
-	tomar sorvete...
+	de companhia pra tomar
+	sorvete...
 	"""
 	keyWait
 	clearMsg
@@ -138592,8 +138529,7 @@ script 0 mmbn2 {
 		buffer = 0
 		item = 60
 	"""
-	.
-	Pronto?
+	. Pronto?
 	"""
 	keyWait
 	clearMsg
@@ -138625,9 +138561,9 @@ script 1 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Eu vou restaurar
-	seu PV antes e depois
-	do teste.
+	Eu vou restaurar seu
+	PV antes e depois do
+	teste.
 	"""
 	keyWait
 	clearMsg
@@ -138676,9 +138612,9 @@ script 2 mmbn2 {
 			jump = continue
 		]
 	"""
-	Tudo bem. Por favor,
-	venha falar comigo
-	novamente.
+	Certo. É só falar
+	comigo de novo quando
+	estiver pronto.
 	"""
 	keyWait
 	end
@@ -138719,9 +138655,9 @@ script 3 mmbn2 {
 			jump = continue
 		]
 	"""
-	Certo. Por favor,
-	venha falar comigo
-	novamente.
+	Certo. É só falar
+	comigo de novo quando
+	estiver pronto.
 	"""
 	keyWait
 	end
@@ -138851,7 +138787,7 @@ script 7 mmbn2 {
 		down = 0
 	space
 		count = 2
-	"Quero "
+	"Vai "
 	option
 		left = 0
 		right = 0
@@ -138978,8 +138914,9 @@ script 11 mmbn2 {
 			jump = continue
 		]
 	"""
-	Certo. Por favor, volte
-	a falar comigo.
+	Certo. Fale comigo de
+	novo quando estiver
+	pronto.
 	"""
 	keyWait
 	end
@@ -139777,9 +139714,9 @@ script 0 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	É aqui que eles
-	veem se a gente tá
-	com bagagem perigosa...
+	É aqui que eles veem
+	se a gente tá com
+	bagagem perigosa...
 	"""
 	keyWait
 	end
@@ -139815,7 +139752,7 @@ script 3 mmbn2 {
 	"""
 	Você não tá com nada
 	fora do comum...
-	Tá, Lan?
+	tá, Lan?
 	"""
 	keyWait
 	clearMsg
@@ -140185,13 +140122,13 @@ script 8 mmbn2 {
 		frames = 30
 	"""
 	 Aaahh!
-	O meu zenny sumiu!
+	Meus zennys sumiram!
 	"""
 	keyWait
 	clearMsg
 	"""
 	Aí! Aquele esquisitão
-	roubou os meus zennies!
+	roubou os meus zennys!
 	"""
 	keyWait
 	clearMsg
@@ -140218,7 +140155,7 @@ script 0 mmbn2 {
 	textSpeed
 		delay = 3
 	"""
-	O voo chegou em
+	O voo chegou na
 	Ameropa
 	"""
 	textSpeed
@@ -140447,7 +140384,7 @@ script 12 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Falou, então!
+	Partiu, então!
 	Canta, pneu!
 	"""
 	keyWait
@@ -140639,9 +140576,9 @@ script 9 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	passa pra
-	cá todos os chips
-	que tão na sua mochila!
+	passa pra cá todos
+	os chips que tão
+	na sua mochila!
 	"""
 	keyWait
 	clearMsg
@@ -140669,8 +140606,8 @@ script 11 mmbn2 {
 	msgOpen
 	"""
 	Ah, vai sim! Chips de
-	Ni-Hon valem uma boa
-	nota por aqui...!
+	Ni-Hon valem uma nota
+	preta por aqui...!
 	"""
 	keyWait
 	clearMsg
@@ -140819,7 +140756,7 @@ script 0 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Aaaahhhh! Que tipo de
+	Aargghhh! Que tipo de
 	país é esse?!
 	"""
 	keyWait
@@ -141226,7 +141163,7 @@ script 13 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Eu.. posso ter
+	Eu... posso ter
 	descontado no
 	MegaMan.
 	"""
@@ -141776,7 +141713,7 @@ script 2 mmbn2 {
 	"""
 	A gente já fez isso.
 	Vamos logo ao que
-	importa.
+	interessa.
 	"""
 	keyWait
 	clearMsg
@@ -141881,8 +141818,8 @@ script 8 mmbn2 {
 	msgOpen
 	"""
 	Certo. Darei a vocês um
-	resumo sobre o que
-	sabemos da Gospel.
+	resumo do que sabemos
+	sobre a Gospel.
 	"""
 	keyWait
 	clearMsg
@@ -141936,8 +141873,8 @@ script 8 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Por favor, voltem sua
-	atenção para este
+	Por favor, voltem suas
+	atenções para este
 	monitor.
 	"""
 	keyWait
@@ -142195,7 +142132,7 @@ script 7 mmbn2 {
 	clearMsg
 	"""
 	Roubaram nossos arqui-
-	vos para atrasar a
+	vos que atrasariam a
 	criação do "SuperNavi".
 	"""
 	keyWait
@@ -142610,9 +142547,9 @@ script 4 mmbn2 {
 		mugshot = PrincessPride
 	msgOpen
 	"""
-	É uma armadilha! E
-	acho que é a mesma
-	que pegou o Sr. Johnson!!
+	É uma armadilha! E acho
+	que é a mesma que
+	pegou o Sr. Johnson!!
 	"""
 	keyWait
 	clearMsg
@@ -142731,7 +142668,7 @@ script 4 mmbn2 {
 		mugshot = PrincessPride
 	msgOpen
 	"""
-	Hah...
+	Rá...
 	Até que você é bom!
 	"""
 	keyWait
@@ -142788,7 +142725,7 @@ script 8 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ela nem percebeu..."
+	"Ela nem ouviu..."
 	keyWait
 	clearMsg
 	"""
@@ -143135,8 +143072,7 @@ script 9 mmbn2 {
 	mugshotHide
 	msgOpen
 	"""
-	Lan retirou
-	o "
+	Lan retirou o "
 	"""
 	printItem
 		buffer = 0
@@ -143181,7 +143117,7 @@ script 0 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan! Outra ligação?!"
+	"Lan! Outra ligação!"
 	keyWait
 	clearMsg
 	jump
@@ -144043,7 +143979,7 @@ script 5 mmbn2 {
 	"""
 	Estamos eliminando esses
 	NetLutadores pelo bem
-	da Dolcerya!
+	de Dolcerya!
 	"""
 	keyWait
 	clearMsg
@@ -144054,7 +143990,9 @@ script 6 mmbn2 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"''Pelo bem''?"
+	"""
+	"Pelo bem"?
+	"""
 	waitSkip
 		frames = 30
 	"""
@@ -144173,7 +144111,8 @@ script 12 mmbn2 {
 		frames = 30
 	"""
 	 está na
-	hora de nosso duelo!!
+	hora de nosso duelo!
+	En garde!!
 	"""
 	keyWait
 	end
@@ -144187,7 +144126,7 @@ script 0 mmbn2 {
 	msgOpen
 	"""
 	Não pode ser...
-	O KightMan perdeu...
+	O KnightMan perdeu...
 	"""
 	keyWait
 	clearMsg
@@ -144334,7 +144273,7 @@ script 0 mmbn2 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Graças a você, a
+	Graças a vocês, a
 	Organização está a
 	salvo!
 	"""
@@ -144388,7 +144327,7 @@ script 3 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	E a princesa?
+	E a Princesa?
 	Ela... morreu?
 	"""
 	keyWait
@@ -144645,8 +144584,8 @@ script 0 mmbn2 {
 	msgOpen
 	"""
 	Hora de voltar pra
-	Ni-Hon. Foi uma
-	viagem e tanto, essa...
+	Ni-Hon. Foi uma viagem
+	e tanto, essa...
 	"""
 	keyWait
 	clearMsg
@@ -145015,15 +144954,15 @@ script 15 mmbn2 {
 	clearMsg
 	"""
 	Acabamos de atravessar
-	a linha internacional
-	da data. Ou seja...
+	a linha internacional da
+	data. Ou seja...
 	"""
 	keyWait
 	clearMsg
 	"""
 	Chegaremos no aeroporto
-	de DenCity hoje, às
-	7:45 da manhã.
+	de DenCity às 7:45
+	da manhã.
 	"""
 	keyWait
 	clearMsg
@@ -145427,7 +145366,7 @@ script 2 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A comida desse avião é
+	A comida deste avião é
 	muito melhor do que eu
 	esperava...
 	"""
@@ -145769,14 +145708,14 @@ script 8 mmbn2 {
 	clearMsg
 	"""
 	Ah, e por seu veneno
-	incrivelmente mortal!
+	incrivelmente letal!
 	"""
 	keyWait
 	clearMsg
 	"""
 	Após ser picada, a
 	vítima fica paralisada
-	em poucas horas...
+	e, em poucas horas...
 	"""
 	keyWait
 	clearMsg
@@ -145906,7 +145845,7 @@ script 3 mmbn2 {
 	"""
 	MegaMan! Vamos ver
 	se tem algum médico
-	à bordo do avião!
+	a bordo do avião!
 	"""
 	keyWait
 	clearMsg
@@ -145917,7 +145856,7 @@ script 4 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Deixa comigo!"
+	"Urgente!"
 	keyWait
 	end
 }
@@ -146000,7 +145939,7 @@ script 5 mmbn2 {
 	msgOpen
 	"""
 	Tem uma aranha peço-
-	nhenta à bordo?! Por que
+	nhenta a bordo?! Por que
 	não nos contaram?!
 	"""
 	keyWait
@@ -146114,7 +146053,8 @@ script 11 mmbn2 {
 	clearMsg
 	"""
 	Ficarei cuidando do
-	paciente nos fundos.
+	paciente na sala dos
+	comissários.
 	"""
 	keyWait
 	clearMsg
@@ -146152,7 +146092,9 @@ script 1 mmbn2 {
 	mugshotShow
 		mugshot = Entomologist
 	msgOpen
-	"Que ''verdade'', menino?"
+	"""
+	Que "verdade", menino?
+	"""
 	keyWait
 	clearMsg
 	jump
@@ -146210,7 +146152,7 @@ script 5 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Você terá que reunir os
+	Teremos que reunir os
 	materiais necessários
 	para construi-la.
 	"""
@@ -146225,7 +146167,7 @@ script 6 mmbn2 {
 	msgOpen
 	"""
 	Que tipo de armadilha
-	o senhor vai usar?
+	o senhor pretende usar?
 	"""
 	keyWait
 	clearMsg
@@ -146247,8 +146189,7 @@ script 7 mmbn2 {
 	clearMsg
 	"""
 	uma caixa de qualquer
-	tipo, um palito e
-	fios.
+	tipo, um palito e fios.
 	"""
 	keyWait
 	clearMsg
@@ -146315,8 +146256,8 @@ script 11 mmbn2 {
 	msgOpen
 	"""
 	Assim que reunir tudo,
-	venha falar comigo
-	de novo.
+	venha falar comigo de
+	novo.
 	"""
 	keyWait
 	clearMsg
@@ -146354,7 +146295,7 @@ script 1 mmbn2 {
 	clearMsg
 	"""
 	Aliás... onde é que está
-	a aranha mesmo?
+	a aranha, mesmo?
 	"""
 	keyWait
 	clearMsg
@@ -146421,7 +146362,7 @@ script 0 mmbn2 {
 	"""
 	Atenção, todos! Tem
 	uma aranha perigosa
-	entre vós.
+	entre vocês.
 	"""
 	keyWait
 	clearMsg
@@ -146479,7 +146420,7 @@ script 5 mmbn2 {
 	mugshotShow
 		mugshot = Entomologist
 	msgOpen
-	"Vai!!"
+	"Isso!!"
 	keyWait
 	end
 }
@@ -146563,7 +146504,7 @@ script 11 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Melhor mesmo. Tem
+	Melhor, mesmo. Tem
 	muito chão ainda até
 	Ni-Hon.
 	"""
@@ -146579,7 +146520,7 @@ script 0 mmbn2 {
 	"""
 	Algumas horas após
 	a captura da aranha
-	venenosa...
+	peçonhenta...
 	"""
 	keyWait
 	end
@@ -146626,7 +146567,7 @@ script 4 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Passageiros!
+	Senhores passageiros!
 	Apertem os cintos
 	e permaneçam sentados!
 	"""
@@ -146705,7 +146646,7 @@ script 1 mmbn2 {
 	msgOpen
 	"""
 	Avise o NetLutador
-	à bordo!
+	a bordo!
 	"""
 	keyWait
 	clearMsg
@@ -146730,13 +146671,13 @@ script 3 mmbn2 {
 	mugshotShow
 		mugshot = Pilot
 	msgOpen
-	"Noel mãe do Céu...!"
+	"Santa Mãe do Céu...!"
 	keyWait
 	clearMsg
 	"""
 	Veja se tem algum
-	outro NetLutador
-	à bordo!!
+	outro NetLutador a
+	bordo!!
 	"""
 	keyWait
 	end
@@ -146750,13 +146691,13 @@ script 0 mmbn2 {
 	msgOpen
 	"""
 	Há algum NetLutador
-	à bordo?
+	a bordo da aeronave?
 	"""
 	keyWait
 	clearMsg
 	"""
 	Caso haja, por favor,
-	dirijam-se à cabine
+	dirija-se à cabine
 	imediatamente.
 	"""
 	keyWait
@@ -146780,7 +146721,7 @@ script 2 mmbn2 {
 	msgOpen
 	"""
 	Tem alguma coisa
-	acontecendo aqui!
+	rolando aqui!
 	"""
 	keyWait
 	clearMsg
@@ -146996,7 +146937,7 @@ script 1 mmbn2 {
 	msgOpen
 	"""
 	Capitão! O programa de
-	pilotagem está dando
+	leme está dando
 	problema!
 	"""
 	keyWait
@@ -147024,8 +146965,8 @@ script 3 mmbn2 {
 	msgOpen
 	"""
 	MegaMan! Rápido!
-	Ache o programa de
-	pilotagem e resolva isso!
+	Ache o programa do
+	leme e resolva isso!
 	"""
 	keyWait
 	clearMsg
@@ -147127,14 +147068,14 @@ script 4 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	A esta altitude... se
-	a pressão continuar a
+	A esta altitude... se a
+	pressão continuar a
 	baixar,
 	"""
 	keyWait
 	clearMsg
 	"""
-	todos à bordo vão morrer
+	todos a bordo vão morrer
 	de hipobaropatia!
 	"""
 	keyWait
@@ -147190,8 +147131,8 @@ script 1 mmbn2 {
 		mugshot = Pilot
 	msgOpen
 	"""
-	Essa não! A turbina
-	não responde!
+	Essa não! O motor não
+	responde!
 	"""
 	keyWait
 	clearMsg
@@ -147278,7 +147219,7 @@ script 7 mmbn2 {
 	"""
 	A gente vai dar de bico
 	no chão! Conserte o
-	programa da turbina, já!
+	programa do motor, já!
 	"""
 	keyWait
 	clearMsg
@@ -147313,9 +147254,8 @@ script 1 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	E aí, já podemos relaxar,
-	seguros de nossa não-
-	horrível morte aérea?
+	E aí, já podemos
+	relaxar?
 	"""
 	keyWait
 	clearMsg
@@ -147426,8 +147366,8 @@ script 9 mmbn2 {
 	msgOpen
 	"""
 	As rodas, rapaz!
-	Sem elas, o avião
-	se arrastará de barriga.
+	Sem elas, o avião vai
+	se arrastar de barriga.
 	"""
 	keyWait
 	clearMsg
@@ -147463,9 +147403,9 @@ script 12 mmbn2 {
 		mugshot = Pilot
 	msgOpen
 	"""
-	Se cairmos...
-	Vamos pegar fogo
-	e explodir...
+	Se não der certo...
+	vamos pegar fogo e
+	explodir...
 	"""
 	keyWait
 	clearMsg
@@ -147552,8 +147492,8 @@ script 3 mmbn2 {
 	clearMsg
 	"""
 	Eu vim pelo "programa
-	Força de Altura" que
-	está à bordo do avião.
+	de Alta Potência" que
+	está a bordo do avião.
 	"""
 	keyWait
 	clearMsg
@@ -147568,9 +147508,9 @@ script 4 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	E eu já o peguei. O
-	lançamento do SuperNavi
-	está tão perto!
+	E eu já o peguei. A
+	ascensão do SuperNavi
+	está tão próxima!
 	"""
 	keyWait
 	clearMsg
@@ -147582,8 +147522,8 @@ script 5 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Você não é o cara
-	da Gauss S/A?!
+	Você não é o dono da
+	Gauss S/A?!
 	"""
 	keyWait
 	clearMsg
@@ -147670,7 +147610,7 @@ script 6 mmbn2 {
 	"""
 	Ganhei poder sobre os
 	outros, e a autoridade
-	para dirigir a sociedade.
+	para moldar a sociedade.
 	"""
 	keyWait
 	clearMsg
@@ -147689,7 +147629,7 @@ script 6 mmbn2 {
 	clearMsg
 	"""
 	A sociedade é podre,
-	até seu âmago.
+	podre até o âmago.
 	"""
 	keyWait
 	clearMsg
@@ -147714,13 +147654,13 @@ script 6 mmbn2 {
 	clearMsg
 	"""
 	Eu entrei no grupo,
-	subi rapidamente a
-	escadaria de valor, e...
+	subi rapidamente em
+	posição...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Me tornei o líder do
+	E me tornei líder do
 	projeto de desenvolvi-
 	mento do "SuperNavi".
 	"""
@@ -147728,19 +147668,19 @@ script 6 mmbn2 {
 	clearMsg
 	"""
 	Quando o SuperNavi
-	estiver completo...
+	estiver completo,
 	"""
 	keyWait
 	clearMsg
 	"""
-	Esta sociedade centrada
+	esta sociedade centrada
 	na Rede também sofrerá
 	uma revolução.
 	"""
 	keyWait
 	clearMsg
 	"""
-	E tal também será
+	E isso também será a
 	minha vingança contra
 	a sociedade.
 	"""
@@ -147754,14 +147694,14 @@ script 6 mmbn2 {
 	clearMsg
 	"""
 	E após minha vingança,
-	o caos fará todos bate-
-	rem nas portas do mundo,
+	o caos irá se alastrar
+	por este mundo,
 	"""
 	keyWait
 	clearMsg
 	"""
-	e a Gospel estará
-	lá para conferir ordem.
+	e a Gospel estará lá
+	para conferir ordem.
 	"""
 	keyWait
 	clearMsg
@@ -147775,7 +147715,7 @@ script 7 mmbn2 {
 	"""
 	A gente não vai deixar
 	isso acontecer! MegaMan,
-	prepare-se!
+	se prepara!
 	"""
 	keyWait
 	clearMsg
@@ -147865,8 +147805,8 @@ script 1 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Você! Você arruinou
-	os meus planos de tomar
+	Você! Você arruinou os
+	meus planos de tomar
 	este avião!!
 	"""
 	keyWait
@@ -147936,7 +147876,7 @@ script 6 mmbn2 {
 	"""
 	Pronto, detive ele. Agora
 	é só entregá-lo para
-	os Oficiais...
+	os Oficiais
 	"""
 	keyWait
 	clearMsg
@@ -148495,7 +148435,7 @@ script 4 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Eu perdi todo contato
+	Perdi todo o contato
 	com ela...
 	"""
 	keyWait
@@ -148522,8 +148462,8 @@ script 5 mmbn2 {
 	msgOpen
 	"""
 	Lan, deixa que eu vou!!
-	Eu preciso encontrar
-	a Roll!
+	Preciso encontrar a
+	Roll!
 	"""
 	keyWait
 	clearMsg
@@ -148534,22 +148474,21 @@ script 6 mmbn2 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ei, espera..."
+	"Ei! "
 	waitSkip
 		frames = 10
-	"\nCalma, MegaMan."
+	"Calma, MegaMan."
 	keyWait
 	clearMsg
 	"""
-	A Roll se perdeu em
-	Saborya. Então...
+	Tá, a Roll se perdeu
+	em Saborya. Então...
 	"""
 	keyWait
 	clearMsg
 	"""
 	Beleza, MegaMan!
-	Vamos lá conferir a
-	Rede!
+	Vamos lá rodar a Rede!
 	"""
 	keyWait
 	clearMsg
@@ -148647,21 +148586,21 @@ script 3 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Ele previne
-	desastres naturais.
+	Ele previne desastres
+	naturais.
 	"""
 	keyWait
 	clearMsg
 	"""
 	Mas esse gelo... é um
 	vírus especial que
-	congelou a Rede,
+	congelou a Rede
 	"""
 	keyWait
 	clearMsg
 	"""
-	e também o
-	Sistema Ambiental.
+	e o Sistema Ambiental
+	também.
 	"""
 	keyWait
 	clearMsg
@@ -148718,7 +148657,7 @@ script 5 mmbn2 {
 	"""
 	keyWait
 	clearMsg
-	"é a \""
+	"foi a \""
 	printItem
 		buffer = 0
 		item = 35
@@ -148783,7 +148722,7 @@ script 8 mmbn2 {
 		buffer = 0
 		item = 35
 	"""
-	".
+	"!
 	Me deem só um segundo.
 	"""
 	keyWait
@@ -148820,8 +148759,8 @@ script 10 mmbn2 {
 		buffer = 0
 		item = 35
 	"""
-	"
-	está terminada!
+	" está
+	terminada!
 	"""
 	keyWait
 	clearMsg
@@ -149130,7 +149069,7 @@ script 3 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	ele aparece lá pelo
+	ele aparece aqui, no
 	UnderPlaza. Que tal a
 	gente ir dar uma olhada?
 	"""
@@ -150326,7 +150265,8 @@ script 2 mmbn2 {
 		]
 	"""
 	Certo, então. Por favor,
-	fale comigo novamente.
+	fale comigo quando
+	estiver pronto.
 	"""
 	keyWait
 	end
@@ -150427,7 +150367,7 @@ script 6 mmbn2 {
 	mugshotShow
 		mugshot = NormalNavi
 	"""
-	Também vou lhe dar isso
+	Também vou lhe dar isto
 	aqui de bônus!
 	"""
 	keyWait
@@ -150441,8 +150381,7 @@ script 6 mmbn2 {
 		amount = 1
 	"""
 	MegaMan recebeu um
-	PowerUp:
-	"
+	PowerUp: "
 	"""
 	printItem
 		buffer = 0
@@ -151358,7 +151297,7 @@ script 9 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Lan? Megaman?
+	Lan? MegaMan?
 	Ouçam com atenção!
 	"""
 	keyWait
@@ -151686,7 +151625,7 @@ script 26 mmbn2 {
 	clearMsg
 	"""
 	Tudo bem, você venceu.
-	Tome, um "TcktKoto" e
+	Tome, um "TqtKoto" e
 	um "TrajeMag"...
 	"""
 	keyWait
@@ -158552,7 +158491,7 @@ script 1 mmbn2 {
 	"""
 	keyWait
 	clearMsg
-	"os Navis Negros."
+	"os Navis das Sombras."
 	keyWait
 	clearMsg
 	"""
@@ -158578,7 +158517,7 @@ script 1 mmbn2 {
 	clearMsg
 	"""
 	E cabe a você destruir
-	os Navis Negros.
+	os Navis das Sombras.
 	"""
 	keyWait
 	clearMsg
@@ -158646,7 +158585,7 @@ script 2 mmbn2 {
 	"""
 	Já derrotou todos os
 	quatro membros dos
-	Navis Negros?
+	Navis das Sombras?
 	"""
 	keyWait
 	clearMsg
@@ -160073,7 +160012,7 @@ script 28 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 4
 		right = 1
@@ -160745,7 +160684,7 @@ script 38 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 5
 		right = 1
@@ -161403,7 +161342,7 @@ script 48 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 4
 		right = 1
@@ -162075,7 +162014,7 @@ script 58 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 5
 		right = 1
@@ -162542,7 +162481,7 @@ script 68 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 4
 		right = 1
@@ -163032,7 +162971,7 @@ script 78 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 5
 		right = 1
@@ -163661,7 +163600,7 @@ script 88 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 4
 		right = 1
@@ -164333,7 +164272,7 @@ script 98 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 5
 		right = 1
@@ -164647,7 +164586,7 @@ script 108 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 4
 		right = 1
@@ -164966,7 +164905,7 @@ script 118 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 5
 		right = 1
@@ -165190,7 +165129,7 @@ script 128 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 4
 		right = 1
@@ -165410,7 +165349,7 @@ script 138 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 5
 		right = 1
@@ -166098,7 +166037,7 @@ script 158 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 5
 		right = 1
@@ -166682,7 +166621,7 @@ script 168 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 4
 		right = 1
@@ -167307,7 +167246,7 @@ script 178 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 5
 		right = 1
@@ -167837,7 +167776,7 @@ script 188 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 4
 		right = 1
@@ -168399,7 +168338,7 @@ script 198 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 5
 		right = 1
@@ -168794,7 +168733,7 @@ script 208 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 4
 		right = 1
@@ -169203,7 +169142,7 @@ script 218 mmbn2 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can go to 30!\n"
+	"Dá para ir ao 30!\n"
 	option
 		left = 5
 		right = 1
@@ -171143,7 +171082,7 @@ script 16 mmbn2 {
 	msgOpen
 	"""
 	Seu PV aparece no canto
-	superior-esquerdo. Se
+	superior esquerdo. Se
 	chegar a 0, você perde.
 	"""
 	keyWait
@@ -171722,7 +171661,7 @@ script 0 mmbn2 {
 	clearMsg
 	"""
 	Vê o botão "Adic." no
-	canto inferior-direito da
+	canto inferior direito da
 	Janela de Customização?
 	"""
 	keyWait
@@ -171927,8 +171866,8 @@ script 10 mmbn2 {
 	msgOpen
 	"""
 	Um Zumbi te pegou!!
-	Ele vai te levar pro
-	covil dele!
+	Ele vai te levar pra
+	cova dele!
 	"""
 	keyWait
 	waitHold
@@ -174143,7 +174082,7 @@ script 51 mmbn2 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"Está no nível máximo!"
+	"Já está no máximo!"
 	keyWait
 	waitHold
 }
@@ -175191,8 +175130,8 @@ script 114 mmbn2 {
 		delay = 0
 	"""
 	O amigo também escolheu
-	"Nenhum"! Um dos dois
-	deve escolher um chip.
+	"Sem Chips"! Um deve
+	escolher um chip.
 	"""
 	keyWait
 	msgCloseQuick
@@ -175573,7 +175512,7 @@ script 13 mmbn2s {
 	end
 }
 script 14 mmbn2s {
-	"NAL       A sua PassLivre"
+	"NAL       Sua PassLivre"
 	end
 }
 script 15 mmbn2s {
@@ -175593,11 +175532,11 @@ script 18 mmbn2s {
 	end
 }
 script 19 mmbn2s {
-	"Pai       Está tudo bem"
+	"Pai       Tá tudo bem"
 	end
 }
 script 20 mmbn2s {
-	"QG ONB   Conf. global"
+	"QG ONB    Conf. global"
 	end
 }
 script 21 mmbn2s {
@@ -175609,7 +175548,7 @@ script 22 mmbn2s {
 	end
 }
 script 23 mmbn2s {
-	"Famoso    Guia pasta!"
+	"Famoso    Guia Pasta!"
 	end
 }
 script 24 mmbn2s {
@@ -175629,7 +175568,7 @@ script 27 mmbn2s {
 	end
 }
 script 28 mmbn2s {
-	"QG ONB   Conf. secreta"
+	"QG ONB    Cnf. secreta"
 	end
 }
 script 29 mmbn2s {
@@ -175759,7 +175698,7 @@ script 2 mmbn2 {
 	clearMsg
 	"""
 	Quando for lá, apro-
-	veite e dê uma passada
+	veita e dá uma passada
 	no meu laboratório!
 	"""
 	keyWait
@@ -176094,7 +176033,8 @@ script 14 mmbn2 {
 	clearMsg
 	"""
 	Obrigado por escolher
-	a ALA.
+	a Ameropa Linhas
+	Aéreas.
 	"""
 	keyWait
 	clearMsg
@@ -176162,8 +176102,8 @@ script 16 mmbn2 {
 		animation = 0
 	"""
 	Lan! MegaMan! Muito
-	obrigada por irem
-	atrás da Roll!!!
+	obrigada por encontrarem
+	a Roll!!!
 	"""
 	keyWait
 	clearMsg
@@ -176472,8 +176412,8 @@ script 23 mmbn2 {
 		animation = 0
 	"""
 	Vou mostrar como usar
-	a pasta na janela
-	de Pasta.
+	a Pasta na janela de
+	Pastas.
 	"""
 	keyWait
 	clearMsg
@@ -176486,22 +176426,21 @@ script 23 mmbn2 {
 	clearMsg
 	"""
 	Para equipar outra
-	pasta, leve o
-	cursor até ela e
+	Pasta, leve o cursor
+	até ela e aperte "A"!
 	"""
 	keyWait
 	clearMsg
 	"""
-	aperte "A"! Aí poderá
-	usá-la na sua próxima
-	batalha!
+	Aí poderá usá-la na
+	sua próxima batalha!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Mas não é bom separar
-	os seus ataques entre
-	duas pastas.
+	Mas não é bom espalhar
+	os seus ataques por
+	duas Pastas.
 	"""
 	keyWait
 	clearMsg
@@ -176636,7 +176575,7 @@ script 26 mmbn2 {
 		animation = 0
 	"""
 	Mudei de ideia. Quero
-	um souvenir sim.
+	um souvenir, sim.
 	Compra um pra mim.
 	"""
 	keyWait
@@ -176651,28 +176590,28 @@ script 27 mmbn2 {
 	mugshotAnimate
 		animation = 0
 	"""
-	I forgot to give you
-	some spending money,
-	so I'll mail it.
+	Esqueci de te dar um
+	dinheirinho pra gastar,
+	então, estou mandando.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Sometimes I feel
-	generous too!
+	Às vezes, eu até
+	consigo ser bem
+	generosa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Actually,this is Ch-
-	ristmas money I've
-	been forgetting to
+	Bom, na verdade, é a
+	mesada de Ano Novo que
+	eu esqueci de te dar...
 	"""
 	keyWait
 	clearMsg
 	"""
-	give you...Anyway,
-	take care!
+	Enfim, se cuida, filho!
 	"""
 	keyWait
 	clearMsg
@@ -176716,7 +176655,7 @@ script 28 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Confiem Às Suas
+	Confiem As Suas
 	Tarefas E Localizem
 	Oficialmente.
 	"""
@@ -176928,8 +176867,8 @@ script 34 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	você pode usar a
-	proteção como escudo.
+	poderá criar um escu-
+	do para se proteger.
 	"""
 	keyWait
 	clearMsg
@@ -180192,8 +180131,7 @@ script 7 mmbn2 {
 	msgOpen
 	"""
 	Lan, você tem menos
-	de 10 chips com
-	você.
+	de 10 chips com você.
 	"""
 	keyWait
 	end
@@ -180798,7 +180736,7 @@ script 46 mmbn2s {
 	end
 }
 script 47 mmbn2s {
-	"Kenny     Re:Paineis l"
+	"Kenny     Re:Pns lava"
 	end
 }
 script 48 mmbn2s {
@@ -180806,7 +180744,7 @@ script 48 mmbn2s {
 	end
 }
 script 49 mmbn2s {
-	"Cafuné    Re:CustomSwor"
+	"Cafuné    Re:CustomSwrd"
 	end
 }
 script 50 mmbn2s {
@@ -180932,11 +180870,11 @@ script 15 mmbn2s {
 	end
 }
 script 16 mmbn2s {
-	"Crápla    Troca-chips?"
+	"Crápla    Troca-Chips?"
 	end
 }
 script 17 mmbn2s {
-	"Gosmo     Re:Troca-chip"
+	"Gosmo     Re:Troca-Chip"
 	end
 }
 script 18 mmbn2s {
@@ -180964,15 +180902,15 @@ script 23 mmbn2s {
 	end
 }
 script 24 mmbn2s {
-	"SeuSiNu   Dados misteriosos"
+	"SeuSiNu   Dados msterio"
 	end
 }
 script 25 mmbn2s {
-	"Admin     Re:Dados mist"
+	"Admin     Re:Dados mstr"
 	end
 }
 script 26 mmbn2s {
-	"SeuSiNu   Re:Dados mist"
+	"SeuSiNu   Re:Dados mstr"
 	end
 }
 script 27 mmbn2s {
@@ -181000,11 +180938,11 @@ script 32 mmbn2s {
 	end
 }
 script 33 mmbn2s {
-	"Mickey    Muito legal!!!"
+	"Mickey    Muito legal!!"
 	end
 }
 script 34 mmbn2s {
-	"Zute      Troca-chips..."
+	"Zute      Troca-Chips"
 	end
 }
 script 35 mmbn2s {
@@ -181036,11 +180974,11 @@ script 41 mmbn2s {
 	end
 }
 script 42 mmbn2s {
-	"Zute      Os troca-chips"
+	"Zute      Os Troca-Chips"
 	end
 }
 script 43 mmbn2s {
-	"Yaz       Re:troca-chips"
+	"Yaz       Re:Troca-Chips"
 	end
 }
 script 44 mmbn2s {
@@ -181250,7 +181188,7 @@ script 46 mmbn2s {
 	end
 }
 script 47 mmbn2s {
-	"Kevin     Re:De Kotobuk"
+	"Kevin     Re:De Ktobuki"
 	end
 }
 script 48 mmbn2s {
@@ -181364,7 +181302,7 @@ script 10 mmbn2s {
 	end
 }
 script 11 mmbn2s {
-	"Vishnu    Incidente acamp"
+	"Vishnu    Incidente acmp"
 	end
 }
 script 12 mmbn2s {
@@ -181408,7 +181346,7 @@ script 21 mmbn2s {
 	end
 }
 script 22 mmbn2s {
-	"Elmo      Ouviram falar?"
+	"Elmo      Ouviram?"
 	end
 }
 script 23 mmbn2s {
@@ -181416,11 +181354,11 @@ script 23 mmbn2s {
 	end
 }
 script 24 mmbn2s {
-	"Calvo     Re:Troca-ch"
+	"Calvo     Re:Troca-Chip"
 	end
 }
 script 25 mmbn2s {
-	"Crápla    Re:Troca-ch"
+	"Crápla    Re:Troca-Chip"
 	end
 }
 script 26 mmbn2s {
@@ -181432,7 +181370,7 @@ script 27 mmbn2s {
 	end
 }
 script 28 mmbn2s {
-	"Alice     Simpósio insetos"
+	"Alice     Simpósio inst"
 	end
 }
 script 29 mmbn2s {
@@ -181456,23 +181394,23 @@ script 33 mmbn2s {
 	end
 }
 script 34 mmbn2s {
-	"Vishnu    Re:Gauss preso"
+	"Vishnu    Re:Gauss prso"
 	end
 }
 script 35 mmbn2s {
-	"Guri      Re:Gauss preso"
+	"Guri      Re:Gauss prso"
 	end
 }
 script 36 mmbn2s {
-	"Yaz       Re:Gauss preso"
+	"Yaz       Re:Gauss prso"
 	end
 }
 script 37 mmbn2s {
-	"Ovaldo    Re:Gauss preso"
+	"Ovaldo    Re:Gauss prso"
 	end
 }
 script 38 mmbn2s {
-	"Cafuné    Medo de tremor!"
+	"Cafuné    Medo tremor!"
 	end
 }
 script 39 mmbn2s {
@@ -181502,7 +181440,7 @@ script 63 mmbn2s {
 @size 64
 
 script 0 mmbn2s {
-	"K.I.      Fórum secreto!"
+	"K.I.      Fórum secreto"
 	end
 }
 script 1 mmbn2s {
@@ -181510,15 +181448,15 @@ script 1 mmbn2s {
 	end
 }
 script 2 mmbn2s {
-	"Kramer    Re:Navidegelo?"
+	"Kramer    Re:Navi gelo?"
 	end
 }
 script 3 mmbn2s {
-	"Informan  O Navi de Gelo"
+	"Informan  O Navi Gelo"
 	end
 }
 script 4 mmbn2s {
-	"Claude    Gospel já era?"
+	"Claude    Gspel já era?"
 	end
 }
 script 5 mmbn2s {
@@ -181550,7 +181488,7 @@ script 11 mmbn2s {
 	end
 }
 script 12 mmbn2s {
-	"hAcKeR    Grana c/ vírus"
+	"hAcKeR    Grana c/ vrus"
 	end
 }
 script 13 mmbn2s {
@@ -181566,7 +181504,7 @@ script 15 mmbn2s {
 	end
 }
 script 16 mmbn2s {
-	"Cindy     Re:PA para Na"
+	"Cindy     Re:PAp/Navi"
 	end
 }
 script 17 mmbn2s {
@@ -181594,7 +181532,7 @@ script 22 mmbn2s {
 	end
 }
 script 23 mmbn2s {
-	"Miau      Re:ChipDeComa"
+	"Miau      Re:ChipDeCmd"
 	end
 }
 script 24 mmbn2s {
@@ -181636,11 +181574,11 @@ script 63 mmbn2s {
 @size 64
 
 script 0 mmbn2s {
-	"MegaMan.EXE  Pro Doc"
+	"MegaMan   Pro Doc"
 	end
 }
 script 1 mmbn2s {
-	"Fatiador  Me deem uma idea"
+	"Fatiador  Uma ideia"
 	end
 }
 script 2 mmbn2s {
@@ -181783,9 +181721,8 @@ script 0 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Mas prefiro falar
-	sobre isso pessoal-
-	mente.
+	Mas prefiro falar sobre
+	isso pessoalmente.
 	"""
 	keyWait
 	clearMsg
@@ -181906,7 +181843,7 @@ script 2 mmbn2 {
 	clearMsg
 	"""
 	Estarei esperando
-	sobre o rio.
+	perto do rio.
 	"""
 	keyWait
 	clearMsg
@@ -182293,7 +182230,7 @@ script 8 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	O meu Navi preto
+	O meu Navi roxo
 	estará esperando lá.
 	"""
 	keyWait
@@ -182343,7 +182280,7 @@ script 9 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Mas infelizmente, sou
+	Mas, infelizmente, sou
 	tímido demais para me
 	confessar!
 	"""
@@ -182473,9 +182410,8 @@ script 11 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	estou estudando a
-	exterminação de
-	vírus.
+	estou estudando
+	exterminação de vírus.
 	"""
 	keyWait
 	clearMsg
@@ -182702,7 +182638,7 @@ script 14 mmbn2 {
 	clearMsg
 	"""
 	Estarei esperando no
-	Bairro Ameropa, em
+	Bairro Ameropa, na
 	Ameropa.
 	"""
 	keyWait
@@ -183536,7 +183472,7 @@ script 99 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Bom trabalho em acabar
+	Fez bem em acabar
 	com essa armadilha
 	para NetLutadores.
 	"""
@@ -183645,8 +183581,8 @@ script 105 mmbn2 {
 	clearMsg
 	"""
 	Reuni vários dados
-	fascinantes do seu
-	Navi.
+	fascinantes com o
+	seu Navi.
 	"""
 	keyWait
 	clearMsg
@@ -183693,7 +183629,7 @@ script 107 mmbn2 {
 	"""
 	Obrigado por me ajudar
 	a me sentir seguro
-	na minha jornada.
+	na minha viagem.
 	"""
 	keyWait
 	waitHold
@@ -183842,7 +183778,7 @@ script 115 mmbn2 {
 	clearMsg
 	"""
 	O inseto por fim
-	revelerá muitos de
+	revelará muitos de
 	seus segredos!
 	"""
 	keyWait
@@ -183903,7 +183839,7 @@ script 118 mmbn2 {
 	clearMsg
 	"""
 	Local de encontro:
-	Joalheria de Ameropa
+	Joalheria da Ameropa
 	"""
 	keyWait
 	waitHold
@@ -184024,20 +183960,20 @@ script 2 mmbn2 {
 script 3 mmbn2 {
 	msgOpenQuick
 	"""
-	What should I use
-	for my default
-	chip...hmmm...
+	Qual eu uso como
+	chip padrão...
+	hmmm...
 	"""
 	keyWait
 	clearMsg
-	"I'll try a "
+	"Talvez um "
 	printChip
 		buffer = 0
 		chip = 122
 	"""
-	
-	I guess. I get
-	scared easily.
+	?.
+	Eu sou meio fácil
+	de assustar...
 	"""
 	keyWait
 	waitHold
@@ -184045,9 +183981,9 @@ script 3 mmbn2 {
 script 4 mmbn2 {
 	msgOpenQuick
 	"""
-	Nah,if you really
-	get scared easily,
-	try a 
+	Se você é do tipo
+	medrosinho, acho melhor
+	um 
 	"""
 	printChip
 		buffer = 0
@@ -184392,8 +184328,7 @@ script 20 mmbn2 {
 	msgOpenQuick
 	"""
 	Ei, gente.
-	Estão usando
-	
+	Estão usando 
 	"""
 	printChip
 		buffer = 0
@@ -184403,8 +184338,7 @@ script 20 mmbn2 {
 	clearMsg
 	"""
 	Esse chip demora
-	bastante pra
-	ativar...
+	bastante pra ativar...
 	"""
 	keyWait
 	waitHold
@@ -184431,8 +184365,7 @@ script 21 mmbn2 {
 	clearMsg
 	"""
 	É por isso que eu uso
-	junto com um
-	
+	junto com um 
 	"""
 	printChip
 		buffer = 0
@@ -184717,9 +184650,8 @@ script 32 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	A minha namorada me
-	deu um chip de
-	presente.
+	Minha namorada me deu
+	um chip de presente.
 	"""
 	keyWait
 	clearMsg
@@ -184745,8 +184677,8 @@ script 32 mmbn2 {
 	clearMsg
 	"""
 	Mas era da minha namo-
-	rada, então coloquei
-	na pasta.
+	rada, então coloquei na
+	minha pasta.
 	"""
 	keyWait
 	clearMsg
@@ -184918,9 +184850,9 @@ script 40 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Use chips fáceis de achar,
-	como AreaGrab e itens de
-	cura!
+	Experimente chips fáceis
+	de achar, como AreaGrab
+	e itens de cura!
 	"""
 	keyWait
 	waitHold
@@ -185030,9 +184962,9 @@ script 45 mmbn2 {
 script 46 mmbn2 {
 	msgOpenQuick
 	"""
-	Essa é a ligação entre
-	os Navis tipo [bracket1]Mdra[bracket2]
-	e a grama!
+	Sim, essa é a ligação
+	entre os Navis tipo
+	[bracket1]Mdra[bracket2] e a grama!
 	"""
 	keyWait
 	clearMsg
@@ -185179,8 +185111,8 @@ script 51 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	E pra completar, o chão
-	é todo congelado, é
+	E pra piorar, o chão
+	tá todo congelado, é
 	difícil lutar nele.
 	"""
 	keyWait
@@ -185215,8 +185147,8 @@ script 52 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	então ataques [bracket1]Elét[bracket2] são
-	bem eficazes nele!
+	então ataques [bracket1]Elét[bracket2]
+	são bem eficazes nele!
 	"""
 	keyWait
 	clearMsg
@@ -185277,8 +185209,9 @@ script 54 mmbn2 {
 script 55 mmbn2 {
 	msgOpenQuick
 	"""
-	Eu achei um avançado!
-	Se chama "Curse"!
+	Eu achei um Programa
+	Avançado! Se chama
+	"Curse"!
 	"""
 	keyWait
 	clearMsg
@@ -185345,9 +185278,9 @@ script 58 mmbn2 {
 script 59 mmbn2 {
 	msgOpenQuick
 	"""
-	Opa, foi mal. Tá,
-	vou tentar contar
-	um pra vocês!
+	Opa, foi mal. Tá, acho
+	que vou contar um pra
+	vocês!
 	"""
 	keyWait
 	clearMsg
@@ -185490,9 +185423,9 @@ script 1 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Apresente-se pri-
-	meiro. Bons modos te
-	levam longe!
+	Apresente-se primeiro.
+	Bons modos te levam
+	longe!
 	"""
 	keyWait
 	waitHold
@@ -185553,8 +185486,8 @@ script 4 mmbn2 {
 	clearMsg
 	"""
 	Não parece ter uma
-	relação entre os
-	dois, mas...
+	relação entre os dois,
+	mas...
 	"""
 	keyWait
 	clearMsg
@@ -185568,7 +185501,7 @@ script 4 mmbn2 {
 	"""
 	Mas nunca que a gente,
 	gente normal, vai
-	descorbrir a conexão.
+	descobrir a conexão.
 	"""
 	keyWait
 	waitHold
@@ -185578,8 +185511,8 @@ script 5 mmbn2 {
 		flag = 121
 	msgOpenQuick
 	"""
-	Boato... ah, isso
-	me lembra...
+	Boatos... ah, isso me
+	lembra...
 	"""
 	keyWait
 	clearMsg
@@ -185592,15 +185525,15 @@ script 5 mmbn2 {
 	clearMsg
 	"""
 	Bom, lá tem um UnderPlaza
-	onde Navi perigosos
-	se reúnem.
+	onde Navi perigosos se
+	reúnem.
 	"""
 	keyWait
 	clearMsg
 	"""
 	E saca só: eles até
 	têm uma Sala de Fórum
-	lá também.
+	lá, também.
 	"""
 	keyWait
 	clearMsg
@@ -185806,7 +185739,7 @@ script 11 mmbn2 {
 	clearMsg
 	"""
 	Essas rotas levam
-	às homepages de
+	às páginas de
 	certas pessoas.
 	"""
 	keyWait
@@ -185961,7 +185894,7 @@ script 15 mmbn2 {
 	clearMsg
 	"""
 	E eu queria tanto usar
-	o troca-chips que tinha
+	o Troca-Chips que tinha
 	lá. Poxa...
 	"""
 	keyWait
@@ -185970,7 +185903,7 @@ script 15 mmbn2 {
 script 16 mmbn2 {
 	msgOpenQuick
 	"""
-	Troca-chips?
+	Troca-Chips?
 	Que história é essa?
 	"""
 	keyWait
@@ -186019,7 +185952,7 @@ script 17 mmbn2 {
 script 18 mmbn2 {
 	msgOpenQuick
 	"""
-	Troca-chips, é...?
+	Troca-Chips, é...?
 	Isso parece do caramba!
 	"""
 	keyWait
@@ -186043,8 +185976,8 @@ script 19 mmbn2 {
 	msgOpenQuick
 	"""
 	Eu fui acampar com o
-	meu pai no Vale
-	Okuden ontem.
+	meu pai no Vale Okuden
+	ontem.
 	"""
 	keyWait
 	clearMsg
@@ -186155,8 +186088,7 @@ script 22 mmbn2 {
 	clearMsg
 	"""
 	É tão divertido quanto
-	dizem! Eu já tô
-	viciado!
+	dizem! Eu já tô viciado!
 	"""
 	keyWait
 	clearMsg
@@ -186201,8 +186133,8 @@ script 23 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Ah, vou tomar cuidado
-	pra não usar o meu
+	Ah, e vou tomar cuidado
+	pra não inserir o meu
 	querido  
 	"""
 	printChip
@@ -186217,7 +186149,7 @@ script 24 mmbn2 {
 	"""
 	Tenho uma pergunta
 	sobre os dados miste-
-	rioses na Rede.
+	riosos na Rede.
 	"""
 	keyWait
 	clearMsg
@@ -186263,8 +186195,8 @@ script 25 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	É como uma caixa
-	de bombons!
+	É como uma caixa de
+	bombons!
 	"""
 	keyWait
 	clearMsg
@@ -186296,8 +186228,8 @@ script 26 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	É, eu vou arranjar
-	um!
+	É, eu vou sair pra
+	arranjar um!
 	"""
 	keyWait
 	waitHold
@@ -186306,7 +186238,7 @@ script 27 mmbn2 {
 	msgOpenQuick
 	"""
 	Tinha um negócio esqui-
-	sito na entrada pro
+	sito na entrada do
 	acampamento.
 	"""
 	keyWait
@@ -186504,8 +186436,8 @@ script 35 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Era difícil, se comu-
-	nicar só com gestos!
+	Era difícil, se comunicar
+	só com gestos!
 	"""
 	keyWait
 	waitHold
@@ -186543,9 +186475,9 @@ script 37 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Dá pra ouvir uns
-	sons estranhos vindos
-	do nada...
+	Dá pra ouvir uns sons
+	estranhos vindos do
+	nada...
 	"""
 	keyWait
 	clearMsg
@@ -186617,9 +186549,9 @@ script 41 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	É preciso de ChvPorts
-	para usá-los, mas onde
-	será que se acha?
+	É preciso ChvPorts pra
+	usá-los, mas onde será
+	que se acha?
 	"""
 	keyWait
 	waitHold
@@ -186671,7 +186603,7 @@ script 43 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	em Ameropa - é bom
+	de Ameropa - é bom
 	usar as duas máquinas
 	pra ver
 	"""
@@ -186847,7 +186779,7 @@ script 3 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	A minha homepage
+	A minha página
 	está infestada de
 	Beetanks!
 	"""
@@ -186903,8 +186835,8 @@ script 5 mmbn2 {
 	msgOpenQuick
 	"""
 	Qual é a dos HardHeads?
-	Eu não consigo
-	acertar eles!!
+	Não consigo acertar
+	eles!!
 	"""
 	keyWait
 	clearMsg
@@ -187053,9 +186985,9 @@ script 13 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Dominerds... É,
-	eles aparecem direto
-	na Ameropa.
+	Dominerds... É, eles
+	aparecem direto na
+	Ameropa.
 	"""
 	keyWait
 	clearMsg
@@ -187080,8 +187012,8 @@ script 13 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	eles abrem a boca
-	pra morder, né?
+	eles abrem a boca pra
+	morder, né?
 	"""
 	keyWait
 	clearMsg
@@ -187093,7 +187025,7 @@ script 13 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	E ataque com um chip!
+	e ataque com um chip!
 	Ataques rápidos, como
 	espadas, são ideais.
 	"""
@@ -187124,8 +187056,8 @@ script 14 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Quando acabam os quadros
-	de grama, eles ficam
+	Quando não tem esses
+	quadros, eles ficam
 	parados lá, tremendo!
 	"""
 	keyWait
@@ -187136,7 +187068,7 @@ script 15 mmbn2 {
 	"""
 	Não consigo roubar chips
 	de vírus Flamey.
-	O que eles têm?
+	O que eles dão?
 	"""
 	keyWait
 	waitHold
@@ -187147,9 +187079,9 @@ script 16 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Eu até diria o que
-	eles têm, mas onde
-	estaria a graça nisso?
+	Eu até diria o que eles
+	dão, mas onde estaria
+	a graça nisso?
 	"""
 	keyWait
 	clearMsg
@@ -187247,8 +187179,8 @@ script 20 mmbn2 {
 	msgOpenQuick
 	"""
 	Eu vi um, muito tempo
-	atrás... tipo,
-	MESES atrás.
+	atrás... tipo, MESES
+	atrás.
 	"""
 	keyWait
 	clearMsg
@@ -187287,7 +187219,7 @@ script 22 mmbn2 {
 	msgOpenQuick
 	"""
 	Já ouviram falar de
-	vírus que tem, tipo,
+	vírus que têm, tipo,
 	uma aura em volta?
 	"""
 	keyWait
@@ -187331,8 +187263,8 @@ script 24 mmbn2 {
 	clearMsg
 	"""
 	Se não aparecer um bom
-	chip durante uma
-	luta contra eles,
+	chip durante uma luta
+	contra eles,
 	"""
 	keyWait
 	clearMsg
@@ -187400,8 +187332,8 @@ script 28 mmbn2 {
 	msgOpenQuick
 	"""
 	O meu NetNavi é elemento
-	[bracket1]Água[bracket2]. Logo, é
-	fraco contra ataques
+	[bracket1]Água[bracket2]. Logo, é fraco
+	contra ataques
 	"""
 	keyWait
 	clearMsg
@@ -187501,7 +187433,7 @@ script 33 mmbn2 {
 	"""
 	É, alguns inimigos
 	são mais fortes em
-	conjunto.
+	bando.
 	"""
 	keyWait
 	clearMsg
@@ -187770,8 +187702,8 @@ script 44 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	E, sim, tinham
-	vírus dentro dele.
+	E, sim, tinham vírus
+	dentro dele.
 	"""
 	keyWait
 	waitHold
@@ -188390,7 +188322,7 @@ script 9 mmbn2 {
 script 10 mmbn2 {
 	msgOpenQuick
 	"""
-	A homepage da Ribitta
+	A página da Ribitta
 	fica na van de TV
 	dela.
 	"""
@@ -188451,9 +188383,9 @@ script 13 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Da última vez, eu
-	penei bastante contra
-	o GateMan.
+	Da última vez, eu penei
+	bastante contra o
+	GateMan.
 	"""
 	keyWait
 	clearMsg
@@ -188495,9 +188427,8 @@ script 14 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Eles têm uma tecno-
-	logia única de
-	programação.
+	Eles têm uma tecnologia
+	única de programação.
 	"""
 	keyWait
 	clearMsg
@@ -188518,15 +188449,15 @@ script 15 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	É um lindo país
-	verde, cheio de
-	comidas deliciosas.
+	É um lindo país verde,
+	cheio de comidas
+	deliciosas.
 	"""
 	keyWait
 	clearMsg
 	"""
 	E pra completar, a
-	rede dele é super
+	rede de lá é super
 	moderna!
 	"""
 	keyWait
@@ -188554,7 +188485,7 @@ script 16 mmbn2 {
 	"""
 	O lugar tá tão
 	estranho hoje.
-	Tá estressado...
+	Tá puro estresse lá...
 	"""
 	keyWait
 	clearMsg
@@ -188568,15 +188499,15 @@ script 16 mmbn2 {
 script 17 mmbn2 {
 	msgOpenQuick
 	"""
-	Eu vi NetLutadores
-	Oficiais no saguão
-	hoje também.
+	Eu também vi
+	NetLutadores Oficiais
+	no saguão hoje.
 	"""
 	keyWait
 	clearMsg
 	"""
-	O que será que aconteceu
-	lá hoje?
+	O que será que rolou
+	por lá?
 	"""
 	keyWait
 	waitHold
@@ -188604,8 +188535,8 @@ script 18 mmbn2 {
 	clearMsg
 	"""
 	Por favor, desconectem-
-	se calmamente. Pode
-	ser perigoso.
+	se calmamente. Pode ser
+	perigoso.
 	"""
 	keyWait
 	waitHold
@@ -188620,7 +188551,7 @@ script 19 mmbn2 {
 	clearMsg
 	"""
 	Sejam fortes hoje,
-	pela DenCity... não,
+	por DenCity... não,
 	por toda a Ni-Hon!
 	"""
 	keyWait
@@ -188646,8 +188577,7 @@ script 20 mmbn2 {
 	clearMsg
 	"""
 	em Saborya.
-	Acabei dormindo
-	demais!
+	Acabei dormindo demais!
 	"""
 	keyWait
 	waitHold
@@ -188680,8 +188610,7 @@ script 22 mmbn2 {
 	clearMsg
 	"""
 	mas já foi resolvido.
-	Os Oficiais são
-	demais!
+	Os Oficiais são demais!
 	"""
 	keyWait
 	waitHold
@@ -188739,8 +188668,8 @@ script 24 mmbn2 {
 		buffer = 0
 		chip = 25
 	"""
-	s
-	e só ganhei um 
+	s e só
+	ganhei um 
 	"""
 	printChip
 		buffer = 0
@@ -188794,7 +188723,7 @@ script 26 mmbn2 {
 	clearMsg
 	"""
 	Mas parece que a loja
-	fechou. Eu queria
+	fechou. Eu queria tanto
 	tentar de novo!
 	"""
 	keyWait
@@ -188803,15 +188732,15 @@ script 26 mmbn2 {
 script 27 mmbn2 {
 	msgOpenQuick
 	"""
-	Ontem teve uma conferên-
-	cia de NetLutadores
+	Ontem teve uma confe-
+	rência de NetLutadores
 	Oficiais na Ameropa.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Eu vi no noticiário
-	da noite apresentado
+	Eu vi no noticiário da
+	noite, apresentado
 	pela Ribitta.
 	"""
 	keyWait
@@ -188824,9 +188753,9 @@ script 27 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Onde será que é? A sala
-	que mostraram na TV
-	era lindona.
+	Onde será que é? O
+	salão que mostraram
+	na TV era lindão.
 	"""
 	keyWait
 	waitHold
@@ -188943,8 +188872,8 @@ script 32 mmbn2 {
 script 33 mmbn2 {
 	msgOpenQuick
 	"""
-	Viram as notícias
-	de e-mail?
+	Viram as notícias via
+	e-mail?
 	"""
 	keyWait
 	clearMsg
@@ -188973,9 +188902,8 @@ script 34 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	uma organizaçãa
-	criminosa como
-	aquela?
+	uma organização
+	criminosa como aquela?
 	"""
 	keyWait
 	clearMsg
@@ -189050,8 +188978,8 @@ script 37 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Que tipo de chefe
-	seria capaz de controlar
+	Que tipo de líder seria
+	capaz de controlar
 	alguém como o Gauss?
 	"""
 	keyWait
@@ -190068,8 +189996,8 @@ script 1 mmbn2 {
 script 2 mmbn2 {
 	msgOpenQuick
 	"""
-	Aqui vai o Rumor
-	da Undernet No. 1.
+	Aqui vai o Boato da
+	Undernet No. 1.
 	"""
 	keyWait
 	clearMsg
@@ -190084,15 +190012,15 @@ script 2 mmbn2 {
 script 3 mmbn2 {
 	msgOpenQuick
 	"""
-	Aqui vai o Rumor
-	da Undernet No. 2.
+	Aqui vai o Boato da
+	Undernet No. 2.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Tem alguma coisa estra-
-	nha com o colecionar de
-	FragBug no KotoPlaza...
+	Aquele colecionador de
+	FragBug do KotoPlaza
+	é suspeito...
 	"""
 	keyWait
 	waitHold
@@ -190111,8 +190039,8 @@ script 4 mmbn2 {
 	clearMsg
 	"""
 	FragBugs acumulados
-	se transformam em
-	bugs de verdade!
+	viram bugs de verdade
+	com o tempo!
 	"""
 	keyWait
 	clearMsg
@@ -190124,8 +190052,9 @@ script 4 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Mas eu fiquei feliz
-	de conseguir um 
+	Bom, mas fiquei feliz
+	de trocar os meus por
+	um 
 	"""
 	printChip
 		buffer = 0
@@ -190137,8 +190066,8 @@ script 4 mmbn2 {
 script 5 mmbn2 {
 	msgOpenQuick
 	"""
-	Seu burro! Trocar
-	por um 
+	Ô, burraldo! Trocou por
+	um 
 	"""
 	printChip
 		buffer = 0
@@ -190150,13 +190079,13 @@ script 5 mmbn2 {
 	printChip
 		buffer = 0
 		chip = 117
-	"!"
+	"?!"
 	keyWait
 	waitHold
 }
 script 6 mmbn2 {
 	msgOpenQuick
-	"Eu ganhei um "
+	"Eu peguei um "
 	printChip
 		buffer = 0
 		chip = 125
@@ -190167,13 +190096,13 @@ script 6 mmbn2 {
 script 7 mmbn2 {
 	msgOpenQuick
 	"""
-	Aqui vai o Rumor
+	Aqui vai o Boato
 	da Undernet No. 3.
 	"""
 	keyWait
 	clearMsg
 	"""
-	O Protoman, do Plaza,
+	O ProtoMan, do Plaza,
 	é encrenca. O cara é
 	forte pra caramba!
 	"""
@@ -190226,7 +190155,7 @@ script 10 mmbn2 {
 script 11 mmbn2 {
 	msgOpenQuick
 	"""
-	Aqui vai o Rumor
+	Aqui vai o Boato
 	da Undernet No. 4.
 	"""
 	keyWait
@@ -190381,7 +190310,7 @@ script 15 mmbn2 {
 script 16 mmbn2 {
 	msgOpenQuick
 	"""
-	Aqui vai o Rumor
+	Aqui vai o Boato
 	da Undernet No. 5.
 	"""
 	keyWait

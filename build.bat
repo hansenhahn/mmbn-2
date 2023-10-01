@@ -1,5 +1,12 @@
+:: Arquivo .bat que remonta a rom traduzida. Funciona lendo a rom original
+:: americana, no arquivo nomeado "Mega Man Battle Network 2 (USA).gba", criando
+:: uma cópia dela, e aplicando nela as alterações da tradução, cumulativamente.
+:: Se funcionado, ao final do processo deve ser gerada a rom traduzida, com
+:: nome "Mega Man Battle Network 2 (BR).gba".
+::
+:: Escrito por Solid One e Denim - Setembro de 2022
 @echo off
-echo ==Gerando rom traduzida. Aperte enter quando a mensagem "Done" abaixo aparecer.==
+echo ==Gerando rom traduzida. Aperte enter quando a mensagem "Done" ao final aparecer.==
 .\Ferramentas\TextPet.exe run-script insert.tpl
 
 echo ==Aplicando patches extras na rom modificada:==
@@ -14,8 +21,7 @@ echo ==Graficos descomprimidos==
 .\Ferramentas\armips.exe .\Asm\graficos.asm
 
 echo ==Graficos comprimidos==
-copy ".\Graficos\Comprimidos\Editados\0x3dde2c - ON AIR.gba" ".\Graficos\Comprimidos\Recomprimidos\"
-.\Ferramentas\lzss.exe -evn ".\Graficos\Comprimidos\Recomprimidos\0x3dde2c - ON AIR.gba"
+call recomprimir_graficos_comprimidos.bat
 .\Ferramentas\armips.exe .\Asm\graficos_comprimidos.asm
 
 echo ==Expandindo rom para 16mb==

@@ -198,7 +198,7 @@ ptrtm1:
 .dw 0x00000010
 .dw 0x00007e10
 .dw 0x0000fc10
-.incbin "Graficos/Comprimidos/Recomprimidos/img-01f3c0-tm.bin"
+.incbin "Mapas de Tiles/img-01f3c0-tm.bin"
 .align
 
 ptrtm2:
@@ -206,7 +206,7 @@ ptrtm2:
 .dw 0x00000010
 .dw 0x00008710
 .dw 0x00010e10
-.incbin "Graficos/Comprimidos/Recomprimidos/img-01f39c-tm.bin"
+.incbin "Mapas de Tiles/img-01f39c-tm.bin"
 .align
 
 ptrtm3:    
@@ -214,7 +214,7 @@ ptrtm3:
 .dw 0x00000010
 .dw 0x00006730
 .dw 0x0000ce50
-.incbin "Graficos/Comprimidos/Recomprimidos/img-01f3a8-tm.bin"
+.incbin "Mapas de Tiles/img-01f3a8-tm.bin"
 .align
 
 ptrtm4:
@@ -222,7 +222,7 @@ ptrtm4:
 .dw 0x00000010
 .dw 0x00002ba0
 .dw 0x00005730
-.incbin "Graficos/Comprimidos/Recomprimidos/img-01f33c-tm.bin"
+.incbin "Mapas de Tiles/img-01f33c-tm.bin"
 .align
 		
 ptrtm5:
@@ -230,7 +230,7 @@ ptrtm5:
 .dw 0x00000010
 .dw 0x00008350
 .dw 0x00010690
-.incbin "Graficos/Comprimidos/Recomprimidos/img-01f36c-tm.bin"
+.incbin "Mapas de Tiles/img-01f36c-tm.bin"
 .align
 		
 ptrtm6:
@@ -238,7 +238,7 @@ ptrtm6:
 .dw 0x00000010
 .dw 0x0000b290
 .dw 0x00016510
-.incbin "Graficos/Comprimidos/Recomprimidos/img-01f24c-tm.bin"
+.incbin "Mapas de Tiles/img-01f24c-tm.bin"
 .align
 		
 ptrtm7:
@@ -246,7 +246,7 @@ ptrtm7:
 .dw 0x00000010
 .dw 0x00009610
 .dw 0x00012c10
-.incbin "Graficos/Comprimidos/Recomprimidos/img-01f2d0-tm.bin"
+.incbin "Mapas de Tiles/img-01f2d0-tm.bin"
 .align
 		
 ptrtm8:
@@ -254,7 +254,7 @@ ptrtm8:
 .dw 0x00000010
 .dw 0x00003210
 .dw 0x00006410
-.incbin "Graficos/Comprimidos/Recomprimidos/img-01f2e8-tm.bin"
+.incbin "Mapas de Tiles/img-01f2e8-tm.bin"
 .align
 		
 ptrtm9:
@@ -262,7 +262,7 @@ ptrtm9:
 .dw 0x00000010
 .dw 0x00002a40
 .dw 0x00005470
-.incbin "Graficos/Comprimidos/Recomprimidos/img-01f2dc-tm.bin"
+.incbin "Mapas de Tiles/img-01f2dc-tm.bin"
 .align
 		
 ptrtm10:
@@ -270,7 +270,7 @@ ptrtm10:
 .dw 0x00000010
 .dw 0x00002a40
 .dw 0x00005470
-.incbin "Graficos/Comprimidos/Recomprimidos/img-01f390-tm.bin"
+.incbin "Mapas de Tiles/img-01f390-tm.bin"
 .align
 		
 ptrtm11:		
@@ -278,7 +278,7 @@ ptrtm11:
 .dw 0x00000010
 .dw 0x00006010
 .dw 0x0000c010
-.incbin "Graficos/Comprimidos/Recomprimidos/img-01f4a4-tm.bin"
+.incbin "Mapas de Tiles/img-01f4a4-tm.bin"
 .align
 		
 ptrtm12:		
@@ -286,7 +286,7 @@ ptrtm12:
 .dw 0x00000010
 .dw 0x00001b90
 .dw 0x00003710
-.incbin "Graficos/Comprimidos/Recomprimidos/img-01f528-tm.bin"
+.incbin "Mapas de Tiles/img-01f528-tm.bin"
 .align
 
 ptrtm13:
@@ -294,7 +294,7 @@ ptrtm13:
 .dw 0x00000010
 .dw 0x000056b0
 .dw 0x0000ad50
-.incbin "Graficos/Comprimidos/Recomprimidos/img-01f384-tm.bin"
+.incbin "Mapas de Tiles/img-01f384-tm.bin"
 .align
 
 ptrtm14:	
@@ -302,7 +302,7 @@ ptrtm14:
 .dw 0x00000010
 .dw 0x00007090
 .dw 0x0000e110
-.incbin "Graficos/Comprimidos/Recomprimidos/img-01f378-tm.bin"
+.incbin "Mapas de Tiles/img-01f378-tm.bin"
 .align
 
 ptrtm15:
@@ -310,7 +310,7 @@ ptrtm15:
 .dw 0x00000010
 .dw 0x00005810
 .dw 0x0000b010
-.incbin "Graficos/Comprimidos/Recomprimidos/img-01f720-tm.bin"
+.incbin "Mapas de Tiles/img-01f720-tm.bin"
 .align
 
 gfx_onair:
