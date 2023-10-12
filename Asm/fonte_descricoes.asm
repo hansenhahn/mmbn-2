@@ -38,16 +38,12 @@ L_LINE			equ		[r5, 19]
         beq     @@vwf
         cmp     r0, #0x5c
         beq     @@teste2
-        bra     @@normal
+        b       @@normal
     	@@teste2:
-        mov     r1, [r13]
         cmp     r1, 6
         beq     @@normal
     	@@vwf:
         pop     r0
-        bne     @@normal
-		@@vwf:
-		pop     r0
 		
 		;r0 	base
 		;r1		id do item

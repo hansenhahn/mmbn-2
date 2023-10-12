@@ -21,7 +21,7 @@ echo ==Graficos descomprimidos==
 .\Ferramentas\armips.exe .\Asm\graficos.asm
 
 echo ==Graficos comprimidos==
-call recomprimir_graficos_comprimidos.bat
+::call recomprimir_graficos_comprimidos.bat
 .\Ferramentas\armips.exe .\Asm\graficos_comprimidos.asm
 
 echo ==Expandindo rom para 16mb==
