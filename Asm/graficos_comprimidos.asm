@@ -88,6 +88,9 @@
 .org 0x0801f720 + 8
 .dw ptrtm15
 
+.org 0x0801f3fc
+.dw ptr16
+
 .org 0x0801ef9c
 .dw gfx_onair
 		
@@ -191,6 +194,10 @@ ptr14:
 
 ptr15:
 .incbin "Graficos/Comprimidos/Recomprimidos/img-01f720-td.bin"
+.align
+
+ptr16:
+.incbin "Graficos/Comprimidos/Recomprimidos/img-01f3fc-td.bin"
 .align
 
 ptrtm1:
