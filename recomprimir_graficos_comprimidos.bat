@@ -11,8 +11,8 @@ for /f "delims=" %%f in ('dir /b .\Graficos\Comprimidos\Recomprimidos\*.gba') do
     .\Ferramentas\lzss.exe -evn ".\Graficos\Comprimidos\Recomprimidos\%%f"
 )
 
-::echo Recomprimindo grafico do offset '01f24c', da cidade ACDC...
-::.\Ferramentas\armips.exe .\Asm\remontar_bgs_comprimidos.asm -strequ output "img-01f24c-td"
+echo Recomprimindo grafico do offset '01f24c', da cidade ACDC...
+.\Ferramentas\armips.exe .\Asm\remontar_bgs_comprimidos.asm -strequ output "img-01f24c-td"
 
 echo Recomprimindo grafico do offset '01f3fc', do logo 'Official Center' miudo em Ameropa...
 .\Ferramentas\armips.exe .\Asm\remontar_bgs_comprimidos.asm -strequ output "img-01f3fc-td"

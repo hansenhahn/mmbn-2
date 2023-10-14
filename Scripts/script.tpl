@@ -14771,8 +14771,8 @@ script 1 mmbn2 {
 		delay = 0
 	"""
 	Este dado é prova
-	do heróismo de um
-	Navi.
+	do heroísmo de um
+	Navi
 	"""
 	waitHold
 }
@@ -14782,7 +14782,7 @@ script 2 mmbn2 {
 		delay = 0
 	"""
 	Este dado é prova
-	da fé de um Navi.
+	da fé de um Navi
 	"""
 	waitHold
 }
@@ -15404,9 +15404,9 @@ script 57 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	Tem "Alveje
+	Tem a mensagem "Alveje
 	promoção, soldado"
-	gravado nele
+	gravada nele
 	"""
 	waitHold
 }
@@ -15417,7 +15417,7 @@ script 58 mmbn2 {
 	"""
 	Informação sobre a prova
 	da LicençaB, somente
-	para NetLutadores.
+	para NetLutadores
 	"""
 	waitHold
 }
@@ -34472,7 +34472,7 @@ script 143 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Quando vi um Navi
+	quando vi um Navi
 	SUPER mal-encarado
 	entrando no Plaza!
 	"""
@@ -53752,7 +53752,7 @@ script 199 mmbn2 {
 		mugshot = Dad
 	msgOpen
 	"""
-	 Lan,
+	Venham com tudo, Lan e
 	MegaMan! Ou jamais irão
 	passar na prova!
 	"""
@@ -61697,7 +61697,7 @@ script 193 mmbn2 {
 	"""
 	keyWait
 	clearMsg
-	"\"Cérebro do Maior dos\nPássaros.\"."
+	"\"Cérebro do Maior dos\nPássaros\"."
 	keyWait
 	end
 }
@@ -86778,8 +86778,9 @@ script 229 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	"O lugar que encara
-	diferentes culturas"
+	"O lugar que é um
+	mirante para dife-
+	rentes culturas"
 	"""
 	keyWait
 	end
@@ -102794,8 +102795,7 @@ script 17 mmbn2 {
 	msgOpen
 	"""
 	Por favor, encontre logo
-	o meu 
-	"
+	o meu "
 	"""
 	printItem
 		buffer = 0
@@ -103613,7 +103613,7 @@ script 231 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 232
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -108148,7 +108148,7 @@ script 232 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 233
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -108408,8 +108408,8 @@ script 190 mmbn2 {
 		mugshot = EvilNavi
 	msgOpen
 	"""
-	Ora, olá. O No. 2 já
-	me explicou a situação.
+	Ora, olá. O No. 2 me
+	explicou a situação.
 	"""
 	keyWait
 	clearMsg
@@ -108585,7 +108585,7 @@ script 231 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 232
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -108750,7 +108750,7 @@ script 236 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 237
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -110991,7 +110991,7 @@ script 232 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 233
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -111606,8 +111606,7 @@ script 193 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Cadê o resto do
-	grupo?
+	Cadê o resto do grupo?
 	"""
 	keyWait
 	clearMsg
@@ -111935,7 +111934,7 @@ script 232 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 233
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -112100,7 +112099,7 @@ script 237 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 238
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -112975,7 +112974,7 @@ script 232 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 233
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -114410,7 +114409,7 @@ script 232 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 233
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -114575,7 +114574,7 @@ script 237 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 238
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -115353,7 +115352,7 @@ script 231 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 232
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -115518,7 +115517,7 @@ script 236 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 237
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -117899,7 +117898,7 @@ script 232 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 233
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -118064,7 +118063,7 @@ script 237 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 238
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -118457,7 +118456,7 @@ script 232 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 233
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -118622,7 +118621,7 @@ script 237 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 238
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -119155,7 +119154,7 @@ script 231 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 232
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -119320,7 +119319,7 @@ script 236 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 237
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -119697,7 +119696,7 @@ script 231 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 232
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -119862,7 +119861,7 @@ script 236 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 237
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -120027,7 +120026,7 @@ script 241 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 242
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -120467,7 +120466,7 @@ script 235 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 236
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -120632,7 +120631,7 @@ script 240 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 241
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -120797,7 +120796,7 @@ script 245 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 246
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -121054,7 +121053,7 @@ script 192 mmbn2 {
 	clearMsg
 	"""
 	Não vai pensando que eu
-	sou que nem o 3 o 4,
+	sou que nem o 3 e o 4,
 	não!
 	"""
 	keyWait
@@ -121070,14 +121069,14 @@ script 192 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	E vamos expandir o alcance
+	E expandiremos o alcance
 	dos "Navis das Sombras"
 	pro resto do mundo,
 	"""
 	keyWait
 	clearMsg
 	"""
-	e criar uma organização
+	criando uma organização
 	netcriminosa ainda maior
 	que a WWW e a Gospel!
 	"""
@@ -121129,7 +121128,7 @@ script 220 mmbn2 {
 }
 script 221 mmbn2 {
 	msgOpen
-	"MegaMan apresentou seu\n"
+	"MegaMan apresentou sua\n"
 	printItem
 		buffer = 0
 		item = 61
@@ -121247,7 +121246,7 @@ script 232 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 233
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -121412,7 +121411,7 @@ script 237 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 238
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -121581,7 +121580,7 @@ script 220 mmbn2 {
 }
 script 221 mmbn2 {
 	msgOpen
-	"MegaMan apresentou seu\n"
+	"MegaMan apresentou sua\n"
 	printItem
 		buffer = 0
 		item = 62
@@ -121619,7 +121618,7 @@ script 222 mmbn2 {
 }
 script 223 mmbn2 {
 	msgOpen
-	"MegaMan apresentou seu\n"
+	"MegaMan apresentou sua\n"
 	printItem
 		buffer = 0
 		item = 62
@@ -121657,7 +121656,7 @@ script 224 mmbn2 {
 }
 script 225 mmbn2 {
 	msgOpen
-	"MegaMan apresentou seu\n"
+	"MegaMan apresentou sua\n"
 	printItem
 		buffer = 0
 		item = 63
@@ -121695,7 +121694,7 @@ script 226 mmbn2 {
 }
 script 227 mmbn2 {
 	msgOpen
-	"MegaMan apresentou seu\n"
+	"MegaMan apresentou sua\n"
 	printItem
 		buffer = 0
 		item = 63
@@ -121733,7 +121732,7 @@ script 228 mmbn2 {
 }
 script 229 mmbn2 {
 	msgOpen
-	"MegaMan apresentou seu\n"
+	"MegaMan apresentou sua\n"
 	printItem
 		buffer = 0
 		item = 63
@@ -121854,7 +121853,7 @@ script 232 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 233
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -122019,7 +122018,7 @@ script 237 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 238
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -122368,7 +122367,7 @@ script 222 mmbn2 {
 }
 script 223 mmbn2 {
 	msgOpen
-	"MegaMan apresentou seu\n"
+	"MegaMan apresentou sua\n"
 	printItem
 		buffer = 0
 		item = 62
@@ -122406,7 +122405,7 @@ script 224 mmbn2 {
 }
 script 225 mmbn2 {
 	msgOpen
-	"MegaMan apresentou seu\n"
+	"MegaMan apresentou sua\n"
 	printItem
 		buffer = 0
 		item = 61
@@ -122444,7 +122443,7 @@ script 226 mmbn2 {
 }
 script 227 mmbn2 {
 	msgOpen
-	"MegaMan apresentou seu\n"
+	"MegaMan apresentou sua\n"
 	printItem
 		buffer = 0
 		item = 63
@@ -122482,7 +122481,7 @@ script 228 mmbn2 {
 }
 script 229 mmbn2 {
 	msgOpen
-	"MegaMan apresentou seu\n"
+	"MegaMan apresentou sua\n"
 	printItem
 		buffer = 0
 		item = 61
@@ -122599,7 +122598,7 @@ script 232 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 233
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -122766,7 +122765,7 @@ script 237 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 238
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -122995,7 +122994,7 @@ script 222 mmbn2 {
 }
 script 223 mmbn2 {
 	msgOpen
-	"MegaMan apresentou seu\n"
+	"MegaMan apresentou sua\n"
 	printItem
 		buffer = 0
 		item = 62
@@ -123085,7 +123084,7 @@ script 232 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 233
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -123250,7 +123249,7 @@ script 237 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 238
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -123502,7 +123501,7 @@ script 222 mmbn2 {
 }
 script 223 mmbn2 {
 	msgOpen
-	"MegaMan apresentou seu\n"
+	"MegaMan apresentou sua\n"
 	printItem
 		buffer = 0
 		item = 63
@@ -123540,7 +123539,7 @@ script 224 mmbn2 {
 }
 script 225 mmbn2 {
 	msgOpen
-	"MegaMan apresentou seu\n"
+	"MegaMan apresentou sua\n"
 	printItem
 		buffer = 0
 		item = 63
@@ -123578,7 +123577,7 @@ script 226 mmbn2 {
 }
 script 227 mmbn2 {
 	msgOpen
-	"MegaMan apresentou seu\n"
+	"MegaMan apresentou sua\n"
 	printItem
 		buffer = 0
 		item = 63
@@ -123742,7 +123741,7 @@ script 233 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 234
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -123907,7 +123906,7 @@ script 238 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 239
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -124072,7 +124071,7 @@ script 243 mmbn2 {
 		jumpIfTrue = continue
 		jumpIfFalse = 244
 	"""
-	o subchip
+	O subchip
 	"
 	"""
 	printItem
@@ -125318,7 +125317,7 @@ script 35 mmbn2 {
 	"""
 	Ninguém reclama aqui na
 	Undernet, nem quando
-	paralizados e sofrendo!
+	paralisados e sofrendo!
 	"""
 	keyWait
 	end
@@ -129802,8 +129801,8 @@ script 2 mmbn2 {
 		buffer = 0
 		item = 5
 	"""
-	"
-	praquele Navi!
+	" praquele
+	Navi!
 	"""
 	keyWait
 	clearMsg
@@ -158531,14 +158530,14 @@ script 1 mmbn2 {
 	clearMsg
 	"""
 	Os membros da gangue
-	estão espalhados
-	Rede afora.
+	estão espalhados Rede
+	afora.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Obviamente, são todos
-	Navis pretos, e todos
+	Todos eles são Navis
+	roxos do mal, e todos
 	têm alta cara de mau.
 	"""
 	keyWait
@@ -158662,7 +158661,7 @@ script 4 mmbn2 {
 	mugshotShow
 		mugshot = NormalNavi
 	msgOpen
-	"Agora vamos ao Teste 2!"
+	"Agora vamos à Prova 2!"
 	keyWait
 	clearMsg
 	jump
@@ -158673,14 +158672,14 @@ script 5 mmbn2 {
 		mugshot = NormalNavi
 	msgOpen
 	"""
-	O Teste 2 é uma
+	A Prova 2 é uma
 	batalha de sobrevivência.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Para passar, delete os
-	20 grupos de vírus
+	Para passar, delete as
+	20 baterias de vírus
 	que o desafiarão.
 	"""
 	keyWait
@@ -158694,8 +158693,8 @@ script 5 mmbn2 {
 	clearMsg
 	"""
 	Recuperarei todo o seu
-	PV antes e depois
-	do teste.
+	PV antes e depois da
+	prova.
 	"""
 	keyWait
 	clearMsg
@@ -158983,8 +158982,8 @@ script 1 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	A prova consiste
-	do seguinte...
+	A prova consiste do
+	seguinte...
 	"""
 	keyWait
 	clearMsg
@@ -159105,7 +159104,7 @@ script 2 mmbn2 {
 		down = 0
 	space
 		count = 2
-	"Quero "
+	"Sim "
 	option
 		left = 0
 		right = 0
@@ -159187,8 +159186,8 @@ script 5 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Para passar, delete os
-	30 grupos de vírus
+	Para passar, delete as
+	30 baterias de vírus
 	que o desafiarão.
 	"""
 	keyWait
@@ -169559,8 +169558,8 @@ script 4 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Vocês invadiram
-	e profanaram este
+	Vocês invadiram e
+	profanaram este
 	solo sagrado!
 	"""
 	keyWait
@@ -169652,7 +169651,7 @@ script 2 mmbn2 {
 script 0 mmbn2 {
 	msgOpen
 	"""
-	Vós que comandam
+	Vós que comandais
 	legiões de Navis,
 	sigam adiante!
 	"""
@@ -169745,8 +169744,8 @@ script 6 mmbn2 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Como assim o PharaohMan
-	perdeu pra uma dupla
+	Como o PharaohMan foi
+	perder pra uma dupla
 	de criancinhas?!
 	"""
 	keyWait
@@ -169906,15 +169905,13 @@ script 6 mmbn2 {
 		mugshot = PlanetMan
 	msgOpen
 	"""
-	Sim... e você
-	passou no teste com
-	maestria...
+	Sim... e você passou
+	no teste com maestria...
 	"""
 	keyWait
 	clearMsg
 	"""
-	Você... é o
-	"Escolhido"!
+	Você... é o "Escolhido"!
 	"""
 	keyWait
 	clearMsg
@@ -169944,8 +169941,7 @@ script 8 mmbn2 {
 	clearMsg
 	"""
 	Pode se juntar a nós.
-	Pode se juntar
-	à WWW!
+	Pode se juntar à WWW!
 	"""
 	keyWait
 	clearMsg
@@ -170071,14 +170067,13 @@ script 14 mmbn2 {
 	clearMsg
 	"""
 	Será destruído...
-	Um sacrifício adequado...
+	Um sacrifício adequado,
 	"""
 	keyWait
 	clearMsg
 	"""
-	... porém lastimável,
-	para a glória da
-	WWW!
+	porém lastimável,
+	para a glória da WWW!
 	"""
 	keyWait
 	clearMsg
@@ -170091,8 +170086,7 @@ script 15 mmbn2 {
 	msgOpen
 	"""
 	MegaMan! A gente não
-	pode perder esta
-	luta!
+	pode perder essa luta!
 	"""
 	keyWait
 	clearMsg
@@ -170164,8 +170158,8 @@ script 1 mmbn2 {
 	msgOpen
 	"""
 	Credo, esse povo da
-	WWW não desiste
-	nunca, né?
+	WWW não desiste nunca,
+	né?
 	"""
 	keyWait
 	clearMsg
@@ -170179,7 +170173,7 @@ script 2 mmbn2 {
 	"""
 	Bom, se eles se recusam
 	a desistir, a gente vai
-	ter que nocautear eles!
+	ter que surrar eles!
 	"""
 	keyWait
 	clearMsg
@@ -170243,14 +170237,15 @@ script 7 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Acho que sim... mas,
-	ei, pera!
+	Acho que sim...
+	mas, ei, pera!
 	"""
 	keyWait
 	clearMsg
 	"""
 	Esta não era uma área
-	impossível de desconectar?
+	impossível de
+	desconectar?
 	"""
 	keyWait
 	clearMsg
@@ -170339,8 +170334,8 @@ script 4 mmbn2 {
 	msgOpen
 	"""
 	É poderoso...
-	opressivo... e tá
-	muito perto!
+	opressivo...
+	e tá muito perto!
 	"""
 	keyWait
 	clearMsg
@@ -170379,7 +170374,7 @@ script 7 mmbn2 {
 	"""
 	Hum, Lan... esse Navi
 	pode até parece aquele
-	que a gente vence...
+	que a gente venceu...
 	"""
 	keyWait
 	clearMsg
@@ -170391,8 +170386,8 @@ script 7 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Aquele último nem
-	se compara a esse.
+	Aquele último nem se
+	compara a esse.
 	"""
 	wait
 		frames = 20
@@ -170512,7 +170507,7 @@ script 14 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Isso... estou deveras
+	Isso... estou tão
 	ansioso para isso!
 	"""
 	keyWait
@@ -170583,9 +170578,9 @@ script 0 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	De um Navi fora do mundo
-	cibernético ser capaz
-	de me ferir!
+	Um Navi de fora do
+	mundo cibernético,
+	capaz de me ferir!
 	"""
 	keyWait
 	clearMsg
@@ -174696,7 +174691,7 @@ script 86 mmbn2 {
 	printItem
 		buffer = 1
 		item = 0
-	"\" sendo usado"
+	"\" já sendo usado."
 	keyWait
 	waitHold
 }
@@ -174708,7 +174703,7 @@ script 87 mmbn2 {
 		delay = 0
 	"""
 	Ainda não encontrou
-	nenhum vírus aqui
+	nenhum vírus aqui.
 	"""
 	keyWait
 	waitHold
@@ -184002,7 +183997,7 @@ script 5 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Quando vi um Navi
+	quando vi um Navi
 	que eu nunca tinha
 	visto antes.
 	"""
@@ -184042,7 +184037,7 @@ script 7 mmbn2 {
 	clearMsg
 	"""
 	Sabe como dá pra
-	paralizar um inimigo
+	paralisar um inimigo
 	com um ZapRing?
 	"""
 	keyWait
@@ -186731,7 +186726,7 @@ script 1 mmbn2 {
 	"""
 	São fofos de doer, mas
 	atiram uns negócios
-	que paralizam!
+	que paralisam!
 	"""
 	keyWait
 	clearMsg
@@ -191176,7 +191171,7 @@ script 149 mmbn2s {
 @size 67
 
 script 0 mmbn2s {
-	"TempoDeleção"
+	"TmpDeleção"
 	end
 }
 script 1 mmbn2s {
@@ -191260,115 +191255,115 @@ script 19 mmbn2s {
 	end
 }
 script 20 mmbn2s {
-	"W:AirMan"
+	"V:AirMan"
 	end
 }
 script 21 mmbn2s {
-	"W:GutsMan"
+	"V:GutsMan"
 	end
 }
 script 22 mmbn2s {
-	"W:ToadMan"
+	"V:ToadMan"
 	end
 }
 script 23 mmbn2s {
-	"W:QuickMan"
+	"V:QuickMan"
 	end
 }
 script 24 mmbn2s {
-	"W:GateMan"
+	"V:GateMan"
 	end
 }
 script 25 mmbn2s {
-	"W:CutMan"
+	"V:CutMan"
 	end
 }
 script 26 mmbn2s {
-	"W:ShadoMan"
+	"V:ShadoMan"
 	end
 }
 script 27 mmbn2s {
-	"W:ThunMan"
+	"V:ThunMan"
 	end
 }
 script 28 mmbn2s {
-	"W:SnakeMan"
+	"V:SnakeMan"
 	end
 }
 script 29 mmbn2s {
-	"W:ProtoMan"
+	"V:ProtoMan"
 	end
 }
 script 30 mmbn2s {
-	"W:KnightMn"
+	"V:KnightMn"
 	end
 }
 script 31 mmbn2s {
-	"W:MagnetMn"
+	"V:MagnetMn"
 	end
 }
 script 32 mmbn2s {
-	"W:HeatMan"
+	"V:HeatMan"
 	end
 }
 script 33 mmbn2s {
-	"W:FreezeMn"
+	"V:FreezeMn"
 	end
 }
 script 34 mmbn2s {
-	"W:Gospel"
+	"V:Gospel"
 	end
 }
 script 35 mmbn2s {
-	"W:Bass"
+	"V:Bass"
 	end
 }
 script 36 mmbn2s {
-	"W:PharoMan"
+	"V:PharoMan"
 	end
 }
 script 37 mmbn2s {
-	"W:NapalmMn"
+	"V:NapalmMn"
 	end
 }
 script 38 mmbn2s {
-	"W:PlanetMn"
+	"V:PlanetMn"
 	end
 }
 script 39 mmbn2s {
-	"W:RealBass"
+	"V:RealBass"
 	end
 }
 script 40 mmbn2s {
-	"      Tempo"
+	"         Tempo"
 	end
 }
 script 41 mmbn2s {
-	"       Lutas#"
+	"        Lutas#"
 	end
 }
 script 42 mmbn2s {
-	"     #Derrotados"
+	"     #Vencidos"
 	end
 }
 script 43 mmbn2s {
-	"    TempoDelMéd"
+	"    TmpoDelMéd"
 	end
 }
 script 44 mmbn2s {
-	"    NívLutMéd"
+	"     NvLutaMéd"
 	end
 }
 script 45 mmbn2s {
-	"      Retirada#"
+	"         Fugas"
 	end
 }
 script 46 mmbn2s {
-	"   Coleção"
+	"       Coleção"
 	end
 }
 script 47 mmbn2s {
-	"      Memo P.A."
+	"    Lista P.A."
 	end
 }
 script 48 mmbn2s {
