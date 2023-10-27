@@ -510,12 +510,16 @@ StartBattleXOams:
 .loadtable "Tabelas/Telas Menus - Nomes Parte Cima.tbl"
 .org 0x087DD100
 .stringn "Inserir"
+.org 0x087DD600
+.stringn "Inserir"
 .org 0x087DD126
 .stringn "Mochila"
 
 ; Editando tilemap dos menus, na parte de cima das letras (Hard, sem o "Rede")
 .loadtable "Tabelas/Telas Menus - Nomes Parte Baixo.tbl"
 .org 0x087DD140
+.stringn "Inserir"
+.org 0x087DD61A
 .stringn "Inserir"
 .org 0x087DD166
 .stringn "Mochila"
