@@ -9526,7 +9526,7 @@ script 23 mmbn2 {
 	"""
 	Mas cuidado - você
 	levará o dobro de
-	dano de [bracket1]Elét[bracket2]!
+	dano de [bracket1]Elet[bracket2]!
 	"""
 	keyWait
 	clearMsg
@@ -9612,7 +9612,7 @@ script 33 mmbn2 {
 	msgOpen
 	"""
 	É um estilo de Navi
-	de [bracket1]Elét[bracket2] evoluído
+	de [bracket1]Elet[bracket2] evoluído
 	pelo uso de ChipsNavi.
 	"""
 	keyWait
@@ -10471,7 +10471,7 @@ script 23 mmbn2 {
 	"""
 	Mas cuidado - você
 	levará o dobro de
-	dano de [bracket1]Elét[bracket2]!
+	dano de [bracket1]Elet[bracket2]!
 	"""
 	keyWait
 	clearMsg
@@ -10560,7 +10560,7 @@ script 33 mmbn2 {
 	msgOpen
 	"""
 	É um estilo de Navi de
-	[bracket1]Elét[bracket2] ideal para
+	[bracket1]Elet[bracket2] ideal para
 	combos com ChipsNavi.
 	"""
 	keyWait
@@ -11419,7 +11419,7 @@ script 23 mmbn2 {
 	"""
 	Mas cuidado - você
 	levará o dobro de
-	dano de [bracket1]Elét[bracket2]!
+	dano de [bracket1]Elet[bracket2]!
 	"""
 	keyWait
 	clearMsg
@@ -11505,7 +11505,7 @@ script 33 mmbn2 {
 	msgOpen
 	"""
 	Esse é um estilo de Navi
-	de [bracket1]Elét[bracket2] ideal para
+	de [bracket1]Elet[bracket2] ideal para
 	ataques com o atirador.
 	"""
 	keyWait
@@ -12378,7 +12378,7 @@ script 23 mmbn2 {
 	"""
 	Mas cuidado - você
 	levará o dobro de
-	dano de [bracket1]Elét[bracket2]!
+	dano de [bracket1]Elet[bracket2]!
 	"""
 	keyWait
 	clearMsg
@@ -12467,7 +12467,7 @@ script 33 mmbn2 {
 	msgOpen
 	"""
 	Esse é um estilo de Navi
-	de [bracket1]Elét[bracket2] ideal para
+	de [bracket1]Elet[bracket2] ideal para
 	escudeiros habilidosos.
 	"""
 	keyWait
@@ -13137,14 +13137,14 @@ script 14 mmbn2 {
 	"""
 	O MegaMan provavelmente
 	fica bem mais forte
-	agora, mas...
+	assim, mas...
 	"""
 	keyWait
 	clearMsg
 	"""
 	... o corpo dele está
 	meio mal, com apenas 50%
-	do PV normal.
+	dos PV normais.
 	"""
 	keyWait
 	clearMsg
@@ -14601,7 +14601,7 @@ script 85 mmbn2s {
 	end
 }
 script 86 mmbn2s {
-	"CódgONBA"
+	"CódgANLO"
 	end
 }
 script 87 mmbn2s {
@@ -15683,7 +15683,7 @@ script 96 mmbn2 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"+20 PV máximo"
+	"+20 PV máximos"
 	waitHold
 }
 script 97 mmbn2 {
@@ -15741,7 +15741,7 @@ script 113 mmbn2 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Cura todo o PV!"
+	"Cura todos os PV!"
 	waitHold
 }
 script 114 mmbn2 {
@@ -25325,15 +25325,14 @@ script 20 mmbn2 {
 		buffer = 0
 		item = 1
 	"""
-	" e
-	"
+	" e "
 	"""
 	printItem
 		buffer = 0
 		item = 2
 	"""
-	?" É com
-	você, MegaMan!
+	?"
+	É com você, MegaMan!
 	"""
 	keyWait
 	end
@@ -27222,15 +27221,14 @@ script 20 mmbn2 {
 		buffer = 0
 		item = 1
 	"""
-	" e
-	"
+	" e "
 	"""
 	printItem
 		buffer = 0
 		item = 2
 	"""
-	?" É com
-	você, MegaMan!
+	?"
+	É com você, MegaMan!
 	"""
 	keyWait
 	end
@@ -29609,15 +29607,14 @@ script 20 mmbn2 {
 		buffer = 0
 		item = 1
 	"""
-	" e
-	"
+	" e "
 	"""
 	printItem
 		buffer = 0
 		item = 2
 	"""
-	?" É com
-	você, MegaMan!
+	?"
+	É com você, MegaMan!
 	"""
 	keyWait
 	end
@@ -31838,7 +31835,7 @@ script 0 mmbn2 {
 		mugshot = CampBoy
 	msgOpen
 	"""
-	Antigamente tinha uma
+	Antigamente, tinha uma
 	loja aqui, mas ela
 	fechou.
 	"""
@@ -32072,7 +32069,7 @@ script 9 mmbn2 {
 	msgOpen
 	"""
 	Olá. Sou técnico da
-	DenGas...
+	DenGás...
 	"""
 	keyWait
 	clearMsg
@@ -32129,7 +32126,7 @@ script 11 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Até nós velhinhos
+	Até nós, velhinhos,
 	conseguimos. É só
 	apertar o botão "R"!
 	"""
@@ -32311,7 +32308,7 @@ script 26 mmbn2 {
 	"""
 	Sou só eu, ou essa casa
 	gigantona aí tá com um
-	cheiro estraho?
+	cheiro estranho?
 	"""
 	keyWait
 	end
@@ -32798,7 +32795,7 @@ script 54 mmbn2 {
 	clearMsg
 	"""
 	O PowerUp "MemóriPV"
-	aumenta o PV máximo
+	aumenta os PV máximos
 	do seu Navi!
 	"""
 	keyWait
@@ -33140,8 +33137,8 @@ script 76 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Só se aguentar em pé
-	já é uma luta!
+	Até ficar em pé já é
+	uma luta!
 	"""
 	keyWait
 	clearMsg
@@ -35011,7 +35008,7 @@ script 194 mmbn2 {
 	"""
 	Ah, cruel é o destino
 	que sempre me frustra.
-	Continarei procurando...
+	Continuarei procurando...
 	"""
 	keyWait
 	end
@@ -37063,7 +37060,7 @@ script 194 mmbn2 {
 	"""
 	Ah, cruel é o destino
 	que sempre me frustra.
-	Continarei procurando...
+	Continuarei procurando...
 	"""
 	keyWait
 	end
@@ -37103,7 +37100,7 @@ script 195 mmbn2 {
 	"""
 	senão não vai ter como
 	saber quais você tem
-	ou não.
+	ou não tem.
 	"""
 	keyWait
 	end
@@ -42105,9 +42102,8 @@ script 8 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Um privilégio das
-	classes mais elevadas,
-	suponho.
+	Um privilégio das classes
+	mais elevadas, suponho.
 	"""
 	keyWait
 	clearMsg
@@ -42501,9 +42497,9 @@ script 25 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Também convidei a
-	Mayl e a Yai. A gente vai
-	lá todo mundo junto!
+	Também convidei a Mayl
+	e a Yai. A gente vai lá
+	todo mundo junto!
 	"""
 	keyWait
 	clearMsg
@@ -55496,7 +55492,7 @@ script 5 mmbn2 {
 	"""
 	Não, não vi ninguém
 	assim por aqui.
-	Cabelo estraho, não?
+	Cabelo estranho, não?
 	"""
 	keyWait
 	end
@@ -61185,9 +61181,9 @@ script 12 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Fogo vence Mdra, Mdra
-	vence Elet, Elet vence
-	Água, Água vence Fogo.
+	[bracket1]Fogo[bracket2] vence [bracket1]Mdra[bracket2], que
+	vence [bracket1]Elet[bracket2], que vence
+	[bracket1]Água[bracket2], que vence [bracket1]Fogo[bracket2].
 	"""
 	keyWait
 	clearMsg
@@ -89396,7 +89392,7 @@ script 227 mmbn2 {
 	clearMsg
 	"""
 	Lan! Encontre o
-	resposável, rápido!
+	responsável, rápido!
 	"""
 	keyWait
 	clearMsg
@@ -91447,8 +91443,8 @@ script 1 mmbn2 {
 	msgOpen
 	"""
 	Eu vi um Vampiro!
-	Ele quase chupou o
-	meu PV!
+	Ele quase chupou os
+	meus PV!
 	"""
 	keyWait
 	end
@@ -95977,7 +95973,7 @@ script 1 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	O PV dele se recupera
+	Os PV dele se recuperam
 	completamente ao
 	desconectar.
 	"""
@@ -100148,8 +100144,8 @@ script 12 mmbn2 {
 		buffer = 0
 		item = 2
 	"""
-	"
-	estava por aqui...
+	" estava
+	por aqui...
 	"""
 	keyWait
 	clearMsg
@@ -101428,8 +101424,8 @@ script 0 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Você sabia que o seu
-	PV não se recupera
+	Você sabia que seus
+	PV não se recuperam
 	após uma batalha?
 	"""
 	keyWait
@@ -101442,15 +101438,15 @@ script 0 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	O seu PV fica no canto
+	Seus PV ficam no canto
 	esquerdo da tela, para
-	quando quiser vê-lo.
+	quando quiser vê-los.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Eu vou recuperar o seu
-	PV desta vez
+	Eu vou recuperar os
+	seus PV desta vez
 	"""
 	waitSkip
 		frames = 10
@@ -101470,8 +101466,8 @@ script 0 mmbn2 {
 		animation = 24
 	startHeal
 	"""
-	O PV do MegaMan foi
-	maximizado!
+	Os PV do MegaMan
+	foram maximizados!
 	"""
 	keyWait
 	playerFinish
@@ -101508,8 +101504,8 @@ script 2 mmbn2 {
 	msgOpen
 	"""
 	O "Nível de Luta" mostra
-	o quão bem você
-	eliminou os vírus.
+	o quão bem você eliminou
+	os vírus.
 	"""
 	keyWait
 	clearMsg
@@ -101548,14 +101544,13 @@ script 5 mmbn2 {
 		buffer = 0
 		item = 1
 	"""
-	" e
-	"
+	" e "
 	"""
 	printItem
 		buffer = 0
 		item = 2
 	"""
-	?"
+	"?
 	Não sei...
 	"""
 	keyWait
@@ -103968,8 +103963,7 @@ script 6 mmbn2 {
 		buffer = 0
 		item = 1
 	"""
-	" e
-	"
+	" e "
 	"""
 	printItem
 		buffer = 0
@@ -104579,8 +104573,8 @@ script 0 mmbn2 {
 		item = 58
 	"""
 	 é
-	o primeiro passo para
-	se tornar um NetLutador.
+	o primeiro passo na vida
+	de um NetLutador.
 	"""
 	keyWait
 	clearMsg
@@ -104833,9 +104827,9 @@ script 10 mmbn2 {
 		mugshot = MrProg
 	msgOpen
 	"""
-	Se você se conectar ao
-	servidor do Centro,
-	sairá aqui.
+	Se você se conectar
+	através do servidor no
+	Centro, sairá aqui.
 	"""
 	keyWait
 	clearMsg
@@ -125855,8 +125849,8 @@ script 6 mmbn2 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Até parece! É
-	o último dia de aula!
+	Até parece! É o último
+	último dia de aula!
 	Fé-riaaaaas!
 	"""
 	keyWait
@@ -126004,8 +125998,8 @@ script 6 mmbn2 {
 	"""
 	
 	Um
-	cruzeiro ao redor
-	do mundo, talvez?
+	cruzeiro ao redor do
+	mundo, talvez?
 	"""
 	keyWait
 	clearMsg
@@ -126017,8 +126011,8 @@ script 7 mmbn2 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Bom, parece que
-	todos vocês têm planos
+	Bom, parece que todos
+	vocês têm planos
 	fantásticos.
 	"""
 	keyWait
@@ -126029,8 +126023,8 @@ script 7 mmbn2 {
 	"""
 	
 	Não vão
-	esquecer o dever
-	de casa!
+	esquecer o dever de
+	casa, hein?
 	"""
 	keyWait
 	clearMsg
@@ -126736,8 +126730,8 @@ script 2 mmbn2 {
 		buffer = 0
 		item = 1
 	"""
-	" e o
 	"
+	e o "
 	"""
 	printItem
 		buffer = 0
@@ -128486,7 +128480,7 @@ script 1 mmbn2 {
 	"Ho-ho..."
 	waitSkip
 		frames = 30
-	"\nVocê não ''vai'' nada. "
+	"\nVocê não \"vai\" nada. "
 	waitSkip
 		frames = 30
 	"\nHo-ho...!"
@@ -130043,8 +130037,8 @@ script 12 mmbn2 {
 	waitSkip
 		frames = 30
 	"""
-	 Estou
-	pensando demais nisso.
+	 Estou pensando
+	demais nisso.
 	"""
 	keyWait
 	end
@@ -130863,7 +130857,7 @@ script 5 mmbn2 {
 	waitSkip
 		frames = 30
 	"""
-	Mas é tão feroz
+	mas é tão feroz
 	quanto um de verdade.
 	"""
 	waitSkip
@@ -132250,15 +132244,15 @@ script 1 mmbn2 {
 	clearMsg
 	"""
 	Mas cuidado: você não
-	poderá recuperar o seu
-	PV durante elas!
+	irá recuperar seus PV
+	entre cada bateria!
 	"""
 	keyWait
 	clearMsg
 	"""
-	Antes do primeiro teste,
-	e após o seu término,
-	eu curarei você.
+	Antes do teste, e após
+	seu término, eu curarei
+	você.
 	"""
 	keyWait
 	clearMsg
@@ -132573,16 +132567,16 @@ script 10 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Não é permitido
-	recuperar PV entre as
-	lutas, então, cuidado!
+	Você não recuperará os
+	seus PV entre as lutas,
+	então, cuidado!
 	"""
 	keyWait
 	clearMsg
 	"""
 	Antes e depois de cada
 	provação, eu recuperarei
-	o seu PV.
+	os seus PV.
 	"""
 	keyWait
 	clearMsg
@@ -138564,14 +138558,14 @@ script 1 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Não é possível recuperar
-	o PV durante as lutas,
-	então tome cuidado.
+	Você não recuperará PV
+	entre as lutas, então,
+	tome cuidado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Eu vou restaurar seu
+	Eu vou restaurar seus
 	PV antes e depois do
 	teste.
 	"""
@@ -138866,14 +138860,14 @@ script 10 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Não é possível recuperar
-	PV durante as lutas,
-	então tome cuidado.
+	Os seus PV não serão
+	recuperados entre cada
+	luta, então, cuidado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Eu recuperarei o seu
+	Eu recuperarei seus
 	PV antes e depois do
 	teste.
 	"""
@@ -150216,16 +150210,16 @@ script 1 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Não se pode recuperar
-	PV durante a luta, então
-	tome cuidado.
+	Seus PV não serão recupe-
+	rados entre cada luta,
+	então, cuidado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Irei recuperar o seu
-	PV antes e depois
-	do desafio.
+	Irei recuperar seus
+	PV antes e depois do
+	desafio.
 	"""
 	keyWait
 	clearMsg
@@ -153791,7 +153785,7 @@ script 18 mmbn2 {
 	"""
 	 Sério que não
 	consegue me diferenciar
-	de uma cópia barat a?
+	de uma cópia barata?
 	"""
 	keyWait
 	end
@@ -158685,16 +158679,16 @@ script 5 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Não se pode recuperar
-	PV durante as lutas,
-	então tome cuidado.
+	Você não irá recuperar
+	PV entre cada luta,
+	então, tome cuidado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Recuperarei todo o seu
-	PV antes e depois da
-	prova.
+	Recuperarei todos os
+	seus PV antes e depois
+	da prova.
 	"""
 	keyWait
 	clearMsg
@@ -159193,16 +159187,15 @@ script 5 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Não se pode recuperar
-	PV durante as lutas,
-	então tome cuidado.
+	Você não irá recuperar
+	PV entre cada luta,
+	então, tome cuidado.
 	"""
 	keyWait
 	clearMsg
 	"""
-	Recuperarei o seu
-	PV antes e depois
-	do teste.
+	Recuperarei seus PV
+	antes e depois do teste.
 	"""
 	keyWait
 	clearMsg
@@ -170372,8 +170365,8 @@ script 7 mmbn2 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hum, Lan... esse Navi
-	pode até parece aquele
+	Er, Lan... esse Navi
+	pode até parecer aquele
 	que a gente venceu...
 	"""
 	keyWait
@@ -170809,8 +170802,8 @@ script 0 mmbn2 {
 	clearMsg
 	"""
 	O que quer que faça,
-	nunca se esqueça
-	do básico!
+	nunca se esqueça do
+	básico!
 	"""
 	keyWait
 	clearMsg
@@ -170878,7 +170871,7 @@ script 4 mmbn2 {
 	msgOpen
 	"""
 	A seguir, isto:
-	o PV (pontos de vida)
+	os PV (pontos de vida)
 	do vírus.
 	"""
 	keyWait
@@ -170903,9 +170896,9 @@ script 5 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Aperte o botão "A"
-	para selecionar. O
-	"R" mostra informações.
+	Aperte o botão "A" para
+	selecionar. O "R" mostra
+	informações.
 	"""
 	keyWait
 	clearMsg
@@ -171023,8 +171016,8 @@ script 12 mmbn2 {
 	msgOpen
 	"""
 	Certo, vamos enviar
-	este chip para o
-	Navi. Selecione "OK".
+	este chip para o Navi.
+	Selecione "OK".
 	"""
 	keyWait
 	end
@@ -171047,8 +171040,8 @@ script 14 mmbn2 {
 	msgOpen
 	"""
 	Você enviou os dados
-	dos chips! Agora é
-	hora de lutar!
+	dos chips! Agora é hora
+	de lutar!
 	"""
 	keyWait
 	end
@@ -171084,9 +171077,9 @@ script 16 mmbn2 {
 		mugshot = MsMari
 	msgOpen
 	"""
-	Seu PV aparece no canto
+	Seus PV ficam no canto
 	superior esquerdo. Se
-	chegar a 0, você perde.
+	caírem até 0, você perde.
 	"""
 	keyWait
 	end
@@ -171097,8 +171090,8 @@ script 17 mmbn2 {
 	msgOpen
 	"""
 	Sobre a cabeça do seu
-	Navi ficam os chips
-	que você mandou.
+	Navi, ficam os chips que
+	você mandou.
 	"""
 	keyWait
 	clearMsg
@@ -171157,8 +171150,7 @@ script 19 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	à Tela de
-	Customização!
+	à Tela de Customização!
 	"""
 	keyWait
 	clearMsg
@@ -171540,8 +171532,8 @@ script 19 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Primeiro, use o
-	AreaGrab apertando "A".
+	Primeiro, use o AreaGrab
+	apertando "A".
 	"""
 	keyWait
 	clearMsg
@@ -171591,8 +171583,8 @@ script 21 mmbn2 {
 	msgOpen
 	"""
 	Certo, desta vez, tente
-	mandar os chips de dados
-	sozinho.
+	mandar os dados dos
+	chips sozinho.
 	"""
 	keyWait
 	end
@@ -171603,8 +171595,8 @@ script 22 mmbn2 {
 	msgOpen
 	"""
 	Combinar esse chip com
-	a WideSwrd é uma
-	tática bem eficaz!
+	a WideSwrd é uma tática
+	bem eficaz!
 	"""
 	keyWait
 	end
@@ -171644,15 +171636,15 @@ script 0 mmbn2 {
 	msgOpen
 	"""
 	Por fim, vamos falar
-	de "Abrir Pasta".
+	de "Expandir Pasta".
 	Reta final, turma!
 	"""
 	keyWait
 	clearMsg
 	"""
 	Essa é uma técnica que
-	lhe permite ter mais
-	de 5 chips na Janela.
+	lhe permite ter mais de
+	5 chips na Janela.
 	"""
 	keyWait
 	clearMsg
@@ -171850,7 +171842,7 @@ script 0 mmbn2 {
 	msgOpen
 	"""
 	Um Vampiro te pegou!!
-	Ele chupa o seu PV!!
+	Ele chupa seus PV!!
 	"""
 	keyWait
 	waitHold
@@ -173607,7 +173599,7 @@ script 3 mmbn2s {
 }
 script 4 mmbn2s {
 	"""
-	Critério
+	Ordenar
 	
 	ID
 	Alfabeto
@@ -174654,8 +174646,8 @@ script 83 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	O PV do MegaMan
-	foi recuperado!
+	Os PV do MegaMan foram
+	100% recuperados!
 	"""
 	keyWait
 	waitHold
@@ -174665,8 +174657,8 @@ script 84 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	O PV do MegaMan foi
-	100% recuperado!
+	Os PV do MegaMan foram 
+	100% recuperados!
 	"""
 	keyWait
 	waitHold
@@ -174677,7 +174669,10 @@ script 85 mmbn2 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"PV já está maximizado!"
+	"""
+	PV já estão
+	maximizados!
+	"""
 	keyWait
 	waitHold
 }
@@ -175754,9 +175749,9 @@ script 5 mmbn2 {
 	mugshotAnimate
 		animation = 0
 	"""
-	Oi, Lan! Fiquei
-	sabendo que você
-	tirou sua LicençaZ!
+	Oi, Lan! Fiquei sabendo
+	que você tirou sua
+	LicençaZ!
 	"""
 	keyWait
 	clearMsg
@@ -176952,8 +176947,8 @@ script 35 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	então o PV dele é
-	reduzido pela metade!
+	então os PV dele são
+	reduzidos pela metade!
 	"""
 	keyWait
 	clearMsg
@@ -185142,7 +185137,7 @@ script 52 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	então ataques [bracket1]Elét[bracket2]
+	então ataques [bracket1]Elet[bracket2]
 	são bem eficazes nele!
 	"""
 	keyWait
@@ -185158,7 +185153,7 @@ script 52 mmbn2 {
 script 53 mmbn2 {
 	msgOpenQuick
 	"""
-	Então, dano [bracket1]Elét[bracket2] é
+	Então, dano [bracket1]Elet[bracket2] é
 	amplificado no gelo?
 	"""
 	keyWait
@@ -185172,7 +185167,7 @@ script 53 mmbn2 {
 	"""
 	... Mas o meu Navi é de
 	[bracket1]Água[bracket2]. Se ele é
-	atingido por [bracket1]Elét[bracket2],
+	atingido por [bracket1]Elet[bracket2],
 	"""
 	keyWait
 	clearMsg
@@ -187333,8 +187328,8 @@ script 28 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	[bracket1]Elét[bracket2]. Que tipo de
-	vírus [bracket1]Elét[bracket2] existem
+	[bracket1]Elet[bracket2]. Que tipo de
+	vírus [bracket1]Elet[bracket2] existem
 	por aí?
 	"""
 	keyWait
@@ -187351,7 +187346,7 @@ script 29 mmbn2 {
 	msgOpenQuick
 	"""
 	Vírus de elemento
-	[bracket1]Elét[bracket2]...
+	[bracket1]Elet[bracket2]...
 	"""
 	keyWait
 	clearMsg
@@ -187367,7 +187362,7 @@ script 30 mmbn2 {
 	"""
 	Ah, sim, RedUFOs também
 	são vírus de elemento
-	[bracket1]Elét[bracket2]!
+	[bracket1]Elet[bracket2]!
 	"""
 	keyWait
 	clearMsg
@@ -187532,7 +187527,7 @@ script 37 mmbn2 {
 	"""
 	Eles andam ainda mais
 	rápido quando estão
-	com pouco PV.
+	com poucos PV.
 	"""
 	keyWait
 	clearMsg
@@ -189463,9 +189458,9 @@ script 12 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Só pode ser deletado
-	se todo o PV for dre-
-	nado com um golpe só.
+	Só pode ser deletado se
+	todos os PV forem dre-
+	nados com um golpe só.
 	"""
 	keyWait
 	clearMsg
