@@ -551,8 +551,8 @@ StartBattleXOams:
 ;.org 0x087D8B54
 ;.incbin "Graficos/Editados/0x7D8B54 - Bug Frag.gba"
 
-;.org 0x087E6D7C
-;.incbin "Graficos/Editados/0x7E6D7C - Presented By Capcom.gba"
+.org 0x087E6D7C
+.incbin "Graficos/Editados/0x7E6D7C - Presented By Capcom.gba"
 
 ; Inserindo gráfico do nome "Licensed by Nintendo", abaixo do logo da capcom
 .org 0x087E97A8
