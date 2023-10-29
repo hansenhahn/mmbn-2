@@ -524,6 +524,20 @@ StartBattleXOams:
 .org 0x087DD166
 .stringn "Mochila"
 
+; Editando tilemaps dos menus pós-desafio NetLutador Supremo, na parte de cima das letras
+.loadtable "Tabelas/Telas Menus - Nomes Parte Cima.tbl"
+.org 0x087E7E52
+.stringn "Resultados de Che",0x8F,0x48,"es"
+.org 0x087E7956
+.stringn "Resultados ",0x06,0x40,"inais"
+
+; Editando tilemaps dos menus pós-desafio NetLutador Supremo, na parte de baixo das letras
+.loadtable "Tabelas/Telas Menus - Nomes Parte Baixo.tbl"
+.org 0x087E7E92
+.stringn "Resultados de Che",0x8C,0x48,"es"
+.org 0x087E7996
+.stringn "Resultados ",0x30,0x40,"inais"
+
 ; Corrigindo bugs no tilemap do gráfico "Choosing", nas telas de troca de chips e estilos
 .org 0x087D68D0
 .stringn 0xAD,0x40

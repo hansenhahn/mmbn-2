@@ -561,13 +561,13 @@ nonvwf_font:
 .org 0x0802FE98 ; Tela de NetVendedores e Vendedores de Subchips
 .dw nonvwf_font
 
-;.org 0x08031844 ; asd
-;.dw nonvwf_font
+.org 0x08031844 ; Créditos do jogo
+.dw nonvwf_font
 
-;.org 0x08033D18 ; asd
-;.dw nonvwf_font
+.org 0x08033D18 ; Pós-desafio do NetLutador Supremo
+.dw nonvwf_font
 
-;.org 0x0803449C ; asd
-;.dw nonvwf_font
+.org 0x0803449C ; Desconhecido
+.dw nonvwf_font
 
 .close
