@@ -525,7 +525,7 @@ nonvwf_font:
 .org 0x080273A0 ; Menu "Folder", nomes 'Pasta1/Pasta2/Pasta3'
 .dw nonvwf_font
 
-.org 0x08027C08 ; Desconhecido
+.org 0x08027C08 ; Menu "Folder", tela 'Ordenar' exibida ao apertar Start em uma pasta
 .dw nonvwf_font
   
 .org 0x08028590 ; Mail
