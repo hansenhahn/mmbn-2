@@ -525,8 +525,8 @@ nonvwf_font:
 .org 0x080273A0 ; Menu "Folder", nomes 'Pasta1/Pasta2/Pasta3'
 .dw nonvwf_font
 
-;.org 0x08027C08 ; Desconhecido
-;.dw nonvwf_font
+.org 0x08027C08 ; Desconhecido
+.dw nonvwf_font
   
 .org 0x08028590 ; Mail
 .dw nonvwf_font
@@ -564,10 +564,10 @@ nonvwf_font:
 .org 0x08031844 ; Créditos do jogo
 .dw nonvwf_font
 
-.org 0x08033D18 ; Pós-desafio do NetLutador Supremo
+.org 0x08033D18 ; Pós-desafio do NetLutador Supremo - Resultados de Chefes
 .dw nonvwf_font
 
-.org 0x0803449C ; Desconhecido
+.org 0x0803449C ; Pós-desafio do NetLutador Supremo - Resultados Finais
 .dw nonvwf_font
 
 .close

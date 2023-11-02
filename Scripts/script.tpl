@@ -184540,7 +184540,7 @@ script 28 mmbn2 {
 	clearMsg
 	"""
 	Mas pra ser sincero, eu
-	não tô consegindo achar
+	não tô conseguindo achar
 	um 
 	"""
 	printItem
@@ -184588,7 +184588,7 @@ script 30 mmbn2 {
 	clearMsg
 	"""
 	Eu procurei por outros
-	e achei  
+	e achei um 
 	"""
 	printChip
 		buffer = 0
@@ -184601,8 +184601,8 @@ script 30 mmbn2 {
 	clearMsg
 	"""
 	Quebra de defesa é
-	melhor contra ataq-
-	ues rígidos e pesados.
+	melhor contra ataques
+	rígidos e pesados.
 	"""
 	keyWait
 	clearMsg
@@ -184827,7 +184827,7 @@ script 40 mmbn2 {
 	clearMsg
 	"""
 	Para o Sr. Dex:
-	Até força tem seus
+	até força tem seus
 	limites!
 	"""
 	keyWait
@@ -185972,9 +185972,8 @@ script 19 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	E saca só -
-	teve uma ameaça
-	de bomba lá!
+	E saca só: teve uma
+	ameaça de bomba lá!
 	"""
 	keyWait
 	clearMsg
@@ -191166,7 +191165,7 @@ script 149 mmbn2s {
 @size 67
 
 script 0 mmbn2s {
-	"TmpDeleção"
+	"Tempo"
 	end
 }
 script 1 mmbn2s {
@@ -191194,12 +191193,8 @@ script 2 mmbn2s {
 	end
 }
 script 3 mmbn2s {
-	"""
-	PARABÉNS!!
-	VOCÊ É UM
-	NETLUTADOR SUPREMO!!
-	"""
-	end
+    "   MUITO BEM!!\nVIROU UM NETLUTADOR\n  SUPREMO!!"
+    end
 }
 script 8 mmbn2s {
 	"0"
@@ -191334,19 +191329,19 @@ script 40 mmbn2s {
 	end
 }
 script 41 mmbn2s {
-	"        Lutas#"
+	" Núm. de Lutas"
 	end
 }
 script 42 mmbn2s {
-	"     #Vencidos"
+	"Alvos Vencidos"
 	end
 }
 script 43 mmbn2s {
-	"    TmpoDelMéd"
+	"Tempo D. Médio"
 	end
 }
 script 44 mmbn2s {
-	"     NvLutaMéd"
+	"Nv. Luta Médio"
 	end
 }
 script 45 mmbn2s {

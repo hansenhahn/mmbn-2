@@ -548,8 +548,8 @@ StartBattleXOams:
 .org 0x087D7068
 .incbin "Graficos/Editados/0x7D7068 - Fonte números menus.gba"
 
-;.org 0x087D8B54
-;.incbin "Graficos/Editados/0x7D8B54 - Bug Frag.gba"
+.org 0x087DBD54
+.incbin "Graficos/Editados/0x7DBD54 - Bug Frag.gba"
 
 .org 0x087E6D7C
 .incbin "Graficos/Editados/0x7E6D7C - Presented By Capcom.gba"
