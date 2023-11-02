@@ -190887,32 +190887,34 @@ script 80 mmbn2s {
 	end
 }
 script 81 mmbn2s {
+	"Americana"
 	end
 }
 script 82 mmbn2s {
-	" Sahgo"
+	" BOWNEGLOBAL"
 	end
 }
 script 83 mmbn2s {
-	" F.U.R.T."
+	" SOLUTIONS"
 	end
 }
 script 84 mmbn2s {
 	end
 }
 script 85 mmbn2s {
-	"Controle de Qualidade"
+	"Controle de"
 	end
 }
 script 86 mmbn2s {
-	" K.KITAGAWA"
+	"Qualidade"
 	end
 }
 script 87 mmbn2s {
-	" M.MUKAI"
+	" K.KITAGAWA"
 	end
 }
 script 88 mmbn2s {
+	" M.MUKAI"
 	end
 }
 script 89 mmbn2s {
@@ -191040,25 +191042,25 @@ script 121 mmbn2s {
 	end
 }
 script 122 mmbn2s {
-	end
+	" Todos no  "
 }
 script 123 mmbn2s {
-	" Todos no"
+	" DevTeam2 e"
 	end
 }
 script 124 mmbn2s {
-	" DevTeam2"
+	" na Capcom "
 	end
 }
 script 125 mmbn2s {
 	end
 }
 script 126 mmbn2s {
-	" Todos na"
+	"Produtor   "
 	end
 }
 script 127 mmbn2s {
-	" Capcom"
+	" K.INAFUNE "
 	end
 }
 script 128 mmbn2s {
@@ -191068,29 +191070,35 @@ script 129 mmbn2s {
 	end
 }
 script 130 mmbn2s {
+	"Tradução BR "
 	end
 }
 script 131 mmbn2s {
+	" SAHGO      "
 	end
 }
 script 132 mmbn2s {
-	"Produtor"
+	" SOLID ONE  "
 	end
 }
 script 133 mmbn2s {
+	" DIEGOHH    "
 	end
 }
 script 134 mmbn2s {
-	" K.INAFUNE"
+	" ANIME WORLD"
 	end
 }
 script 135 mmbn2s {
+	" DENIM      "
 	end
 }
 script 136 mmbn2s {
+	" Todos no   "
 	end
 }
 script 137 mmbn2s {
+	"    F.U.R.T."
 	end
 }
 script 138 mmbn2s {
