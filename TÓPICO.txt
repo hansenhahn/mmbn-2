@@ -1,0 +1,90 @@
+[img width=480]https://i.imgur.com/PxLbiL1.jpg[/img]
+
+—————————————————–
+[b]Informações[/b]
+—————————————————–
+
+[b]Nome do jogo[/b]: Mega Man Battle Network 2
+[b]Versão[/b]: Americana
+[b]Plataforma[/b]: Gameboy Advance
+[b]Desenvolvedora[/b]: Capcom
+[b]Distribuidora[/b]: Nintendo
+[b]Gênero[/b]: RPG
+[b]Jogadores[/b]: 1
+
+—————————————————–
+[b]Enredo[/b]
+—————————————————–
+
+A paz foi perturbada novamente, mas o culpado dessa vez não é a WWW, mas sim um novo grupo de mafiosos da rede chamados de Gospel. Lan está começando suas férias escolares, onde planeja vários passeios e aventuras, mas isso é atrapalhado pela Gospel e suas atividades suspeitas.
+
+Lan e MegaMan trabalham juntos para impedir crises à medida que surgem, e eventualmente descobrem o plano da Gospel: criar um Super Navi e dominar a rede. Será que nossa dupla dinâmica conseguirá impedi-los a tempo?
+
+—————————————————–
+[b]Sobre a tradução[/b]
+—————————————————–
+
+Essa é uma tradução em conjunta entre eu e Solid One. Sou super fã dessa série, e [url=https://www.romhacking.net/translations/6842/]traduzi sozinho o primeiro jogo lá por 2015[/url], sem a ajuda de ferramentas externas, usando largamente um editor hexadecimal e um editor de tiles pra acentuar a fonte. Embora falte gráficos e contenha abreviações aqui e ali, é uma tradução que fiz com esmero e que funcionou muito bem pra passar a imagem do jogo, bem como eventuais adaptações de localização.
+
+Em 2017, me juntei a outros colegas para traduzir scripts de outros jogos, como da série Phoenix Wright Ace Attorney, e havia expressado um desejo de também traduzir o segundo jogo da série MegaMan Battle Network. Dessa vez, a parte técnica foi totalmente deixada pros outros colegas e me foquei largamente na tradução em si. Dentre as ferramentas desenvolvidas inicialmente pelo DiegoHH, uma delas implementa uma fonte VWF pros diálogos do jogo, assim cabendo mais textos e melhorando diálogos, e outra é um dumper/inserter feito em python. Porém, a tradução tem ficado empacada por um tempo devido a um problema no dumper/inserter inicial que fazia a rom crashar, e então meio que engavetamos a tradução.
+
+Em 2022, um colega nosso chamado Anime_World deu a dica de testar uma ferramenta nova chamada [url=https://github.com/Prof9/TextPet]TextPet[/url], desenvolvida pelo romhacker espanhol Prof 9. Trata-se de um dumper/inserter plenamente funcional, que funciona por expandir a rom e mover os textos pro final dela. O Solid passou essa ferramenta pra eu testar, pra ver se funciona. Acabou que funcionou, e então seguimos migrando os textos do formato antigo para o formato novo dessa ferramenta.
+
+Graças a isso, tivemos a tradução com a parte textual 100% traduzida e funcional, restando apenas editar gráficos e corrigir bugs. Falando na parte gráfica, o denim foi o principal ajudante nesta área, provendo grandes direcionamentos e criando ferramentas que permitiam editar vários dos gráficos com uma facilidade bem maior do que seria se fosse feito na mão. Tendo isso provido, o Solid editou todas as imagens do jogo, conforme as instruções que passei pra ele.
+
+Assim sendo, após todo esse trabalho, e praticamente 5 anos depois, finalizamos essa tradução e lançamos à comunidade. Esperamos que usufruam da tradução, da mesma forma que também o fizemos em todo esse processo.
+
+—————————————————–
+[b]Equipe[/b]
+—————————————————–
+
+[list]
+[li]Sahgo : Tradução, revisão e teste;[/li]
+[li]Solid One : Romhacking, gráficos, revisão e teste;[/li]
+[li]DiegoHH : Romhacking;[/li]
+[li]denim : Romhacking;[/li]
+[li]Anime_World : Colaboração.[/li]
+[/list]
+
+—————————————————–
+[b][i]Status[/i] da Tradução[/b]
+—————————————————–
+
+[b]Textos[/b]: 100%
+[b]Acentos[/b]: 100%
+[b]Gráficos[/b]: 100%
+[b]Revisão[/b]: 100%
+
+—————————————————–
+[b]Ferramentas Utilizadas[/b]
+—————————————————–
+
+[list]
+[li][b][url=https://mh-nexus.de/en/hxd/]HxD Hex Editor[/url][/b] : Editor hexadecimal usado para edições diversas;[/li]
+[li][b][url=https://github.com/Prof9/TextPet]TextPet[/url][/b] : Tool criada pelo romhacker espanhol Prof. 9 e usada para editar textos do jogo;[/li]
+[li][b][url=https://www.romhacking.net/utilities/991/]Tile Molester Mod[/url][/b] : Editor de tiles usado para edição dos gráficos do jogo.[/li]
+[/list]
+
+—————————————————–
+[b]Agradecimentos[/b]
+—————————————————–
+
+[list]
+[li]Capcom, por ter lançado o jogo;[/li]
+[li]Ao Solid, DiegoHH e denim, por todo o auxílio na parte técnica do jogo;[/li]
+[li]Ao Anime_World, pela dica da ferramenta TextPet;[/li]
+[li]Ao Prof.9, por ter criado a ferramenta TextPet.[/li]
+[/list]
+
+—————————————————–
+[b]Imagens[/b]
+—————————————————–
+
+[img width=320][/img] [img width=320][/img]
+[img width=320][/img] [img width=320][/img]
+
+—————————————————–
+[b][i]Patch[/i][/b]
+—————————————————–
+
+Segue abaixo o patch da tradução, para download. Está em formato Xdelta 3, e vocês podem aplicá-los através de programas como [url=https://www.romhacking.net/utilities/598/]Xdelta UI[/url] ou similares. O patch deve ser aplicado na rom [b]Mega Man Battle Network 2 (USA).gba[/b], com header, de crc [b]6d961f82[/b] / md5sum [b]39f8a42133df444eeb7bf0b2194d6286[/b].

@@ -1,2 +1,0 @@
-- Menus do modo batalha em cabo link
-  - "Dados Obtidos" buga a paleta após a animação de exibir o chip ganho/perdido.

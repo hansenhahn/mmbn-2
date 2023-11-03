@@ -2178,7 +2178,7 @@ script 25 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Espada de fogo.
+	Espada longa.
 	Corta os 2 qua-
 	dros à frente.
 	"""
@@ -2191,7 +2191,7 @@ script 26 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Espada de água.
+	Espada de fogo.
 	Corta coluna
 	à frente.
 	"""
@@ -2204,7 +2204,7 @@ script 27 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Espada de fogo.
+	Espada de água.
 	Corta coluna à
 	frente.
 	"""
@@ -2463,9 +2463,9 @@ script 47 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Adiciona +20
-	de dano ao
-	chip seguinte.
+	Dá +20 de dano
+	ao chip antes
+	deste.
 	"""
 	keyWait
 	msgCloseQuick
@@ -2476,9 +2476,9 @@ script 48 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Adiciona +30
-	de dano ao
-	chip seguinte.
+	Dá +30 de dano
+	ao chip antes
+	deste.
 	"""
 	keyWait
 	msgCloseQuick
@@ -2489,9 +2489,9 @@ script 49 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Adiciona +40
-	de dano ao
-	chip seguinte.
+	Dá +40 de dano
+	ao ChipNavi
+	antes deste.
 	"""
 	keyWait
 	msgCloseQuick
@@ -3032,8 +3032,8 @@ script 91 mmbn2 {
 	msgOpenQuick
 	"""
 	Lança nuvem de
-	chuva 3 à fren-
-	te. Molha coluna.
+	chuva no alvo.
+	Molha coluna.
 	"""
 	keyWait
 	msgCloseQuick
@@ -3045,8 +3045,8 @@ script 92 mmbn2 {
 	msgOpenQuick
 	"""
 	Lança nuvem de
-	chuva 3 à fren-
-	te. Molha coluna.
+	chuva no alvo.
+	Molha coluna.
 	"""
 	keyWait
 	msgCloseQuick
@@ -3058,8 +3058,8 @@ script 93 mmbn2 {
 	msgOpenQuick
 	"""
 	Lança nuvem de
-	chuva 3 à fren-
-	te. Molha coluna.
+	chuva no alvo.
+	Molha coluna.
 	"""
 	keyWait
 	msgCloseQuick
@@ -3070,7 +3070,7 @@ script 94 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Planta uma mina
+	Planta mina no
 	campo inimigo.
 	"""
 	keyWait
@@ -4276,7 +4276,8 @@ script 188 mmbn2 {
 	msgOpenQuick
 	"""
 	Dá +10 de dano
-	ao próximo chip!
+	ao chip antes
+	deste!
 	"""
 	keyWait
 	msgCloseQuick
@@ -4287,9 +4288,9 @@ script 189 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Dá +40 de dano
-	ao próximo chip
-	de fogo!
+	+40 de dano ao
+	chip de fogo
+	antes deste!
 	"""
 	keyWait
 	msgCloseQuick
@@ -4300,9 +4301,9 @@ script 190 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Dá +40 de dano
-	ao próximo chip
-	de água.
+	+40 de dano ao
+	chip de água
+	antes deste.
 	"""
 	keyWait
 	msgCloseQuick
@@ -4313,9 +4314,9 @@ script 191 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Dá +40 de dano
-	ao próximo chip
-	de madeira.
+	+40 de dano ao
+	chip madeira
+	antes deste.
 	"""
 	keyWait
 	msgCloseQuick
@@ -4326,9 +4327,9 @@ script 192 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Dá +40 de dano
-	ao próximo chip
-	elétrico.
+	+40 de dano ao
+	chip elétrico
+	antes deste.
 	"""
 	keyWait
 	msgCloseQuick
@@ -4340,8 +4341,8 @@ script 193 mmbn2 {
 	msgOpenQuick
 	"""
 	Dá +40 de dano
-	ao próximo
-	ChipNavi.
+	ao ChipNavi
+	antes deste.
 	"""
 	keyWait
 	msgCloseQuick
@@ -4892,7 +4893,7 @@ script 236 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Manda 3 solda-
+	Manda 3
 	soldadinhos
 	para atacar!
 	"""
@@ -4905,7 +4906,7 @@ script 237 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Manda 4 solda-
+	Manda 4
 	soldadinhos
 	para atacar!
 	"""
@@ -4918,7 +4919,7 @@ script 238 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Manda 5 solda-
+	Manda 5
 	soldadinhos
 	para atacar!
 	"""
@@ -5292,9 +5293,9 @@ script 16 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Canhão infinito
-	por 5 segs.
-	Fica invisível.
+	Canhão +
+	invis. por
+	5 segs.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5305,9 +5306,9 @@ script 17 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Canhão infinito
-	por 5 segs.
-	Fica invisível.
+	Canhão +
+	invis. por
+	5 segs.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5318,9 +5319,9 @@ script 18 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Canhão infinito
-	por 5 segs.
-	Fica invisível.
+	Canhão +
+	invis. por
+	5 segs.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5331,7 +5332,7 @@ script 19 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Lança tiros
+	Tiros
 	explosivos
 	múltiplos.
 	"""
@@ -5344,9 +5345,9 @@ script 20 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Balas infinitas
-	e invisibilidade
-	por 5 segs.
+	Bombas +
+	invis. por
+	5 segs.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5357,9 +5358,9 @@ script 21 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Rattons infinitos
-	e invisibilidade
-	por 5 segs.
+	Rattons +
+	invis. por
+	5 segs.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5370,9 +5371,9 @@ script 22 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Rattons infinitos
-	e invisibilidade
-	por 5 segs.
+	Rattons +
+	invis. por
+	5 segs.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5383,9 +5384,9 @@ script 23 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Rattons infinitos
-	e invisibilidade
-	por 5 segs.
+	Rattons +
+	invis. por
+	5 segs.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5396,9 +5397,9 @@ script 24 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Canhão infinito
-	e invisibilidade
-	por 10 segs.
+	Canhão +
+	invis. por
+	10 segs.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5409,9 +5410,9 @@ script 25 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Canhão infinito
-	e invisibilidade
-	por 10 segs.
+	Canhão +
+	invis. por
+	10 segs.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5422,9 +5423,9 @@ script 26 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Canhão infinito
-	e invisibilidade
-	por 10 segs.
+	Canhão +
+	invis. por
+	10 segs.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5435,7 +5436,7 @@ script 27 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Lança tiros
+	Tiros
 	explosivos
 	múltiplos.
 	"""
@@ -5448,9 +5449,9 @@ script 28 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Balas infinitas
-	e invisibilidade
-	por 10 segs.
+	Bombas +
+	invis. por
+	10 segs.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5461,9 +5462,9 @@ script 29 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Rattons infinitos
-	e invisibilidade
-	por 10 segs.
+	Rattons +
+	invis. por
+	10 segs.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5474,9 +5475,9 @@ script 30 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Rattons infinitos
-	e invisibilidade
-	por 10 segs.
+	Rattons +
+	invis. por
+	10 segs.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5487,9 +5488,9 @@ script 31 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Rattons infinitos
-	e invisibilidade
-	por 10 segs.
+	Rattons +
+	invis. por
+	10 segs.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5500,7 +5501,7 @@ script 32 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Dispara 10
+	Atira 10
 	flechas
 	furiosas!
 	"""
@@ -5513,8 +5514,8 @@ script 33 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Bomba pode-
-	rosa. Atinge
+	Forte bom-
+	ba. Pega
 	9 quadros!
 	"""
 	keyWait
@@ -5526,9 +5527,9 @@ script 34 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Espada que
-	acerta coluna
-	e linha à frente!
+	Corta
+	coluna e
+	linha!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5539,9 +5540,9 @@ script 35 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Espada que
-	acerta coluna
-	e linha à frente!
+	Corta
+	coluna e
+	linha!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5552,9 +5553,9 @@ script 36 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Espada que
-	acerta coluna
-	e linha à frente!
+	Corta
+	coluna e
+	linha!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5566,8 +5567,8 @@ script 37 mmbn2 {
 	msgOpenQuick
 	"""
 	Sequência
-	múltipla de
-	socos.
+	múltipla
+	de socos.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5579,8 +5580,8 @@ script 38 mmbn2 {
 	msgOpenQuick
 	"""
 	Escudo que
-	contra-ataca
-	em 3 linhas!
+	revida em
+	3 linhas!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5591,9 +5592,9 @@ script 39 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Uma bomba-
+	Bomba-
 	relógio
-	gigantesca.
+	gigante.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5604,7 +5605,7 @@ script 40 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Esmaga um
+	Esmaga
 	inimigo!
 	"""
 	keyWait
@@ -5616,7 +5617,7 @@ script 41 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	O mais forte
+	Mais forte
 	veneno do
 	Faraó.
 	"""
@@ -5629,8 +5630,8 @@ script 42 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	GateMan atira
-	coisas de um
+	Atira coi-
+	sas de um
 	portal!
 	"""
 	keyWait
@@ -5642,8 +5643,8 @@ script 43 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	GutsMan arre-
-	messa MegaMan
+	GutsMan
+	joga Mega
 	no alvo.
 	"""
 	keyWait
@@ -5655,9 +5656,9 @@ script 44 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	O coração da
-	Roll que ataca
-	e cura 100%!
+	Roll ataca
+	e cura
+	100%!
 	"""
 	keyWait
 	msgCloseQuick
@@ -5682,8 +5683,8 @@ script 46 mmbn2 {
 	msgOpenQuick
 	"""
 	MegaMan e
-	ProtoMan
-	unem forças.
+	ProtoMan,
+	em equipe.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5694,8 +5695,9 @@ script 47 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Duplo ataque
-	das trevas.
+	Duplo
+	ataque das
+	trevas.
 	"""
 	keyWait
 	msgCloseQuick
@@ -5709,9 +5711,9 @@ script 0 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Aperte B para
-	usar o
-	MegaTiro!
+	Aperte B
+	para usar
+	o MegaTiro!
 	"""
 	waitHold
 }
@@ -5984,7 +5986,7 @@ script 25 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Espada de fogo.
+	Espada longa.
 	Corta os 2 qua-
 	dros à frente.
 	"""
@@ -5995,7 +5997,7 @@ script 26 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Espada de água.
+	Espada de fogo.
 	Corta coluna
 	à frente.
 	"""
@@ -6225,9 +6227,9 @@ script 47 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Adiciona +20
-	de dano ao
-	chip seguinte.
+	Dá +20 de dano
+	ao chip antes
+	deste.
 	"""
 	waitHold
 }
@@ -6236,9 +6238,9 @@ script 48 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Adiciona +30
-	de dano ao
-	chip seguinte.
+	Dá +30 de dano
+	ao chip antes
+	deste.
 	"""
 	waitHold
 }
@@ -6247,9 +6249,9 @@ script 49 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Adiciona +40
-	de dano ao
-	chip seguinte.
+	Dá +40 de dano
+	ao ChipNavi
+	antes deste.
 	"""
 	waitHold
 }
@@ -6706,8 +6708,8 @@ script 91 mmbn2 {
 	msgOpenQuick
 	"""
 	Lança nuvem de
-	chuva 3 à fren-
-	te. Molha coluna.
+	chuva no alvo.
+	Molha coluna.
 	"""
 	waitHold
 }
@@ -6717,8 +6719,8 @@ script 92 mmbn2 {
 	msgOpenQuick
 	"""
 	Lança nuvem de
-	chuva 3 à fren-
-	te. Molha coluna.
+	chuva no alvo.
+	Molha coluna.
 	"""
 	waitHold
 }
@@ -6728,8 +6730,8 @@ script 93 mmbn2 {
 	msgOpenQuick
 	"""
 	Lança nuvem de
-	chuva 3 à fren-
-	te. Molha coluna.
+	chuva no alvo.
+	Molha coluna.
 	"""
 	waitHold
 }
@@ -6738,7 +6740,7 @@ script 94 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Planta uma mina
+	Planta mina no
 	campo inimigo.
 	"""
 	waitHold
@@ -7747,8 +7749,9 @@ script 188 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Dá +10 de dano
-	ao próximo chip!
+	Dá +20 de dano
+	ao chip antes
+	deste.
 	"""
 	waitHold
 }
@@ -7757,9 +7760,9 @@ script 189 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Dá +40 de dano
-	ao próximo chip
-	de fogo!
+	+40 de dano ao
+	chip de fogo
+	antes deste!
 	"""
 	waitHold
 }
@@ -7768,9 +7771,9 @@ script 190 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Dá +40 de dano
-	ao próximo chip
-	de água.
+	+40 de dano ao
+	chip de água
+	antes deste.
 	"""
 	waitHold
 }
@@ -7779,9 +7782,9 @@ script 191 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Dá +40 de dano
-	ao próximo chip
-	de madeira.
+	+40 de dano ao
+	chip madeira
+	antes deste.
 	"""
 	waitHold
 }
@@ -7790,9 +7793,9 @@ script 192 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Dá +40 de dano
-	ao próximo chip
-	elétrico.
+	+40 de dano ao
+	chip elétrico
+	antes deste.
 	"""
 	waitHold
 }
@@ -7802,8 +7805,8 @@ script 193 mmbn2 {
 	msgOpenQuick
 	"""
 	Dá +40 de dano
-	ao próximo
-	ChipNavi.
+	ao ChipNavi
+	antes deste.
 	"""
 	waitHold
 }
@@ -8268,7 +8271,7 @@ script 236 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Manda 3 solda-
+	Manda 3
 	soldadinhos
 	para atacar!
 	"""
@@ -8279,7 +8282,7 @@ script 237 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Manda 4 solda-
+	Manda 4
 	soldadinhos
 	para atacar!
 	"""
@@ -8290,7 +8293,7 @@ script 238 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Manda 5 solda-
+	Manda 5
 	soldadinhos
 	para atacar!
 	"""
