@@ -7,9 +7,9 @@
 [b]Nome do jogo[/b]: Mega Man Battle Network 2
 [b]Versão[/b]: Americana
 [b]Plataforma[/b]: Gameboy Advance
-[b]Desenvolvedora[/b]: Capcom
-[b]Distribuidora[/b]: Nintendo
-[b]Gênero[/b]: RPG
+[b]Desenvolvedora[/b]: Capcom Production Studio 2
+[b]Distribuidora[/b]: Capcom
+[b]Gênero[/b]: RPG / Ação / Tática
 [b]Jogadores[/b]: 1
 
 —————————————————–
@@ -61,6 +61,7 @@ Assim sendo, após todo esse trabalho, e praticamente 5 anos depois, finalizamos
 
 [list]
 [li][b][url=https://mh-nexus.de/en/hxd/]HxD Hex Editor[/url][/b] : Editor hexadecimal usado para edições diversas;[/li]
+[li][b][url=https://www.romhacking.net/utilities/291/]WindHex[/url][/b] : Editor hexadecimal usado para edições diversas;[/li]
 [li][b][url=https://github.com/Prof9/TextPet]TextPet[/url][/b] : Tool criada pelo romhacker espanhol Prof. 9 e usada para editar textos do jogo;[/li]
 [li][b][url=https://www.romhacking.net/utilities/991/]Tile Molester Mod[/url][/b] : Editor de tiles usado para edição dos gráficos do jogo.[/li]
 [/list]

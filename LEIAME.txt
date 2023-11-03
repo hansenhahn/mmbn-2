@@ -1,0 +1,71 @@
+------------------
+Informações
+------------------
+
+Nome do jogo: Mega Man Battle Network 2
+Versão: Americana
+Plataforma: Gameboy Advance
+Desenvolvedora: Capcom Production Studio 2
+Distribuidora: Capcom
+Gênero: Aventura / Plataforma / Metroidvania
+Jogadores: 1
+
+------------------
+Notas do Patch
+------------------
+
+O patch está em formato Xdelta 3, e você pode aplicá-lo através de programas como Xdelta UI ou similares. A rom utilizada como base foi a americana, de crc32 6d961f82 e md5sum 39f8a42133df444eeb7bf0b2194d6286.
+
+------------------
+Enredo
+------------------
+
+A paz foi perturbada novamente, mas o culpado dessa vez não é a WWW, mas sim um novo grupo de mafiosos da rede chamados de Gospel. Lan está começando suas férias escolares, onde planeja vários passeios e aventuras, mas isso é atrapalhado pela Gospel e suas atividades suspeitas.
+
+Lan e MegaMan trabalham juntos para impedir crises à medida que surgem, e eventualmente descobrem o plano da Gospel: criar um Super Navi e dominar a rede. Será que nossa dupla dinâmica conseguirá impedi-los a tempo?
+
+------------------
+Sobre a tradução
+------------------
+
+Havia conhecido a nova saga ZX da franquia Mega Man alguns anos atrás, mas por falta de tempo (e torcer um pouco o nariz com os novos protagonistas e novo rumo da história), não havia jogado nenhum dos dois jogos por muito tempo.
+
+No entanto, levando em consideração que no passado eu também havia traduzido os quatro jogos da saga Mega Man Zero de Gameboy Advance, alguns anos atrás eu havia tentato iniciar um projeto para traduzir os jogos da saga Mega Man ZX para português, começando pelo desenvolvimento de uma ferramenta para extrair e reinserir textos dinamicamente. Mas a falta de tempo, misturado com a falta de paciência para terminar a ferramenta e corrigir seus bugs, acabou mantendo o projeto parado.
+
+Mas uns 2 meses atrás, após eu ter zerado pela primeira vez ambos os jogos da franquia alguns meses atrás, decidi tocar o projeto pra frente, terminando o desenvolvimento e teste da ferramenta, e iniciando a tradução em seguida. Decidi pôr todos os arquivos do projeto em um repositório de arquivos criado no github (https://github.com/leomontenegro6/megaman-zx-traducao-ptbr), onde lá está: a ferramenta de dumper/inserter, as imagens deste tópico, arquivos contendo informações da rom, e é claro, os scripts traduzidos.
+
+Consegui a ajuda do Ondinha para traduzir alguns scripts, e ele ajudou bastante na tradução de alguns scripts menores. Graças a isso, a tradução progrediu bem rápido, e quando foi entre novembro e dezembro de 2015, terminei de traduzir todos os scripts do jogo.
+
+------------------
+Atualizações da Tradução
+------------------
+
+Versão 1.0: 02/11/2023
+ Primeiro lançamento.
+
+------------------
+Status da Tradução
+------------------
+
+Textos: 100%
+Acentos: 100%
+Gráficos: 90%
+Revisão: 100%
+
+------------------
+Ferramentas Utilizadas
+------------------
+
+- HxD Hex Editor : Editor hexadecimal usado para edições diversas;
+- WindHex : Editor hexadecimal usado para edições diversas;
+- TextPet : Tool criada pelo romhacker espanhol Prof. 9 e usada para editar textos do jogo;
+- Tile Molester Mod : Editor de tiles usado para edição dos gráficos do jogo.
+
+------------------
+Agradecimentos
+------------------
+
+- Capcom, por ter lançado o jogo;
+- Ao Solid, DiegoHH e denim, por todo o auxílio na parte técnica do jogo;
+- Ao Anime_World, pela dica da ferramenta TextPet;
+- Ao Prof.9, por ter criado a ferramenta TextPet.

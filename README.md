@@ -22,7 +22,9 @@ Jogadores: 2
 
 # Enredo
 
-A paz foi perturbada novamente, mas o culpado dessa vez não é a WWW, mas sim um novo grupo de mafiosos da rede chamados de Gospel. Lan e MegaMan trabalham juntos para impedir crises à medida que surgem, e eventualmente descobrem o plano da Gospel: criar um Super Navi e dominar a rede. Será que nossa dupla dinâmica conseguirá impedi-los a tempo?
+A paz foi perturbada novamente, mas o culpado dessa vez não é a WWW, mas sim um novo grupo de mafiosos da rede chamados de Gospel. Lan está começando suas férias escolares, onde planeja vários passeios e aventuras, mas isso é atrapalhado pela Gospel e suas atividades suspeitas.
+
+Lan e MegaMan trabalham juntos para impedir crises à medida que surgem, e eventualmente descobrem o plano da Gospel: criar um Super Navi e dominar a rede. Será que nossa dupla dinâmica conseguirá impedi-los a tempo?
 
 # Sobre a tradução
 
@@ -32,4 +34,39 @@ Em 2017, Sahgo juntou-se a nós para traduzir scripts de outros jogos, como da s
 
 Em 2022, um colega nosso chamado Anime_World deu a dica de testar uma ferramenta nova chamada TextPet, desenvolvida pelo romhacker espanhol Prof 9. Trata-se de um dumper/inserter plenamente funcional, que funciona por expandir a rom e mover os textos pro final dela. Decidi passar ela pro Sahgo e pedir pra ele testar a ferramenta, pra ver se funciona. Acabou que funcionou, e então seguimos migrando os textos do formato antigo para o formato novo dessa ferramenta.
 
-Com isso, atualmente temos a tradução com a parte textual 100% traduzida e funcional, restando apenas editar gráficos e corrigir bugs. Dessa maneira, estamos otimistas de que agora a tradução irá até o final.
+Graças a isso, tivemos a tradução com a parte textual 100% traduzida e funcional, restando apenas editar gráficos e corrigir bugs. Falando na parte gráfica, o denim foi o principal ajudante nesta área, provendo grandes direcionamentos e criando ferramentas que permitiam editar vários dos gráficos com uma facilidade bem maior do que seria se fosse feito na mão. Com isso provido, todas as imagens do jogo foram editadas de acordo, tornando a tradução ainda mais completa.
+
+Assim sendo, após todo esse trabalho, e praticamente 5 anos depois, finalizamos essa tradução e lançamos à comunidade. Esperamos que usufruam da tradução, da mesma forma que também o fizemos em todo esse processo.
+
+# Equipe
+
+- **Sahgo**: Tradução, revisão e teste;
+- **Solid One**: Romhacking, gráficos, revisão e teste;
+- **DiegoHH**: Romhacking;
+- **denim**: Romhacking;
+- **Anime_World**: Colaboração.
+
+# Status da Tradução
+
+Textos: 100%
+
+Acentos: 100%
+
+Gráficos: 100%
+
+Revisão: 100%
+
+# Imagens
+
+![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/01.png "Imagem 1") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/02.png "Imagem 2") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/03.png "Imagem 3")
+![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/04.png "Imagem 4") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/05.png "Imagem 5") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/06.png "Imagem 6")
+![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/07.png "Imagem 7") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/08.png "Imagem 8") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/09.png "Imagem 9")
+![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/10.png "Imagem 10") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/11.png "Imagem 11") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/12.png "Imagem 12")
+![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/13.png "Imagem 13") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/14.png "Imagem 14") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/15.png "Imagem 15")
+![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/16.png "Imagem 16")
+
+# Patch
+
+Segue abaixo o patch da tradução, para download. Está em formato Xdelta 3, e vocês podem aplicá-los através de programas como [url=https://www.romhacking.net/utilities/598/]Xdelta UI[/url] ou similares. O patch deve ser aplicado na rom [b]Mega Man Battle Network 2 (USA).gba[/b], com header, de crc [b]6d961f82[/b] / md5sum [b]39f8a42133df444eeb7bf0b2194d6286[/b].
+
+[*Download*](https://github.com/hansenhahn/mmbn-2/releases/tag/v1.0)
