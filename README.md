@@ -58,13 +58,8 @@ Revisão: 100%
 
 # Imagens
 
-![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/01.png "Imagem 1") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/02.png "Imagem 2") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/03.png "Imagem 3")
-![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/04.png "Imagem 4") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/05.png "Imagem 5") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/06.png "Imagem 6")
-![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/07.png "Imagem 7") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/08.png "Imagem 8") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/09.png "Imagem 9")
-![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/10.png "Imagem 10") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/11.png "Imagem 11") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/12.png "Imagem 12")
-![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/13.png "Imagem 13") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/14.png "Imagem 14") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/15.png "Imagem 15")
-![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/PNG/16.png "Imagem 16")
-
+![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/GIF/1.gif "Imagem 1") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/GIF/2.gif "Imagem 2")
+![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/GIF/3.gif "Imagem 3") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/GIF/4.gif "Imagem 4")
 # Patch
 
 Segue abaixo o patch da tradução, para download. Está em formato Xdelta 3, e vocês podem aplicá-los através de programas como [url=https://www.romhacking.net/utilities/598/]Xdelta UI[/url] ou similares. O patch deve ser aplicado na rom [b]Mega Man Battle Network 2 (USA).gba[/b], com header, de crc [b]6d961f82[/b] / md5sum [b]39f8a42133df444eeb7bf0b2194d6286[/b].
