@@ -1,10 +1,10 @@
-[img width=480]https://i.imgur.com/PxLbiL1.jpg[/img]
+[img width=480]https://upload.wikimedia.org/wikipedia/en/c/cb/Mega_Man_Battle_Network_2_Coverart.png[/img]
 
 —————————————————–
 [b]Informações[/b]
 —————————————————–
 
-[b]Nome do jogo[/b]: Mega Man Battle Network 2
+[b]Nome do jogo[/b]: MegaMan Battle Network 2
 [b]Versão[/b]: Americana
 [b]Plataforma[/b]: Gameboy Advance
 [b]Desenvolvedora[/b]: Capcom Production Studio 2
@@ -67,6 +67,16 @@ Assim sendo, após todo esse trabalho, e praticamente 5 anos depois, finalizamos
 [/list]
 
 —————————————————–
+Changelog
+—————————————————–
+
+[b]Versão 1.1[/b]: 29/03/2025
+ Segundo lançamento.
+ - Diversas correções textuais de revisão, após eu ter zerado o jogo nela mês passado.
+[b]Versão 1.0[/b]: 02/11/2023
+ Primeiro lançamento.
+
+—————————————————–
 [b]Agradecimentos[/b]
 —————————————————–
 
@@ -75,18 +85,18 @@ Assim sendo, após todo esse trabalho, e praticamente 5 anos depois, finalizamos
 [li]Ao Solid, DiegoHH e denim, por todo o auxílio na parte técnica do jogo;[/li]
 [li]Ao Anime_World, pela dica da ferramenta TextPet;[/li]
 [li]Ao Prof.9, por ter criado a ferramenta TextPet.[/li]
-[li]Ao Immaryx, Immegax e Hikare Netto, pela assistência em prol de um futuro port da tradução para a coletânea.[/li]
 [/list]
 
 —————————————————–
 [b]Imagens[/b]
 —————————————————–
 
-[img width=320][/img] [img width=320][/img]
-[img width=320][/img] [img width=320][/img]
+[img]https://i.ibb.co/Ht35jLm/Title.png[/img] [img]https://i.ibb.co/Z6V74Nx/01.png[/img] [img]https://i.ibb.co/JtVg614/02.png[/img] [img]https://i.ibb.co/jVx3kxw/03.png[/img][img]https://i.ibb.co/MCQcKJ0/04.png[/img] [img]https://i.ibb.co/9rQYs6J/15.png[/img] [img]https://i.ibb.co/09pW9jb/06.png[/img] [img]https://i.ibb.co/xSV77YL/07.png[/img][img]https://i.ibb.co/xJtbQLZ/08.png[/img] [img]https://i.ibb.co/4SGXPkk/09.png[/img] [img]https://i.ibb.co/mhyQHDj/10.png[/img] [img]https://i.ibb.co/Zz5tDXh/11.png[/img][img]https://i.ibb.co/VNt9kfv/12.png[/img] [img]https://i.ibb.co/7NSnTdt/13.png[/img] [img]https://i.ibb.co/FD7tmpB/14.png[/img] [img]https://i.ibb.co/zSmN8Fd/16.png[/img]
 
 —————————————————–
 [b][i]Patch[/i][/b]
 —————————————————–
 
 Segue abaixo o patch da tradução, para download. Está em formato Xdelta 3, e vocês podem aplicá-los através de programas como [url=https://www.romhacking.net/utilities/598/]Xdelta UI[/url] ou similares. O patch deve ser aplicado na rom [b]Mega Man Battle Network 2 (USA).gba[/b], com header, de crc [b]6d961f82[/b] / md5sum [b]39f8a42133df444eeb7bf0b2194d6286[/b].
+
+[url=https://github.com/hansenhahn/mmbn-2/releases][i]Download[/i] (Github)[/url]
