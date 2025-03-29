@@ -7,7 +7,7 @@ Versão: Americana
 Plataforma: Gameboy Advance
 Desenvolvedora: Capcom Production Studio 2
 Distribuidora: Capcom
-Gênero: Aventura / Plataforma / Metroidvania
+Gênero: RPG / Ação / Tática
 Jogadores: 1
 
 ------------------
@@ -28,18 +28,23 @@ Lan e MegaMan trabalham juntos para impedir crises à medida que surgem, e event
 Sobre a tradução
 ------------------
 
-Havia conhecido a nova saga ZX da franquia Mega Man alguns anos atrás, mas por falta de tempo (e torcer um pouco o nariz com os novos protagonistas e novo rumo da história), não havia jogado nenhum dos dois jogos por muito tempo.
+Essa é uma tradução em conjunta entre Sahgo, DiegoHH e eu. Sahgo é super fã dessa série, e traduziu sozinho o primeiro jogo lá por 2016, sem a ajuda de ferramentas externas, usando largamente um editor hexadecimal e um editor de tiles pra acentuar a fonte. Embora falte gráficos e contenha abreviações aqui e ali, é uma tradução feita com esmero e que funcionou muito bem pra passar a imagem do jogo, bem como eventuais adaptações de localização.
 
-No entanto, levando em consideração que no passado eu também havia traduzido os quatro jogos da saga Mega Man Zero de Gameboy Advance, alguns anos atrás eu havia tentato iniciar um projeto para traduzir os jogos da saga Mega Man ZX para português, começando pelo desenvolvimento de uma ferramenta para extrair e reinserir textos dinamicamente. Mas a falta de tempo, misturado com a falta de paciência para terminar a ferramenta e corrigir seus bugs, acabou mantendo o projeto parado.
+Em 2017, Sahgo juntou-se a nós para traduzir scripts de outros jogos, como da série Phoenix Wright Ace Attorney, e havia expressado um desejo de também traduzir o segundo jogo da série MegaMan Battle Network. Dessa vez, optamos por dar mais assistência a ele na parte técnica, desenvolvendo as ferramentas pra textos e gráficos e fazendo com que ele se foque largamente na tradução em si. Dentre as ferramentas desenvolvidas, uma delas implementa uma fonte VWF pros diálogos do jogo, assim cabendo mais textos e melhorando diálogos, e outra é um dumper/inserter feito em python. Porém, a tradução tem ficado empacada por um tempo devido a um problema no nosso dumper/inserter que fazia a rom crashar, e então meio que engavetamos a tradução.
 
-Mas uns 2 meses atrás, após eu ter zerado pela primeira vez ambos os jogos da franquia alguns meses atrás, decidi tocar o projeto pra frente, terminando o desenvolvimento e teste da ferramenta, e iniciando a tradução em seguida. Decidi pôr todos os arquivos do projeto em um repositório de arquivos criado no github (https://github.com/leomontenegro6/megaman-zx-traducao-ptbr), onde lá está: a ferramenta de dumper/inserter, as imagens deste tópico, arquivos contendo informações da rom, e é claro, os scripts traduzidos.
+Em 2022, um colega nosso chamado Anime_World deu a dica de testar uma ferramenta nova chamada TextPet, desenvolvida pelo romhacker espanhol Prof 9. Trata-se de um dumper/inserter plenamente funcional, que funciona por expandir a rom e mover os textos pro final dela. Decidi passar ela pro Sahgo e pedir pra ele testar a ferramenta, pra ver se funciona. Acabou que funcionou, e então seguimos migrando os textos do formato antigo para o formato novo dessa ferramenta.
 
-Consegui a ajuda do Ondinha para traduzir alguns scripts, e ele ajudou bastante na tradução de alguns scripts menores. Graças a isso, a tradução progrediu bem rápido, e quando foi entre novembro e dezembro de 2015, terminei de traduzir todos os scripts do jogo.
+Graças a isso, tivemos a tradução com a parte textual 100% traduzida e funcional, restando apenas editar gráficos e corrigir bugs. Falando na parte gráfica, o denim foi o principal ajudante nesta área, provendo grandes direcionamentos e criando ferramentas que permitiam editar vários dos gráficos com uma facilidade bem maior do que seria se fosse feito na mão. Com isso provido, todas as imagens do jogo foram editadas de acordo, tornando a tradução ainda mais completa.
+
+Assim sendo, após todo esse trabalho, e praticamente 5 anos depois, finalizamos essa tradução e lançamos à comunidade. Esperamos que usufruam da tradução, da mesma forma que também o fizemos em todo esse processo.
 
 ------------------
 Atualizações da Tradução
 ------------------
 
+Versão 1.1: 29/03/2025
+ Segundo lançamento.
+ - Diversas correções textuais de revisão, após eu ter zerado o jogo nela mês passado.
 Versão 1.0: 02/11/2023
  Primeiro lançamento.
 
@@ -49,7 +54,7 @@ Status da Tradução
 
 Textos: 100%
 Acentos: 100%
-Gráficos: 90%
+Gráficos: 95%
 Revisão: 100%
 
 ------------------
@@ -69,3 +74,4 @@ Agradecimentos
 - Ao Solid, DiegoHH e denim, por todo o auxílio na parte técnica do jogo;
 - Ao Anime_World, pela dica da ferramenta TextPet;
 - Ao Prof.9, por ter criado a ferramenta TextPet.
+- Ao Immaryx, Immegax e Hikare Netto, pela assistência em prol de um futuro port da tradução para a coletânea.

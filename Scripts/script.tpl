@@ -2347,9 +2347,9 @@ script 38 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Segure A e
-	corte à
-	vontade!
+	Segure A para
+	cortar inimigos
+	na sua área.
 	"""
 	keyWait
 	msgCloseQuick
@@ -6129,9 +6129,9 @@ script 38 mmbn2 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Segure A e
-	corte à
-	vontade!
+	Segure A para
+	cortar inimigos
+	na sua área.
 	"""
 	waitHold
 }
@@ -9772,7 +9772,7 @@ script 45 mmbn2 {
 	msgOpen
 	"""
 	Nossa, eu sinto uma
-	paz e contenamento
+	paz e contentamento
 	sem igual!
 	"""
 	keyWait
@@ -10720,7 +10720,7 @@ script 45 mmbn2 {
 	msgOpen
 	"""
 	Nossa, eu sinto uma
-	paz e contenamento
+	paz e contentamento
 	sem igual!
 	"""
 	keyWait
@@ -11665,7 +11665,7 @@ script 45 mmbn2 {
 	msgOpen
 	"""
 	Nossa, eu sinto uma
-	paz e contenamento
+	paz e contentamento
 	sem igual!
 	"""
 	keyWait
@@ -12641,7 +12641,7 @@ script 45 mmbn2 {
 	msgOpen
 	"""
 	Nossa, eu sinto uma
-	paz e contenamento
+	paz e contentamento
 	sem igual!
 	"""
 	keyWait
@@ -14680,7 +14680,7 @@ script 127 mmbn2s {
 	end
 }
 script 128 mmbn2s {
-	"EstlNorm"
+	"Normal"
 	end
 }
 script 134 mmbn2s {
@@ -49022,7 +49022,7 @@ script 80 mmbn2 {
 		down = 1
 	space
 		count = 2
-	"Quero um pasaporte\n"
+	"Quero um passaporte\n"
 	option
 		left = 1
 		right = 1
@@ -74787,7 +74787,7 @@ script 190 mmbn2 {
 	clearMsg
 	"""
 	Todos os ni-honenses
-	são crueis assim?
+	são cruéis assim?
 	"""
 	keyWait
 	clearMsg
@@ -77941,7 +77941,7 @@ script 4 mmbn2 {
 	msgOpen
 	"""
 	Vejo que eu fui a primeira
-	a achar a pessagem
+	a achar a passagem
 	secreta.
 	"""
 	keyWait
@@ -85816,7 +85816,7 @@ script 95 mmbn2 {
 	"""
 	mas começamos a sentir
 	dor de cabeça desde
-	ontem, daí fujimos de lá
+	ontem, daí fugimos de lá
 	"""
 	keyWait
 	clearMsg
@@ -90218,13 +90218,20 @@ script 6 mmbn2 {
 	mugshotShow
 		mugshot = MrProg
 	msgOpen
-	"2 hands,no arms."
+	"""
+	Dá voltas, mas
+	nunca sai do lugar.
+	"""
 	keyWait
 	clearMsg
-	"1 face,no nose."
+	"""
+	Tem três pernas,
+	uma maior que a
+	outra.
+	"""
 	keyWait
 	clearMsg
-	"On your arm."
+	"Vai no braço."
 	keyWait
 	end
 }
@@ -93926,8 +93933,8 @@ script 1 mmbn2 {
 	clearMsg
 	"""
 	Eles removem os campos
-	campos magnéticos
-	vermelho e azul.
+	magnéticos vermelho e
+	azul.
 	"""
 	keyWait
 	end
@@ -125079,7 +125086,7 @@ script 30 mmbn2 {
 		down = 1
 	space
 		count = 2
-	"Não..."
+	"Não"
 	select
 		default = 0
 		disableB = false
@@ -125853,7 +125860,7 @@ script 6 mmbn2 {
 	msgOpen
 	"""
 	Até parece! É o último
-	último dia de aula!
+	dia de aula!
 	Fé-riaaaaas!
 	"""
 	keyWait
@@ -136071,8 +136078,8 @@ script 1 mmbn2 {
 	clearMsg
 	"""
 	Vamos logo, temos que
-	voltar pro laboratóro do
-	papai! E rápido!
+	voltar pro laboratório
+	do papai! E rápido!
 	"""
 	keyWait
 	end
@@ -138066,7 +138073,7 @@ script 26 mmbn2 {
 	msgOpen
 	"""
 	Chaud! Por favor,
-	desconete o ProtoMan
+	desconecte o ProtoMan
 	o quanto antes!
 	"""
 	keyWait
@@ -141114,7 +141121,7 @@ script 12 mmbn2 {
 	"""
 	Seus corações eram um
 	só! Vocês eram
-	insperáveis! É!
+	inseparáveis! É!
 	"""
 	keyWait
 	clearMsg
@@ -147152,7 +147159,7 @@ script 2 mmbn2 {
 	msgOpen
 	"""
 	Estamos perdendo
-	altitute!
+	altitude!
 	"""
 	keyWait
 	clearMsg
@@ -147654,7 +147661,7 @@ script 6 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	A Gospel prega ideiais
+	A Gospel prega ideais
 	semelhantes.
 	"""
 	keyWait
@@ -150213,8 +150220,8 @@ script 1 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	Seus PV não serão recupe-
-	rados entre cada luta,
+	Seus PV não se recupe-
+	ram entre cada luta,
 	então, cuidado.
 	"""
 	keyWait
@@ -156484,7 +156491,7 @@ script 22 mmbn2 {
 	clearMsg
 	"""
 	Como ele passou a morar
-	com parentes crueis
+	com parentes cruéis
 	depois disso...
 	"""
 	keyWait
@@ -158099,7 +158106,7 @@ script 87 mmbn2 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hora da bóia!!"
+	"Hora da boia!!"
 	keyWait
 	clearMsg
 	jump
@@ -172943,7 +172950,7 @@ script 5 mmbn2s {
 	end
 }
 script 6 mmbn2s {
-	"Quarto da Mayl"
+	"Qrt. da Mayl"
 	end
 }
 script 7 mmbn2s {
@@ -173535,39 +173542,39 @@ script 183 mmbn2s {
 	end
 }
 script 184 mmbn2s {
-	"Apartamento 021"
+	"Ap. 021"
 	end
 }
 script 185 mmbn2s {
-	"Apartamento 082"
+	"Ap. 082"
 	end
 }
 script 186 mmbn2s {
-	"Apartamento 253"
+	"Ap. 253"
 	end
 }
 script 187 mmbn2s {
-	"Apartamento 271"
+	"Ap. 271"
 	end
 }
 script 188 mmbn2s {
-	"Apartamento 042"
+	"Ap. 042"
 	end
 }
 script 189 mmbn2s {
-	"Apartamento 093"
+	"Ap. 093"
 	end
 }
 script 190 mmbn2s {
-	"Apartamento 201"
+	"Ap. 201"
 	end
 }
 script 191 mmbn2s {
-	"Apartamento 232"
+	"Ap. 232"
 	end
 }
 script 192 mmbn2s {
-	"Apartamento 243"
+	"Ap. 243"
 	end
 }
 @archive 7D7BC8
@@ -174650,7 +174657,7 @@ script 83 mmbn2 {
 		delay = 0
 	"""
 	Os PV do MegaMan foram
-	100% recuperados!
+	recuperados!
 	"""
 	keyWait
 	waitHold
@@ -175505,7 +175512,7 @@ script 13 mmbn2s {
 	end
 }
 script 14 mmbn2s {
-	"NAL       Sua PassLivre"
+	"ALA       Seu PassLivre"
 	end
 }
 script 15 mmbn2s {
@@ -176214,7 +176221,7 @@ script 18 mmbn2 {
 	clearMsg
 	"""
 	um tremor de intensidade
-	sem precendentes deve
+	sem precedentes deve
 	ocorrer em breve.
 	"""
 	keyWait
@@ -180308,7 +180315,7 @@ script 14 mmbn2 {
 	textSpeed
 		delay = 0
 	"""
-	Erro de comunuicação.
+	Erro de comunicação.
 	Por favor, tente de
 	novo.
 	"""
@@ -181205,19 +181212,19 @@ script 52 mmbn2s {
 	end
 }
 script 53 mmbn2s {
-	"Gibizero  Vírus-vida"
+	"Gibizero  LifeVirus"
 	end
 }
 script 54 mmbn2s {
-	"Gosmo     Re:Vírus-vida"
+	"Gosmo     Re:LifeVirus"
 	end
 }
 script 55 mmbn2s {
-	"Candy     Re:Vírus-vida"
+	"Candy     Re:LifeVirus"
 	end
 }
 script 56 mmbn2s {
-	"NO NAME   Vírus-vida?"
+	"NO NAME   LifeVirus?"
 	end
 }
 script 57 mmbn2s {
@@ -184239,7 +184246,7 @@ script 16 mmbn2 {
 	"""
 	Ele adiciona 10 ao
 	ataque do chip que
-	você selecionou antes.
+	você seleciona depois.
 	"""
 	keyWait
 	clearMsg
@@ -186127,7 +186134,7 @@ script 23 mmbn2 {
 	"""
 	Ah, e vou tomar cuidado
 	pra não inserir o meu
-	querido  
+	querido 
 	"""
 	printChip
 		buffer = 0
@@ -187774,7 +187781,7 @@ script 49 mmbn2 {
 	clearMsg
 	"""
 	Eu acho que são os
-	Domineered - o dano
+	Dominerds - o dano
 	deles é impossível!
 	"""
 	keyWait
@@ -188536,7 +188543,7 @@ script 18 mmbn2 {
 script 19 mmbn2 {
 	msgOpenQuick
 	"""
-	Bom trabaho,
+	Bom trabalho,
 	membros do Centro.
 	"""
 	keyWait
@@ -188628,7 +188635,7 @@ script 23 mmbn2 {
 		chip = 122
 	"""
 	s
-	por um  
+	por um 
 	"""
 	printChip
 		buffer = 0
@@ -188654,7 +188661,7 @@ script 24 mmbn2 {
 	clearMsg
 	"""
 	Eu apostei minhas fichas
-	com 3  
+	com 3 
 	"""
 	printChip
 		buffer = 0
@@ -190314,7 +190321,7 @@ script 16 mmbn2 {
 	keyWait
 	clearMsg
 	"""
-	você o atinga com um
+	você o atinja com um
 	ataque de dano maior
 	que o número da aura,
 	"""

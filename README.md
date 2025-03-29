@@ -28,7 +28,7 @@ Lan e MegaMan trabalham juntos para impedir crises à medida que surgem, e event
 
 # Sobre a tradução
 
-Essa é uma tradução em conjunta entre Sahgo, DiegoHH e eu. Sahgo é super fã dessa série, e traduziu sozinho o primeiro jogo lá por 2016, sem a ajuda de ferramentas externas, usando largamente um editor hexadecimal e um editor de tiles pra acentuar a fonte. Embora falte gráficos e contenha abreviações aqui e ali, é uma tradução feita com esmero e que funcionou muito bem pra passar a imagem do jogo, bem como eventuais adaptações de localização.
+Essa é uma tradução em conjunta entre Sahgo, DiegoHH e Solid_One. Sahgo é super fã dessa série, e traduziu sozinho o primeiro jogo lá por 2016, sem a ajuda de ferramentas externas, usando largamente um editor hexadecimal e um editor de tiles pra acentuar a fonte. Embora falte gráficos e contenha abreviações aqui e ali, é uma tradução feita com esmero e que funcionou muito bem pra passar a imagem do jogo, bem como eventuais adaptações de localização.
 
 Em 2017, Sahgo juntou-se a nós para traduzir scripts de outros jogos, como da série Phoenix Wright Ace Attorney, e havia expressado um desejo de também traduzir o segundo jogo da série MegaMan Battle Network. Dessa vez, optamos por dar mais assistência a ele na parte técnica, desenvolvendo as ferramentas pra textos e gráficos e fazendo com que ele se foque largamente na tradução em si. Dentre as ferramentas desenvolvidas, uma delas implementa uma fonte VWF pros diálogos do jogo, assim cabendo mais textos e melhorando diálogos, e outra é um dumper/inserter feito em python. Porém, a tradução tem ficado empacada por um tempo devido a um problema no nosso dumper/inserter que fazia a rom crashar, e então meio que engavetamos a tradução.
 
@@ -60,6 +60,7 @@ Revisão: 100%
 
 ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/GIF/1.gif "Imagem 1") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/GIF/2.gif "Imagem 2")
 ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/GIF/3.gif "Imagem 3") ![alt text](https://raw.githubusercontent.com/hansenhahn/mmbn-2/master/Screenshots/GIF/4.gif "Imagem 4")
+
 # Patch
 
 Segue abaixo o patch da tradução, para download. Está em formato Xdelta 3, e vocês podem aplicá-los através de programas como [url=https://www.romhacking.net/utilities/598/]Xdelta UI[/url] ou similares. O patch deve ser aplicado na rom [b]Mega Man Battle Network 2 (USA).gba[/b], com header, de crc [b]6d961f82[/b] / md5sum [b]39f8a42133df444eeb7bf0b2194d6286[/b].

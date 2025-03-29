@@ -75,6 +75,7 @@ Assim sendo, após todo esse trabalho, e praticamente 5 anos depois, finalizamos
 [li]Ao Solid, DiegoHH e denim, por todo o auxílio na parte técnica do jogo;[/li]
 [li]Ao Anime_World, pela dica da ferramenta TextPet;[/li]
 [li]Ao Prof.9, por ter criado a ferramenta TextPet.[/li]
+[li]Ao Immaryx, Immegax e Hikare Netto, pela assistência em prol de um futuro port da tradução para a coletânea.[/li]
 [/list]
 
 —————————————————–

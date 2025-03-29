@@ -1,0 +1,1 @@
+- Futuramente, tentar inserir o gráfico do "NAL" que aparece quando conectamos na rede, dentro do avião.
