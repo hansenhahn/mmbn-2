@@ -44,6 +44,7 @@ Assim sendo, após todo esse trabalho, e praticamente 5 anos depois, finalizamos
 - **Solid One**: Romhacking, gráficos, revisão e teste;
 - **DiegoHH**: Romhacking;
 - **denim**: Romhacking;
+- **Kosmus**: Gráficos;
 - **Anime_World**: Colaboração.
 
 # Status da Tradução
@@ -63,6 +64,6 @@ Revisão: 100%
 
 # Patch
 
-Segue abaixo o patch da tradução, para download. Está em formato Xdelta 3, e vocês podem aplicá-los através de programas como [url=https://www.romhacking.net/utilities/598/]Xdelta UI[/url] ou similares. O patch deve ser aplicado na rom [b]Mega Man Battle Network 2 (USA).gba[/b], com header, de crc [b]6d961f82[/b] / md5sum [b]39f8a42133df444eeb7bf0b2194d6286[/b].
+Segue abaixo o patch da tradução, para download. Está em formatos IPS e Xdelta, e vocês podem aplicá-los através de programas como [Floating IPS](https://www.romhacking.net/utilities/1040/), [Xdelta UI](https://www.romhacking.net/utilities/598/) ou similares. O patch deve ser aplicado na rom [b]Mega Man Battle Network 2 (USA).gba[/b], com header, de crc [b]6d961f82[/b] / md5sum [b]39f8a42133df444eeb7bf0b2194d6286[/b].
 
-[*Download*](https://github.com/hansenhahn/mmbn-2/releases/tag/v1.0)
+[*Download*](https://github.com/hansenhahn/mmbn-2/releases)

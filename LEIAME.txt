@@ -14,7 +14,7 @@ Jogadores: 1
 Notas do Patch
 ------------------
 
-O patch está em formato Xdelta 3, e você pode aplicá-lo através de programas como Xdelta UI ou similares. A rom utilizada como base foi a americana, de crc32 6d961f82 e md5sum 39f8a42133df444eeb7bf0b2194d6286.
+O patch está em formatos IPS e Xdelta, e você pode aplicá-lo através de programas como Floating IPS, Xdelta UI ou similares. A rom utilizada como base foi a americana, de crc32 6d961f82 e md5sum 39f8a42133df444eeb7bf0b2194d6286.
 
 ------------------
 Enredo
@@ -42,6 +42,13 @@ Assim sendo, após todo esse trabalho, e praticamente 5 anos depois, finalizamos
 Atualizações da Tradução
 ------------------
 
+Versão 1.2: 01/06/2025
+ Terceiro lançamento.
+ - Editado gráfico pendente "NAL", ao acessar a rede dos aviões do aeroporto.
+ - Editado gráfico pendente "Trap", acionado ao usar Anti-Chips.
+ - Trocadas ocorrências de "RegUp" para "Padrão+", por ser o novo termo usado nas traduções seguintes.
+ - Atualizado ano do copyright da tela-título para 2025.
+ - Disponibilizado patch tanto em formatos xdelta como IPS.
 Versão 1.1: 29/03/2025
  Segundo lançamento.
  - Diversas correções textuais de revisão, após eu ter zerado o jogo nela mês passado.
@@ -54,7 +61,7 @@ Status da Tradução
 
 Textos: 100%
 Acentos: 100%
-Gráficos: 95%
+Gráficos: 100%
 Revisão: 100%
 
 ------------------
@@ -71,7 +78,7 @@ Agradecimentos
 ------------------
 
 - Capcom, por ter lançado o jogo;
-- Ao Solid, DiegoHH e denim, por todo o auxílio na parte técnica do jogo;
+- Ao Solid, DiegoHH, denim e Kosmus, por todo o auxílio na parte técnica do jogo;
 - Ao Anime_World, pela dica da ferramenta TextPet;
 - Ao Prof.9, por ter criado a ferramenta TextPet.
 - Ao Immaryx, Immegax e Hikare Netto, pela assistência em prol de um futuro port da tradução para a coletânea.
