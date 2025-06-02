@@ -136,6 +136,18 @@ StartBattleXOams:
 .org 0x086CD200
 .incbin "Graficos/Editados/0x6CD200 - OK slash ADD.gba"
 
+.org 0x083157FC
+.incbin "Graficos/Editados/0x3157FC - Trap1.gba"
+
+.org 0x08315A20
+.incbin "Graficos/Editados/0x315A20 - Trap2.gba"
+
+.org 0x08315D24
+.incbin "Graficos/Editados/0x315D24 - Trap3.gba"
+
+.org 0x08315FA8
+.incbin "Graficos/Editados/0x315FA8 - Trap4.gba"
+
 ;.org 0x086CDF20
 ;.incbin "Graficos/Editados/0x6CDF20 - Fontes nomes batalhas.gba"
 

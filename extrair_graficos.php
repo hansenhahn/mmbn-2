@@ -1,9 +1,9 @@
 <?php
 $graficos = [
-    (object)['nome' => 'Trap pequeno', 'offset' => '0x3157FC', 'tiles' => '1x4'],
-    (object)['nome' => 'Trap grande', 'offset' => '0x315A20', 'tiles' => '2x4'],
-    (object)['nome' => 'Trap grande', 'offset' => '0x315D24', 'tiles' => '2x4'],
-    (object)['nome' => 'Trap grande', 'offset' => '0x315FA8', 'tiles' => '2x4'],
+    (object)['nome' => 'Trap1', 'offset' => '0x3157FC', 'tiles' => '1x4'],
+    (object)['nome' => 'Trap2', 'offset' => '0x315A20', 'tiles' => '2x4'],
+    (object)['nome' => 'Trap3', 'offset' => '0x315D24', 'tiles' => '2x4'],
+    (object)['nome' => 'Trap4', 'offset' => '0x315FA8', 'tiles' => '2x4'],
     (object)['nome' => 'Fonte menus', 'offset' => '0x69E650', 'tiles' => '9x32'],
     (object)['nome' => 'New', 'offset' => '0x6A1150', 'tiles' => '2x8'],
     (object)['nome' => 'Fonte nomes batalhas', 'offset' => '0x6BFAA8', 'tiles' => '6x16'],
@@ -53,5 +53,5 @@ foreach($graficos as $g){
     $tiles = explode('x', $g->tiles);
     $tamanho = $tiles[0] * $tiles[1] * 32;
 
-    shell_exec("dd if='Mega Man Battle Network 2 (USA).gba' of='$caminho' skip=$offset_decimal count=$tamanho bs=1");
+    shell_exec("dd if=\"Mega Man Battle Network 2 (USA).gba\" of=\"$caminho\" skip=$offset_decimal count=$tamanho bs=1");
 }

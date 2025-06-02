@@ -1,3 +1,2 @@
-- Editar gráfico "TRAP", ao acionar anti-chips durante as batalhas
 - Trocar ocorrências de "RegUp" para "Padrão+"
 - Atualizar ano de copyright da tela-título de 2023 para 2025 (talvez incluir os dois anos como um intervalo)
