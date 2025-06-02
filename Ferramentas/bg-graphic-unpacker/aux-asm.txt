@@ -1,0 +1,7 @@
+.db 0xa0, 0x70, 0x00, 0x00
+.dw 0x00000010
+.dw 0x00008c10
+.dw 0x00011810
+.incbin "../gfxEdit/data/img-01f678-tm.bin"
+.align
+

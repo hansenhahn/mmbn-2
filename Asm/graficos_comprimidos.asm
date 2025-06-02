@@ -91,6 +91,27 @@
 .org 0x0801f3fc
 .dw ptr16
 
+.org 0x0801F678
+.dw ptr17
+.org 0x0801F680
+.dw ptrtm17a
+.org 0x0801F684
+.dw ptr17
+.org 0x0801F68C
+.dw ptrtm17b
+.org 0x0801F690
+.dw ptr17
+.org 0x0801F698
+.dw ptrtm17c
+.org 0x0801F69C
+.dw ptr17
+.org 0x0801F6A4
+.dw ptrtm17d
+.org 0x0801F6A8
+.dw ptr17
+.org 0x0801F6B0
+.dw ptrtm17e
+
 .org 0x0801ef9c
 .dw gfx_onair
 		
@@ -198,6 +219,10 @@ ptr15:
 
 ptr16:
 .incbin "Graficos/Comprimidos/Recomprimidos/img-01f3fc-td.bin"
+.align
+
+ptr17:
+.incbin "Graficos/Comprimidos/Recomprimidos/img-01f678-td.bin"
 .align
 
 ptrtm1:
@@ -318,6 +343,46 @@ ptrtm15:
 .dw 0x00005810
 .dw 0x0000b010
 .incbin "Mapas de Tiles/img-01f720-tm.bin"
+.align
+
+ptrtm17a:
+.db 0xa0, 0x70, 0x00, 0x00
+.dw 0x00000010
+.dw 0x00008c10
+.dw 0x00011810
+.incbin "Mapas de Tiles/img-01f678-tm-a.bin"
+.align
+
+ptrtm17b:
+.db 0xa8, 0x6e, 0x00, 0x00
+.dw 0x00000010
+.dw 0x00009070
+.dw 0x000120d0
+.incbin "Mapas de Tiles/img-01f678-tm-b.bin"
+.align
+
+ptrtm17c:
+.db 0xa8, 0x76, 0x00, 0x00
+.dw 0x00000010
+.dw 0x00009af0
+.dw 0x000135d0
+.incbin "Mapas de Tiles/img-01f678-tm-c.bin"
+.align
+
+ptrtm17d:
+.db 0xa8, 0x76, 0x00, 0x00
+.dw 0x00000010
+.dw 0x00009af0
+.dw 0x000135d0
+.incbin "Mapas de Tiles/img-01f678-tm-d.bin"
+.align
+
+ptrtm17e:
+.db 0xa0, 0x70, 0x00, 0x00
+.dw 0x00000010
+.dw 0x00008c10
+.dw 0x00011810
+.incbin "Mapas de Tiles/img-01f678-tm-e.bin"
 .align
 
 gfx_onair:
