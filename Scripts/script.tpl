@@ -14636,15 +14636,15 @@ script 97 mmbn2s {
 	end
 }
 script 98 mmbn2s {
-	"RegUP1"
+	"Padrão+1"
 	end
 }
 script 99 mmbn2s {
-	"RegUP2"
+	"Padrão+2"
 	end
 }
 script 100 mmbn2s {
-	"RegUP3"
+	"Padrão+3"
 	end
 }
 script 101 mmbn2s {
@@ -105165,7 +105165,7 @@ script 31 mmbn2 {
 	"""
 	É possível aumentar essa
 	capacidade coletando
-	RegUPs.
+	itens "Padrão+".
 	"""
 	keyWait
 	clearMsg
