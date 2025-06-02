@@ -73,7 +73,7 @@ Assim sendo, após todo esse trabalho, e praticamente 5 anos depois, finalizamos
 Changelog
 —————————————————–
 
-[b]Versão 1.2[/b]: 29/03/2025
+[b]Versão 1.2[/b]: 01/06/2025
  Terceiro lançamento.
  - Editado gráfico pendente "NAL", ao acessar a rede dos aviões do aeroporto.
  - Editado gráfico pendente "Trap", acionado ao usar Anti-Chips.
@@ -100,7 +100,7 @@ Changelog
 [b]Imagens[/b]
 —————————————————–
 
-[img]https://i.ibb.co/Ht35jLm/Title.png[/img] [img]https://i.ibb.co/Z6V74Nx/01.png[/img] [img]https://i.ibb.co/JtVg614/02.png[/img] [img]https://i.ibb.co/jVx3kxw/03.png[/img][img]https://i.ibb.co/MCQcKJ0/04.png[/img] [img]https://i.ibb.co/9rQYs6J/15.png[/img] [img]https://i.ibb.co/09pW9jb/06.png[/img] [img]https://i.ibb.co/xSV77YL/07.png[/img][img]https://i.ibb.co/xJtbQLZ/08.png[/img] [img]https://i.ibb.co/4SGXPkk/09.png[/img] [img]https://i.ibb.co/mhyQHDj/10.png[/img] [img]https://i.ibb.co/Zz5tDXh/11.png[/img][img]https://i.ibb.co/VNt9kfv/12.png[/img] [img]https://i.ibb.co/7NSnTdt/13.png[/img] [img]https://i.ibb.co/FD7tmpB/14.png[/img] [img]https://i.ibb.co/zSmN8Fd/16.png[/img]
+[img]https://i.imgur.com/hOfyOBO.png[/img] [img]https://i.ibb.co/Z6V74Nx/01.png[/img] [img]https://i.ibb.co/JtVg614/02.png[/img] [img]https://i.ibb.co/jVx3kxw/03.png[/img][img]https://i.ibb.co/MCQcKJ0/04.png[/img] [img]https://i.ibb.co/9rQYs6J/15.png[/img] [img]https://i.ibb.co/09pW9jb/06.png[/img] [img]https://i.ibb.co/xSV77YL/07.png[/img][img]https://i.ibb.co/xJtbQLZ/08.png[/img] [img]https://i.ibb.co/4SGXPkk/09.png[/img] [img]https://i.ibb.co/mhyQHDj/10.png[/img] [img]https://i.ibb.co/Zz5tDXh/11.png[/img][img]https://i.ibb.co/VNt9kfv/12.png[/img] [img]https://i.ibb.co/7NSnTdt/13.png[/img] [img]https://i.ibb.co/FD7tmpB/14.png[/img] [img]https://i.ibb.co/zSmN8Fd/16.png[/img]
 
 —————————————————–
 [b][i]Patch[/i][/b]
